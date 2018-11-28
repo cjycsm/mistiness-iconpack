@@ -21,7 +21,7 @@
     then write Activity
     -->
     <string name="main_activity_name">MainActivity</string>
-    <string name="main_activity_fullname">person.cjy.iconpack.test.MainActivity</string>
+    <string name="main_activity_fullname">person.cjy.iconpack.mistiness.MainActivity</string>
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">

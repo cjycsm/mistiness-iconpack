@@ -13,22 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package person.cjy.iconpack.test
+package person.cjy.iconpack.mistiness
 
-import android.app.Application
+import jahirfiquitiva.libs.frames.data.services.FramesArtSource
 
-// TODO: Remove comment marks to enable
-// import com.onesignal.OneSignal
-
-class MyApplication : Application() {
-    override fun onCreate() {
-        super.onCreate()
-        // TODO: Remove comment marks to enable
-        /*
-        OneSignal.startInit(this)
-                .inFocusDisplaying(OneSignal.OSInFocusDisplayOption.Notification)
-                .unsubscribeWhenNotificationsAreDisabled(true)
-                .init()
-                */
-    }
-}
+// TODO: Use a unique name instead of MyBlueprintMuzeiService
+class MuzeiService : FramesArtSource("MyBlueprintMuzeiService")

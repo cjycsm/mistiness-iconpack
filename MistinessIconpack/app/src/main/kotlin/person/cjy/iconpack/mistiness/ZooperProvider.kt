@@ -13,15 +13,8 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package person.cjy.iconpack.test
+package person.cjy.iconpack.mistiness
 
-/* TODO: Remove comment marks to enable
-import com.onesignal.NotificationExtenderService
-import com.onesignal.OSNotificationReceivedResult
-import jahirfiquitiva.libs.blueprint.helpers.utils.BPKonfigs
+import jahirfiquitiva.libs.kuper.providers.zooper.ZooperTemplateProvider
 
-class NotificationService : NotificationExtenderService() {
-    override fun onNotificationProcessing(notification: OSNotificationReceivedResult?): Boolean =
-            !BPKonfigs(this).notificationsEnabled
-}
-*/
+class ZooperProvider : ZooperTemplateProvider()

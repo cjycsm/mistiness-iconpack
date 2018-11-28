@@ -52,7 +52,7 @@ android {
                                 onesignal_google_project_number: "1234567890"]
                                 */
 
-        applicationId "person.cjy.iconpack.test"
+        applicationId "person.cjy.iconpack.mistiness"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
         versionCode 2
@@ -99,7 +99,7 @@ dependencies {
 }
 
 tasks.whenTaskAdded { task ->
-    if (task.name.contains("lint") || task.name.contains("test")) {
+    if (task.name.contains("lint") || task.name.contains("mistiness")) {
         task.enabled = false
     }
 }

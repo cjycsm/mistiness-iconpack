@@ -13,10 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package person.cjy.iconpack.test
+package person.cjy.iconpack.mistiness
 
 import com.github.javiersantos.piracychecker.PiracyChecker
-import person.cjy.iconpack.test.BuildConfig
 import jahirfiquitiva.libs.blueprint.models.NavigationItem
 import jahirfiquitiva.libs.blueprint.ui.activities.BottomNavigationBlueprintActivity
 

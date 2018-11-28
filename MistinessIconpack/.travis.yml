@@ -22,7 +22,7 @@ before_install:
 jdk:
   - oraclejdk8
 
-script: ./gradlew clean test --stacktrace
+script: ./gradlew clean mistiness --stacktrace
 
 branches:
   except:

@@ -13,9 +13,15 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package person.cjy.iconpack.test
+package person.cjy.iconpack.mistiness
 
-import jahirfiquitiva.libs.frames.data.services.FramesArtSource
+/* TODO: Remove comment marks to enable
+import com.onesignal.NotificationExtenderService
+import com.onesignal.OSNotificationReceivedResult
+import jahirfiquitiva.libs.blueprint.helpers.utils.BPKonfigs
 
-// TODO: Use a unique name instead of MyBlueprintMuzeiService
-class MuzeiService : FramesArtSource("MyBlueprintMuzeiService")
+class NotificationService : NotificationExtenderService() {
+    override fun onNotificationProcessing(notification: OSNotificationReceivedResult?): Boolean =
+            !BPKonfigs(this).notificationsEnabled
+}
+*/

@@ -16,10 +16,10 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:tools="http://schemas.android.com/tools"
-          package="person.cjy.iconpack.test">
+          package="person.cjy.iconpack.mistiness">
 
     <application
-        android:name="person.cjy.iconpack.test.MyApplication"
+        android:name="person.cjy.iconpack.mistiness.MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -68,7 +68,7 @@
         -->
 
         <activity
-            android:name="person.cjy.iconpack.test.MainActivity"
+            android:name="person.cjy.iconpack.mistiness.MainActivity"
             android:windowSoftInputMode="stateHidden|adjustResize|adjustPan">
 
             <!-- TODO: Remove comment marks to enable Zooper
@@ -273,7 +273,7 @@
 
         <!-- Muzei Service -->
         <service
-            android:name="person.cjy.iconpack.test.MuzeiService"
+            android:name="person.cjy.iconpack.mistiness.MuzeiService"
             android:label="@string/app_name"
             android:description="@string/app_description"
             android:icon="@drawable/ic_muzei_icon"
