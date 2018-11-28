@@ -67,5 +67,80 @@
     <item
         component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}"
         drawable="psexpress" />
+    <item
+        component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
+        drawable="googlephotos"/>
+
+    <item
+        component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}"
+        drawable="kuake"/>
+
+    <item
+        component="ComponentInfo{com.tencent.mtt/com.tencent.mtt.SplashActivity}"
+        drawable="qqliulanqi"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqpim/comm.tencent.qqpim.ui.QQPimAndroid}"
+        drawable="qqtongbuzhushou"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStartActivity}"
+        drawable="qqyinyue"/>
+
+    <item
+        component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
+        drawable="snapseed"/>
+
+    <item
+        component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}"
+        drawable="taobao"/>
+
+    <item
+        component="ComponentInfo{com.qb.qtranslate/com.qb.qtranslate.qactivity.SplashActivity}"
+        drawable="tengxunfanyijun"/>
+
+    <item
+        component="ComponentInfo{com.tencent.docs/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="tengxunwendang"/>
+
+    <item
+        component="ComponentInfo{com.tencent.wifimanager/com.tencent.wifimanager.MainActivity}"
+        drawable="tengxunwifiguanjia"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqpimsecure/com.tencent.server.fore.QuickLoadActivity}"
+        drawable="tengxunanquanguanjia"/>
+
+    <item
+        component="ComponentInfo{com.tencent.ipai/com.tencent.mtt.SplashActivity}"
+        drawable="tengxunshiguang"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.one.activity.WelcomeActivity}"
+        drawable="tengxunshipin"/>
+
+    <item
+        component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}"
+        drawable="via"/>
+
+    <item
+        component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
+        drawable="wangyiyunyinyue"/>
+
+    <item
+        component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}"
+        drawable="weibo"/>
+
+    <item
+        component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}"
+        drawable="weixindushu"/>
+
+    <item
+        component="ComponentInfo{cn.wps.moffice_eng/cn.wps.documentmanager.PreStartActivity}"
+        drawable="wps"/>
+
+    <item
+        component="ComponentInfo{tv.xiandao.xdtv/tv.xiandao.xdtv.presentation.module.splash.SplashActivity}"
+        drawable="maobing"/>
 
 </resources>

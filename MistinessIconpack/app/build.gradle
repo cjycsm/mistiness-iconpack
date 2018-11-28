@@ -34,7 +34,7 @@ android {
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "MyBlueprintApp-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "MistinessIconpack-v${variant.versionName}.apk"
         }
     }
 
@@ -55,8 +55,8 @@ android {
         applicationId "person.cjy.iconpack.mistiness"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 2
-        versionName "0.0.2"
+        versionCode 3
+        versionName "0.0.3-alpha"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

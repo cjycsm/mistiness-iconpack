@@ -19,18 +19,25 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>baiduwangpan</item>
-        <item>bilibili</item>
-        <item>bilibligainian</item>
-        <item>heiyu</item>
-        <item>ithome</item>
-        <item>jike</item>
-        <item>kuan</item>
-        <item>psexpress</item>
-        <item>qq</item>
-        <item>weixin</item>
-        <item>yigemuhan</item>
-        <item>zhifubao</item>
+        <item>googlephotos</item>
+        <item>kuake</item>
+        <item>qqliulanqi</item>
+        <item>qqtongbuzhushou</item>
+        <item>qqyinyue</item>
+        <item>snapseed</item>
+        <item>taobao</item>
+        <item>tengxunfanyijun</item>
+        <item>tengxunwendang</item>
+        <item>tengxunwifiguanjia</item>
+        <item>tengxunanquanguanjia</item>
+        <item>tengxunshiguang</item>
+        <item>tengxunshipin</item>
+        <item>via</item>
+        <item>wangyiyunyinyue</item>
+        <item>weibo</item>
+        <item>weixindushu</item>
+        <item>wps</item>
+        <item>maobing</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -40,6 +47,9 @@
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
         <item>all</item>
+        <item>newest</item>
+        <item>application</item>
+        <item>game</item>
     </string-array>
 
     <string-array name="all">
@@ -55,6 +65,84 @@
         <item>weixin</item>
         <item>yigemuhan</item>
         <item>zhifubao</item>
+        <item>googlephotos</item>
+        <item>kuake</item>
+        <item>qqliulanqi</item>
+        <item>qqtongbuzhushou</item>
+        <item>qqyinyue</item>
+        <item>snapseed</item>
+        <item>taobao</item>
+        <item>tengxunfanyijun</item>
+        <item>tengxunwendang</item>
+        <item>tengxunwifiguanjia</item>
+        <item>tengxunanquanguanjia</item>
+        <item>tengxunshiguang</item>
+        <item>tengxunshipin</item>
+        <item>via</item>
+        <item>wangyiyunyinyue</item>
+        <item>weibo</item>
+        <item>weixindushu</item>
+        <item>wps</item>
+        <item>maobing</item>
+    </string-array>
+
+    <string-array name="newest">
+        <item>googlephotos</item>
+        <item>kuake</item>
+        <item>qqliulanqi</item>
+        <item>qqtongbuzhushou</item>
+        <item>qqyinyue</item>
+        <item>snapseed</item>
+        <item>taobao</item>
+        <item>tengxunfanyijun</item>
+        <item>tengxunwendang</item>
+        <item>tengxunwifiguanjia</item>
+        <item>tengxunanquanguanjia</item>
+        <item>tengxunshiguang</item>
+        <item>tengxunshipin</item>
+        <item>via</item>
+        <item>wangyiyunyinyue</item>
+        <item>weibo</item>
+        <item>weixindushu</item>
+        <item>wps</item>
+        <item>maobing</item>
+    </string-array>
+
+    <string-array name="application">
+        <item>baiduwangpan</item>
+        <item>bilibili</item>
+        <item>bilibligainian</item>
+        <item>heiyu</item>
+        <item>ithome</item>
+        <item>jike</item>
+        <item>kuan</item>
+        <item>psexpress</item>
+        <item>qq</item>
+        <item>weixin</item>
+        <item>yigemuhan</item>
+        <item>zhifubao</item>
+        <item>googlephotos</item>
+        <item>kuake</item>
+        <item>qqliulanqi</item>
+        <item>qqtongbuzhushou</item>
+        <item>qqyinyue</item>
+        <item>snapseed</item>
+        <item>taobao</item>
+        <item>tengxunfanyijun</item>
+        <item>tengxunwendang</item>
+        <item>tengxunwifiguanjia</item>
+        <item>tengxunanquanguanjia</item>
+        <item>tengxunshiguang</item>
+        <item>tengxunshipin</item>
+        <item>via</item>
+        <item>wangyiyunyinyue</item>
+        <item>weibo</item>
+        <item>weixindushu</item>
+        <item>wps</item>
+        <item>maobing</item>
+    </string-array>
+
+    <string-array name="game">
     </string-array>
 
 </resources>
