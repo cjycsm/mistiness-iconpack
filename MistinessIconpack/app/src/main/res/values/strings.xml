@@ -23,7 +23,7 @@
 
     <!--    TODO: Change this link -->
     <!--    This is the link for the JSON file where you have listed your wallpapers -->
-    <string name="json_url">""</string>
+    <string name="json_url">"https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/wallpaper_list.json"</string>
 
     <!--    Default wallpapers download folder. Always write it like '%1$s/xxxxxxx' -->
     <string name="default_download_folder">%1$s/MitinessIconpack/Wallpapers</string>

@@ -21,7 +21,7 @@
     -       True means yes
     -       False means no
     -->
-    <bool name="use_old_json_format">true</bool>
+    <bool name="use_old_json_format">false</bool>
 
     <!-- Do you want notifications to be enabled for all your users?
     -       True means yes
