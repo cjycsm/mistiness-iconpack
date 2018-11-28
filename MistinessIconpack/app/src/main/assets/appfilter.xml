@@ -148,4 +148,64 @@
         component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
         drawable="zhihu"/>
 
+    <item
+        component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
+        drawable="altoadventure"/>
+
+    <item
+        component="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}"
+        drawable="odyssey"/>
+
+    <item
+        component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"
+        drawable="admpro"/>
+
+    <item
+        component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}"
+        drawable="googleplay"/>
+
+    <item
+        component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}"
+        drawable="lastpass"/>
+
+    <item
+        component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}"
+        drawable="nova"/>
+
+    <item
+        component="ComponentInfo{com.qinlin.ocamera/com.qinlin.ocamera.ui.LaunchActivity}"
+        drawable="ocamera"/>
+
+    <item
+        component="ComponentInfo{com.xyhui/com.lee.start.LoadingActivity}"
+        drawable="pu"/>
+
+    <item
+        component="ComponentInfo{com.tencent.token/com.tencent.token.ui.LogoActivity}"
+        drawable="qqanquanzhongxin"/>
+
+    <item
+        component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}"
+        drawable="speedtest"/>
+
+    <item
+        component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}"
+        drawable="ssr"/>
+
+    <item
+        component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}"
+        drawable="ssr"/>
+
+    <item
+        component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}"
+        drawable="taptap"/>
+
+    <item
+        component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}"
+        drawable="xianyu"/>
+
+    <item
+        component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube"/>
+
 </resources>

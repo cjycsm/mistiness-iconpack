@@ -19,25 +19,20 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>googlephotos</item>
-        <item>kuake</item>
-        <item>qqliulanqi</item>
-        <item>qqtongbuzhushou</item>
-        <item>qqyinyue</item>
-        <item>snapseed</item>
-        <item>taobao</item>
-        <item>tengxunfanyijun</item>
-        <item>tengxunwendang</item>
-        <item>tengxunwifiguanjia</item>
-        <item>tengxunanquanguanjia</item>
-        <item>tengxunshiguang</item>
-        <item>tengxunshipin</item>
-        <item>via</item>
-        <item>wangyiyunyinyue</item>
-        <item>weibo</item>
-        <item>weixindushu</item>
-        <item>wps</item>
-        <item>maobing</item>
+        <item>admpro</item>
+        <item>googleplay</item>
+        <item>lastpass</item>
+        <item>nova</item>
+        <item>ocamera</item>
+        <item>pu</item>
+        <item>qqanquanzhongxin</item>
+        <item>speedtest</item>
+        <item>ssr</item>
+        <item>taptap</item>
+        <item>xianyu</item>
+        <item>youtube</item>
+        <item>altoadventure</item>
+        <item>odyssey</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -85,28 +80,37 @@
         <item>weixindushu</item>
         <item>wps</item>
         <item>maobing</item>
+        <item>admpro</item>
+        <item>googleplay</item>
+        <item>lastpass</item>
+        <item>nova</item>
+        <item>ocamera</item>
+        <item>pu</item>
+        <item>qqanquanzhongxin</item>
+        <item>speedtest</item>
+        <item>ssr</item>
+        <item>taptap</item>
+        <item>xianyu</item>
+        <item>youtube</item>
+        <item>altoadventure</item>
+        <item>odyssey</item>
     </string-array>
 
     <string-array name="newest">
-        <item>googlephotos</item>
-        <item>kuake</item>
-        <item>qqliulanqi</item>
-        <item>qqtongbuzhushou</item>
-        <item>qqyinyue</item>
-        <item>snapseed</item>
-        <item>taobao</item>
-        <item>tengxunfanyijun</item>
-        <item>tengxunwendang</item>
-        <item>tengxunwifiguanjia</item>
-        <item>tengxunanquanguanjia</item>
-        <item>tengxunshiguang</item>
-        <item>tengxunshipin</item>
-        <item>via</item>
-        <item>wangyiyunyinyue</item>
-        <item>weibo</item>
-        <item>weixindushu</item>
-        <item>wps</item>
-        <item>maobing</item>
+        <item>admpro</item>
+        <item>googleplay</item>
+        <item>lastpass</item>
+        <item>nova</item>
+        <item>ocamera</item>
+        <item>pu</item>
+        <item>qqanquanzhongxin</item>
+        <item>speedtest</item>
+        <item>ssr</item>
+        <item>taptap</item>
+        <item>xianyu</item>
+        <item>youtube</item>
+        <item>altoadventure</item>
+        <item>odyssey</item>
     </string-array>
 
     <string-array name="application">
@@ -142,9 +146,23 @@
         <item>weixindushu</item>
         <item>wps</item>
         <item>maobing</item>
+        <item>admpro</item>
+        <item>googleplay</item>
+        <item>lastpass</item>
+        <item>nova</item>
+        <item>ocamera</item>
+        <item>pu</item>
+        <item>qqanquanzhongxin</item>
+        <item>speedtest</item>
+        <item>ssr</item>
+        <item>taptap</item>
+        <item>xianyu</item>
+        <item>youtube</item>
     </string-array>
 
     <string-array name="game">
+        <item>altoadventure</item>
+        <item>odyssey</item>
     </string-array>
 
 </resources>
