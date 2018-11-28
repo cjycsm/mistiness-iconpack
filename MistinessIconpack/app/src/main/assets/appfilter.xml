@@ -45,7 +45,7 @@
         drawable="jike" />
 
     <item
-        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LaunchUI}"
+        component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
         drawable="weixin" />
 
     <item
@@ -67,6 +67,7 @@
     <item
         component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}"
         drawable="psexpress" />
+
     <item
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
         drawable="googlephotos"/>
@@ -80,11 +81,11 @@
         drawable="qqliulanqi"/>
 
     <item
-        component="ComponentInfo{com.tencent.qqpim/comm.tencent.qqpim.ui.QQPimAndroid}"
+        component="ComponentInfo{com.tencent.qqpim/com.tencent.qqpim.ui.QQPimAndroid}"
         drawable="qqtongbuzhushou"/>
 
     <item
-        component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStartActivity}"
+        component="ComponentInfo{com.tencent.qqmusic/com.tencent.qqmusic.activity.AppStarterActivity}"
         drawable="qqyinyue"/>
 
     <item
@@ -96,7 +97,7 @@
         drawable="taobao"/>
 
     <item
-        component="ComponentInfo{com.qb.qtranslate/com.qb.qtranslate.qactivity.SplashActivity}"
+        component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}"
         drawable="tengxunfanyijun"/>
 
     <item
@@ -116,7 +117,7 @@
         drawable="tengxunshiguang"/>
 
     <item
-        component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.one.activity.WelcomeActivity}"
+        component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.WelcomeActivity}"
         drawable="tengxunshipin"/>
 
     <item
@@ -136,11 +137,15 @@
         drawable="weixindushu"/>
 
     <item
-        component="ComponentInfo{cn.wps.moffice_eng/cn.wps.documentmanager.PreStartActivity}"
+        component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}"
         drawable="wps"/>
 
     <item
-        component="ComponentInfo{tv.xiandao.xdtv/tv.xiandao.xdtv.presentation.module.splash.SplashActivity}"
+        component="ComponentInfo{tv.xiaodao.xdtv/tv.xiaodao.xdtv.presentation.module.splash.SplashActivity}"
         drawable="maobing"/>
+
+    <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
+        drawable="zhihu"/>
 
 </resources>
