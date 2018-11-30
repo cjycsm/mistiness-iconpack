@@ -19,20 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>admpro</item>
-        <item>googleplay</item>
-        <item>lastpass</item>
-        <item>nova</item>
-        <item>ocamera</item>
-        <item>pu</item>
-        <item>qqanquanzhongxin</item>
-        <item>speedtest</item>
-        <item>ssr</item>
-        <item>taptap</item>
-        <item>xianyu</item>
-        <item>youtube</item>
-        <item>altoadventure</item>
-        <item>odyssey</item>
+        <item>aiyinyue</item>
+        <item>baicizhan</item>
+        <item>bianyuanrenwu</item>
+        <item>biaoqingbaoshenchengqi</item>
+        <item>chaojijisuanqi</item>
+        <item>chentongwangpan</item>
+        <item>duokaifenshen</item>
+        <item>gugefanyi</item>
+        <item>anjianjingling</item>
+        <item>dianhua</item>
+        <item>shezhi</item>
+        <item>bianqian</item>
+        <item>ditu</item>
+        <item>gongjuxiang</item>
+        <item>shoujiguanjia</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -43,8 +44,10 @@
     <string-array name="icon_filters">
         <item>all</item>
         <item>newest</item>
+        <item>update</item>
         <item>application</item>
         <item>game</item>
+        <item>meizu</item>
     </string-array>
 
     <string-array name="all">
@@ -94,23 +97,43 @@
         <item>youtube</item>
         <item>altoadventure</item>
         <item>odyssey</item>
+        <item>aiyinyue</item>
+        <item>baicizhan</item>
+        <item>bianyuanrenwu</item>
+        <item>biaoqingbaoshenchengqi</item>
+        <item>chaojijisuanqi</item>
+        <item>chentongwangpan</item>
+        <item>duokaifenshen</item>
+        <item>gugefanyi</item>
+        <item>anjianjingling</item>
+        <item>dianhua</item>
+        <item>shezhi</item>
+        <item>bianqian</item>
+        <item>ditu</item>
+        <item>gongjuxiang</item>
+        <item>shoujiguanjia</item>
     </string-array>
 
     <string-array name="newest">
-        <item>admpro</item>
-        <item>googleplay</item>
-        <item>lastpass</item>
-        <item>nova</item>
-        <item>ocamera</item>
-        <item>pu</item>
-        <item>qqanquanzhongxin</item>
-        <item>speedtest</item>
-        <item>ssr</item>
-        <item>taptap</item>
-        <item>xianyu</item>
-        <item>youtube</item>
-        <item>altoadventure</item>
-        <item>odyssey</item>
+        <item>aiyinyue</item>
+        <item>baicizhan</item>
+        <item>bianyuanrenwu</item>
+        <item>biaoqingbaoshenchengqi</item>
+        <item>chaojijisuanqi</item>
+        <item>chentongwangpan</item>
+        <item>duokaifenshen</item>
+        <item>gugefanyi</item>
+        <item>anjianjingling</item>
+        <item>dianhua</item>
+        <item>shezhi</item>
+        <item>bianqian</item>
+        <item>ditu</item>
+        <item>gongjuxiang</item>
+        <item>shoujiguanjia</item>
+    </string-array>
+
+    <string-array name="update">
+        <item>snapseed</item>
     </string-array>
 
     <string-array name="application">
@@ -158,11 +181,29 @@
         <item>taptap</item>
         <item>xianyu</item>
         <item>youtube</item>
+        <item>aiyinyue</item>
+        <item>baicizhan</item>
+        <item>bianyuanrenwu</item>
+        <item>biaoqingbaoshenchengqi</item>
+        <item>chaojijisuanqi</item>
+        <item>chentongwangpan</item>
+        <item>duokaifenshen</item>
+        <item>gugefanyi</item>
+        <item>anjianjingling</item>
     </string-array>
 
     <string-array name="game">
         <item>altoadventure</item>
         <item>odyssey</item>
+    </string-array>
+
+    <string-array name="meizu">
+        <item>dianhua</item>
+        <item>shezhi</item>
+        <item>bianqian</item>
+        <item>ditu</item>
+        <item>gongjuxiang</item>
+        <item>shoujiguanjia</item>
     </string-array>
 
 </resources>

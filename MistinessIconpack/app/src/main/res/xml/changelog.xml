@@ -15,7 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v0.0.4-alpha" />
-    <item text="新增应用图标10个" />
-    <item text="新增游戏图标2个" />
+    <version title="v0.0.5-alpha" />
+    <item text="新增15枚图标" />
+    <item text="更新1枚图标" />
+    <item text="补充适配1个应用"/>
 </resources>

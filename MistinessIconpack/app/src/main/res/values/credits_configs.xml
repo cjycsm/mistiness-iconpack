@@ -16,27 +16,27 @@
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/author1.png</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/author2.png</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>痕继痕迹</item>
+        <item>cjycsm</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>我是负责画图标的</item>
+        <item>我是负责打包的</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>酷安主页</item>
+        <item>酷安主页|github</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahirfiquitiva.com/|https://twitter.com/jahirfiquitiva</item>
+        <item>http://www.coolapk.com/u/786005</item>
+        <item>http://www.coolapk.com/u/486977|https://github.com/cjycsm/mistiness-iconpack</item>
     </string-array>
 </resources>

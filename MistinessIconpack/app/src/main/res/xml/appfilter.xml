@@ -69,6 +69,10 @@
         drawable="psexpress" />
 
     <item
+        component="ComponentInfo{air.com.adobe.pstouch/air.com.adobe.pstouch.AppEntry}"
+        drawable="psexpress" />
+
+    <item
         component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}"
         drawable="googlephotos"/>
 
@@ -207,5 +211,65 @@
     <item
         component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
         drawable="youtube"/>
+
+    <item
+        component="ComponentInfo{com.gwsoft.imusic.controller/com.gwsoft.imusic.controller.LoadingActivity}"
+        drawable="aiyinyue"/>
+
+    <item
+        component="ComponentInfo{com.jiongji.andriod.card/com.baicizhan.main.activity.LoadingPageActivity}"
+        drawable="baicizhan"/>
+
+    <item
+        component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}"
+        drawable="bianqian"/>
+
+    <item
+        component="ComponentInfo{com.gesture.s/com.gesture.s.OpenActivity}"
+        drawable="bianyuanrenwu"/>
+
+    <item
+        component="ComponentInfo{com.android.emoticoncreater/com.android.emoticoncreater.ui.activity.MainActivity}"
+        drawable="biaoqingbaoshenchengqi"/>
+
+    <item
+        component="ComponentInfo{com.youdao.calculator/com.youdao.calculator.activities.MainActivity}"
+        drawable="chaojijisuanqi"/>
+
+    <item
+        component="ComponentInfo{com.ctfile/com.ctfile.MainActivity}"
+        drawable="chentongwangpan"/>
+
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
+        drawable="dianhua"/>
+
+    <item
+        component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}"
+        drawable="ditu"/>
+
+    <item
+        component="ComponentInfo{com.bly.dkplat/com.bly.dkplat.widget.splash.Splash}"
+        drawable="duokaifenshen"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}"
+        drawable="gongjuxiang"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}"
+        drawable="gugefanyi"/>
+
+    <item
+        component="ComponentInfo{com.cyjh.mobileanjian/com.cyjh.mobileanjian.activity.GuiActivity}"
+        drawable="anjianjingling"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="shezhi"/>
+
+    <item
+        component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}"
+        drawable="shoujiguanjia"/>
 
 </resources>
