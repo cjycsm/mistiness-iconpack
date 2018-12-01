@@ -19,21 +19,22 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>aiyinyue</item>
-        <item>baicizhan</item>
-        <item>bianyuanrenwu</item>
-        <item>biaoqingbaoshenchengqi</item>
-        <item>chaojijisuanqi</item>
-        <item>chentongwangpan</item>
-        <item>duokaifenshen</item>
-        <item>gugefanyi</item>
-        <item>anjianjingling</item>
-        <item>dianhua</item>
-        <item>shezhi</item>
-        <item>bianqian</item>
-        <item>ditu</item>
-        <item>gongjuxiang</item>
-        <item>shoujiguanjia</item>
+        <item>zhongguoliantong</item>
+        <item>quqiyunpan</item>
+        <item>lexiu</item>
+        <item>lanzouyun</item>
+        <item>midongxiaoyuan</item>
+        <item>qiyirensheng</item>
+        <item>ruguomingtianshiqintian</item>
+        <item>ruguomingtianshiqintian_alt</item>
+        <item>huanjizhushou</item>
+        <item>zhutimeihua</item>
+        <item>saoyisaocitie</item>
+        <item>luyinji</item>
+        <item>jibuqi</item>
+        <item>jisuanqi</item>
+        <item>tianqi</item>
+        <item>shizhong</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -44,7 +45,7 @@
     <string-array name="icon_filters">
         <item>all</item>
         <item>newest</item>
-        <item>update</item>
+        <item>upgrade</item>
         <item>application</item>
         <item>game</item>
         <item>meizu</item>
@@ -112,28 +113,44 @@
         <item>ditu</item>
         <item>gongjuxiang</item>
         <item>shoujiguanjia</item>
+        <item>zhongguoliantong</item>
+        <item>quqiyunpan</item>
+        <item>lexiu</item>
+        <item>lanzouyun</item>
+        <item>midongxiaoyuan</item>
+        <item>qiyirensheng</item>
+        <item>ruguomingtianshiqintian</item>
+        <item>ruguomingtianshiqintian_alt</item>
+        <item>huanjizhushou</item>
+        <item>zhutimeihua</item>
+        <item>saoyisaocitie</item>
+        <item>luyinji</item>
+        <item>jibuqi</item>
+        <item>jisuanqi</item>
+        <item>tianqi</item>
+        <item>shizhong</item>
     </string-array>
 
     <string-array name="newest">
-        <item>aiyinyue</item>
-        <item>baicizhan</item>
-        <item>bianyuanrenwu</item>
-        <item>biaoqingbaoshenchengqi</item>
-        <item>chaojijisuanqi</item>
-        <item>chentongwangpan</item>
-        <item>duokaifenshen</item>
-        <item>gugefanyi</item>
-        <item>anjianjingling</item>
-        <item>dianhua</item>
-        <item>shezhi</item>
-        <item>bianqian</item>
-        <item>ditu</item>
-        <item>gongjuxiang</item>
-        <item>shoujiguanjia</item>
+        <item>zhongguoliantong</item>
+        <item>quqiyunpan</item>
+        <item>lexiu</item>
+        <item>lanzouyun</item>
+        <item>midongxiaoyuan</item>
+        <item>qiyirensheng</item>
+        <item>ruguomingtianshiqintian</item>
+        <item>ruguomingtianshiqintian_alt</item>
+        <item>huanjizhushou</item>
+        <item>zhutimeihua</item>
+        <item>saoyisaocitie</item>
+        <item>luyinji</item>
+        <item>jibuqi</item>
+        <item>jisuanqi</item>
+        <item>tianqi</item>
+        <item>shizhong</item>
     </string-array>
 
-    <string-array name="update">
-        <item>snapseed</item>
+    <string-array name="upgrade">
     </string-array>
 
     <string-array name="application">
@@ -190,11 +207,19 @@
         <item>duokaifenshen</item>
         <item>gugefanyi</item>
         <item>anjianjingling</item>
+        <item>zhongguoliantong</item>
+        <item>quqiyunpan</item>
+        <item>lexiu</item>
+        <item>lanzouyun</item>
+        <item>midongxiaoyuan</item>
     </string-array>
 
     <string-array name="game">
         <item>altoadventure</item>
         <item>odyssey</item>
+        <item>qiyirensheng</item>
+        <item>ruguomingtianshiqintian</item>
+        <item>ruguomingtianshiqintian_alt</item>
     </string-array>
 
     <string-array name="meizu">
@@ -204,6 +229,14 @@
         <item>ditu</item>
         <item>gongjuxiang</item>
         <item>shoujiguanjia</item>
+        <item>huanjizhushou</item>
+        <item>zhutimeihua</item>
+        <item>saoyisaocitie</item>
+        <item>luyinji</item>
+        <item>jibuqi</item>
+        <item>jisuanqi</item>
+        <item>tianqi</item>
+        <item>shizhong</item>
     </string-array>
 
 </resources>

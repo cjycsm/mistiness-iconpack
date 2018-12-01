@@ -3,7 +3,7 @@
 file=newest.csv
 filterFile=filter.txt
 IFS=","
-while read name icon group activity type null
+while read name icon group activity type
 do
 	echo "<item
 	component=\"ComponentInfo{$group/$activity}\"

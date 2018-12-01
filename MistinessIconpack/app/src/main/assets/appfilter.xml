@@ -272,4 +272,64 @@
         component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}"
         drawable="shoujiguanjia"/>
 
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.ui.WelcomeClient}"
+        drawable="zhongguoliantong"/>
+
+    <item
+        component="ComponentInfo{com.quqi.quqioffice/com.quqi.quqioffice.MainActivity}"
+        drawable="quqiyunpan"/>
+
+    <item
+        component="ComponentInfo{com.xvideostudio.videoeditor/com.xvideostudio.videoeditor.activity.SplashActivity}"
+        drawable="lexiu"/>
+
+    <item
+        component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}"
+        drawable="huanjizhushou"/>
+
+    <item
+        component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}"
+        drawable="zhutimeihua"/>
+
+    <item
+        component="ComponentInfo{com.inklin.qrcodescanner/com.inklin.qrcodescanner.SplashActivity}"
+        drawable="saoyisaocitie"/>
+
+    <item
+        component="ComponentInfo{com.squareenix.lis/com.epicgames.ue4.SplashActivity}"
+        drawable="qiyirensheng"/>
+
+    <item
+        component="ComponentInfo{com.lanzou.gwa/com.uzmap.pkg.EntranceActivity}"
+        drawable="lanzouyun"/>
+
+    <item
+        component="ComponentInfo{com.huidong.mdschool/com.huidong.mdschool.SplashScreenActivity}"
+        drawable="midongxiaoyuan"/>
+
+    <item
+        component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}"
+        drawable="luyinji"/>
+
+    <item
+        component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}"
+        drawable="jibuqi"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.calculator/com.meizu.flyme.calculator.Calculator}"
+        drawable="jisuanqi"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}"
+        drawable="tianqi"/>
+
+    <item
+        component="ComponentInfo{com.Keeler.ifsunshine/com.unity3d.player.UnityPlayerActivity}"
+        drawable="ruguomingtianshiqintian"/>
+
+    <item
+        component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
+        drawable="shizhong"/>
+
 </resources>
