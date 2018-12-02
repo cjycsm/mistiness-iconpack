@@ -1,5 +1,11 @@
 #!/bin/bash
 
-file=drawable.csv
-outputFile=drawable.txt 
-cat $file | awk -F',' '!a[$2]++{ print "<item drawable=\""$2"\"/>"; }' > $outputFile
+path=./MistinessIconpack/app/src/main/res/drawable-nodpi
+files=$(ls $path)
+for filename in $files
+do
+	if [ $filename == "headerimage.png" ]; then
+		continue
+	fi
+	echo "<item drawable=\"${filename%.*}\"/>" >> drawable.txt
+done
