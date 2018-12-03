@@ -19,22 +19,15 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>zhongguoliantong</item>
-        <item>quqiyunpan</item>
-        <item>lexiu</item>
-        <item>lanzouyun</item>
-        <item>midongxiaoyuan</item>
-        <item>qiyirensheng</item>
-        <item>ruguomingtianshiqintian</item>
-        <item>ruguomingtianshiqintian_alt</item>
-        <item>huanjizhushou</item>
-        <item>zhutimeihua</item>
-        <item>saoyisaocitie</item>
-        <item>luyinji</item>
-        <item>jibuqi</item>
-        <item>jisuanqi</item>
-        <item>tianqi</item>
-        <item>shizhong</item>
+        <item>adm_pro</item>
+        <item>alipay</item>
+        <item>anjian</item>
+        <item>baicizhan</item>
+        <item>baidu_netdisk</item>
+        <item>bilibili</item>
+        <item>bilibili_blue</item>
+        <item>brevent</item>
+        <item>cloudmusic</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -43,7 +36,6 @@
 
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
-        <item>all</item>
         <item>newest</item>
         <item>upgrade</item>
         <item>application</item>
@@ -51,192 +43,97 @@
         <item>meizu</item>
     </string-array>
 
-    <string-array name="all">
-        <item>baiduwangpan</item>
-        <item>bilibili</item>
-        <item>bilibligainian</item>
-        <item>heiyu</item>
-        <item>ithome</item>
-        <item>jike</item>
-        <item>kuan</item>
-        <item>psexpress</item>
-        <item>qq</item>
-        <item>weixin</item>
-        <item>zhihu</item>
-        <item>yigemuhan</item>
-        <item>zhifubao</item>
-        <item>googlephotos</item>
-        <item>kuake</item>
-        <item>qqliulanqi</item>
-        <item>qqtongbuzhushou</item>
-        <item>qqyinyue</item>
-        <item>snapseed</item>
-        <item>taobao</item>
-        <item>tengxunfanyijun</item>
-        <item>tengxunwendang</item>
-        <item>tengxunwifiguanjia</item>
-        <item>tengxunanquanguanjia</item>
-        <item>tengxunshiguang</item>
-        <item>tengxunshipin</item>
-        <item>via</item>
-        <item>wangyiyunyinyue</item>
-        <item>weibo</item>
-        <item>weixindushu</item>
-        <item>wps</item>
-        <item>maobing</item>
-        <item>admpro</item>
-        <item>googleplay</item>
-        <item>lastpass</item>
-        <item>nova</item>
-        <item>ocamera</item>
-        <item>pu</item>
-        <item>qqanquanzhongxin</item>
-        <item>speedtest</item>
-        <item>ssr</item>
-        <item>taptap</item>
-        <item>xianyu</item>
-        <item>youtube</item>
-        <item>altoadventure</item>
-        <item>odyssey</item>
-        <item>aiyinyue</item>
-        <item>baicizhan</item>
-        <item>bianyuanrenwu</item>
-        <item>biaoqingbaoshenchengqi</item>
-        <item>chaojijisuanqi</item>
-        <item>chentongwangpan</item>
-        <item>duokaifenshen</item>
-        <item>gugefanyi</item>
-        <item>anjianjingling</item>
-        <item>dianhua</item>
-        <item>shezhi</item>
-        <item>bianqian</item>
-        <item>ditu</item>
-        <item>gongjuxiang</item>
-        <item>shoujiguanjia</item>
-        <item>zhongguoliantong</item>
-        <item>quqiyunpan</item>
-        <item>lexiu</item>
-        <item>lanzouyun</item>
-        <item>midongxiaoyuan</item>
-        <item>qiyirensheng</item>
-        <item>ruguomingtianshiqintian</item>
-        <item>ruguomingtianshiqintian_alt</item>
-        <item>huanjizhushou</item>
-        <item>zhutimeihua</item>
-        <item>saoyisaocitie</item>
-        <item>luyinji</item>
-        <item>jibuqi</item>
-        <item>jisuanqi</item>
-        <item>tianqi</item>
-        <item>shizhong</item>
-    </string-array>
-
     <string-array name="newest">
-        <item>zhongguoliantong</item>
-        <item>quqiyunpan</item>
-        <item>lexiu</item>
-        <item>lanzouyun</item>
-        <item>midongxiaoyuan</item>
-        <item>qiyirensheng</item>
-        <item>ruguomingtianshiqintian</item>
-        <item>ruguomingtianshiqintian_alt</item>
-        <item>huanjizhushou</item>
-        <item>zhutimeihua</item>
-        <item>saoyisaocitie</item>
-        <item>luyinji</item>
-        <item>jibuqi</item>
-        <item>jisuanqi</item>
-        <item>tianqi</item>
-        <item>shizhong</item>
+
     </string-array>
 
     <string-array name="upgrade">
     </string-array>
 
     <string-array name="application">
-        <item>baiduwangpan</item>
+        <item>adm_pro</item>
+        <item>alipay</item>
+        <item>anjian</item>
+        <item>baicizhan</item>
+        <item>baidu_netdisk</item>
         <item>bilibili</item>
-        <item>bilibligainian</item>
-        <item>heiyu</item>
+        <item>bilibili_blue</item>
+        <item>brevent</item>
+        <item>cloudmusic</item>
+        <item>coolapk</item>
+        <item>ctfile</item>
+        <item>dkplat</item>
+        <item>edge_gesture</item>
+        <item>emoticon_creater</item>
+        <item>google_photos</item>
+        <item>google_play</item>
+        <item>google_translate</item>
+        <item>idlefish</item>
+        <item>imusic</item>
         <item>ithome</item>
         <item>jike</item>
-        <item>kuan</item>
-        <item>psexpress</item>
-        <item>qq</item>
-        <item>weixin</item>
-        <item>zhihu</item>
-        <item>yigemuhan</item>
-        <item>zhifubao</item>
-        <item>googlephotos</item>
-        <item>kuake</item>
-        <item>qqliulanqi</item>
-        <item>qqtongbuzhushou</item>
-        <item>qqyinyue</item>
-        <item>snapseed</item>
-        <item>taobao</item>
-        <item>tengxunfanyijun</item>
-        <item>tengxunwendang</item>
-        <item>tengxunwifiguanjia</item>
-        <item>tengxunanquanguanjia</item>
-        <item>tengxunshiguang</item>
-        <item>tengxunshipin</item>
-        <item>via</item>
-        <item>wangyiyunyinyue</item>
-        <item>weibo</item>
-        <item>weixindushu</item>
-        <item>wps</item>
-        <item>maobing</item>
-        <item>admpro</item>
-        <item>googleplay</item>
+        <item>lanzou</item>
         <item>lastpass</item>
-        <item>nova</item>
+        <item>maobing</item>
+        <item>mdschool</item>
+        <item>nova_launcher</item>
         <item>ocamera</item>
+        <item>ps</item>
         <item>pu</item>
-        <item>qqanquanzhongxin</item>
+        <item>qq</item>
+        <item>qq_browser</item>
+        <item>qq_music</item>
+        <item>qq_pim</item>
+        <item>qq_token</item>
+        <item>quark</item>
+        <item>quqi</item>
+        <item>shadowsocksr</item>
+        <item>snapseed</item>
         <item>speedtest</item>
-        <item>ssr</item>
+        <item>super_calculator</item>
+        <item>taobao</item>
         <item>taptap</item>
-        <item>xianyu</item>
+        <item>tencent_docs</item>
+        <item>tencent_ipai</item>
+        <item>tencent_qqlive</item>
+        <item>tencent_secure</item>
+        <item>tencent_translator</item>
+        <item>tencent_wifimanager</item>
+        <item>unicom</item>
+        <item>via</item>
+        <item>videoshow</item>
+        <item>wechat</item>
+        <item>weibo</item>
+        <item>weread</item>
+        <item>wooden_letter</item>
+        <item>wps</item>
         <item>youtube</item>
-        <item>aiyinyue</item>
-        <item>baicizhan</item>
-        <item>bianyuanrenwu</item>
-        <item>biaoqingbaoshenchengqi</item>
-        <item>chaojijisuanqi</item>
-        <item>chentongwangpan</item>
-        <item>duokaifenshen</item>
-        <item>gugefanyi</item>
-        <item>anjianjingling</item>
-        <item>zhongguoliantong</item>
-        <item>quqiyunpan</item>
-        <item>lexiu</item>
-        <item>lanzouyun</item>
-        <item>midongxiaoyuan</item>
+        <item>zhihu</item>
     </string-array>
 
     <string-array name="game">
-        <item>altoadventure</item>
-        <item>odyssey</item>
-        <item>qiyirensheng</item>
-        <item>ruguomingtianshiqintian</item>
-        <item>ruguomingtianshiqintian_alt</item>
+        <item>altos_adventure</item>
+        <item>altos_odyssey</item>
+        <item>if_sunshine</item>
+        <item>if_sunshine_alt</item>
+        <item>life_is_strange</item>
     </string-array>
 
     <string-array name="meizu">
-        <item>dianhua</item>
-        <item>shezhi</item>
-        <item>bianqian</item>
-        <item>ditu</item>
-        <item>gongjuxiang</item>
-        <item>shoujiguanjia</item>
-        <item>huanjizhushou</item>
-        <item>zhutimeihua</item>
-        <item>saoyisaocitie</item>
-        <item>luyinji</item>
-        <item>jibuqi</item>
-        <item>jisuanqi</item>
-        <item>tianqi</item>
-        <item>shizhong</item>
+        <item>calculator</item>
+        <item>clock</item>
+        <item>data_migration</item>
+        <item>dialer</item>
+        <item>map</item>
+        <item>note</item>
+        <item>pedometer</item>
+        <item>qrcode_scanner</item>
+        <item>safe</item>
+        <item>settings</item>
+        <item>sound_recorder</item>
+        <item>theme_center</item>
+        <item>toolbox</item>
+        <item>weather</item>
     </string-array>
 
 </resources>

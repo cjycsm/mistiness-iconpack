@@ -40,7 +40,7 @@
         Set the bool below to true if you want your static picture to be set by default, instead
         of user's wallpaper. Otherwise, leave it as false.
     -->
-    <string name="icons_preview_picture">headerimage</string>
+    <string name="icons_preview_picture">header_image</string>
     <bool name="static_preview_picture_by_default">true</bool>
 
     <!--
