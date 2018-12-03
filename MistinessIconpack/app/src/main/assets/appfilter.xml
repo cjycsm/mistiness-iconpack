@@ -21,6 +21,14 @@
 <resources>
 
     <item
+        component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
+        xml="calendar" />
+
+    <item
+        component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
+        xml="weather" />
+
+    <item
         component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"
         drawable="adm_pro"/>
 
@@ -331,5 +339,65 @@
     <item
         component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}"
         drawable="zhihu"/>
+
+    <item
+        component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}"
+        drawable="youdao_note"/>
+
+    <item
+        component="ComponentInfo{com.xunlei.downloadprovider/com.xunlei.downloadprovider.launch.LaunchActivity}"
+        drawable="xunlei"/>
+
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}"
+        drawable="downloads"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.xiaoji.emulator/com.xiaoji.emulator.Entry}"
+        drawable="xiaoji_emulator"/>
+
+    <item
+        component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.omarea.vboot/com.omarea.vboot.ActivityMain}"
+        drawable="vtools"/>
+
+    <item
+        component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.ActivityMain}"
+        drawable="vtools"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.heike.gw.heike/com.heike.gw.heike.MainActivity}"
+        drawable="heike"/>
+
+    <item
+        component="ComponentInfo{com.byfen.market/com.byfen.market.ui.aty.SplashActivity}"
+        drawable="byfen"/>
+
+    <item
+        component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}"
+        drawable="karaoke"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}"
+        drawable="gallery"/>
 
 </resources>

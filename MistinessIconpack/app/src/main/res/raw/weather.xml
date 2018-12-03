@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item type="drawable" key="background">
+        <drawable value="" res="dynamic_weather_unknown"/>
+        <drawable value="1001" res="dynamic_weather_sunny"/>
+        <drawable value="1002" res="dynamic_weather_sunny"/>
+        <drawable value="1003" res="dynamic_weather_cloudy"/>
+        <drawable value="1004" res="dynamic_weather_overcast"/>
+        <drawable value="1005" res="dynamic_weather_rain"/>
+        <drawable value="1006" res="dynamic_weather_rain"/>
+        <drawable value="1007" res="dynamic_weather_rain"/>
+        <drawable value="1008" res="dynamic_weather_rain"/>
+        <drawable value="1009" res="dynamic_weather_rain"/>
+        <drawable value="1010" res="dynamic_weather_rain"/>
+        <drawable value="1011" res="dynamic_weather_snow"/>
+        <drawable value="1012" res="dynamic_weather_snow"/>
+        <drawable value="1013" res="dynamic_weather_snow"/>
+        <drawable value="1014" res="dynamic_weather_hail"/>
+        <drawable value="1015" res="dynamic_weather_rain"/>
+        <drawable value="1016" res="dynamic_weather_sandstorm"/>
+        <drawable value="1017" res="dynamic_weather_overcast"/>
+        <drawable value="1018" res="dynamic_weather_typhoon"/>
+        <drawable value="1019" res="dynamic_weather_sandstorm"/>
+        <drawable value="9999" res="dynamic_weather_unknown"/>
+    </item>
+
+    <item type="text" key="temp" enable="false" />
+
+</resources>

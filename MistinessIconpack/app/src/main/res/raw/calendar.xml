@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item type="drawable" key="background">
+        <drawable value="" res="dynamic_calendar"/>
+    </item>
+
+    <item type="text" key="day" alignX="center" alignY="center" textSize = "25dp" font="sans-serif" color="white"/>
+
+</resources>

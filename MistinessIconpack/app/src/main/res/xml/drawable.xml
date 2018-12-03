@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>6</version>
+    <version>7</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
@@ -32,7 +32,10 @@
     <item drawable="bilibili"/>
     <item drawable="bilibili_blue"/>
     <item drawable="brevent"/>
+    <item drawable="byfen"/>
     <item drawable="calculator"/>
+    <item drawable="calendar"/>
+    <item drawable="camera"/>
     <item drawable="clock"/>
     <item drawable="cloudmusic"/>
     <item drawable="coolapk"/>
@@ -40,23 +43,30 @@
     <item drawable="data_migration"/>
     <item drawable="dialer"/>
     <item drawable="dkplat"/>
+    <item drawable="downloads"/>
     <item drawable="edge_gesture"/>
     <item drawable="emoticon_creater"/>
+    <item drawable="file_manager"/>
+    <item drawable="gallery"/>
     <item drawable="google_photos"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
+    <item drawable="heike"/>
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="if_sunshine_alt"/>
     <item drawable="imusic"/>
     <item drawable="ithome"/>
     <item drawable="jike"/>
+    <item drawable="karaoke"/>
     <item drawable="lanzou"/>
     <item drawable="lastpass"/>
     <item drawable="life_is_strange"/>
     <item drawable="maobing"/>
     <item drawable="map"/>
     <item drawable="mdschool"/>
+    <item drawable="mms"/>
+    <item drawable="music"/>
     <item drawable="note"/>
     <item drawable="nova_launcher"/>
     <item drawable="ocamera"/>
@@ -91,12 +101,16 @@
     <item drawable="unicom"/>
     <item drawable="via"/>
     <item drawable="videoshow"/>
+    <item drawable="vtools"/>
     <item drawable="weather"/>
     <item drawable="wechat"/>
     <item drawable="weibo"/>
     <item drawable="weread"/>
     <item drawable="wooden_letter"/>
     <item drawable="wps"/>
+    <item drawable="xiaoji_emulator"/>
+    <item drawable="xunlei"/>
+    <item drawable="youdao_note"/>
     <item drawable="youtube"/>
     <item drawable="zhihu"/>
 </resources>
