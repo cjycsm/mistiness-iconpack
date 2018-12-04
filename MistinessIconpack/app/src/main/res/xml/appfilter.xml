@@ -20,6 +20,88 @@
 
 <resources>
 
+    <!--Flyme-->
+    <item
+        component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}"
+        drawable="data_migration"/>
+
+    <item
+        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}"
+        drawable="map"/>
+
+    <item
+        component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}"
+        drawable="note"/>
+
+    <item
+        component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}"
+        drawable="pedometer"/>
+
+    <item
+        component="ComponentInfo{com.inklin.qrcodescanner/com.inklin.qrcodescanner.SplashActivity}"
+        drawable="qrcode_scanner"/>
+
+    <item
+        component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}"
+        drawable="theme_center"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}"
+        drawable="toolbox"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}"
+        drawable="downloads"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}"
+        drawable="gallery"/>
+
+    <!--H2OS-->
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
         xml="calendar" />
@@ -28,6 +110,7 @@
         component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
         xml="weather" />
 
+    <!--Application-->
     <item
         component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"
         drawable="adm_pro"/>
@@ -35,14 +118,6 @@
     <item
         component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}"
         drawable="alipay"/>
-
-    <item
-        component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
-        drawable="altos_adventure"/>
-
-    <item
-        component="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}"
-        drawable="altos_odyssey"/>
 
     <item
         component="ComponentInfo{com.cyjh.mobileanjian/com.cyjh.mobileanjian.activity.GuiActivity}"
@@ -73,10 +148,6 @@
         drawable="calculator"/>
 
     <item
-        component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
-        drawable="clock"/>
-
-    <item
         component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}"
         drawable="cloudmusic"/>
 
@@ -87,14 +158,6 @@
     <item
         component="ComponentInfo{com.ctfile/com.ctfile.MainActivity}"
         drawable="ctfile"/>
-
-    <item
-        component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}"
-        drawable="data_migration"/>
-
-    <item
-        component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
-        drawable="dialer"/>
 
     <item
         component="ComponentInfo{com.bly.dkplat/com.bly.dkplat.widget.splash.Splash}"
@@ -125,10 +188,6 @@
         drawable="idlefish"/>
 
     <item
-        component="ComponentInfo{com.Keeler.ifsunshine/com.unity3d.player.UnityPlayerActivity}"
-        drawable="if_sunshine"/>
-
-    <item
         component="ComponentInfo{com.gwsoft.imusic.controller/com.gwsoft.imusic.controller.LoadingActivity}"
         drawable="imusic"/>
 
@@ -149,24 +208,12 @@
         drawable="lastpass"/>
 
     <item
-        component="ComponentInfo{com.squareenix.lis/com.epicgames.ue4.SplashActivity}"
-        drawable="life_is_strange"/>
-
-    <item
         component="ComponentInfo{tv.xiaodao.xdtv/tv.xiaodao.xdtv.presentation.module.splash.SplashActivity}"
         drawable="maobing"/>
 
     <item
-        component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}"
-        drawable="map"/>
-
-    <item
         component="ComponentInfo{com.huidong.mdschool/com.huidong.mdschool.SplashScreenActivity}"
         drawable="mdschool"/>
-
-    <item
-        component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}"
-        drawable="note"/>
 
     <item
         component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}"
@@ -175,10 +222,6 @@
     <item
         component="ComponentInfo{com.qinlin.ocamera/com.qinlin.ocamera.ui.LaunchActivity}"
         drawable="ocamera"/>
-
-    <item
-        component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}"
-        drawable="pedometer"/>
 
     <item
         component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}"
@@ -213,10 +256,6 @@
         drawable="qq_token"/>
 
     <item
-        component="ComponentInfo{com.inklin.qrcodescanner/com.inklin.qrcodescanner.SplashActivity}"
-        drawable="qrcode_scanner"/>
-
-    <item
         component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}"
         drawable="quark"/>
 
@@ -225,28 +264,12 @@
         drawable="quqi"/>
 
     <item
-        component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}"
-        drawable="safe"/>
-
-    <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="settings"/>
-
-    <item
-        component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}"
-        drawable="shadowsocksr"/>
-
-    <item
         component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}"
         drawable="shadowsocksr"/>
 
     <item
         component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}"
         drawable="snapseed"/>
-
-    <item
-        component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}"
-        drawable="sound_recorder"/>
 
     <item
         component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}"
@@ -289,14 +312,6 @@
         drawable="tencent_wifimanager"/>
 
     <item
-        component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}"
-        drawable="theme_center"/>
-
-    <item
-        component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}"
-        drawable="toolbox"/>
-
-    <item
         component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.ui.WelcomeClient}"
         drawable="unicom"/>
 
@@ -307,10 +322,6 @@
     <item
         component="ComponentInfo{com.xvideostudio.videoeditor/com.xvideostudio.videoeditor.activity.SplashActivity}"
         drawable="videoshow"/>
-
-    <item
-        component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}"
-        drawable="weather"/>
 
     <item
         component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}"
@@ -349,24 +360,8 @@
         drawable="xunlei"/>
 
     <item
-        component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadActivity}"
-        drawable="downloads"/>
-
-    <item
-        component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}"
-        drawable="camera"/>
-
-    <item
         component="ComponentInfo{com.xiaoji.emulator/com.xiaoji.emulator.Entry}"
         drawable="xiaoji_emulator"/>
-
-    <item
-        component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
-        drawable="calendar"/>
-
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="mms"/>
 
     <item
         component="ComponentInfo{com.omarea.vboot/com.omarea.vboot.ActivityMain}"
@@ -377,10 +372,6 @@
         drawable="vtools"/>
 
     <item
-        component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
-        drawable="music"/>
-
-    <item
         component="ComponentInfo{com.heike.gw.heike/com.heike.gw.heike.MainActivity}"
         drawable="heike"/>
 
@@ -389,15 +380,24 @@
         drawable="byfen"/>
 
     <item
-        component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}"
-        drawable="file_manager"/>
-
-    <item
         component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}"
         drawable="karaoke"/>
 
+    <!--Game-->
     <item
-        component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}"
-        drawable="gallery"/>
+        component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
+        drawable="altos_adventure"/>
+
+    <item
+        component="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}"
+        drawable="altos_odyssey"/>
+
+    <item
+        component="ComponentInfo{com.Keeler.ifsunshine/com.unity3d.player.UnityPlayerActivity}"
+        drawable="if_sunshine"/>
+
+    <item
+        component="ComponentInfo{com.squareenix.lis/com.epicgames.ue4.SplashActivity}"
+        drawable="life_is_strange"/>
 
 </resources>

@@ -45,7 +45,7 @@
         <item>upgrade</item>
         <item>application</item>
         <item>game</item>
-        <item>meizu</item>
+        <item>flyme</item>
     </string-array>
 
     <string-array name="newest">
@@ -144,7 +144,7 @@
         <item>life_is_strange</item>
     </string-array>
 
-    <string-array name="meizu">
+    <string-array name="flyme">
         <item>calculator</item>
         <item>clock</item>
         <item>data_migration</item>
