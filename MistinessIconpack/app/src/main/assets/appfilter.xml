@@ -101,6 +101,18 @@
         component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}"
         drawable="gallery"/>
 
+    <item
+        component="ComponentInfo{com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity}"
+        drawable="store"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}"
+        drawable="email"/>
+
     <!--H2OS-->
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
@@ -352,6 +364,10 @@
         drawable="zhihu"/>
 
     <item
+        component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}"
+        drawable="zhihu"/>
+
+    <item
         component="ComponentInfo{com.youdao.note/com.youdao.note.activity2.SplashActivity}"
         drawable="youdao_note"/>
 
@@ -383,6 +399,62 @@
         component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}"
         drawable="karaoke"/>
 
+    <item
+        component="ComponentInfo{stericson.busybox/stericson.busybox.activity.MainActivity}"
+        drawable="busybox"/>
+
+    <item
+        component="ComponentInfo{com.expressvpn.vpn/com.expressvpn.vpn.ui.SplashActivity}"
+        drawable="express_vpn"/>
+
+    <item
+        component="ComponentInfo{com.lerist.fakelocation/com.lerist.fakelocation.ui.activity.MainActivity}"
+        drawable="fake_location"/>
+
+    <item
+        component="ComponentInfo{io.github.javiewer/io.github.javiewer.activity.StartActivity}"
+        drawable="javiewer"/>
+
+    <item
+        component="ComponentInfo{com.android.vending.billing.InAppBillingService.CLON/com.android.vending.billing.InAppBillingService.CLON.MainActivity-Original}"
+        drawable="lucky_patcher"/>
+
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}"
+        drawable="mx"/>
+
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}"
+        drawable="mx"/>
+
+    <item
+        component="ComponentInfo{com.qtrun.QuickTest/com.qtrun.QuickTest.LauncherActivity}"
+        drawable="signal_master"/>
+
+    <item
+        component="ComponentInfo{com.cyberlink.powerdirector.DRA140225_01/com.cyberlink.powerdirector.splash.SplashActivity}"
+        drawable="powerdirector"/>
+
+    <item
+        component="ComponentInfo{net.relaxio.relaxio/net.relaxio.relaxio.MainActivity}"
+        drawable="relaxio"/>
+
+    <item
+        component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}"
+        drawable="solid_explorer"/>
+
+    <item
+        component="ComponentInfo{com.jumobile.manager.systemapp/com.jumobile.manager.systemapp.ui.activity.IndexActivity}"
+        drawable="remover"/>
+
+    <item
+        component="ComponentInfo{com.firework.app/com.firework.app.SplashActivityde}"
+        drawable="tc_cleaner"/>
+
+    <item
+        component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.MainActivity}"
+        drawable="thunder_vpn"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
@@ -399,5 +471,9 @@
     <item
         component="ComponentInfo{com.squareenix.lis/com.epicgames.ue4.SplashActivity}"
         drawable="life_is_strange"/>
+
+    <item
+        component="ComponentInfo{com.halfbrick.dantheman/com.halfbrick.mortar.MortarGameLauncherActivity}"
+        drawable="dan_the_man"/>
 
 </resources>

@@ -15,7 +15,6 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v0.0.7-alpha" />
-    <item text="新增14枚图标" />
-    <item text="适配一加动态图标"/>
+    <version title="v0.0.8-alpha" />
+    <item text="新增18枚图标" />
 </resources>

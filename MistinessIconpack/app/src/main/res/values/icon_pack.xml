@@ -19,20 +19,24 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>youdao_note</item>
-        <item>xunlei</item>
-        <item>xiaoji_emulator</item>
-        <item>vtools</item>
-        <item>heike</item>
-        <item>byfen</item>
-        <item>karaoke</item>
-        <item>downloads</item>
-        <item>camera</item>
-        <item>calendar</item>
-        <item>mms</item>
-        <item>music</item>
-        <item>file_manager</item>
-        <item>gallery</item>
+        <item>busybox</item>
+        <item>express_vpn</item>
+        <item>fake_location</item>
+        <item>javiewer</item>
+        <item>lucky_patcher</item>
+        <item>mx</item>
+        <item>signal_master</item>
+        <item>powerdirector</item>
+        <item>relaxio</item>
+        <item>solid_explorer</item>
+        <item>remover</item>
+        <item>tc_cleaner</item>
+        <item>thunder_vpn</item>
+        <item>store</item>
+        <item>store_alt</item>
+        <item>email</item>
+        <item>video</item>
+        <item>dan_the_man</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -49,20 +53,24 @@
     </string-array>
 
     <string-array name="newest">
-        <item>youdao_note</item>
-        <item>xunlei</item>
-        <item>xiaoji_emulator</item>
-        <item>vtools</item>
-        <item>heike</item>
-        <item>byfen</item>
-        <item>karaoke</item>
-        <item>downloads</item>
-        <item>camera</item>
-        <item>calendar</item>
-        <item>mms</item>
-        <item>music</item>
-        <item>file_manager</item>
-        <item>gallery</item>
+        <item>busybox</item>
+        <item>express_vpn</item>
+        <item>fake_location</item>
+        <item>javiewer</item>
+        <item>lucky_patcher</item>
+        <item>mx</item>
+        <item>signal_master</item>
+        <item>powerdirector</item>
+        <item>relaxio</item>
+        <item>solid_explorer</item>
+        <item>remover</item>
+        <item>tc_cleaner</item>
+        <item>thunder_vpn</item>
+        <item>store</item>
+        <item>store_alt</item>
+        <item>email</item>
+        <item>video</item>
+        <item>dan_the_man</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -134,6 +142,19 @@
         <item>heike</item>
         <item>byfen</item>
         <item>karaoke</item>
+        <item>busybox</item>
+        <item>express_vpn</item>
+        <item>fake_location</item>
+        <item>javiewer</item>
+        <item>lucky_patcher</item>
+        <item>mx</item>
+        <item>signal_master</item>
+        <item>powerdirector</item>
+        <item>relaxio</item>
+        <item>solid_explorer</item>
+        <item>remover</item>
+        <item>tc_cleaner</item>
+        <item>thunder_vpn</item>
     </string-array>
 
     <string-array name="game">
@@ -142,6 +163,7 @@
         <item>if_sunshine</item>
         <item>if_sunshine_alt</item>
         <item>life_is_strange</item>
+        <item>dan_the_man</item>
     </string-array>
 
     <string-array name="flyme">
@@ -166,6 +188,10 @@
         <item>music</item>
         <item>file_manager</item>
         <item>gallery</item>
+        <item>store</item>
+        <item>store_alt</item>
+        <item>email</item>
+        <item>video</item>
     </string-array>
 
 </resources>

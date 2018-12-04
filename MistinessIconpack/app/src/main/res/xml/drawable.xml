@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>7</version>
+    <version>8</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
@@ -32,6 +32,7 @@
     <item drawable="bilibili"/>
     <item drawable="bilibili_blue"/>
     <item drawable="brevent"/>
+    <item drawable="busybox"/>
     <item drawable="byfen"/>
     <item drawable="calculator"/>
     <item drawable="calendar"/>
@@ -40,12 +41,16 @@
     <item drawable="cloudmusic"/>
     <item drawable="coolapk"/>
     <item drawable="ctfile"/>
+    <item drawable="dan_the_man"/>
     <item drawable="data_migration"/>
     <item drawable="dialer"/>
     <item drawable="dkplat"/>
     <item drawable="downloads"/>
     <item drawable="edge_gesture"/>
+    <item drawable="email"/>
     <item drawable="emoticon_creater"/>
+    <item drawable="express_vpn"/>
+    <item drawable="fake_location"/>
     <item drawable="file_manager"/>
     <item drawable="gallery"/>
     <item drawable="google_photos"/>
@@ -57,20 +62,24 @@
     <item drawable="if_sunshine_alt"/>
     <item drawable="imusic"/>
     <item drawable="ithome"/>
+    <item drawable="javiewer"/>
     <item drawable="jike"/>
     <item drawable="karaoke"/>
     <item drawable="lanzou"/>
     <item drawable="lastpass"/>
     <item drawable="life_is_strange"/>
+    <item drawable="lucky_patcher"/>
     <item drawable="maobing"/>
     <item drawable="map"/>
     <item drawable="mdschool"/>
     <item drawable="mms"/>
     <item drawable="music"/>
+    <item drawable="mx"/>
     <item drawable="note"/>
     <item drawable="nova_launcher"/>
     <item drawable="ocamera"/>
     <item drawable="pedometer"/>
+    <item drawable="powerdirector"/>
     <item drawable="ps"/>
     <item drawable="pu"/>
     <item drawable="qq"/>
@@ -81,15 +90,22 @@
     <item drawable="qrcode_scanner"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
+    <item drawable="relaxio"/>
+    <item drawable="remover"/>
     <item drawable="safe"/>
     <item drawable="settings"/>
     <item drawable="shadowsocksr"/>
+    <item drawable="signal_master"/>
     <item drawable="snapseed"/>
+    <item drawable="solid_explorer"/>
     <item drawable="sound_recorder"/>
     <item drawable="speedtest"/>
+    <item drawable="store"/>
+    <item drawable="store_alt"/>
     <item drawable="super_calculator"/>
     <item drawable="taobao"/>
     <item drawable="taptap"/>
+    <item drawable="tc_cleaner"/>
     <item drawable="tencent_docs"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_qqlive"/>
@@ -97,9 +113,11 @@
     <item drawable="tencent_translator"/>
     <item drawable="tencent_wifimanager"/>
     <item drawable="theme_center"/>
+    <item drawable="thunder_vpn"/>
     <item drawable="toolbox"/>
     <item drawable="unicom"/>
     <item drawable="via"/>
+    <item drawable="video"/>
     <item drawable="videoshow"/>
     <item drawable="vtools"/>
     <item drawable="weather"/>
