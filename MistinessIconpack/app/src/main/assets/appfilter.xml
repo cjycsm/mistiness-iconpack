@@ -126,6 +126,58 @@
         component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
         xml="weather" />
 
+    <item
+        component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}"
+        drawable="note"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
+        drawable="wallet"/>
+
+    <item
+        component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
+        drawable="store"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="downloads"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
+        drawable="sound_recorder"/>
+
     <!--Application-->
     <item
         component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"

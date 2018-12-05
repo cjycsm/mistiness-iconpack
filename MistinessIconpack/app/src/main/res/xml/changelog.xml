@@ -15,6 +15,6 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v0.0.9-alpha" />
-    <item text="新增7枚图标" />
+    <version title="v0.0.10-alpha" />
+    <item text="适配H2OS系统应用" />
 </resources>

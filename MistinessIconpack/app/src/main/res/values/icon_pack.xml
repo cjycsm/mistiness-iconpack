@@ -39,6 +39,7 @@
         <item>application</item>
         <item>game</item>
         <item>flyme</item>
+        <item>H2OS</item>
     </string-array>
 
     <string-array name="newest">
@@ -177,6 +178,23 @@
         <item>email</item>
         <item>video</item>
         <item>wallet</item>
+    </string-array>
+
+    <string-array name="H2OS">
+        <item>note</item>
+        <item>wallet</item>
+        <item>dialer</item>
+        <item>gallery</item>
+        <item>settings</item>
+        <item>clock</item>
+        <item>store</item>
+        <item>file_manager</item>
+        <item>camera</item>
+        <item>mms</item>
+        <item>calculator</item>
+        <item>downloads</item>
+        <item>dynamic_calendar</item>
+        <item>dynamic_weather_default</item>
     </string-array>
 
 </resources>

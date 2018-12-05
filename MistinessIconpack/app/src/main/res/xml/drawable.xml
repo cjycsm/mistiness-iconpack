@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>9</version>
+    <version>10</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
