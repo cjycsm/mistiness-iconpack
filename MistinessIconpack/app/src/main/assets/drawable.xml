@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>8</version>
+    <version>9</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
@@ -31,6 +31,7 @@
     <item drawable="baidu_netdisk"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_blue"/>
+    <item drawable="bladeheart_ninja"/>
     <item drawable="brevent"/>
     <item drawable="busybox"/>
     <item drawable="byfen"/>
@@ -53,6 +54,7 @@
     <item drawable="fake_location"/>
     <item drawable="file_manager"/>
     <item drawable="gallery"/>
+    <item drawable="glass"/>
     <item drawable="google_photos"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
@@ -90,11 +92,13 @@
     <item drawable="qrcode_scanner"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
+    <item drawable="read"/>
     <item drawable="relaxio"/>
     <item drawable="remover"/>
     <item drawable="safe"/>
     <item drawable="settings"/>
     <item drawable="shadowsocksr"/>
+    <item drawable="shoujimarket"/>
     <item drawable="signal_master"/>
     <item drawable="snapseed"/>
     <item drawable="solid_explorer"/>
@@ -120,9 +124,12 @@
     <item drawable="video"/>
     <item drawable="videoshow"/>
     <item drawable="vtools"/>
+    <item drawable="wallet"/>
+    <item drawable="walli"/>
     <item drawable="weather"/>
     <item drawable="wechat"/>
     <item drawable="weibo"/>
+    <item drawable="weibo_intl"/>
     <item drawable="weread"/>
     <item drawable="wooden_letter"/>
     <item drawable="wps"/>
