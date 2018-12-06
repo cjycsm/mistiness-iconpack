@@ -557,6 +557,89 @@
         component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}"
         drawable="walli"/>
 
+    <item
+        component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}"
+        drawable="baidumap"/>
+
+    <item
+        component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}"
+        drawable="china_mobile"/>
+
+    <item
+        component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}"
+        drawable="china_telecom"/>
+
+    <item
+        component="ComponentInfo{com.sspai.cuto.android/com.sspai.cuto.android.ui.main.MainActivity}"
+        drawable="cuto"/>
+
+    <item
+        component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}"
+        drawable="didi"/>
+
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}"
+        drawable="gaode_map"/>
+
+    <item
+        component="ComponentInfo{com.gtgj.view/com.gtgj.view.LaunchActivity}"
+        drawable="gtgj"/>
+
+    <item
+        component="ComponentInfo{com.hupu.games/com.hupu.games.activity.LaunchActivity}"
+        drawable="hupu"/>
+
+    <item
+        component="ComponentInfo{com.jingdong.app.mall/com.jingdong.app.mall.main.MainActivity}"
+        drawable="jingdong"/>
+
+    <item
+        component="ComponentInfo{com.amamiya.nanoiconpack.miracles/com.amamiya.nanoiconpack.miracles.activities.SplashActivity}"
+        drawable="miracles"/>
+
+    <item
+        component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.SplashActivity}"
+        drawable="mobike"/>
+
+    <item
+        component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="netease_mail"/>
+
+    <item
+        component="ComponentInfo{com.netease.snailread/com.netease.snailread.activity.SplashActivity}"
+        drawable="netease_snailread"/>
+
+    <item
+        component="ComponentInfo{com.netease.yanxuan/com.netease.yanxuan.module.splash.SplashActivity}"
+        drawable="netease_yanxuan"/>
+
+    <item
+        component="ComponentInfo{com.qdaily.ui/com.qdaily.ui.LauncherActivity}"
+        drawable="qdaily"/>
+
+    <item
+        component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="railway"/>
+
+    <item
+        component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}"
+        drawable="telegram"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="tim"/>
+
+    <item
+        component="ComponentInfo{com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity}"
+        drawable="tmall"/>
+
+    <item
+        component="ComponentInfo{wwAww.icons/com.qigelong.lib.wAwiconpack.MainActivity}"
+        drawable="waw"/>
+
+    <item
+        component="ComponentInfo{com.zhihu.daily.android/com.zhihu.daily.android.activity.MainActivity_}"
+        drawable="zhihu_daily"/>
 
     <!--Game-->
     <item

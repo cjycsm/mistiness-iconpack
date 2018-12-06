@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>10</version>
+    <version>11</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
@@ -29,6 +29,7 @@
     <item drawable="anjian"/>
     <item drawable="baicizhan"/>
     <item drawable="baidu_netdisk"/>
+    <item drawable="baidumap"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_blue"/>
     <item drawable="bladeheart_ninja"/>
@@ -38,13 +39,17 @@
     <item drawable="calculator"/>
     <item drawable="calendar"/>
     <item drawable="camera"/>
+    <item drawable="china_mobile"/>
+    <item drawable="china_telecom"/>
     <item drawable="clock"/>
     <item drawable="cloudmusic"/>
     <item drawable="coolapk"/>
     <item drawable="ctfile"/>
+    <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
     <item drawable="data_migration"/>
     <item drawable="dialer"/>
+    <item drawable="didi"/>
     <item drawable="dkplat"/>
     <item drawable="downloads"/>
     <item drawable="edge_gesture"/>
@@ -54,11 +59,14 @@
     <item drawable="fake_location"/>
     <item drawable="file_manager"/>
     <item drawable="gallery"/>
+    <item drawable="gaode_map"/>
     <item drawable="glass"/>
     <item drawable="google_photos"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
+    <item drawable="gtgj"/>
     <item drawable="heike"/>
+    <item drawable="hupu"/>
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="if_sunshine_alt"/>
@@ -66,6 +74,7 @@
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
     <item drawable="jike"/>
+    <item drawable="jingdong"/>
     <item drawable="karaoke"/>
     <item drawable="lanzou"/>
     <item drawable="lastpass"/>
@@ -74,9 +83,14 @@
     <item drawable="maobing"/>
     <item drawable="map"/>
     <item drawable="mdschool"/>
+    <item drawable="miracles"/>
     <item drawable="mms"/>
+    <item drawable="mobike"/>
     <item drawable="music"/>
     <item drawable="mx"/>
+    <item drawable="netease_mail"/>
+    <item drawable="netease_snailread"/>
+    <item drawable="netease_yanxuan"/>
     <item drawable="note"/>
     <item drawable="nova_launcher"/>
     <item drawable="ocamera"/>
@@ -84,6 +98,7 @@
     <item drawable="powerdirector"/>
     <item drawable="ps"/>
     <item drawable="pu"/>
+    <item drawable="qdaily"/>
     <item drawable="qq"/>
     <item drawable="qq_browser"/>
     <item drawable="qq_music"/>
@@ -92,6 +107,7 @@
     <item drawable="qrcode_scanner"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
+    <item drawable="railway"/>
     <item drawable="read"/>
     <item drawable="relaxio"/>
     <item drawable="remover"/>
@@ -110,6 +126,7 @@
     <item drawable="taobao"/>
     <item drawable="taptap"/>
     <item drawable="tc_cleaner"/>
+    <item drawable="telegram"/>
     <item drawable="tencent_docs"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_qqlive"/>
@@ -118,6 +135,8 @@
     <item drawable="tencent_wifimanager"/>
     <item drawable="theme_center"/>
     <item drawable="thunder_vpn"/>
+    <item drawable="tim"/>
+    <item drawable="tmall"/>
     <item drawable="toolbox"/>
     <item drawable="unicom"/>
     <item drawable="via"/>
@@ -126,6 +145,7 @@
     <item drawable="vtools"/>
     <item drawable="wallet"/>
     <item drawable="walli"/>
+    <item drawable="waw"/>
     <item drawable="weather"/>
     <item drawable="wechat"/>
     <item drawable="weibo"/>
@@ -138,4 +158,5 @@
     <item drawable="youdao_note"/>
     <item drawable="youtube"/>
     <item drawable="zhihu"/>
+    <item drawable="zhihu_daily"/>
 </resources>

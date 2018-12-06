@@ -19,13 +19,27 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>glass</item>
-        <item>shoujimarket</item>
-        <item>weibo_intl</item>
-        <item>read</item>
-        <item>walli</item>
-        <item>bladeheart_ninja</item>
-        <item>wallet</item>
+        <item>baidumap</item>
+        <item>china_mobile</item>
+        <item>china_telecom</item>
+        <item>cuto</item>
+        <item>didi</item>
+        <item>gaode_map</item>
+        <item>gtgj</item>
+        <item>hupu</item>
+        <item>jingdong</item>
+        <item>miracles</item>
+        <item>mobike</item>
+        <item>netease_mail</item>
+        <item>netease_snailread</item>
+        <item>netease_yanxuan</item>
+        <item>qdaily</item>
+        <item>railway</item>
+        <item>telegram</item>
+        <item>tim</item>
+        <item>tmall</item>
+        <item>waw</item>
+        <item>zhihu_daily</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -43,13 +57,27 @@
     </string-array>
 
     <string-array name="newest">
-        <item>glass</item>
-        <item>shoujimarket</item>
-        <item>weibo_intl</item>
-        <item>read</item>
-        <item>walli</item>
-        <item>bladeheart_ninja</item>
-        <item>wallet</item>
+        <item>baidumap</item>
+        <item>china_mobile</item>
+        <item>china_telecom</item>
+        <item>cuto</item>
+        <item>didi</item>
+        <item>gaode_map</item>
+        <item>gtgj</item>
+        <item>hupu</item>
+        <item>jingdong</item>
+        <item>miracles</item>
+        <item>mobike</item>
+        <item>netease_mail</item>
+        <item>netease_snailread</item>
+        <item>netease_yanxuan</item>
+        <item>qdaily</item>
+        <item>railway</item>
+        <item>telegram</item>
+        <item>tim</item>
+        <item>tmall</item>
+        <item>waw</item>
+        <item>zhihu_daily</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -139,6 +167,27 @@
         <item>weibo_intl</item>
         <item>read</item>
         <item>walli</item>
+        <item>baidumap</item>
+        <item>china_mobile</item>
+        <item>china_telecom</item>
+        <item>cuto</item>
+        <item>didi</item>
+        <item>gaode_map</item>
+        <item>gtgj</item>
+        <item>hupu</item>
+        <item>jingdong</item>
+        <item>miracles</item>
+        <item>mobike</item>
+        <item>netease_mail</item>
+        <item>netease_snailread</item>
+        <item>netease_yanxuan</item>
+        <item>qdaily</item>
+        <item>railway</item>
+        <item>telegram</item>
+        <item>tim</item>
+        <item>tmall</item>
+        <item>waw</item>
+        <item>zhihu_daily</item>
     </string-array>
 
     <string-array name="game">
