@@ -19,27 +19,33 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>baidumap</item>
-        <item>china_mobile</item>
-        <item>china_telecom</item>
-        <item>cuto</item>
-        <item>didi</item>
-        <item>gaode_map</item>
-        <item>gtgj</item>
-        <item>hupu</item>
-        <item>jingdong</item>
-        <item>miracles</item>
-        <item>mobike</item>
-        <item>netease_mail</item>
-        <item>netease_snailread</item>
-        <item>netease_yanxuan</item>
-        <item>qdaily</item>
-        <item>railway</item>
-        <item>telegram</item>
-        <item>tim</item>
-        <item>tmall</item>
-        <item>waw</item>
-        <item>zhihu_daily</item>
+        <item>contacts</item>
+        <item>browser</item>
+        <item>browser_alt</item>
+        <item>iqiyi</item>
+        <item>xiachufang</item>
+        <item>ele</item>
+        <item>hippo</item>
+        <item>hippo_alt</item>
+        <item>hunantv</item>
+        <item>maoyan</item>
+        <item>meeye</item>
+        <item>dianping</item>
+        <item>meituan_takeout</item>
+        <item>mijia</item>
+        <item>oblatum</item>
+        <item>pplive</item>
+        <item>pure</item>
+        <item>shadowsocks</item>
+        <item>sorcery</item>
+        <item>hellobike</item>
+        <item>mfw</item>
+        <item>vlc</item>
+        <item>xiami</item>
+        <item>youku</item>
+        <item>mistiness</item>
+        <item>village</item>
+        <item>oneplus_bbs</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -57,30 +63,37 @@
     </string-array>
 
     <string-array name="newest">
-        <item>baidumap</item>
-        <item>china_mobile</item>
-        <item>china_telecom</item>
-        <item>cuto</item>
-        <item>didi</item>
-        <item>gaode_map</item>
-        <item>gtgj</item>
-        <item>hupu</item>
-        <item>jingdong</item>
-        <item>miracles</item>
-        <item>mobike</item>
-        <item>netease_mail</item>
-        <item>netease_snailread</item>
-        <item>netease_yanxuan</item>
-        <item>qdaily</item>
-        <item>railway</item>
-        <item>telegram</item>
-        <item>tim</item>
-        <item>tmall</item>
-        <item>waw</item>
-        <item>zhihu_daily</item>
+        <item>contacts</item>
+        <item>browser</item>
+        <item>browser_alt</item>
+        <item>iqiyi</item>
+        <item>xiachufang</item>
+        <item>ele</item>
+        <item>hippo</item>
+        <item>hippo_alt</item>
+        <item>hunantv</item>
+        <item>maoyan</item>
+        <item>meeye</item>
+        <item>dianping</item>
+        <item>meituan_takeout</item>
+        <item>mijia</item>
+        <item>oblatum</item>
+        <item>pplive</item>
+        <item>pure</item>
+        <item>shadowsocks</item>
+        <item>sorcery</item>
+        <item>hellobike</item>
+        <item>mfw</item>
+        <item>vlc</item>
+        <item>xiami</item>
+        <item>youku</item>
+        <item>mistiness</item>
+        <item>village</item>
+        <item>oneplus_bbs</item>
     </string-array>
 
     <string-array name="upgrade">
+        <item>weibo_intl</item>
     </string-array>
 
     <string-array name="application">
@@ -188,6 +201,30 @@
         <item>tmall</item>
         <item>waw</item>
         <item>zhihu_daily</item>
+        <item>iqiyi</item>
+        <item>xiachufang</item>
+        <item>ele</item>
+        <item>hippo</item>
+        <item>hippo_alt</item>
+        <item>hunantv</item>
+        <item>maoyan</item>
+        <item>meeye</item>
+        <item>dianping</item>
+        <item>meituan_takeout</item>
+        <item>mijia</item>
+        <item>oblatum</item>
+        <item>pplive</item>
+        <item>pure</item>
+        <item>shadowsocks</item>
+        <item>sorcery</item>
+        <item>hellobike</item>
+        <item>mfw</item>
+        <item>vlc</item>
+        <item>xiami</item>
+        <item>youku</item>
+        <item>mistiness</item>
+        <item>village</item>
+        <item>oneplus_bbs</item>
     </string-array>
 
     <string-array name="game">
@@ -244,6 +281,9 @@
         <item>downloads</item>
         <item>dynamic_calendar</item>
         <item>dynamic_weather_default</item>
+        <item>contacts</item>
+        <item>browser</item>
+        <item>browser_alt</item>
     </string-array>
 
 </resources>

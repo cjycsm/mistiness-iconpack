@@ -178,6 +178,14 @@
         component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
         drawable="sound_recorder"/>
 
+    <item
+        component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}"
+        drawable="browser"/>
+
     <!--Application-->
     <item
         component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"
@@ -640,6 +648,98 @@
     <item
         component="ComponentInfo{com.zhihu.daily.android/com.zhihu.daily.android.activity.MainActivity_}"
         drawable="zhihu_daily"/>
+
+    <item
+        component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}"
+        drawable="iqiyi"/>
+
+    <item
+        component="ComponentInfo{com.xiachufang/com.xiachufang.activity.StartPageActivity}"
+        drawable="xiachufang"/>
+
+    <item
+        component="ComponentInfo{me.ele/me.ele.Launcher}"
+        drawable="ele"/>
+
+    <item
+        component="ComponentInfo{com.wudaokou.hippo/com.wudaokou.hippo.launcher.splash.SplashActivity}"
+        drawable="hippo"/>
+
+    <item
+        component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity}"
+        drawable="hunantv"/>
+
+    <item
+        component="ComponentInfo{com.sankuai.movie/com.sankuai.movie.welcome.Welcome}"
+        drawable="maoyan"/>
+
+    <item
+        component="ComponentInfo{com.yeyebbc.meeye.iconpack/com.yeyebbc.meeye.iconpack.MainActivity}"
+        drawable="meeye"/>
+
+    <item
+        component="ComponentInfo{com.dianping.v1/com.dianping.main.guide.SplashScreenActivity}"
+        drawable="dianping"/>
+
+    <item
+        component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}"
+        drawable="meituan_takeout"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}"
+        drawable="mijia"/>
+
+    <item
+        component="ComponentInfo{com.oblatum.iconpack/com.oblatum.iconpack.MainActivity}"
+        drawable="oblatum"/>
+
+    <item
+        component="ComponentInfo{com.pplive.androidphone/com.pplive.androidphone.ui.FirstActivity}"
+        drawable="pplive"/>
+
+    <item
+        component="ComponentInfo{me.morirain.dev.iconpack.pure/me.morirain.dev.iconpack.pure.MainActivity}"
+        drawable="pure"/>
+
+    <item
+        component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.MainActivity}"
+        drawable="shadowsocks"/>
+
+    <item
+        component="ComponentInfo{com.sorcerer.sorcery.iconpack/com.sorcerer.sorcery.iconpack.MainActivity}"
+        drawable="sorcery"/>
+
+    <item
+        component="ComponentInfo{com.jingyao.easybike/com.hellobike.atlas.business.splash.SplashActivity}"
+        drawable="hellobike"/>
+
+    <item
+        component="ComponentInfo{com.mfw.roadbook/com.mfw.roadbook.main.StartActivity}"
+        drawable="mfw"/>
+
+    <item
+        component="ComponentInfo{org.videolan.vlc/org.videolan.vlc.StartActivity}"
+        drawable="vlc"/>
+
+    <item
+        component="ComponentInfo{fm.xiami.main/fm.xiami.main.SplashActivity}"
+        drawable="xiami"/>
+
+    <item
+        component="ComponentInfo{com.youku.phone/com.youku.phone.ActivityWelcome}"
+        drawable="youku"/>
+
+    <item
+        component="ComponentInfo{person.cjy.iconpack.mistiness/person.cjy.iconpack.mistiness.MainActivity}"
+        drawable="mistiness"/>
+
+    <item
+        component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.ui.S}"
+        drawable="village"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}"
+        drawable="oneplus_bbs"/>
 
     <!--Game-->
     <item
