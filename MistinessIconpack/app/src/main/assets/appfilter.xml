@@ -20,6 +20,15 @@
 
 <resources>
 
+    <!--Android-->
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms"/>
+
     <!--Flyme-->
     <item
         component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
@@ -54,10 +63,6 @@
         drawable="safe"/>
 
     <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="settings"/>
-
-    <item
         component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}"
         drawable="sound_recorder"/>
 
@@ -84,10 +89,6 @@
     <item
         component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
         drawable="calendar"/>
-
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="mms"/>
 
     <item
         component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
@@ -143,10 +144,6 @@
         drawable="gallery"/>
 
     <item
-        component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
-        drawable="settings"/>
-
-    <item
         component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}"
         drawable="clock"/>
 
@@ -161,10 +158,6 @@
     <item
         component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
         drawable="camera"/>
-
-    <item
-        component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="mms"/>
 
     <item
         component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}"
@@ -518,17 +511,7 @@
     <item
         component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.MainActivity}"
         drawable="thunder_vpn"/>
-    <item
-        component="ComponentInfo{com.cl.newt66y/com.cl.newt66y.MainActivity}"
-        drawable="glass"/>
 
-    <item
-        component="ComponentInfo{cn.com.shouji.market/cn.com.shouji.market.LogoActivity}"
-        drawable="shoujimarket"/>
-
-    <item
-        component="ComponentInfo{com.heimai666.ninja/ninja.heimai6666.com.mylibrary.HMYXUnityActivity}"
-        drawable="bladeheart_ninja"/>
     <item
         component="ComponentInfo{com.cl.newt66y/com.cl.newt66y.MainActivity}"
         drawable="glass"/>
@@ -540,22 +523,6 @@
     <item
         component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
         drawable="weibo_intl"/>
-
-    <item
-        component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeActivity}"
-        drawable="read"/>
-
-    <item
-        component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}"
-        drawable="walli"/>
-
-    <item
-        component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}"
-        drawable="weibo_intl"/>
-
-    <item
-        component="ComponentInfo{com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity}"
-        drawable="wallet"/>
 
     <item
         component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeActivity}"
