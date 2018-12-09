@@ -19,33 +19,12 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>contacts</item>
-        <item>browser</item>
-        <item>browser_alt</item>
-        <item>iqiyi</item>
-        <item>xiachufang</item>
-        <item>ele</item>
-        <item>hippo</item>
-        <item>hippo_alt</item>
-        <item>hunantv</item>
-        <item>maoyan</item>
-        <item>meeye</item>
-        <item>dianping</item>
-        <item>meituan_takeout</item>
-        <item>mijia</item>
-        <item>oblatum</item>
-        <item>pplive</item>
-        <item>pure</item>
-        <item>shadowsocks</item>
-        <item>sorcery</item>
-        <item>hellobike</item>
-        <item>mfw</item>
+        <item>dialer</item>
         <item>vlc</item>
-        <item>xiami</item>
-        <item>youku</item>
-        <item>mistiness</item>
-        <item>village</item>
-        <item>oneplus_bbs</item>
+        <item>wooden_letter</item>
+        <item>camera</item>
+        <item>calculator</item>
+        <item>store</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -63,37 +42,16 @@
     </string-array>
 
     <string-array name="newest">
-        <item>contacts</item>
-        <item>browser</item>
-        <item>browser_alt</item>
-        <item>iqiyi</item>
-        <item>xiachufang</item>
-        <item>ele</item>
-        <item>hippo</item>
-        <item>hippo_alt</item>
-        <item>hunantv</item>
-        <item>maoyan</item>
-        <item>meeye</item>
-        <item>dianping</item>
-        <item>meituan_takeout</item>
-        <item>mijia</item>
-        <item>oblatum</item>
-        <item>pplive</item>
-        <item>pure</item>
-        <item>shadowsocks</item>
-        <item>sorcery</item>
-        <item>hellobike</item>
-        <item>mfw</item>
-        <item>vlc</item>
-        <item>xiami</item>
-        <item>youku</item>
-        <item>mistiness</item>
-        <item>village</item>
-        <item>oneplus_bbs</item>
+
     </string-array>
 
     <string-array name="upgrade">
-        <item>weibo_intl</item>
+        <item>dialer</item>
+        <item>vlc</item>
+        <item>wooden_letter</item>
+        <item>camera</item>
+        <item>calculator</item>
+        <item>store</item>
     </string-array>
 
     <string-array name="application">
