@@ -19,12 +19,24 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>dialer</item>
-        <item>vlc</item>
-        <item>wooden_letter</item>
+        <item>baidu_ime</item>
+        <item>sogou_ime</item>
+        <item>ifly_ime</item>
+        <item>ximalaya</item>
+        <item>jianshu</item>
+        <item>uc</item>
+        <item>firefox</item>
+        <item>chrome</item>
+        <item>chrome_alt</item>
+        <item>yyets</item>
         <item>camera</item>
-        <item>calculator</item>
-        <item>store</item>
+        <item>dialer</item>
+        <item>edge_gesture</item>
+        <item>file_manager</item>
+        <item>gallery</item>
+        <item>idlefish</item>
+        <item>jingdong</item>
+        <item>taptap</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -42,16 +54,27 @@
     </string-array>
 
     <string-array name="newest">
-
+        <item>baidu_ime</item>
+        <item>sogou_ime</item>
+        <item>ifly_ime</item>
+        <item>ximalaya</item>
+        <item>jianshu</item>
+        <item>uc</item>
+        <item>firefox</item>
+        <item>chrome</item>
+        <item>chrome_alt</item>
+        <item>yyets</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>dialer</item>
-        <item>vlc</item>
-        <item>wooden_letter</item>
         <item>camera</item>
-        <item>calculator</item>
-        <item>store</item>
+        <item>dialer</item>
+        <item>edge_gesture</item>
+        <item>file_manager</item>
+        <item>gallery</item>
+        <item>idlefish</item>
+        <item>jingdong</item>
+        <item>taptap</item>
     </string-array>
 
     <string-array name="application">
@@ -183,6 +206,16 @@
         <item>mistiness</item>
         <item>village</item>
         <item>oneplus_bbs</item>
+        <item>baidu_ime</item>
+        <item>sogou_ime</item>
+        <item>ifly_ime</item>
+        <item>ximalaya</item>
+        <item>jianshu</item>
+        <item>uc</item>
+        <item>firefox</item>
+        <item>chrome</item>
+        <item>chrome_alt</item>
+        <item>yyets</item>
     </string-array>
 
     <string-array name="game">

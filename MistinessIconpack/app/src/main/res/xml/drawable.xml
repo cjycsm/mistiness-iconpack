@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>13</version>
+    <version>14</version>
 
     <category title="All"/>
     <item drawable="adm_pro"/>
@@ -27,7 +27,9 @@
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
     <item drawable="anjian"/>
+    <item drawable="app_logo"/>
     <item drawable="baicizhan"/>
+    <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidumap"/>
     <item drawable="bilibili"/>
@@ -43,6 +45,8 @@
     <item drawable="camera"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
+    <item drawable="chrome"/>
+    <item drawable="chrome_alt"/>
     <item drawable="clock"/>
     <item drawable="cloudmusic"/>
     <item drawable="contacts"/>
@@ -63,6 +67,7 @@
     <item drawable="express_vpn"/>
     <item drawable="fake_location"/>
     <item drawable="file_manager"/>
+    <item drawable="firefox"/>
     <item drawable="gallery"/>
     <item drawable="gaode_map"/>
     <item drawable="glass"/>
@@ -79,10 +84,12 @@
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="if_sunshine_alt"/>
+    <item drawable="ifly_ime"/>
     <item drawable="imusic"/>
     <item drawable="iqiyi"/>
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
+    <item drawable="jianshu"/>
     <item drawable="jike"/>
     <item drawable="jingdong"/>
     <item drawable="karaoke"/>
@@ -138,6 +145,7 @@
     <item drawable="shoujimarket"/>
     <item drawable="signal_master"/>
     <item drawable="snapseed"/>
+    <item drawable="sogou_ime"/>
     <item drawable="solid_explorer"/>
     <item drawable="sorcery"/>
     <item drawable="sound_recorder"/>
@@ -159,6 +167,7 @@
     <item drawable="tim"/>
     <item drawable="tmall"/>
     <item drawable="toolbox"/>
+    <item drawable="uc"/>
     <item drawable="unicom"/>
     <item drawable="via"/>
     <item drawable="video"/>
@@ -179,10 +188,13 @@
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
+    <item drawable="ximalaya"/>
     <item drawable="xunlei"/>
     <item drawable="youdao_note"/>
     <item drawable="youku"/>
     <item drawable="youtube"/>
+    <item drawable="yyets"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
+
 </resources>

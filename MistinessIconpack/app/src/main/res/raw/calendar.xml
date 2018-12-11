@@ -6,6 +6,5 @@
         <drawable value="" res="dynamic_calendar"/>
     </item>
 
-    <item type="text" key="day" alignX="center" alignY="center" textSize = "25dp" font="sans-serif" color="white"/>
-
+    <item type="text" key="day" alignX="center" alignY="center" textSize="22dp" font="sans-serif" color="white"/>
 </resources>

@@ -708,6 +708,42 @@
         component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}"
         drawable="oneplus_bbs"/>
 
+    <item
+        component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}"
+        drawable="baidu_ime"/>
+
+    <item
+        component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}"
+        drawable="sogou_ime"/>
+
+    <item
+        component="ComponentInfo{com.iflytek.inputmethod/com.iflytek.inputmethod.LauncherActivity}"
+        drawable="ifly_ime"/>
+
+    <item
+        component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}"
+        drawable="ximalaya"/>
+
+    <item
+        component="ComponentInfo{com.jianshu.haruki/com.baiji.jianshu.ui.splash.SplashScreenActivity}"
+        drawable="jianshu"/>
+
+    <item
+        component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}"
+        drawable="uc"/>
+
+    <item
+        component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}"
+        drawable="firefox"/>
+
+    <item
+        component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}"
+        drawable="chrome"/>
+
+    <item
+        component="ComponentInfo{com.yyets.pro/com.yyets.zimuzu.SplashActivity}"
+        drawable="yyets"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
