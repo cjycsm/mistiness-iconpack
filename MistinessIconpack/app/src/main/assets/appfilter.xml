@@ -121,11 +121,13 @@
     <!--H2OS-->
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
-        xml="calendar" />
+        xml="calendar"
+        drawable="calendar"/>
 
     <item
         component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}"
-        xml="weather" />
+        xml="weather"
+        drawable="weather"/>
 
     <item
         component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}"

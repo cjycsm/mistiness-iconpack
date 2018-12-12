@@ -269,8 +269,8 @@
         <item>mms</item>
         <item>calculator</item>
         <item>downloads</item>
-        <item>dynamic_calendar</item>
-        <item>dynamic_weather_default</item>
+        <item>calendar</item>
+        <item>weather</item>
         <item>contacts</item>
         <item>browser</item>
         <item>browser_alt</item>
