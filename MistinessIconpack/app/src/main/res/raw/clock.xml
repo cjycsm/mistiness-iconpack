@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" key="background">
+        <drawable value="" res="dynamic_clock_background"/>
+    </item>
+    <item type="drawable" key="hour_hand">
+        <drawable value="" res="dynamic_clock_hour_hand"/>
+    </item>
+    <item type="drawable" key="minute_hand">
+        <drawable value="" res="dynamic_clock_minute_hand"/>
+    </item>
+</resources>
