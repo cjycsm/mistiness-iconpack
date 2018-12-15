@@ -935,6 +935,190 @@
         component="ComponentInfo{com.tencent.weishi/com.tencent.oscar.module.splash.SplashActivity}"
         drawable="tencent_weishi"/>
 
+    <item
+        component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}"
+        drawable="artical_news"/>
+
+    <item
+        component="ComponentInfo{com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity}"
+        drawable="ireader"/>
+
+    <item
+        component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkReaderActivity}"
+        drawable="duokan"/>
+
+    <item
+        component="ComponentInfo{com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity}"
+        drawable="lovereader"/>
+
+    <item
+        component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}"
+        drawable="moonread"/>
+
+    <item
+        component="ComponentInfo{flipboard.cn/flipboard.activities.LaunchActivityAlias}"
+        drawable="flipboard"/>
+
+    <item
+        component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.AdActivity}"
+        drawable="netease_news"/>
+
+    <item
+        component="ComponentInfo{com.myzaker.ZAKER_Phone/com.myzaker.ZAKER_Phone.view.LogoActivity}"
+        drawable="zaker"/>
+
+    <item
+        component="ComponentInfo{com.jiemian.news/com.jiemian.news.module.splash.SplashActivity}"
+        drawable="jiemian"/>
+
+    <item
+        component="ComponentInfo{com.ifeng.news2/com.ifeng.news2.activity.SplashActivity}"
+        drawable="feng_news"/>
+
+    <item
+        component="ComponentInfo{com.wondertek.paper/cn.thepaper.paper.ui.splash.welcome.LaunchActivity}"
+        drawable="paper"/>
+
+    <item
+        component="ComponentInfo{cn.ibuka.manga.ui/cn.ibuka.manga.ui.ActivityStartup}"
+        drawable="buka"/>
+
+    <item
+        component="ComponentInfo{com.qq.ac.android/com.qq.ac.android.view.activity.SplashActivity}"
+        drawable="tencent_ac"/>
+
+    <item
+        component="ComponentInfo{com.mandongkeji.comiclover/com.mandongkeji.comiclover.splash.SplashV2Activity}"
+        drawable="comiclover"/>
+
+    <item
+        component="ComponentInfo{com.android.comicsisland.activity/com.android.comicsisland.activity.SplashLogoActivity}"
+        drawable="comics_island"/>
+
+    <item
+        component="ComponentInfo{com.qidian.QDReader.cps/com.qidian.QDReader.ui.activity.SplashActivity}"
+        drawable="qidian_novel"/>
+
+    <item
+        component="ComponentInfo{com.ushaqi.zhuishushenqi/com.ushaqi.zhuishushenqi.ui.SplashActivity}"
+        drawable="zhuishushenqi"/>
+
+    <item
+        component="ComponentInfo{com.tencent.androidqqmail/com.tencent.qqmail.launcher.desktop.LauncherActivity}"
+        drawable="qq_mail"/>
+
+    <item
+        component="ComponentInfo{com.snda.wifilocating/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifi_locating"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="tiptap"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.article.video/com.ss.android.article.video.activity.SplashActivity}"
+        drawable="article_video"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.ugc.live/com.ss.android.ugc.live.main.MainActivity}"
+        drawable="huoshan"/>
+
+    <item
+        component="ComponentInfo{tv.acfundanmaku.video/tv.acfun.core.view.activity.SplashActivity}"
+        drawable="acfun"/>
+
+    <item
+        component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}"
+        drawable="kuaishou"/>
+
+    <item
+        component="ComponentInfo{cn.cntv/cn.cntv.ui.activity.SplashActivity}"
+        drawable="cntv"/>
+
+    <item
+        component="ComponentInfo{com.storm.smart/com.storm.smart.LogoActivity}"
+        drawable="storm"/>
+
+    <item
+        component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}"
+        drawable="kugou"/>
+
+    <item
+        component="ComponentInfo{cn.kuwo.player/cn.kuwo.player.activities.EntryActivity}"
+        drawable="kuwo"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqmusiclocalplayer/com.tencent.qqmusiclocalplayer.app.activity.AppStarterActivity}"
+        drawable="qq_music_local"/>
+
+    <item
+        component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}"
+        drawable="retor_music"/>
+
+    <item
+        component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYLauncherActivity}"
+        drawable="douyu"/>
+
+    <item
+        component="ComponentInfo{com.duowan.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}"
+        drawable="huya"/>
+
+    <item
+        component="ComponentInfo{com.panda.videoliveplatform/com.panda.videoliveplatform.activity.WelcomeActivity}"
+        drawable="panda"/>
+
+    <item
+        component="ComponentInfo{android.zhibo8/android.zhibo8.ui.contollers.main.LaunchActivity}"
+        drawable="zhibo8"/>
+
+    <item
+        component="ComponentInfo{tv.xiaoka.live/tv.xiaoka.live.activity.AppSplashActivity}"
+        drawable="yi_live"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{vStudio.Android.Camera360/vStudio.Android.Camera360.activity.CameraActivity}"
+        drawable="camera360"/>
+
+    <item
+        component="ComponentInfo{com.neuralprisma/com.prisma.starter.StarterActivity}"
+        drawable="prisma"/>
+
+    <item
+        component="ComponentInfo{com.campmobile.snowcamera/com.linecorp.b612.android.activity.ActivityCamera}"
+        drawable="b612"/>
+
+    <item
+        component="ComponentInfo{com.blink.academy.nomo/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}"
+        drawable="nomo"/>
+
+    <item
+        component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.business.login.LoadingPageActivity}"
+        drawable="faceu"/>
+
+    <item
+        component="ComponentInfo{com.meitu.meiyancamera/com.meitu.meiyancamera.MyxjActivity}"
+        drawable="meiyan_camera"/>
+
+    <item
+        component="ComponentInfo{com.gorgeous.lite/com.light.beauty.login.LoadingPageActivity}"
+        drawable="light_beauty"/>
+
+    <item
+        component="ComponentInfo{com.mt.mtxx.mtxx/com.mt.mtxx.mtxx.TopViewActivity}"
+        drawable="mtxx"/>
+
+    <item
+        component="ComponentInfo{com.tencent.ttpic/com.tencent.ttpic.module.MainActivity}"
+        drawable="ttpic"/>
+
+    <item
+        component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
+        drawable="pic_folder"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"

@@ -19,57 +19,59 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>google_pinyin_ime</item>
-        <item>gboard</item>
-        <item>shouxin_ime</item>
-        <item>fooview</item>
-        <item>sdclear</item>
-        <item>estrongs</item>
-        <item>root_explore</item>
-        <item>sdm</item>
-        <item>dir</item>
-        <item>adaway</item>
-        <item>power_clean</item>
-        <item>lbe_security</item>
-        <item>qihoo_mobile_safe</item>
-        <item>qihoo_antivirus</item>
-        <item>supersu</item>
-        <item>kingroot</item>
-        <item>titanium_backup</item>
-        <item>antutu</item>
-        <item>myandroidtools</item>
-        <item>tasker</item>
-        <item>cpu_z</item>
-        <item>microsoft_launcher</item>
-        <item>xingkong</item>
-        <item>xingkong_alt</item>
-        <item>total_launcher</item>
-        <item>poco_launcher</item>
-        <item>word</item>
-        <item>hi</item>
-        <item>away_from_mobile</item>
-        <item>huoying</item>
-        <item>search_picture_tool</item>
-        <item>substratum</item>
-        <item>qqi</item>
-        <item>qqlite</item>
-        <item>bullet_messenger</item>
-        <item>dingtalk</item>
-        <item>wangxin</item>
-        <item>yixin</item>
-        <item>share</item>
-        <item>weico</item>
-        <item>emore</item>
-        <item>welike</item>
-        <item>weibo_lite</item>
-        <item>qzone</item>
-        <item>tantan</item>
-        <item>momo</item>
-        <item>changba</item>
-        <item>tencent_weishi</item>
-        <item>clock</item>
-        <item>calendar</item>
-        <item>netease_yanxuan</item>
+        <item>artical_news</item>
+        <item>ireader</item>
+        <item>duokan</item>
+        <item>loveread</item>
+        <item>moonreader</item>
+        <item>flipboard</item>
+        <item>netease_news</item>
+        <item>zaker</item>
+        <item>jiemian</item>
+        <item>feng_news</item>
+        <item>paper</item>
+        <item>buka</item>
+        <item>tencent_ac</item>
+        <item>tencent_ac_alt</item>
+        <item>comiclover</item>
+        <item>comics_island</item>
+        <item>qidian_novel</item>
+        <item>zhuishushenqi</item>
+        <item>qq_mail</item>
+        <item>wifi_locating</item>
+        <item>tiptap</item>
+        <item>article_video</item>
+        <item>huoshan</item>
+        <item>acfun</item>
+        <item>kuaishou</item>
+        <item>cntv</item>
+        <item>storm</item>
+        <item>kugou</item>
+        <item>kuwo</item>
+        <item>qq_music_local</item>
+        <item>retor_music</item>
+        <item>douyu</item>
+        <item>douyu_alt</item>
+        <item>huya</item>
+        <item>panda</item>
+        <item>panda_alt</item>
+        <item>zhibo8</item>
+        <item>yi_live</item>
+        <item>google_camera</item>
+        <item>camera360</item>
+        <item>camera360_alt</item>
+        <item>prisma</item>
+        <item>b612</item>
+        <item>nomo</item>
+        <item>faceu</item>
+        <item>meiyan_camera</item>
+        <item>light_beauty</item>
+        <item>mtxx</item>
+        <item>mtxx_alt</item>
+        <item>ttpic</item>
+        <item>pic_folder</item>
+        <item>sound_recorder</item>
+        <item>sound_recorder_alt</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -87,60 +89,63 @@
     </string-array>
 
     <string-array name="newest">
-        <item>google_pinyin_ime</item>
-        <item>gboard</item>
-        <item>shouxin_ime</item>
-        <item>fooview</item>
-        <item>sdclear</item>
-        <item>estrongs</item>
-        <item>root_explore</item>
-        <item>sdm</item>
-        <item>dir</item>
-        <item>adaway</item>
-        <item>power_clean</item>
-        <item>lbe_security</item>
-        <item>qihoo_mobile_safe</item>
-        <item>qihoo_antivirus</item>
-        <item>supersu</item>
-        <item>kingroot</item>
-        <item>titanium_backup</item>
-        <item>antutu</item>
-        <item>myandroidtools</item>
-        <item>tasker</item>
-        <item>cpu_z</item>
-        <item>microsoft_launcher</item>
-        <item>xingkong</item>
-        <item>xingkong_alt</item>
-        <item>total_launcher</item>
-        <item>poco_launcher</item>
-        <item>word</item>
-        <item>hi</item>
-        <item>away_from_mobile</item>
-        <item>huoying</item>
-        <item>search_picture_tool</item>
-        <item>substratum</item>
-        <item>qqi</item>
-        <item>qqlite</item>
-        <item>bullet_messenger</item>
-        <item>dingtalk</item>
-        <item>wangxin</item>
-        <item>yixin</item>
-        <item>share</item>
-        <item>weico</item>
-        <item>emore</item>
-        <item>welike</item>
-        <item>weibo_lite</item>
-        <item>qzone</item>
-        <item>tantan</item>
-        <item>momo</item>
-        <item>changba</item>
-        <item>tencent_weishi</item>
+        <item>artical_news</item>
+        <item>ireader</item>
+        <item>duokan</item>
+        <item>loveread</item>
+        <item>moonreader</item>
+        <item>flipboard</item>
+        <item>netease_news</item>
+        <item>zaker</item>
+        <item>jiemian</item>
+        <item>feng_news</item>
+        <item>paper</item>
+        <item>buka</item>
+        <item>tencent_ac</item>
+        <item>tencent_ac_alt</item>
+        <item>comiclover</item>
+        <item>comics_island</item>
+        <item>qidian_novel</item>
+        <item>zhuishushenqi</item>
+        <item>qq_mail</item>
+        <item>wifi_locating</item>
+        <item>tiptap</item>
+        <item>article_video</item>
+        <item>huoshan</item>
+        <item>acfun</item>
+        <item>kuaishou</item>
+        <item>cntv</item>
+        <item>storm</item>
+        <item>kugou</item>
+        <item>kuwo</item>
+        <item>qq_music_local</item>
+        <item>retor_music</item>
+        <item>douyu</item>
+        <item>douyu_alt</item>
+        <item>huya</item>
+        <item>panda</item>
+        <item>panda_alt</item>
+        <item>zhibo8</item>
+        <item>yi_live</item>
+        <item>google_camera</item>
+        <item>camera360</item>
+        <item>camera360_alt</item>
+        <item>prisma</item>
+        <item>b612</item>
+        <item>nomo</item>
+        <item>faceu</item>
+        <item>meiyan_camera</item>
+        <item>light_beauty</item>
+        <item>mtxx</item>
+        <item>mtxx_alt</item>
+        <item>ttpic</item>
+        <item>pic_folder</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>clock</item>
-        <item>calendar</item>
-        <item>netease_yanxuan</item>
+        <item>sound_recorder</item>
+        <item>sound_recorder_alt</item>
+        <item>sorcery</item>
     </string-array>
 
     <string-array name="application">
@@ -330,6 +335,57 @@
         <item>momo</item>
         <item>changba</item>
         <item>tencent_weishi</item>
+        <item>artical_news</item>
+        <item>ireader</item>
+        <item>duokan</item>
+        <item>loveread</item>
+        <item>moonreader</item>
+        <item>flipboard</item>
+        <item>netease_news</item>
+        <item>zaker</item>
+        <item>jiemian</item>
+        <item>feng_news</item>
+        <item>paper</item>
+        <item>buka</item>
+        <item>tencent_ac</item>
+        <item>tencent_ac_alt</item>
+        <item>comiclover</item>
+        <item>comics_island</item>
+        <item>qidian_novel</item>
+        <item>zhuishushenqi</item>
+        <item>qq_mail</item>
+        <item>wifi_locating</item>
+        <item>tiptap</item>
+        <item>article_video</item>
+        <item>huoshan</item>
+        <item>acfun</item>
+        <item>kuaishou</item>
+        <item>cntv</item>
+        <item>storm</item>
+        <item>kugou</item>
+        <item>kuwo</item>
+        <item>qq_music_local</item>
+        <item>retor_music</item>
+        <item>douyu</item>
+        <item>douyu_alt</item>
+        <item>huya</item>
+        <item>panda</item>
+        <item>panda_alt</item>
+        <item>zhibo8</item>
+        <item>yi_live</item>
+        <item>google_camera</item>
+        <item>camera360</item>
+        <item>camera360_alt</item>
+        <item>prisma</item>
+        <item>b612</item>
+        <item>nomo</item>
+        <item>faceu</item>
+        <item>meiyan_camera</item>
+        <item>light_beauty</item>
+        <item>mtxx</item>
+        <item>mtxx_alt</item>
+        <item>ttpic</item>
+        <item>pic_folder</item>
     </string-array>
 
     <string-array name="game">
@@ -354,6 +410,7 @@
         <item>safe</item>
         <item>settings</item>
         <item>sound_recorder</item>
+        <item>sound_recorder_alt</item>
         <item>theme_center</item>
         <item>toolbox</item>
         <item>weather</item>
@@ -388,6 +445,9 @@
         <item>contacts</item>
         <item>browser</item>
         <item>browser_alt</item>
+        <item>email</item>
+        <item>sound_recorder</item>
+        <item>sound_recorder_alt</item>
     </string-array>
 
 </resources>
