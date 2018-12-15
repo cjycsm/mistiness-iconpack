@@ -480,7 +480,7 @@
         drawable="lucky_patcher"/>
 
     <item
-        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}"
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}"
         drawable="mx"/>
 
     <item

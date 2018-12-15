@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v0.4.0-beta" />
+    <version title="v0.4.1-beta" />
     <item text="新增48枚图标" />
     <item text="重绘3枚图标" />
     <item text="支持一加动态时钟图标" />

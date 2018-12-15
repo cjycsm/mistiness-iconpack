@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>15</version>
+    <version>16</version>
 
     <category title="All"/>
     <item drawable="adaway"/>
