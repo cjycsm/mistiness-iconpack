@@ -140,7 +140,7 @@
 
     <item
         component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
-        drawable="wallet"/>
+        drawable="card"/>
 
     <item
         component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"

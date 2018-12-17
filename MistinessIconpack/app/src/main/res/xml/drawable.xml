@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>17</version>
+    <version>18</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -54,6 +54,8 @@
     <item drawable="camera"/>
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
+    <item drawable="card"/>
+    <item drawable="card_alt"/>
     <item drawable="changba"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
@@ -189,6 +191,7 @@
     <item drawable="qihoo_antivirus"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qq"/>
+    <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
@@ -196,7 +199,9 @@
     <item drawable="qq_pim"/>
     <item drawable="qq_token"/>
     <item drawable="qqi"/>
+    <item drawable="qqi_alt"/>
     <item drawable="qqlite"/>
+    <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
