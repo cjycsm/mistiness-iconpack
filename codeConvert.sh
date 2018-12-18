@@ -1,13 +1,23 @@
 #!/bin/bash
 
-file=newest.csv
-filterFile=filter.txt
 IFS=","
 while read name icon group activity type
 do
 	echo "<item
 	component=\"ComponentInfo{$group/$activity}\"
 	drawable=\"$icon\"/>
-" >> $filterFile
+	" >> "filter.txt"
+
+	echo "<item
+	class=\"$activity\"
+	name=\"$icon\"/>
+	" >> "map.txt"
+	
+	echo "<AppIcon
+	name=\"$group/$activity\"
+	image=\"$icon\"/>
+	" >> "theme.txt"
+
 	echo "<item>$icon</item>" >> "$type.txt"
-done < $file
+	
+done < "newest.csv"
