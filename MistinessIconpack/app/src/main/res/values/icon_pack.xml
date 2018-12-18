@@ -19,59 +19,30 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>artical_news</item>
-        <item>ireader</item>
-        <item>duokan</item>
-        <item>loveread</item>
-        <item>moonreader</item>
-        <item>flipboard</item>
-        <item>netease_news</item>
-        <item>zaker</item>
-        <item>jiemian</item>
-        <item>feng_news</item>
-        <item>paper</item>
-        <item>buka</item>
+        <item>baidu_netdisk</item>
+        <item>baidu_netdisk_alt</item>
+        <item>bilibili</item>
+        <item>bilibili_alt</item>
+        <item>bilibili_blue</item>
+        <item>bilibili_blue_alt</item>
+        <item>china_telecom</item>
+        <item>cloudmusic</item>
+        <item>contacts</item>
+        <item>downloads</item>
+        <item>email</item>
+        <item>email_alt</item>
+        <item>iqiyi</item>
+        <item>maobing</item>
+        <item>map</item>
+        <item>miracles</item>
+        <item>qq_music</item>
+        <item>quqi</item>
+        <item>read</item>
+        <item>shadowsocksr</item>
         <item>tencent_ac</item>
-        <item>tencent_ac_alt</item>
-        <item>comiclover</item>
-        <item>comics_island</item>
-        <item>qidian_novel</item>
-        <item>zhuishushenqi</item>
-        <item>qq_mail</item>
-        <item>wifi_locating</item>
-        <item>tiptap</item>
-        <item>article_video</item>
-        <item>huoshan</item>
-        <item>acfun</item>
-        <item>kuaishou</item>
-        <item>cntv</item>
-        <item>storm</item>
-        <item>kugou</item>
-        <item>kuwo</item>
-        <item>qq_music_local</item>
-        <item>retor_music</item>
-        <item>douyu</item>
-        <item>douyu_alt</item>
-        <item>huya</item>
-        <item>panda</item>
-        <item>panda_alt</item>
-        <item>zhibo8</item>
-        <item>yi_live</item>
-        <item>google_camera</item>
-        <item>camera360</item>
-        <item>camera360_alt</item>
-        <item>prisma</item>
-        <item>b612</item>
-        <item>nomo</item>
-        <item>faceu</item>
-        <item>meiyan_camera</item>
-        <item>light_beauty</item>
-        <item>mtxx</item>
-        <item>mtxx_alt</item>
-        <item>ttpic</item>
-        <item>pic_folder</item>
-        <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
+        <item>tencent_qqlive</item>
+        <item>tencent_secure</item>
+        <item>zhihu</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -89,63 +60,33 @@
     </string-array>
 
     <string-array name="newest">
-        <item>artical_news</item>
-        <item>ireader</item>
-        <item>duokan</item>
-        <item>loveread</item>
-        <item>moonreader</item>
-        <item>flipboard</item>
-        <item>netease_news</item>
-        <item>zaker</item>
-        <item>jiemian</item>
-        <item>feng_news</item>
-        <item>paper</item>
-        <item>buka</item>
-        <item>tencent_ac</item>
-        <item>tencent_ac_alt</item>
-        <item>comiclover</item>
-        <item>comics_island</item>
-        <item>qidian_novel</item>
-        <item>zhuishushenqi</item>
-        <item>qq_mail</item>
-        <item>wifi_locating</item>
-        <item>tiptap</item>
-        <item>article_video</item>
-        <item>huoshan</item>
-        <item>acfun</item>
-        <item>kuaishou</item>
-        <item>cntv</item>
-        <item>storm</item>
-        <item>kugou</item>
-        <item>kuwo</item>
-        <item>qq_music_local</item>
-        <item>retor_music</item>
-        <item>douyu</item>
-        <item>douyu_alt</item>
-        <item>huya</item>
-        <item>panda</item>
-        <item>panda_alt</item>
-        <item>zhibo8</item>
-        <item>yi_live</item>
-        <item>google_camera</item>
-        <item>camera360</item>
-        <item>camera360_alt</item>
-        <item>prisma</item>
-        <item>b612</item>
-        <item>nomo</item>
-        <item>faceu</item>
-        <item>meiyan_camera</item>
-        <item>light_beauty</item>
-        <item>mtxx</item>
-        <item>mtxx_alt</item>
-        <item>ttpic</item>
-        <item>pic_folder</item>
+        <item>baidu_netdisk_alt</item>
+        <item>bilibili_alt</item>
+        <item>bilibili_blue_alt</item>
+        <item>email_alt</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
-        <item>sorcery</item>
+        <item>baidu_netdisk</item>
+        <item>bilibili</item>
+        <item>bilibili_blue</item>
+        <item>china_telecom</item>
+        <item>cloudmusic</item>
+        <item>contacts</item>
+        <item>downloads</item>
+        <item>email</item>
+        <item>iqiyi</item>
+        <item>maobing</item>
+        <item>map</item>
+        <item>miracles</item>
+        <item>qq_music</item>
+        <item>quqi</item>
+        <item>read</item>
+        <item>shadowsocksr</item>
+        <item>tencent_ac</item>
+        <item>tencent_qqlive</item>
+        <item>tencent_secure</item>
+        <item>zhihu</item>
     </string-array>
 
     <string-array name="application">
@@ -154,8 +95,11 @@
         <item>anjian</item>
         <item>baicizhan</item>
         <item>baidu_netdisk</item>
+        <item>baidu_netdisk_alt</item>
         <item>bilibili</item>
+        <item>bilibili_alt</item>
         <item>bilibili_blue</item>
+        <item>bilibili_blue_alt</item>
         <item>brevent</item>
         <item>cloudmusic</item>
         <item>coolapk</item>
@@ -348,7 +292,6 @@
         <item>paper</item>
         <item>buka</item>
         <item>tencent_ac</item>
-        <item>tencent_ac_alt</item>
         <item>comiclover</item>
         <item>comics_island</item>
         <item>qidian_novel</item>
@@ -423,6 +366,7 @@
         <item>gallery</item>
         <item>store</item>
         <item>email</item>
+        <item>email_alt</item>
         <item>video</item>
         <item>wallet</item>
     </string-array>
@@ -446,6 +390,7 @@
         <item>browser</item>
         <item>browser_alt</item>
         <item>email</item>
+        <item>email_alt</item>
         <item>sound_recorder</item>
         <item>sound_recorder_alt</item>
     </string-array>

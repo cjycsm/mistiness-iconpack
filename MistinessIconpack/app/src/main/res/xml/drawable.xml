@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>18</version>
+    <version>19</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -38,9 +38,12 @@
     <item drawable="baicizhan"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
+    <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidumap"/>
     <item drawable="bilibili"/>
+    <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
+    <item drawable="bilibili_blue_alt"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="brevent"/>
     <item drawable="browser"/>
@@ -86,6 +89,7 @@
     <item drawable="edge_gesture"/>
     <item drawable="ele"/>
     <item drawable="email"/>
+    <item drawable="email_alt"/>
     <item drawable="emore"/>
     <item drawable="emoticon_creater"/>
     <item drawable="estrongs"/>
