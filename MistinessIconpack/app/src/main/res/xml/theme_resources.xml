@@ -1123,6 +1123,74 @@
         name="com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity"
         image="pic_folder"/>
 
+    <AppIcon
+        name="com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity"
+        image="greenify"/>
+
+    <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity"
+        image="google"/>
+
+    <AppIcon
+        name="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity"
+        image="icebox"/>
+
+    <AppIcon
+        name="com.kapp.ifont/com.kapp.ifont.ui.SplashScreenActivity"
+        image="ifont"/>
+
+    <AppIcon
+        name="com.xinmei365.font/com.xinmei365.font.ui.activity.SplashActivity"
+        image="font"/>
+
+    <AppIcon
+        name="bin.mt.plus/l.ۦۦ۠ۗ"
+        image="mt"/>
+
+    <AppIcon
+        name="com.cleanmaster.mguard_cn/com.keniu.security.main.MainActivity"
+        image="liebao_clean_master"/>
+
+    <AppIcon
+        name="com.xzr.La.systemtoolbox/com.xzr.La.systemtoolbox.MainActivity"
+        image="la_systemtoolbox"/>
+
+    <AppIcon
+        name="com.ludashi.benchmark/com.ludashi.benchmark.SplashActivity"
+        image="ludashi"/>
+
+    <AppIcon
+        name="me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher"
+        image="airfrozen"/>
+
+    <AppIcon
+        name="com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity"
+        image="floating"/>
+
+    <AppIcon
+        name="com.tencent.FileManager/com.tencent.mtt.SplashActivity"
+        image="tencent_filemanager"/>
+
+    <AppIcon
+        name="ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher"
+        image="lawnchair"/>
+
+    <AppIcon
+        name="com.orekie.search/com.orekie.search.components.EntryActivity"
+        image="search"/>
+
+    <AppIcon
+        name="com.nokia.z/com.nokia.z.ui.NextUIMain"
+        image="z_launcher"/>
+
+    <AppIcon
+        name="com.androidesk/com.adesk.picasso.view.MainActivity"
+        image="androidesk"/>
+
+    <AppIcon
+        name="com.lovebizhi.wallpaper/com.adesk.picasso.view.MainActivity"
+        image="lovebizhi"/>
+
     <!--Game-->
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"

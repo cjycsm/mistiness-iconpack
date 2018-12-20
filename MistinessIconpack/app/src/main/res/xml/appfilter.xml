@@ -1119,6 +1119,74 @@
         component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}"
         drawable="pic_folder"/>
 
+    <item
+        component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}"
+        drawable="greenify"/>
+
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}"
+        drawable="google"/>
+
+    <item
+        component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}"
+        drawable="icebox"/>
+
+    <item
+        component="ComponentInfo{com.kapp.ifont/com.kapp.ifont.ui.SplashScreenActivity}"
+        drawable="ifont"/>
+
+    <item
+        component="ComponentInfo{com.xinmei365.font/com.xinmei365.font.ui.activity.SplashActivity}"
+        drawable="font"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/l.ۦۦ۠ۗ}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{com.cleanmaster.mguard_cn/com.keniu.security.main.MainActivity}"
+        drawable="liebao_clean_master"/>
+
+    <item
+        component="ComponentInfo{com.xzr.La.systemtoolbox/com.xzr.La.systemtoolbox.MainActivity}"
+        drawable="la_systemtoolbox"/>
+
+    <item
+        component="ComponentInfo{com.ludashi.benchmark/com.ludashi.benchmark.SplashActivity}"
+        drawable="ludashi"/>
+
+    <item
+        component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}"
+        drawable="airfrozen"/>
+
+    <item
+        component="ComponentInfo{com.ksxkq.floating/com.ksxkq.floating.ui.MainNavigationActivity}"
+        drawable="floating"/>
+
+    <item
+        component="ComponentInfo{com.tencent.FileManager/com.tencent.mtt.SplashActivity}"
+        drawable="tencent_filemanager"/>
+
+    <item
+        component="ComponentInfo{ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher}"
+        drawable="lawnchair"/>
+
+    <item
+        component="ComponentInfo{com.orekie.search/com.orekie.search.components.EntryActivity}"
+        drawable="search"/>
+
+    <item
+        component="ComponentInfo{com.nokia.z/com.nokia.z.ui.NextUIMain}"
+        drawable="z_launcher"/>
+
+    <item
+        component="ComponentInfo{com.androidesk/com.adesk.picasso.view.MainActivity}"
+        drawable="androidesk"/>
+
+    <item
+        component="ComponentInfo{com.lovebizhi.wallpaper/com.adesk.picasso.view.MainActivity}"
+        drawable="lovebizhi"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"

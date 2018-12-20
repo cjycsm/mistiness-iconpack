@@ -19,30 +19,25 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>baidu_netdisk</item>
-        <item>baidu_netdisk_alt</item>
-        <item>bilibili</item>
-        <item>bilibili_alt</item>
-        <item>bilibili_blue</item>
-        <item>bilibili_blue_alt</item>
-        <item>china_telecom</item>
-        <item>cloudmusic</item>
-        <item>contacts</item>
-        <item>downloads</item>
-        <item>email</item>
-        <item>email_alt</item>
-        <item>iqiyi</item>
-        <item>maobing</item>
-        <item>map</item>
-        <item>miracles</item>
-        <item>qq_music</item>
-        <item>quqi</item>
-        <item>read</item>
-        <item>shadowsocksr</item>
-        <item>tencent_ac</item>
-        <item>tencent_qqlive</item>
-        <item>tencent_secure</item>
-        <item>zhihu</item>
+        <item>greenify</item>
+        <item>google</item>
+        <item>icebox</item>
+        <item>ifont</item>
+        <item>font</item>
+        <item>mt</item>
+        <item>liebao_clean_master</item>
+        <item>la_systemtoolbox</item>
+        <item>ludashi</item>
+        <item>airfrozen</item>
+        <item>floating</item>
+        <item>tencent_filemanager</item>
+        <item>lawnchair</item>
+        <item>search</item>
+        <item>z_launcher</item>
+        <item>androidesk</item>
+        <item>lovebizhi</item>
+        <item>ps</item>
+        <item>qq_token</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -60,33 +55,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>baidu_netdisk_alt</item>
-        <item>bilibili_alt</item>
-        <item>bilibili_blue_alt</item>
-        <item>email_alt</item>
+        <item>greenify</item>
+        <item>google</item>
+        <item>icebox</item>
+        <item>ifont</item>
+        <item>font</item>
+        <item>mt</item>
+        <item>liebao_clean_master</item>
+        <item>la_systemtoolbox</item>
+        <item>ludashi</item>
+        <item>airfrozen</item>
+        <item>floating</item>
+        <item>tencent_filemanager</item>
+        <item>lawnchair</item>
+        <item>search</item>
+        <item>z_launcher</item>
+        <item>androidesk</item>
+        <item>lovebizhi</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>baidu_netdisk</item>
-        <item>bilibili</item>
-        <item>bilibili_blue</item>
-        <item>china_telecom</item>
-        <item>cloudmusic</item>
-        <item>contacts</item>
-        <item>downloads</item>
-        <item>email</item>
-        <item>iqiyi</item>
-        <item>maobing</item>
-        <item>map</item>
-        <item>miracles</item>
-        <item>qq_music</item>
-        <item>quqi</item>
-        <item>read</item>
-        <item>shadowsocksr</item>
-        <item>tencent_ac</item>
-        <item>tencent_qqlive</item>
-        <item>tencent_secure</item>
-        <item>zhihu</item>
+        <item>ps</item>
+        <item>qq_token</item>
     </string-array>
 
     <string-array name="application">
@@ -329,6 +319,23 @@
         <item>mtxx_alt</item>
         <item>ttpic</item>
         <item>pic_folder</item>
+        <item>greenify</item>
+        <item>google</item>
+        <item>icebox</item>
+        <item>ifont</item>
+        <item>font</item>
+        <item>mt</item>
+        <item>liebao_clean_master</item>
+        <item>la_systemtoolbox</item>
+        <item>ludashi</item>
+        <item>airfrozen</item>
+        <item>floating</item>
+        <item>tencent_filemanager</item>
+        <item>lawnchair</item>
+        <item>search</item>
+        <item>z_launcher</item>
+        <item>androidesk</item>
+        <item>lovebizhi</item>
     </string-array>
 
     <string-array name="game">

@@ -1116,6 +1116,74 @@
         class="com.alensw.PicFolder.GalleryActivity"
         name="pic_folder"/>
 
+    <item
+        class="com.oasisfeng.greenify.GreenifyActivity"
+        name="greenify"/>
+
+    <item
+        class="com.google.android.googlequicksearchbox.SearchActivity"
+        name="google"/>
+
+    <item
+        class="com.catchingnow.icebox.activity.mainActivity.MainAppActivity"
+        name="icebox"/>
+
+    <item
+        class="com.kapp.ifont.ui.SplashScreenActivity"
+        name="ifont"/>
+
+    <item
+        class="com.xinmei365.font.ui.activity.SplashActivity"
+        name="font"/>
+
+    <item
+        class="l.ۦۦ۠ۗ"
+        name="mt"/>
+
+    <item
+        class="com.keniu.security.main.MainActivity"
+        name="liebao_clean_master"/>
+
+    <item
+        class="com.xzr.La.systemtoolbox.MainActivity"
+        name="la_systemtoolbox"/>
+
+    <item
+        class="com.ludashi.benchmark.SplashActivity"
+        name="ludashi"/>
+
+    <item
+        class="me.yourbay.airfrozen.main.uimodule.Launcher"
+        name="airfrozen"/>
+
+    <item
+        class="com.ksxkq.floating.ui.MainNavigationActivity"
+        name="floating"/>
+
+    <item
+        class="com.tencent.mtt.SplashActivity"
+        name="tencent_filemanager"/>
+
+    <item
+        class="ch.deletescape.lawnchair.Launcher"
+        name="lawnchair"/>
+
+    <item
+        class="com.orekie.search.components.EntryActivity"
+        name="search"/>
+
+    <item
+        class="com.nokia.z.ui.NextUIMain"
+        name="z_launcher"/>
+
+    <item
+        class="com.adesk.picasso.view.MainActivity"
+        name="androidesk"/>
+
+    <item
+        class="com.adesk.picasso.view.MainActivity"
+        name="lovebizhi"/>
+
     <!--Game-->
     <item
         class="com.prime31.UnityPlayerNativeActivity"

@@ -19,15 +19,17 @@
   -->
 
 <resources>
-    <version>19</version>
+    <version>20</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
+    <item drawable="airfrozen"/>
     <item drawable="alipay"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
+    <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
     <item drawable="app_logo"/>
@@ -100,16 +102,20 @@
     <item drawable="file_manager"/>
     <item drawable="firefox"/>
     <item drawable="flipboard"/>
+    <item drawable="floating"/>
+    <item drawable="font"/>
     <item drawable="fooview"/>
     <item drawable="gallery"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="glass"/>
+    <item drawable="google"/>
     <item drawable="google_camera"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
+    <item drawable="greenify"/>
     <item drawable="gtgj"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
@@ -121,10 +127,12 @@
     <item drawable="huoying"/>
     <item drawable="hupu"/>
     <item drawable="huya"/>
+    <item drawable="icebox"/>
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="if_sunshine_alt"/>
     <item drawable="ifly_ime"/>
+    <item drawable="ifont"/>
     <item drawable="imusic"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
@@ -139,13 +147,18 @@
     <item drawable="kuaishou"/>
     <item drawable="kugou"/>
     <item drawable="kuwo"/>
+    <item drawable="la_systemtoolbox"/>
     <item drawable="lanzou"/>
     <item drawable="lastpass"/>
+    <item drawable="lawnchair"/>
     <item drawable="lbe_security"/>
+    <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light_beauty"/>
+    <item drawable="lovebizhi"/>
     <item drawable="loveread"/>
     <item drawable="lucky_patcher"/>
+    <item drawable="ludashi"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
@@ -162,6 +175,7 @@
     <item drawable="mobike"/>
     <item drawable="momo"/>
     <item drawable="moonreader"/>
+    <item drawable="mt"/>
     <item drawable="mtxx"/>
     <item drawable="mtxx_alt"/>
     <item drawable="music"/>
@@ -219,6 +233,7 @@
     <item drawable="safe"/>
     <item drawable="sdclear"/>
     <item drawable="sdm"/>
+    <item drawable="search"/>
     <item drawable="search_picture_tool"/>
     <item drawable="settings"/>
     <item drawable="shadowsocks"/>
@@ -248,6 +263,7 @@
     <item drawable="tencent_ac"/>
     <item drawable="tencent_ac_alt"/>
     <item drawable="tencent_docs"/>
+    <item drawable="tencent_filemanager"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_qqlive"/>
     <item drawable="tencent_secure"/>
@@ -300,6 +316,7 @@
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="yyets"/>
+    <item drawable="z_launcher"/>
     <item drawable="zaker"/>
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
