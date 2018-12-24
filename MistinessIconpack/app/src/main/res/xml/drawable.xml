@@ -19,12 +19,13 @@
   -->
 
 <resources>
-    <version>20</version>
+    <version>21</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
+    <item drawable="adobe_reader"/>
     <item drawable="airfrozen"/>
     <item drawable="alipay"/>
     <item drawable="altos_adventure"/>
@@ -35,18 +36,21 @@
     <item drawable="app_logo"/>
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
+    <item drawable="autohome"/>
     <item drawable="away_from_mobile"/>
     <item drawable="b612"/>
     <item drawable="baicizhan"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
+    <item drawable="baidu_tieba"/>
     <item drawable="baidumap"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bladeheart_ninja"/>
+    <item drawable="blued"/>
     <item drawable="brevent"/>
     <item drawable="browser"/>
     <item drawable="browser_alt"/>
@@ -84,11 +88,13 @@
     <item drawable="dingtalk"/>
     <item drawable="dir"/>
     <item drawable="dkplat"/>
+    <item drawable="douban"/>
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
     <item drawable="duokan"/>
     <item drawable="edge_gesture"/>
+    <item drawable="edge_lighting"/>
     <item drawable="ele"/>
     <item drawable="email"/>
     <item drawable="email_alt"/>
@@ -96,6 +102,7 @@
     <item drawable="emoticon_creater"/>
     <item drawable="estrongs"/>
     <item drawable="express_vpn"/>
+    <item drawable="eyepetizer"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
     <item drawable="feng_news"/>
@@ -143,6 +150,7 @@
     <item drawable="jike"/>
     <item drawable="jingdong"/>
     <item drawable="karaoke"/>
+    <item drawable="kindle"/>
     <item drawable="kingroot"/>
     <item drawable="kuaishou"/>
     <item drawable="kugou"/>
@@ -155,10 +163,13 @@
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light_beauty"/>
+    <item drawable="linkedin"/>
+    <item drawable="lofter"/>
     <item drawable="lovebizhi"/>
     <item drawable="loveread"/>
     <item drawable="lucky_patcher"/>
     <item drawable="ludashi"/>
+    <item drawable="maimai"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
@@ -171,6 +182,7 @@
     <item drawable="mijia"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
+    <item drawable="miuibbs"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
     <item drawable="momo"/>
@@ -185,6 +197,7 @@
     <item drawable="netease_news"/>
     <item drawable="netease_snailread"/>
     <item drawable="netease_yanxuan"/>
+    <item drawable="nga"/>
     <item drawable="nomo"/>
     <item drawable="note"/>
     <item drawable="nova_launcher"/>
@@ -205,22 +218,26 @@
     <item drawable="pu"/>
     <item drawable="pure"/>
     <item drawable="qdaily"/>
+    <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
     <item drawable="qihoo_antivirus"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qq"/>
     <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>
+    <item drawable="qq_japan"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
     <item drawable="qq_music_local"/>
     <item drawable="qq_pim"/>
+    <item drawable="qq_reader"/>
     <item drawable="qq_token"/>
     <item drawable="qqi"/>
     <item drawable="qqi_alt"/>
     <item drawable="qqlite"/>
     <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
+    <item drawable="qsbk"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
     <item drawable="qzone"/>
@@ -235,20 +252,25 @@
     <item drawable="sdm"/>
     <item drawable="search"/>
     <item drawable="search_picture_tool"/>
+    <item drawable="seekbooks"/>
     <item drawable="settings"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
     <item drawable="share"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
+    <item drawable="shuqi"/>
     <item drawable="signal_master"/>
+    <item drawable="sina_news"/>
     <item drawable="snapseed"/>
     <item drawable="sogou_ime"/>
     <item drawable="solid_explorer"/>
     <item drawable="sorcery"/>
+    <item drawable="soul"/>
     <item drawable="sound_recorder"/>
     <item drawable="sound_recorder_alt"/>
     <item drawable="speedtest"/>
+    <item drawable="steam"/>
     <item drawable="store"/>
     <item drawable="storm"/>
     <item drawable="substratum"/>
@@ -257,27 +279,32 @@
     <item drawable="tantan"/>
     <item drawable="taobao"/>
     <item drawable="taptap"/>
+    <item drawable="taqu"/>
     <item drawable="tasker"/>
     <item drawable="tc_cleaner"/>
     <item drawable="telegram"/>
     <item drawable="tencent_ac"/>
-    <item drawable="tencent_ac_alt"/>
     <item drawable="tencent_docs"/>
     <item drawable="tencent_filemanager"/>
     <item drawable="tencent_ipai"/>
+    <item drawable="tencent_news"/>
     <item drawable="tencent_qqlive"/>
+    <item drawable="tencent_qtl"/>
     <item drawable="tencent_secure"/>
+    <item drawable="tencent_sports"/>
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wifimanager"/>
     <item drawable="theme_center"/>
     <item drawable="thunder_vpn"/>
     <item drawable="tim"/>
+    <item drawable="tingshu"/>
     <item drawable="tiptap"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="toolbox"/>
     <item drawable="total_launcher"/>
+    <item drawable="transparent_wallpaper"/>
     <item drawable="ttpic"/>
     <item drawable="uc"/>
     <item drawable="unicom"/>
@@ -306,6 +333,7 @@
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
+    <item drawable="xiaomi_channel"/>
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
@@ -322,5 +350,6 @@
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
     <item drawable="zhuishushenqi"/>
+    <item drawable="zuiyou"/>
 
 </resources>

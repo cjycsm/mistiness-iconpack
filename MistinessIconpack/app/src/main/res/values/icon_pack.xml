@@ -19,25 +19,36 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>greenify</item>
-        <item>google</item>
-        <item>icebox</item>
-        <item>ifont</item>
-        <item>font</item>
-        <item>mt</item>
-        <item>liebao_clean_master</item>
-        <item>la_systemtoolbox</item>
-        <item>ludashi</item>
-        <item>airfrozen</item>
-        <item>floating</item>
-        <item>tencent_filemanager</item>
-        <item>lawnchair</item>
-        <item>search</item>
-        <item>z_launcher</item>
-        <item>androidesk</item>
-        <item>lovebizhi</item>
-        <item>ps</item>
-        <item>qq_token</item>
+        <item>transparent_wallpaper</item>
+        <item>edge_lighting</item>
+        <item>qq_japan</item>
+        <item>douban</item>
+        <item>blued</item>
+        <item>lofter</item>
+        <item>soul</item>
+        <item>maimai</item>
+        <item>taqu</item>
+        <item>linkedin</item>
+        <item>xiaomi_channel</item>
+        <item>miuibbs</item>
+        <item>baidu_tieba</item>
+        <item>adobe_reader</item>
+        <item>qq_reader</item>
+        <item>tencent_qtl</item>
+        <item>autohome</item>
+        <item>qsbk</item>
+        <item>tencent_news</item>
+        <item>tingshu</item>
+        <item>zuiyou</item>
+        <item>eyepetizer</item>
+        <item>nga</item>
+        <item>steam</item>
+        <item>seekbooks</item>
+        <item>kindle</item>
+        <item>sina_news</item>
+        <item>tencent_sports</item>
+        <item>qidian</item>
+        <item>shuqi</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -55,28 +66,39 @@
     </string-array>
 
     <string-array name="newest">
-        <item>greenify</item>
-        <item>google</item>
-        <item>icebox</item>
-        <item>ifont</item>
-        <item>font</item>
-        <item>mt</item>
-        <item>liebao_clean_master</item>
-        <item>la_systemtoolbox</item>
-        <item>ludashi</item>
-        <item>airfrozen</item>
-        <item>floating</item>
-        <item>tencent_filemanager</item>
-        <item>lawnchair</item>
-        <item>search</item>
-        <item>z_launcher</item>
-        <item>androidesk</item>
-        <item>lovebizhi</item>
+        <item>transparent_wallpaper</item>
+        <item>edge_lighting</item>
+        <item>qq_japan</item>
+        <item>douban</item>
+        <item>blued</item>
+        <item>lofter</item>
+        <item>soul</item>
+        <item>maimai</item>
+        <item>taqu</item>
+        <item>linkedin</item>
+        <item>xiaomi_channel</item>
+        <item>miuibbs</item>
+        <item>baidu_tieba</item>
+        <item>adobe_reader</item>
+        <item>qq_reader</item>
+        <item>tencent_qtl</item>
+        <item>autohome</item>
+        <item>qsbk</item>
+        <item>tencent_news</item>
+        <item>tingshu</item>
+        <item>zuiyou</item>
+        <item>eyepetizer</item>
+        <item>nga</item>
+        <item>steam</item>
+        <item>seekbooks</item>
+        <item>kindle</item>
+        <item>sina_news</item>
+        <item>tencent_sports</item>
+        <item>qidian</item>
+        <item>shuqi</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>ps</item>
-        <item>qq_token</item>
     </string-array>
 
     <string-array name="application">
@@ -113,6 +135,7 @@
         <item>ps</item>
         <item>pu</item>
         <item>qq</item>
+        <item>qq_alt</item>
         <item>qq_browser</item>
         <item>qq_music</item>
         <item>qq_pim</item>
@@ -254,7 +277,9 @@
         <item>search_picture_tool</item>
         <item>substratum</item>
         <item>qqi</item>
+        <item>qqi_alt</item>
         <item>qqlite</item>
+        <item>qqlite_alt</item>
         <item>bullet_messenger</item>
         <item>dingtalk</item>
         <item>wangxin</item>
@@ -336,6 +361,36 @@
         <item>z_launcher</item>
         <item>androidesk</item>
         <item>lovebizhi</item>
+        <item>transparent_wallpaper</item>
+        <item>edge_lighting</item>
+        <item>qq_japan</item>
+        <item>douban</item>
+        <item>blued</item>
+        <item>lofter</item>
+        <item>soul</item>
+        <item>maimai</item>
+        <item>taqu</item>
+        <item>linkedin</item>
+        <item>xiaomi_channel</item>
+        <item>miuibbs</item>
+        <item>baidu_tieba</item>
+        <item>adobe_reader</item>
+        <item>qq_reader</item>
+        <item>tencent_qtl</item>
+        <item>autohome</item>
+        <item>qsbk</item>
+        <item>tencent_news</item>
+        <item>tingshu</item>
+        <item>zuiyou</item>
+        <item>eyepetizer</item>
+        <item>nga</item>
+        <item>steam</item>
+        <item>seekbooks</item>
+        <item>kindle</item>
+        <item>sina_news</item>
+        <item>tencent_sports</item>
+        <item>qidian</item>
+        <item>shuqi</item>
     </string-array>
 
     <string-array name="game">
@@ -400,6 +455,8 @@
         <item>email_alt</item>
         <item>sound_recorder</item>
         <item>sound_recorder_alt</item>
+        <item>card</item>
+        <item>card_alt</item>
     </string-array>
 
 </resources>

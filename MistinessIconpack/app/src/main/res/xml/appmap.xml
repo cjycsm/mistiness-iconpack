@@ -577,6 +577,10 @@
         name="mobike"/>
 
     <item
+        class="com.mobike.mobikeapp.splash.SplashActivity"
+        name="mobike"/>
+
+    <item
         class="com.netease.mobimail.activity.LaunchActivity"
         name="netease_mail"/>
 
@@ -905,6 +909,10 @@
         name="emore"/>
 
     <item
+        class="com.caij.see.ui.activity.SplashActivity"
+        name="emore"/>
+
+    <item
         class="com.sxy.ui.view.MainActivity"
         name="welike"/>
 
@@ -1183,6 +1191,126 @@
     <item
         class="com.adesk.picasso.view.MainActivity"
         name="lovebizhi"/>
+
+    <item
+        class="com.jian.quan.activity.LoginActivity"
+        name="transparent_wallpaper"/>
+
+    <item
+        class="com.panshen.ui.activity.TabMainactivity"
+        name="edge_lighting"/>
+
+    <item
+        class="com.tencent.mobileqq.activity.SplashActivity"
+        name="qq_japan"/>
+
+    <item
+        class="com.douban.frodo.activity.SplashActivity"
+        name="douban"/>
+
+    <item
+        class="com.soft.blued.icon0"
+        name="blued"/>
+
+    <item
+        class="com.lofter.android.activity.SplashActivity"
+        name="lofter"/>
+
+    <item
+        class="cn.soulapp.android.ui.splash.SplashActivity"
+        name="soul"/>
+
+    <item
+        class="com.taou.maimai.SplashActivity"
+        name="maimai"/>
+
+    <item
+        class="com.xingjiabi.shengsheng.app.SplashActivity"
+        name="taqu"/>
+
+    <item
+        class="com.linkedin.android.authenticator.LaunchActivity"
+        name="linkedin"/>
+
+    <item
+        class="com.xiaomi.channel.activity.SplashActivity"
+        name="xiaomi_channel"/>
+
+    <item
+        class="com.miui.miuibbs.activity.WelcomeActivity"
+        name="miuibbs"/>
+
+    <item
+        class="com.baidu.tieba.LogoActivity"
+        name="baidu_tieba"/>
+
+    <item
+        class="com.adobe.reader.AdobeReader"
+        name="adobe_reader"/>
+
+    <item
+        class="com.qq.reader.activity.SplashActivity"
+        name="qq_reader"/>
+
+    <item
+        class="com.tencent.qt.qtl.activity.main.LauncherActivity"
+        name="tencent_qtl"/>
+
+    <item
+        class="com.cubic.autohome.LogoActivity"
+        name="autohome"/>
+
+    <item
+        class="qsbk.app.activity.group.SplashGroup"
+        name="qsbk"/>
+
+    <item
+        class="com.tencent.news.activity.SplashActivity"
+        name="tencent_news"/>
+
+    <item
+        class="bubei.tingshu.listen.guide.ui.activity.LOGOActivity"
+        name="tingshu"/>
+
+    <item
+        class="cn.xiaochuankeji.tieba.ui.base.SplashActivity"
+        name="zuiyou"/>
+
+    <item
+        class="com.wandoujia.eyepetizer.ui.activity.LandingActivity"
+        name="eyepetizer"/>
+
+    <item
+        class="gov.pianzong.androidnga.activity.LoadingActivity"
+        name="nga"/>
+
+    <item
+        class="com.valvesoftware.android.steam.community.activity.MainActivity"
+        name="steam"/>
+
+    <item
+        class="com.flyersoft.seekbooks.ActivityMain"
+        name="seekbooks"/>
+
+    <item
+        class="com.amazon.kindle.UpgradePage"
+        name="kindle"/>
+
+    <item
+        class="com.sina.news.module.launch.activity.PowerOnScreen"
+        name="sina_news"/>
+
+    <item
+        class="com.tencent.qqsports.ui.SplashActivity"
+        name="tencent_sports"/>
+
+    <item
+        class="com.qidian.QDReader.ui.activity.SplashActivity"
+        name="qidian"/>
+
+    <item
+        class="com.shuqi.activity.SplashActivity"
+        name="shuqi"/>
 
     <!--Game-->
     <item

@@ -584,6 +584,10 @@
         image="mobike"/>
 
     <AppIcon
+        name="com.mobike.mobikeapp/com.mobike.mobikeapp.splash.SplashActivity"
+        image="mobike"/>
+
+    <AppIcon
         name="com.netease.mail/com.netease.mobimail.activity.LaunchActivity"
         image="netease_mail"/>
 
@@ -912,6 +916,10 @@
         image="emore"/>
 
     <AppIcon
+        name="com.caij.see/com.caij.see.ui.activity.SplashActivity"
+        image="emore"/>
+
+    <AppIcon
         name="com.sxy.ui/com.sxy.ui.view.MainActivity"
         image="welike"/>
 
@@ -1190,6 +1198,126 @@
     <AppIcon
         name="com.lovebizhi.wallpaper/com.adesk.picasso.view.MainActivity"
         image="lovebizhi"/>
+
+    <AppIcon
+        name="com.jian.qin/com.jian.quan.activity.LoginActivity"
+        image="transparent_wallpaper"/>
+
+    <AppIcon
+        name="com.panshen.edgelighting/com.panshen.ui.activity.TabMainactivity"
+        image="edge_lighting"/>
+
+    <AppIcon
+        name="com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity"
+        image="qq_japan"/>
+
+    <AppIcon
+        name="com.douban.frodo/com.douban.frodo.activity.SplashActivity"
+        image="douban"/>
+
+    <AppIcon
+        name="com.soft.blued/com.soft.blued.icon0"
+        image="blued"/>
+
+    <AppIcon
+        name="com.lofter.android/com.lofter.android.activity.SplashActivity"
+        image="lofter"/>
+
+    <AppIcon
+        name="cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity"
+        image="soul"/>
+
+    <AppIcon
+        name="com.taou.maimai/com.taou.maimai.SplashActivity"
+        image="maimai"/>
+
+    <AppIcon
+        name="com.xingjiabi.shengsheng/com.xingjiabi.shengsheng.app.SplashActivity"
+        image="taqu"/>
+
+    <AppIcon
+        name="com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity"
+        image="linkedin"/>
+
+    <AppIcon
+        name="com.xiaomi.channel/com.xiaomi.channel.activity.SplashActivity"
+        image="xiaomi_channel"/>
+
+    <AppIcon
+        name="com.miui.miuibbs/com.miui.miuibbs.activity.WelcomeActivity"
+        image="miuibbs"/>
+
+    <AppIcon
+        name="com.baidu.tieba/com.baidu.tieba.LogoActivity"
+        image="baidu_tieba"/>
+
+    <AppIcon
+        name="com.adobe.reader/com.adobe.reader.AdobeReader"
+        image="adobe_reader"/>
+
+    <AppIcon
+        name="com.qq.reader/com.qq.reader.activity.SplashActivity"
+        image="qq_reader"/>
+
+    <AppIcon
+        name="com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity"
+        image="tencent_qtl"/>
+
+    <AppIcon
+        name="com.cubic.autohome/com.cubic.autohome.LogoActivity"
+        image="autohome"/>
+
+    <AppIcon
+        name="qsbk.app/qsbk.app.activity.group.SplashGroup"
+        image="qsbk"/>
+
+    <AppIcon
+        name="com.tencent.news/com.tencent.news.activity.SplashActivity"
+        image="tencent_news"/>
+
+    <AppIcon
+        name="bubei.tingshu/bubei.tingshu.listen.guide.ui.activity.LOGOActivity"
+        image="tingshu"/>
+
+    <AppIcon
+        name="cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity"
+        image="zuiyou"/>
+
+    <AppIcon
+        name="com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity"
+        image="eyepetizer"/>
+
+    <AppIcon
+        name="gov.pianzong.androidnga/gov.pianzong.androidnga.activity.LoadingActivity"
+        image="nga"/>
+
+    <AppIcon
+        name="com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity"
+        image="steam"/>
+
+    <AppIcon
+        name="com.flyersoft.seekbooks/com.flyersoft.seekbooks.ActivityMain"
+        image="seekbooks"/>
+
+    <AppIcon
+        name="com.amazon.kindlefc/com.amazon.kindle.UpgradePage"
+        image="kindle"/>
+
+    <AppIcon
+        name="com.sina.news/com.sina.news.module.launch.activity.PowerOnScreen"
+        image="sina_news"/>
+
+    <AppIcon
+        name="com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity"
+        image="tencent_sports"/>
+
+    <AppIcon
+        name="com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity"
+        image="qidian"/>
+
+    <AppIcon
+        name="com.shuqi.controller/com.shuqi.activity.SplashActivity"
+        image="shuqi"/>
 
     <!--Game-->
     <AppIcon

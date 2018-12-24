@@ -580,6 +580,10 @@
         drawable="mobike"/>
 
     <item
+        component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.splash.SplashActivity}"
+        drawable="mobike"/>
+
+    <item
         component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}"
         drawable="netease_mail"/>
 
@@ -908,6 +912,10 @@
         drawable="emore"/>
 
     <item
+        component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}"
+        drawable="emore"/>
+
+    <item
         component="ComponentInfo{com.sxy.ui/com.sxy.ui.view.MainActivity}"
         drawable="welike"/>
 
@@ -1186,6 +1194,126 @@
     <item
         component="ComponentInfo{com.lovebizhi.wallpaper/com.adesk.picasso.view.MainActivity}"
         drawable="lovebizhi"/>
+
+    <item
+        component="ComponentInfo{com.jian.qin/com.jian.quan.activity.LoginActivity}"
+        drawable="transparent_wallpaper"/>
+
+    <item
+        component="ComponentInfo{com.panshen.edgelighting/com.panshen.ui.activity.TabMainactivity}"
+        drawable="edge_lighting"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="qq_japan"/>
+
+    <item
+        component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}"
+        drawable="douban"/>
+
+    <item
+        component="ComponentInfo{com.soft.blued/com.soft.blued.icon0}"
+        drawable="blued"/>
+
+    <item
+        component="ComponentInfo{com.lofter.android/com.lofter.android.activity.SplashActivity}"
+        drawable="lofter"/>
+
+    <item
+        component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}"
+        drawable="soul"/>
+
+    <item
+        component="ComponentInfo{com.taou.maimai/com.taou.maimai.SplashActivity}"
+        drawable="maimai"/>
+
+    <item
+        component="ComponentInfo{com.xingjiabi.shengsheng/com.xingjiabi.shengsheng.app.SplashActivity}"
+        drawable="taqu"/>
+
+    <item
+        component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}"
+        drawable="linkedin"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.channel/com.xiaomi.channel.activity.SplashActivity}"
+        drawable="xiaomi_channel"/>
+
+    <item
+        component="ComponentInfo{com.miui.miuibbs/com.miui.miuibbs.activity.WelcomeActivity}"
+        drawable="miuibbs"/>
+
+    <item
+        component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}"
+        drawable="baidu_tieba"/>
+
+    <item
+        component="ComponentInfo{com.adobe.reader/com.adobe.reader.AdobeReader}"
+        drawable="adobe_reader"/>
+
+    <item
+        component="ComponentInfo{com.qq.reader/com.qq.reader.activity.SplashActivity}"
+        drawable="qq_reader"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}"
+        drawable="tencent_qtl"/>
+
+    <item
+        component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}"
+        drawable="autohome"/>
+
+    <item
+        component="ComponentInfo{qsbk.app/qsbk.app.activity.group.SplashGroup}"
+        drawable="qsbk"/>
+
+    <item
+        component="ComponentInfo{com.tencent.news/com.tencent.news.activity.SplashActivity}"
+        drawable="tencent_news"/>
+
+    <item
+        component="ComponentInfo{bubei.tingshu/bubei.tingshu.listen.guide.ui.activity.LOGOActivity}"
+        drawable="tingshu"/>
+
+    <item
+        component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}"
+        drawable="zuiyou"/>
+
+    <item
+        component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}"
+        drawable="eyepetizer"/>
+
+    <item
+        component="ComponentInfo{gov.pianzong.androidnga/gov.pianzong.androidnga.activity.LoadingActivity}"
+        drawable="nga"/>
+
+    <item
+        component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}"
+        drawable="steam"/>
+
+    <item
+        component="ComponentInfo{com.flyersoft.seekbooks/com.flyersoft.seekbooks.ActivityMain}"
+        drawable="seekbooks"/>
+
+    <item
+        component="ComponentInfo{com.amazon.kindlefc/com.amazon.kindle.UpgradePage}"
+        drawable="kindle"/>
+
+    <item
+        component="ComponentInfo{com.sina.news/com.sina.news.module.launch.activity.PowerOnScreen}"
+        drawable="sina_news"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqsports/com.tencent.qqsports.ui.SplashActivity}"
+        drawable="tencent_sports"/>
+
+    <item
+        component="ComponentInfo{com.qidian.QDReader/com.qidian.QDReader.ui.activity.SplashActivity}"
+        drawable="qidian"/>
+
+    <item
+        component="ComponentInfo{com.shuqi.controller/com.shuqi.activity.SplashActivity}"
+        drawable="shuqi"/>
 
     <!--Game-->
     <item
