@@ -1209,7 +1209,7 @@
 
     <AppIcon
         name="com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity"
-        image="qq_japan"/>
+        image="qqjapan"/>
 
     <AppIcon
         name="com.douban.frodo/com.douban.frodo.activity.SplashActivity"
@@ -1318,6 +1318,130 @@
     <AppIcon
         name="com.shuqi.controller/com.shuqi.activity.SplashActivity"
         image="shuqi"/>
+
+    <AppIcon
+        name="com.zol.android/com.zol.android.ui.FirstActivity"
+        image="zol"/>
+
+    <AppIcon
+        name="com.dmzj.manhua/com.dmzj.manhua.ui.LaunchInterceptorActivity"
+        image="dmzj"/>
+
+    <AppIcon
+        name="com.funinput.digit/com.funinput.digit.activity.WelcomeActivity"
+        image="digit"/>
+
+    <AppIcon
+        name="com.douban.book.reader/com.douban.book.reader.activity.SplashActivity"
+        image="douban_reader"/>
+
+    <AppIcon
+        name="com.kuaikan.comic/com.kuaikan.comic.ui.LaunchActivity"
+        image="kuaikan_comic"/>
+
+    <AppIcon
+        name="com.daimajia.gold/im.juejin.android.hull.activity.LogoActivity"
+        image="gold"/>
+
+    <AppIcon
+        name="com.anzogame.esports/com.anzogame.esports.SplashActivity"
+        image="esports"/>
+
+    <AppIcon
+        name="com.netease.cartoonreader/com.netease.cartoonreader.activity.ComicStartFlashActivity"
+        image="netease_cartoonreader"/>
+
+    <AppIcon
+        name="com.guokr.android/com.guokr.android.ui.activity.SplashActivity"
+        image="guokr"/>
+
+    <AppIcon
+        name="com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity"
+        image="xbrowser"/>
+
+    <AppIcon
+        name="com.dewmobile.kuaiya/com.dewmobile.kuaiya.act.DmStartupActivity"
+        image="kuaiya"/>
+
+    <AppIcon
+        name="com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity"
+        image="qcloud"/>
+
+    <AppIcon
+        name="com.ylmf.androidclient/com.main.partner.user.activity.LogActivity"
+        image="cloud_115"/>
+
+    <AppIcon
+        name="com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_"
+        image="airdroid"/>
+
+    <AppIcon
+        name="com.baidu.searchbox/com.baidu.searchbox.SplashActivity"
+        image="baidu"/>
+
+    <AppIcon
+        name="com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity"
+        image="microsoft_cartana"/>
+
+    <AppIcon
+        name="com.mx.browser/com.mx.browser.MxSplashActivity"
+        image="mx_browser"/>
+
+    <AppIcon
+        name="com.opera.browser/com.opera.Opera"
+        image="opera"/>
+
+    <AppIcon
+        name="com.douban.radio/com.douban.radio.ui.WelcomeActivity"
+        image="douban_radio"/>
+
+    <AppIcon
+        name="com.douban.movie/com.douban.movie.activity.SplashActivity"
+        image="douban_movie"/>
+
+    <AppIcon
+        name="com.meitu.meipaimv/com.meitu.meipaimv.StartupActivity"
+        image="meipai"/>
+
+    <AppIcon
+        name="video.vue.android/video.vue.android.ui.launch.SplashActivity"
+        image="vue"/>
+
+    <AppIcon
+        name="my.PCamera/my.PCamera.PocoCamera"
+        image="pcamera"/>
+
+    <AppIcon
+        name="com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity"
+        image="wuta_camera"/>
+
+    <AppIcon
+        name="com.moji.mjweather/com.moji.mjweather.LauncherActivity"
+        image="moji_weather"/>
+
+    <AppIcon
+        name="hanjie.app.pureweather/hanjie.app.pureweather.ui.HomeActivity"
+        image="pure_weather"/>
+
+    <AppIcon
+        name="com.smzdm.client.android/com.smzdm.client.android.activity.WelComeActivity"
+        image="smzdm"/>
+
+    <AppIcon
+        name="com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity"
+        image="keep"/>
+
+    <AppIcon
+        name="com.wuba/com.wuba.activity.launch.LaunchActivity"
+        image="wuba"/>
+
+    <AppIcon
+        name="sina.mobile.tianqitong/com.sina.tianqitong.ui.main.Splash"
+        image="tianqitong"/>
+
+    <AppIcon
+        name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"
+        image="google_voice"/>
 
     <!--Game-->
     <AppIcon

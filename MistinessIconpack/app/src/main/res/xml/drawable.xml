@@ -19,13 +19,14 @@
   -->
 
 <resources>
-    <version>21</version>
+    <version>22</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
     <item drawable="adobe_reader"/>
+    <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
     <item drawable="alipay"/>
     <item drawable="altos_adventure"/>
@@ -40,6 +41,7 @@
     <item drawable="away_from_mobile"/>
     <item drawable="b612"/>
     <item drawable="baicizhan"/>
+    <item drawable="baidu"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
@@ -71,6 +73,7 @@
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="clock"/>
+    <item drawable="cloud_115"/>
     <item drawable="cloudmusic"/>
     <item drawable="cntv"/>
     <item drawable="comiclover"/>
@@ -85,10 +88,15 @@
     <item drawable="dialer"/>
     <item drawable="dianping"/>
     <item drawable="didi"/>
+    <item drawable="digit"/>
     <item drawable="dingtalk"/>
     <item drawable="dir"/>
     <item drawable="dkplat"/>
+    <item drawable="dmzj"/>
     <item drawable="douban"/>
+    <item drawable="douban_movie"/>
+    <item drawable="douban_radio"/>
+    <item drawable="douban_reader"/>
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
@@ -100,6 +108,7 @@
     <item drawable="email_alt"/>
     <item drawable="emore"/>
     <item drawable="emoticon_creater"/>
+    <item drawable="esports"/>
     <item drawable="estrongs"/>
     <item drawable="express_vpn"/>
     <item drawable="eyepetizer"/>
@@ -116,14 +125,17 @@
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="glass"/>
+    <item drawable="gold"/>
     <item drawable="google"/>
     <item drawable="google_camera"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
+    <item drawable="google_voice"/>
     <item drawable="greenify"/>
     <item drawable="gtgj"/>
+    <item drawable="guokr"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
     <item drawable="hi"/>
@@ -150,9 +162,12 @@
     <item drawable="jike"/>
     <item drawable="jingdong"/>
     <item drawable="karaoke"/>
+    <item drawable="keep"/>
     <item drawable="kindle"/>
     <item drawable="kingroot"/>
+    <item drawable="kuaikan_comic"/>
     <item drawable="kuaishou"/>
+    <item drawable="kuaiya"/>
     <item drawable="kugou"/>
     <item drawable="kuwo"/>
     <item drawable="la_systemtoolbox"/>
@@ -175,9 +190,11 @@
     <item drawable="map"/>
     <item drawable="mdschool"/>
     <item drawable="meeye"/>
+    <item drawable="meipai"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
     <item drawable="mfw"/>
+    <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_launcher"/>
     <item drawable="mijia"/>
     <item drawable="miracles"/>
@@ -185,6 +202,7 @@
     <item drawable="miuibbs"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
+    <item drawable="moji_weather"/>
     <item drawable="momo"/>
     <item drawable="moonreader"/>
     <item drawable="mt"/>
@@ -192,7 +210,9 @@
     <item drawable="mtxx_alt"/>
     <item drawable="music"/>
     <item drawable="mx"/>
+    <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
+    <item drawable="netease_cartoonreader"/>
     <item drawable="netease_mail"/>
     <item drawable="netease_news"/>
     <item drawable="netease_snailread"/>
@@ -204,9 +224,11 @@
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="oneplus_bbs"/>
+    <item drawable="opera"/>
     <item drawable="panda"/>
     <item drawable="panda_alt"/>
     <item drawable="paper"/>
+    <item drawable="pcamera"/>
     <item drawable="pedometer"/>
     <item drawable="pic_folder"/>
     <item drawable="poco_launcher"/>
@@ -217,6 +239,8 @@
     <item drawable="ps"/>
     <item drawable="pu"/>
     <item drawable="pure"/>
+    <item drawable="pure_weather"/>
+    <item drawable="qcloud"/>
     <item drawable="qdaily"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
@@ -225,7 +249,6 @@
     <item drawable="qq"/>
     <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>
-    <item drawable="qq_japan"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
     <item drawable="qq_music_local"/>
@@ -234,6 +257,7 @@
     <item drawable="qq_token"/>
     <item drawable="qqi"/>
     <item drawable="qqi_alt"/>
+    <item drawable="qqjapan"/>
     <item drawable="qqlite"/>
     <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
@@ -262,6 +286,7 @@
     <item drawable="shuqi"/>
     <item drawable="signal_master"/>
     <item drawable="sina_news"/>
+    <item drawable="smzdm"/>
     <item drawable="snapseed"/>
     <item drawable="sogou_ime"/>
     <item drawable="solid_explorer"/>
@@ -297,6 +322,7 @@
     <item drawable="tencent_wifimanager"/>
     <item drawable="theme_center"/>
     <item drawable="thunder_vpn"/>
+    <item drawable="tianqitong"/>
     <item drawable="tim"/>
     <item drawable="tingshu"/>
     <item drawable="tiptap"/>
@@ -314,6 +340,7 @@
     <item drawable="village"/>
     <item drawable="vlc"/>
     <item drawable="vtools"/>
+    <item drawable="vue"/>
     <item drawable="wallet"/>
     <item drawable="walli"/>
     <item drawable="wangxin"/>
@@ -330,6 +357,9 @@
     <item drawable="wooden_letter"/>
     <item drawable="word"/>
     <item drawable="wps"/>
+    <item drawable="wuba"/>
+    <item drawable="wuta_camera"/>
+    <item drawable="xbrowser"/>
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
@@ -350,6 +380,7 @@
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
     <item drawable="zhuishushenqi"/>
+    <item drawable="zol"/>
     <item drawable="zuiyou"/>
 
 </resources>

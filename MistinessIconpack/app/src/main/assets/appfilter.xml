@@ -1205,7 +1205,7 @@
 
     <item
         component="ComponentInfo{com.tencent.qq.kddi/com.tencent.mobileqq.activity.SplashActivity}"
-        drawable="qq_japan"/>
+        drawable="qqjapan"/>
 
     <item
         component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}"
@@ -1314,6 +1314,130 @@
     <item
         component="ComponentInfo{com.shuqi.controller/com.shuqi.activity.SplashActivity}"
         drawable="shuqi"/>
+
+    <item
+        component="ComponentInfo{com.zol.android/com.zol.android.ui.FirstActivity}"
+        drawable="zol"/>
+
+    <item
+        component="ComponentInfo{com.dmzj.manhua/com.dmzj.manhua.ui.LaunchInterceptorActivity}"
+        drawable="dmzj"/>
+
+    <item
+        component="ComponentInfo{com.funinput.digit/com.funinput.digit.activity.WelcomeActivity}"
+        drawable="digit"/>
+
+    <item
+        component="ComponentInfo{com.douban.book.reader/com.douban.book.reader.activity.SplashActivity}"
+        drawable="douban_reader"/>
+
+    <item
+        component="ComponentInfo{com.kuaikan.comic/com.kuaikan.comic.ui.LaunchActivity}"
+        drawable="kuaikan_comic"/>
+
+    <item
+        component="ComponentInfo{com.daimajia.gold/im.juejin.android.hull.activity.LogoActivity}"
+        drawable="gold"/>
+
+    <item
+        component="ComponentInfo{com.anzogame.esports/com.anzogame.esports.SplashActivity}"
+        drawable="esports"/>
+
+    <item
+        component="ComponentInfo{com.netease.cartoonreader/com.netease.cartoonreader.activity.ComicStartFlashActivity}"
+        drawable="netease_cartoonreader"/>
+
+    <item
+        component="ComponentInfo{com.guokr.android/com.guokr.android.ui.activity.SplashActivity}"
+        drawable="guokr"/>
+
+    <item
+        component="ComponentInfo{com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity}"
+        drawable="xbrowser"/>
+
+    <item
+        component="ComponentInfo{com.dewmobile.kuaiya/com.dewmobile.kuaiya.act.DmStartupActivity}"
+        drawable="kuaiya"/>
+
+    <item
+        component="ComponentInfo{com.qq.qcloud/com.qq.qcloud.activity.WeiyunRootActivity}"
+        drawable="qcloud"/>
+
+    <item
+        component="ComponentInfo{com.ylmf.androidclient/com.main.partner.user.activity.LogActivity}"
+        drawable="cloud_115"/>
+
+    <item
+        component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}"
+        drawable="airdroid"/>
+
+    <item
+        component="ComponentInfo{com.baidu.searchbox/com.baidu.searchbox.SplashActivity}"
+        drawable="baidu"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity}"
+        drawable="microsoft_cartana"/>
+
+    <item
+        component="ComponentInfo{com.mx.browser/com.mx.browser.MxSplashActivity}"
+        drawable="mx_browser"/>
+
+    <item
+        component="ComponentInfo{com.opera.browser/com.opera.Opera}"
+        drawable="opera"/>
+
+    <item
+        component="ComponentInfo{com.douban.radio/com.douban.radio.ui.WelcomeActivity}"
+        drawable="douban_radio"/>
+
+    <item
+        component="ComponentInfo{com.douban.movie/com.douban.movie.activity.SplashActivity}"
+        drawable="douban_movie"/>
+
+    <item
+        component="ComponentInfo{com.meitu.meipaimv/com.meitu.meipaimv.StartupActivity}"
+        drawable="meipai"/>
+
+    <item
+        component="ComponentInfo{video.vue.android/video.vue.android.ui.launch.SplashActivity}"
+        drawable="vue"/>
+
+    <item
+        component="ComponentInfo{my.PCamera/my.PCamera.PocoCamera}"
+        drawable="pcamera"/>
+
+    <item
+        component="ComponentInfo{com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity}"
+        drawable="wuta_camera"/>
+
+    <item
+        component="ComponentInfo{com.moji.mjweather/com.moji.mjweather.LauncherActivity}"
+        drawable="moji_weather"/>
+
+    <item
+        component="ComponentInfo{hanjie.app.pureweather/hanjie.app.pureweather.ui.HomeActivity}"
+        drawable="pure_weather"/>
+
+    <item
+        component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.activity.WelComeActivity}"
+        drawable="smzdm"/>
+
+    <item
+        component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}"
+        drawable="keep"/>
+
+    <item
+        component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}"
+        drawable="wuba"/>
+
+    <item
+        component="ComponentInfo{sina.mobile.tianqitong/com.sina.tianqitong.ui.main.Splash}"
+        drawable="tianqitong"/>
+
+    <item
+        component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
+        drawable="google_voice"/>
 
     <!--Game-->
     <item

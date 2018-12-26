@@ -1202,7 +1202,7 @@
 
     <item
         class="com.tencent.mobileqq.activity.SplashActivity"
-        name="qq_japan"/>
+        name="qqjapan"/>
 
     <item
         class="com.douban.frodo.activity.SplashActivity"
@@ -1311,6 +1311,130 @@
     <item
         class="com.shuqi.activity.SplashActivity"
         name="shuqi"/>
+
+    <item
+        class="com.zol.android.ui.FirstActivity"
+        name="zol"/>
+
+    <item
+        class="com.dmzj.manhua.ui.LaunchInterceptorActivity"
+        name="dmzj"/>
+
+    <item
+        class="com.funinput.digit.activity.WelcomeActivity"
+        name="digit"/>
+
+    <item
+        class="com.douban.book.reader.activity.SplashActivity"
+        name="douban_reader"/>
+
+    <item
+        class="com.kuaikan.comic.ui.LaunchActivity"
+        name="kuaikan_comic"/>
+
+    <item
+        class="im.juejin.android.hull.activity.LogoActivity"
+        name="gold"/>
+
+    <item
+        class="com.anzogame.esports.SplashActivity"
+        name="esports"/>
+
+    <item
+        class="com.netease.cartoonreader.activity.ComicStartFlashActivity"
+        name="netease_cartoonreader"/>
+
+    <item
+        class="com.guokr.android.ui.activity.SplashActivity"
+        name="guokr"/>
+
+    <item
+        class="com.mmbox.xbrowser.BrowserActivity"
+        name="xbrowser"/>
+
+    <item
+        class="com.dewmobile.kuaiya.act.DmStartupActivity"
+        name="kuaiya"/>
+
+    <item
+        class="com.qq.qcloud.activity.WeiyunRootActivity"
+        name="qcloud"/>
+
+    <item
+        class="com.main.partner.user.activity.LogActivity"
+        name="cloud_115"/>
+
+    <item
+        class="com.sand.airdroid.ui.splash.SplashActivity_"
+        name="airdroid"/>
+
+    <item
+        class="com.baidu.searchbox.SplashActivity"
+        name="baidu"/>
+
+    <item
+        class="com.microsoft.bing.dss.SplashActivity"
+        name="microsoft_cartana"/>
+
+    <item
+        class="com.mx.browser.MxSplashActivity"
+        name="mx_browser"/>
+
+    <item
+        class="com.opera.Opera"
+        name="opera"/>
+
+    <item
+        class="com.douban.radio.ui.WelcomeActivity"
+        name="douban_radio"/>
+
+    <item
+        class="com.douban.movie.activity.SplashActivity"
+        name="douban_movie"/>
+
+    <item
+        class="com.meitu.meipaimv.StartupActivity"
+        name="meipai"/>
+
+    <item
+        class="video.vue.android.ui.launch.SplashActivity"
+        name="vue"/>
+
+    <item
+        class="my.PCamera.PocoCamera"
+        name="pcamera"/>
+
+    <item
+        class="com.benqu.wuta.activities.splash.SplashActivity"
+        name="wuta_camera"/>
+
+    <item
+        class="com.moji.mjweather.LauncherActivity"
+        name="moji_weather"/>
+
+    <item
+        class="hanjie.app.pureweather.ui.HomeActivity"
+        name="pure_weather"/>
+
+    <item
+        class="com.smzdm.client.android.activity.WelComeActivity"
+        name="smzdm"/>
+
+    <item
+        class="com.gotokeep.keep.splash.SplashActivity"
+        name="keep"/>
+
+    <item
+        class="com.wuba.activity.launch.LaunchActivity"
+        name="wuba"/>
+
+    <item
+        class="com.sina.tianqitong.ui.main.Splash"
+        name="tianqitong"/>
+
+    <item
+        class="com.google.android.googlequicksearchbox.VoiceSearchActivity"
+        name="google_voice"/>
 
     <!--Game-->
     <item

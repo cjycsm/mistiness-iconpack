@@ -19,36 +19,38 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>transparent_wallpaper</item>
-        <item>edge_lighting</item>
-        <item>qq_japan</item>
-        <item>douban</item>
-        <item>blued</item>
-        <item>lofter</item>
-        <item>soul</item>
-        <item>maimai</item>
-        <item>taqu</item>
-        <item>linkedin</item>
-        <item>xiaomi_channel</item>
-        <item>miuibbs</item>
-        <item>baidu_tieba</item>
-        <item>adobe_reader</item>
-        <item>qq_reader</item>
-        <item>tencent_qtl</item>
-        <item>autohome</item>
-        <item>qsbk</item>
-        <item>tencent_news</item>
-        <item>tingshu</item>
-        <item>zuiyou</item>
-        <item>eyepetizer</item>
-        <item>nga</item>
-        <item>steam</item>
-        <item>seekbooks</item>
-        <item>kindle</item>
-        <item>sina_news</item>
-        <item>tencent_sports</item>
-        <item>qidian</item>
-        <item>shuqi</item>
+        <item>qqjapan</item>
+        <item>zol</item>
+        <item>dmzj</item>
+        <item>digit</item>
+        <item>douban_reader</item>
+        <item>kuaikan_comic</item>
+        <item>gold</item>
+        <item>esports</item>
+        <item>netease_cartoonreader</item>
+        <item>guokr</item>
+        <item>xbrowser</item>
+        <item>kuaiya</item>
+        <item>qcloud</item>
+        <item>cloud_115</item>
+        <item>airdroid</item>
+        <item>baidu</item>
+        <item>microsoft_cartana</item>
+        <item>mx_browser</item>
+        <item>opera</item>
+        <item>douban_radio</item>
+        <item>douban_movie</item>
+        <item>meipai</item>
+        <item>vue</item>
+        <item>pcamera</item>
+        <item>wuta_camera</item>
+        <item>moji_weather</item>
+        <item>pure_weather</item>
+        <item>smzdm</item>
+        <item>keep</item>
+        <item>wuba</item>
+        <item>tianqitong</item>
+        <item>google_voice</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -66,39 +68,41 @@
     </string-array>
 
     <string-array name="newest">
-        <item>transparent_wallpaper</item>
-        <item>edge_lighting</item>
-        <item>qq_japan</item>
-        <item>douban</item>
-        <item>blued</item>
-        <item>lofter</item>
-        <item>soul</item>
-        <item>maimai</item>
-        <item>taqu</item>
-        <item>linkedin</item>
-        <item>xiaomi_channel</item>
-        <item>miuibbs</item>
-        <item>baidu_tieba</item>
-        <item>adobe_reader</item>
-        <item>qq_reader</item>
-        <item>tencent_qtl</item>
-        <item>autohome</item>
-        <item>qsbk</item>
-        <item>tencent_news</item>
-        <item>tingshu</item>
-        <item>zuiyou</item>
-        <item>eyepetizer</item>
-        <item>nga</item>
-        <item>steam</item>
-        <item>seekbooks</item>
-        <item>kindle</item>
-        <item>sina_news</item>
-        <item>tencent_sports</item>
-        <item>qidian</item>
-        <item>shuqi</item>
+        <item>zol</item>
+        <item>dmzj</item>
+        <item>digit</item>
+        <item>douban_reader</item>
+        <item>kuaikan_comic</item>
+        <item>gold</item>
+        <item>esports</item>
+        <item>netease_cartoonreader</item>
+        <item>guokr</item>
+        <item>xbrowser</item>
+        <item>kuaiya</item>
+        <item>qcloud</item>
+        <item>cloud_115</item>
+        <item>airdroid</item>
+        <item>baidu</item>
+        <item>microsoft_cartana</item>
+        <item>mx_browser</item>
+        <item>opera</item>
+        <item>douban_radio</item>
+        <item>douban_movie</item>
+        <item>meipai</item>
+        <item>vue</item>
+        <item>pcamera</item>
+        <item>wuta_camera</item>
+        <item>moji_weather</item>
+        <item>pure_weather</item>
+        <item>smzdm</item>
+        <item>keep</item>
+        <item>wuba</item>
+        <item>tianqitong</item>
+        <item>google_voice</item>
     </string-array>
 
     <string-array name="upgrade">
+        <item>qqjapan</item>
     </string-array>
 
     <string-array name="application">
@@ -363,7 +367,7 @@
         <item>lovebizhi</item>
         <item>transparent_wallpaper</item>
         <item>edge_lighting</item>
-        <item>qq_japan</item>
+        <item>qqjapan</item>
         <item>douban</item>
         <item>blued</item>
         <item>lofter</item>
@@ -391,6 +395,37 @@
         <item>tencent_sports</item>
         <item>qidian</item>
         <item>shuqi</item>
+        <item>zol</item>
+        <item>dmzj</item>
+        <item>digit</item>
+        <item>douban_reader</item>
+        <item>kuaikan_comic</item>
+        <item>gold</item>
+        <item>esports</item>
+        <item>netease_cartoonreader</item>
+        <item>guokr</item>
+        <item>xbrowser</item>
+        <item>kuaiya</item>
+        <item>qcloud</item>
+        <item>cloud_115</item>
+        <item>airdroid</item>
+        <item>baidu</item>
+        <item>microsoft_cartana</item>
+        <item>mx_browser</item>
+        <item>opera</item>
+        <item>douban_radio</item>
+        <item>douban_movie</item>
+        <item>meipai</item>
+        <item>vue</item>
+        <item>pcamera</item>
+        <item>wuta_camera</item>
+        <item>moji_weather</item>
+        <item>pure_weather</item>
+        <item>smzdm</item>
+        <item>keep</item>
+        <item>wuba</item>
+        <item>tianqitong</item>
+        <item>google_voice</item>
     </string-array>
 
     <string-array name="game">
