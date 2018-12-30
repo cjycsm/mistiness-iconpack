@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>22</version>
+    <version>23</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -60,13 +60,16 @@
     <item drawable="bullet_messenger"/>
     <item drawable="busybox"/>
     <item drawable="byfen"/>
+    <item drawable="cainiao"/>
     <item drawable="calculator"/>
     <item drawable="calendar"/>
+    <item drawable="calendar_ii"/>
     <item drawable="camera"/>
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
     <item drawable="card"/>
     <item drawable="card_alt"/>
+    <item drawable="card_emulator"/>
     <item drawable="changba"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
@@ -85,6 +88,7 @@
     <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
     <item drawable="data_migration"/>
+    <item drawable="day_day_cook"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
     <item drawable="didi"/>
@@ -97,10 +101,13 @@
     <item drawable="douban_movie"/>
     <item drawable="douban_radio"/>
     <item drawable="douban_reader"/>
+    <item drawable="douguo"/>
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
     <item drawable="duokan"/>
+    <item drawable="ecalendar"/>
+    <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
     <item drawable="edge_lighting"/>
     <item drawable="ele"/>
@@ -110,6 +117,8 @@
     <item drawable="emoticon_creater"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
+    <item drawable="express"/>
+    <item drawable="express_helper"/>
     <item drawable="express_vpn"/>
     <item drawable="eyepetizer"/>
     <item drawable="faceu"/>
@@ -121,9 +130,11 @@
     <item drawable="floating"/>
     <item drawable="font"/>
     <item drawable="fooview"/>
+    <item drawable="forest"/>
     <item drawable="gallery"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
+    <item drawable="geometric_weather"/>
     <item drawable="glass"/>
     <item drawable="gold"/>
     <item drawable="google"/>
@@ -136,6 +147,7 @@
     <item drawable="greenify"/>
     <item drawable="gtgj"/>
     <item drawable="guokr"/>
+    <item drawable="haodou"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
     <item drawable="hi"/>
@@ -163,6 +175,7 @@
     <item drawable="jingdong"/>
     <item drawable="karaoke"/>
     <item drawable="keep"/>
+    <item drawable="kfc"/>
     <item drawable="kindle"/>
     <item drawable="kingroot"/>
     <item drawable="kuaikan_comic"/>
@@ -221,6 +234,7 @@
     <item drawable="nomo"/>
     <item drawable="note"/>
     <item drawable="nova_launcher"/>
+    <item drawable="nowcasting"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="oneplus_bbs"/>
@@ -258,6 +272,7 @@
     <item drawable="qqi"/>
     <item drawable="qqi_alt"/>
     <item drawable="qqjapan"/>
+    <item drawable="qqjapan_alt"/>
     <item drawable="qqlite"/>
     <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
@@ -278,6 +293,7 @@
     <item drawable="search_picture_tool"/>
     <item drawable="seekbooks"/>
     <item drawable="settings"/>
+    <item drawable="sf"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
     <item drawable="share"/>
@@ -303,6 +319,7 @@
     <item drawable="supersu"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
+    <item drawable="taobao_movie"/>
     <item drawable="taptap"/>
     <item drawable="taqu"/>
     <item drawable="tasker"/>
@@ -330,6 +347,7 @@
     <item drawable="tmall"/>
     <item drawable="toolbox"/>
     <item drawable="total_launcher"/>
+    <item drawable="trace"/>
     <item drawable="transparent_wallpaper"/>
     <item drawable="ttpic"/>
     <item drawable="uc"/>
@@ -368,6 +386,8 @@
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
     <item drawable="xunlei"/>
+    <item drawable="yahoo_weather"/>
+    <item drawable="yandong"/>
     <item drawable="yi_live"/>
     <item drawable="yixin"/>
     <item drawable="youdao_note"/>
@@ -379,6 +399,7 @@
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
+    <item drawable="zhuanzhuan"/>
     <item drawable="zhuishushenqi"/>
     <item drawable="zol"/>
     <item drawable="zuiyou"/>

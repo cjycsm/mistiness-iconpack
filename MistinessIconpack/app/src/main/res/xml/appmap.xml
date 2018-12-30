@@ -573,10 +573,6 @@
         name="miracles"/>
 
     <item
-        class="com.mobike.mobikeapp.SplashActivity"
-        name="mobike"/>
-
-    <item
         class="com.mobike.mobikeapp.splash.SplashActivity"
         name="mobike"/>
 
@@ -625,7 +621,7 @@
         name="iqiyi"/>
 
     <item
-        class="com.xiachufang.activity.StartPageActivity"
+        class="com.xiachufang.startpage.ui.StartPageActivity"
         name="xiachufang"/>
 
     <item
@@ -637,7 +633,7 @@
         name="hippo"/>
 
     <item
-        class="com.hunantv.imgo.activity.MainActivity"
+        class="com.hunantv.imgo.activity.SplashActivity"
         name="hunantv"/>
 
     <item
@@ -1435,6 +1431,86 @@
     <item
         class="com.google.android.googlequicksearchbox.VoiceSearchActivity"
         name="google_voice"/>
+
+    <item
+        class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
+        name="cainiao"/>
+
+    <item
+        class="com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity"
+        name="zhuanzhuan"/>
+
+    <item
+        class="com.taobao.movie.android.app.home.activity.SplashActivity"
+        name="taobao_movie"/>
+
+    <item
+        class="com.syt.ui.activity.InitActivity"
+        name="sf"/>
+
+    <item
+        class="com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity"
+        name="yahoo_weather"/>
+
+    <item
+        class="wangdaye.com.geometricweather.ui.activity.MainActivity"
+        name="geometric_weather"/>
+
+    <item
+        class="com.nowcasting.activity.SplashActivity"
+        name="nowcasting"/>
+
+    <item
+        class="com.yum.brandkfc.SplashAct"
+        name="kfc"/>
+
+    <item
+        class="com.douguo.recipe.MainActivity"
+        name="douguo"/>
+
+    <item
+        class="com.haodou.recipe.page.activity.SplashActivity2"
+        name="haodou"/>
+
+    <item
+        class="cn.ecook.ui.activities.SplashActivity"
+        name="ecook"/>
+
+    <item
+        class="com.gfeng.daydaycook.activity.WelcomeActivity_"
+        name="day_day_cook"/>
+
+    <item
+        class="info.papdt.express.helper.EntryActivity"
+        name="express_helper"/>
+
+    <item
+        class="com.Kingdee.Express.module.splash.SplashActivity"
+        name="express"/>
+
+    <item
+        class="cn.etouch.ecalendar.ECalendar"
+        name="ecalendar"/>
+
+    <item
+        class="top.soyask.calendarii.MainActivity"
+        name="calendar_ii"/>
+
+    <item
+        class="com.yuanwofei.cardemulator.MainActivity"
+        name="card_emulator"/>
+
+    <item
+        class="cc.forestapp.applications.SplashActivity"
+        name="forest"/>
+
+    <item
+        class="nico.styTool.SplashActivity"
+        name="yandong"/>
+
+    <item
+        class="com.camellia.trace.activity.SplashActivity"
+        name="trace"/>
 
     <!--Game-->
     <item

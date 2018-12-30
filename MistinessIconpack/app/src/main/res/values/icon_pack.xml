@@ -19,38 +19,34 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
+        <item>cainiao</item>
+        <item>zhuanzhuan</item>
+        <item>taobao_movie</item>
+        <item>sf</item>
+        <item>yahoo_weather</item>
+        <item>geometric_weather</item>
+        <item>nowcasting</item>
+        <item>kfc</item>
+        <item>douguo</item>
+        <item>haodou</item>
+        <item>ecook</item>
+        <item>day_day_cook</item>
+        <item>express_helper</item>
+        <item>express</item>
+        <item>ecalendar</item>
+        <item>calendar_ii</item>
+        <item>card_emulator</item>
+        <item>forest</item>
+        <item>yandong</item>
+        <item>trace</item>
+        <item>qq</item>
+        <item>qq_alt</item>
+        <item>qqi</item>
+        <item>qqi_alt</item>
+        <item>qqlite</item>
+        <item>qqlite_alt</item>
         <item>qqjapan</item>
-        <item>zol</item>
-        <item>dmzj</item>
-        <item>digit</item>
-        <item>douban_reader</item>
-        <item>kuaikan_comic</item>
-        <item>gold</item>
-        <item>esports</item>
-        <item>netease_cartoonreader</item>
-        <item>guokr</item>
-        <item>xbrowser</item>
-        <item>kuaiya</item>
-        <item>qcloud</item>
-        <item>cloud_115</item>
-        <item>airdroid</item>
-        <item>baidu</item>
-        <item>microsoft_cartana</item>
-        <item>mx_browser</item>
-        <item>opera</item>
-        <item>douban_radio</item>
-        <item>douban_movie</item>
-        <item>meipai</item>
-        <item>vue</item>
-        <item>pcamera</item>
-        <item>wuta_camera</item>
-        <item>moji_weather</item>
-        <item>pure_weather</item>
-        <item>smzdm</item>
-        <item>keep</item>
-        <item>wuba</item>
-        <item>tianqitong</item>
-        <item>google_voice</item>
+        <item>qqjapan_alt</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -68,40 +64,36 @@
     </string-array>
 
     <string-array name="newest">
-        <item>zol</item>
-        <item>dmzj</item>
-        <item>digit</item>
-        <item>douban_reader</item>
-        <item>kuaikan_comic</item>
-        <item>gold</item>
-        <item>esports</item>
-        <item>netease_cartoonreader</item>
-        <item>guokr</item>
-        <item>xbrowser</item>
-        <item>kuaiya</item>
-        <item>qcloud</item>
-        <item>cloud_115</item>
-        <item>airdroid</item>
-        <item>baidu</item>
-        <item>microsoft_cartana</item>
-        <item>mx_browser</item>
-        <item>opera</item>
-        <item>douban_radio</item>
-        <item>douban_movie</item>
-        <item>meipai</item>
-        <item>vue</item>
-        <item>pcamera</item>
-        <item>wuta_camera</item>
-        <item>moji_weather</item>
-        <item>pure_weather</item>
-        <item>smzdm</item>
-        <item>keep</item>
-        <item>wuba</item>
-        <item>tianqitong</item>
-        <item>google_voice</item>
+        <item>cainiao</item>
+        <item>zhuanzhuan</item>
+        <item>taobao_movie</item>
+        <item>sf</item>
+        <item>yahoo_weather</item>
+        <item>geometric_weather</item>
+        <item>nowcasting</item>
+        <item>kfc</item>
+        <item>douguo</item>
+        <item>haodou</item>
+        <item>ecook</item>
+        <item>day_day_cook</item>
+        <item>express_helper</item>
+        <item>express</item>
+        <item>ecalendar</item>
+        <item>calendar_ii</item>
+        <item>card_emulator</item>
+        <item>forest</item>
+        <item>yandong</item>
+        <item>trace</item>
+        <item>qqjapan_alt</item>
     </string-array>
 
     <string-array name="upgrade">
+        <item>qq</item>
+        <item>qq_alt</item>
+        <item>qqi</item>
+        <item>qqi_alt</item>
+        <item>qqlite</item>
+        <item>qqlite_alt</item>
         <item>qqjapan</item>
     </string-array>
 
@@ -368,6 +360,7 @@
         <item>transparent_wallpaper</item>
         <item>edge_lighting</item>
         <item>qqjapan</item>
+        <item>qqjapan_alt</item>
         <item>douban</item>
         <item>blued</item>
         <item>lofter</item>
@@ -426,6 +419,26 @@
         <item>wuba</item>
         <item>tianqitong</item>
         <item>google_voice</item>
+        <item>cainiao</item>
+        <item>zhuanzhuan</item>
+        <item>taobao_movie</item>
+        <item>sf</item>
+        <item>yahoo_weather</item>
+        <item>geometric_weather</item>
+        <item>nowcasting</item>
+        <item>kfc</item>
+        <item>douguo</item>
+        <item>haodou</item>
+        <item>ecook</item>
+        <item>day_day_cook</item>
+        <item>express_helper</item>
+        <item>express</item>
+        <item>ecalendar</item>
+        <item>calendar_ii</item>
+        <item>card_emulator</item>
+        <item>forest</item>
+        <item>yandong</item>
+        <item>trace</item>
     </string-array>
 
     <string-array name="game">

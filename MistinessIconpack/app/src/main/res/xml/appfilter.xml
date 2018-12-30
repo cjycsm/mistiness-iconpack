@@ -576,10 +576,6 @@
         drawable="miracles"/>
 
     <item
-        component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.SplashActivity}"
-        drawable="mobike"/>
-
-    <item
         component="ComponentInfo{com.mobike.mobikeapp/com.mobike.mobikeapp.splash.SplashActivity}"
         drawable="mobike"/>
 
@@ -628,7 +624,7 @@
         drawable="iqiyi"/>
 
     <item
-        component="ComponentInfo{com.xiachufang/com.xiachufang.activity.StartPageActivity}"
+        component="ComponentInfo{com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity}"
         drawable="xiachufang"/>
 
     <item
@@ -640,7 +636,7 @@
         drawable="hippo"/>
 
     <item
-        component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity}"
+        component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.SplashActivity}"
         drawable="hunantv"/>
 
     <item
@@ -1438,6 +1434,86 @@
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
         drawable="google_voice"/>
+
+    <item
+        component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
+        drawable="cainiao"/>
+
+    <item
+        component="ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity}"
+        drawable="zhuanzhuan"/>
+
+    <item
+        component="ComponentInfo{com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity}"
+        drawable="taobao_movie"/>
+
+    <item
+        component="ComponentInfo{com.sf.activity/com.syt.ui.activity.InitActivity}"
+        drawable="sf"/>
+
+    <item
+        component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}"
+        drawable="yahoo_weather"/>
+
+    <item
+        component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity}"
+        drawable="geometric_weather"/>
+
+    <item
+        component="ComponentInfo{com.nowcasting.activity/com.nowcasting.activity.SplashActivity}"
+        drawable="nowcasting"/>
+
+    <item
+        component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}"
+        drawable="kfc"/>
+
+    <item
+        component="ComponentInfo{com.douguo.recipe/com.douguo.recipe.MainActivity}"
+        drawable="douguo"/>
+
+    <item
+        component="ComponentInfo{com.haodou.recipe/com.haodou.recipe.page.activity.SplashActivity2}"
+        drawable="haodou"/>
+
+    <item
+        component="ComponentInfo{cn.ecook/cn.ecook.ui.activities.SplashActivity}"
+        drawable="ecook"/>
+
+    <item
+        component="ComponentInfo{com.gfeng.daydaycook/com.gfeng.daydaycook.activity.WelcomeActivity_}"
+        drawable="day_day_cook"/>
+
+    <item
+        component="ComponentInfo{info.papdt.express.helper/info.papdt.express.helper.EntryActivity}"
+        drawable="express_helper"/>
+
+    <item
+        component="ComponentInfo{com.Kingdee.Express/com.Kingdee.Express.module.splash.SplashActivity}"
+        drawable="express"/>
+
+    <item
+        component="ComponentInfo{cn.etouch.ecalendar/cn.etouch.ecalendar.ECalendar}"
+        drawable="ecalendar"/>
+
+    <item
+        component="ComponentInfo{top.soyask.calendarii/top.soyask.calendarii.MainActivity}"
+        drawable="calendar_ii"/>
+
+    <item
+        component="ComponentInfo{com.yuanwofei.cardemulator/com.yuanwofei.cardemulator.MainActivity}"
+        drawable="card_emulator"/>
+
+    <item
+        component="ComponentInfo{cc.forestapp/cc.forestapp.applications.SplashActivity}"
+        drawable="forest"/>
+
+    <item
+        component="ComponentInfo{nico.styTool/nico.styTool.SplashActivity}"
+        drawable="yandong"/>
+
+    <item
+        component="ComponentInfo{com.pleasure.trace_wechat/com.camellia.trace.activity.SplashActivity}"
+        drawable="trace"/>
 
     <!--Game-->
     <item

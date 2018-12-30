@@ -580,10 +580,6 @@
         image="miracles"/>
 
     <AppIcon
-        name="com.mobike.mobikeapp/com.mobike.mobikeapp.SplashActivity"
-        image="mobike"/>
-
-    <AppIcon
         name="com.mobike.mobikeapp/com.mobike.mobikeapp.splash.SplashActivity"
         image="mobike"/>
 
@@ -632,7 +628,7 @@
         image="iqiyi"/>
 
     <AppIcon
-        name="com.xiachufang/com.xiachufang.activity.StartPageActivity"
+        name="com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity"
         image="xiachufang"/>
 
     <AppIcon
@@ -644,7 +640,7 @@
         image="hippo"/>
 
     <AppIcon
-        name="com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity"
+        name="com.hunantv.imgo.activity/com.hunantv.imgo.activity.SplashActivity"
         image="hunantv"/>
 
     <AppIcon
@@ -1442,6 +1438,86 @@
     <AppIcon
         name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"
         image="google_voice"/>
+
+    <AppIcon
+        name="com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
+        image="cainiao"/>
+
+    <AppIcon
+        name="com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity"
+        image="zhuanzhuan"/>
+
+    <AppIcon
+        name="com.taobao.movie.android/com.taobao.movie.android.app.home.activity.SplashActivity"
+        image="taobao_movie"/>
+
+    <AppIcon
+        name="com.sf.activity/com.syt.ui.activity.InitActivity"
+        image="sf"/>
+
+    <AppIcon
+        name="com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity"
+        image="yahoo_weather"/>
+
+    <AppIcon
+        name="wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.MainActivity"
+        image="geometric_weather"/>
+
+    <AppIcon
+        name="com.nowcasting.activity/com.nowcasting.activity.SplashActivity"
+        image="nowcasting"/>
+
+    <AppIcon
+        name="com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct"
+        image="kfc"/>
+
+    <AppIcon
+        name="com.douguo.recipe/com.douguo.recipe.MainActivity"
+        image="douguo"/>
+
+    <AppIcon
+        name="com.haodou.recipe/com.haodou.recipe.page.activity.SplashActivity2"
+        image="haodou"/>
+
+    <AppIcon
+        name="cn.ecook/cn.ecook.ui.activities.SplashActivity"
+        image="ecook"/>
+
+    <AppIcon
+        name="com.gfeng.daydaycook/com.gfeng.daydaycook.activity.WelcomeActivity_"
+        image="day_day_cook"/>
+
+    <AppIcon
+        name="info.papdt.express.helper/info.papdt.express.helper.EntryActivity"
+        image="express_helper"/>
+
+    <AppIcon
+        name="com.Kingdee.Express/com.Kingdee.Express.module.splash.SplashActivity"
+        image="express"/>
+
+    <AppIcon
+        name="cn.etouch.ecalendar/cn.etouch.ecalendar.ECalendar"
+        image="ecalendar"/>
+
+    <AppIcon
+        name="top.soyask.calendarii/top.soyask.calendarii.MainActivity"
+        image="calendar_ii"/>
+
+    <AppIcon
+        name="com.yuanwofei.cardemulator/com.yuanwofei.cardemulator.MainActivity"
+        image="card_emulator"/>
+
+    <AppIcon
+        name="cc.forestapp/cc.forestapp.applications.SplashActivity"
+        image="forest"/>
+
+    <AppIcon
+        name="nico.styTool/nico.styTool.SplashActivity"
+        image="yandong"/>
+
+    <AppIcon
+        name="com.pleasure.trace_wechat/com.camellia.trace.activity.SplashActivity"
+        image="trace"/>
 
     <!--Game-->
     <AppIcon

@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v0.10.0-beta" />
-    <item text="新增31枚图标" />
-    <item text="重绘1枚图标" />
+    <version title="v0.11.0-beta" />
+    <item text="新增21枚图标" />
+    <item text="重绘7枚图标" />
 </resources>
