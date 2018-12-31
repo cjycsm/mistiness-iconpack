@@ -19,34 +19,17 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>cainiao</item>
-        <item>zhuanzhuan</item>
-        <item>taobao_movie</item>
-        <item>sf</item>
-        <item>yahoo_weather</item>
-        <item>geometric_weather</item>
-        <item>nowcasting</item>
-        <item>kfc</item>
-        <item>douguo</item>
-        <item>haodou</item>
-        <item>ecook</item>
-        <item>day_day_cook</item>
-        <item>express_helper</item>
-        <item>express</item>
-        <item>ecalendar</item>
-        <item>calendar_ii</item>
-        <item>card_emulator</item>
-        <item>forest</item>
-        <item>yandong</item>
-        <item>trace</item>
-        <item>qq</item>
-        <item>qq_alt</item>
-        <item>qqi</item>
-        <item>qqi_alt</item>
-        <item>qqlite</item>
-        <item>qqlite_alt</item>
-        <item>qqjapan</item>
-        <item>qqjapan_alt</item>
+        <item>miui_calculator</item>
+        <item>smartisan_notes</item>
+        <item>oneplus_backuprestore</item>
+        <item>leb_parallel</item>
+        <item>shuangkai</item>
+        <item>auto_js</item>
+        <item>microsoft_translator</item>
+        <item>icontrol</item>
+        <item>tomato_time</item>
+        <item>tencent_transfer</item>
+        <item>oblatum</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -59,42 +42,27 @@
         <item>upgrade</item>
         <item>application</item>
         <item>game</item>
-        <item>flyme</item>
-        <item>H2OS</item>
+        <item>Meizu</item>
+        <item>Oneplus</item>
+        <item>Mi</item>
+        <item>Smartisan</item>
     </string-array>
 
     <string-array name="newest">
-        <item>cainiao</item>
-        <item>zhuanzhuan</item>
-        <item>taobao_movie</item>
-        <item>sf</item>
-        <item>yahoo_weather</item>
-        <item>geometric_weather</item>
-        <item>nowcasting</item>
-        <item>kfc</item>
-        <item>douguo</item>
-        <item>haodou</item>
-        <item>ecook</item>
-        <item>day_day_cook</item>
-        <item>express_helper</item>
-        <item>express</item>
-        <item>ecalendar</item>
-        <item>calendar_ii</item>
-        <item>card_emulator</item>
-        <item>forest</item>
-        <item>yandong</item>
-        <item>trace</item>
-        <item>qqjapan_alt</item>
+        <item>miui_calculator</item>
+        <item>smartisan_notes</item>
+        <item>oneplus_backuprestore</item>
+        <item>leb_parallel</item>
+        <item>shuangkai</item>
+        <item>auto_js</item>
+        <item>microsoft_translator</item>
+        <item>icontrol</item>
+        <item>tomato_time</item>
+        <item>tencent_transfer</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>qq</item>
-        <item>qq_alt</item>
-        <item>qqi</item>
-        <item>qqi_alt</item>
-        <item>qqlite</item>
-        <item>qqlite_alt</item>
-        <item>qqjapan</item>
+        <item>oblatum</item>
     </string-array>
 
     <string-array name="application">
@@ -439,6 +407,13 @@
         <item>forest</item>
         <item>yandong</item>
         <item>trace</item>
+        <item>leb_parallel</item>
+        <item>shuangkai</item>
+        <item>auto_js</item>
+        <item>microsoft_translator</item>
+        <item>icontrol</item>
+        <item>tomato_time</item>
+        <item>tencent_transfer</item>
     </string-array>
 
     <string-array name="game">
@@ -451,7 +426,7 @@
         <item>bladeheart_ninja</item>
     </string-array>
 
-    <string-array name="flyme">
+    <string-array name="Meizu">
         <item>calculator</item>
         <item>clock</item>
         <item>data_migration</item>
@@ -481,9 +456,8 @@
         <item>wallet</item>
     </string-array>
 
-    <string-array name="H2OS">
+    <string-array name="Oneplus">
         <item>note</item>
-        <item>wallet</item>
         <item>dialer</item>
         <item>gallery</item>
         <item>settings</item>
@@ -505,6 +479,15 @@
         <item>sound_recorder_alt</item>
         <item>card</item>
         <item>card_alt</item>
+        <item>oneplus_backuprestore</item>
+    </string-array>
+
+    <string-array name="Mi">
+        <item>miui_calculator</item>
+    </string-array>
+
+    <string-array name="Smartisan">
+        <item>smartisan_notes</item>
     </string-array>
 
 </resources>

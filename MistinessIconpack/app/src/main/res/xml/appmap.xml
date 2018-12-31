@@ -29,7 +29,7 @@
         class="com.android.mms.ui.ConversationList"
         name="mms"/>
 
-    <!--Flyme-->
+    <!--Meizu-->
     <item
         class="com.meizu.flyme.alarmclock.DeskClock"
         name="clock"/>
@@ -118,7 +118,7 @@
         class="com.meizu.flyme.wallet.activity.WalletTabActivity"
         name="wallet"/>
 
-    <!--H2OS-->
+    <!--Oneplus-->
     <item
         class="com.android.calendar.AllInOneActivity"
         name="calendar"/>
@@ -178,6 +178,21 @@
     <item
         class="com.tencent.mtt.SplashActivity"
         name="browser"/>
+
+    <item
+        class="com.oneplus.backuprestore.activity.BootActivity"
+        name="oneplus_backuprestore"/>
+
+    <item
+        class="com.smartisan.notes.NewNotesActivity"
+        name="smartisan_notes"/>
+
+    <!--Mi-->
+    <item
+        class="com.miui.calculator.cal.CalculatorActivity"
+        name="miui_calculator"/>
+
+    <!--Smartisan-->
 
     <!--Application-->
     <item
@@ -1511,6 +1526,34 @@
     <item
         class="com.camellia.trace.activity.SplashActivity"
         name="trace"/>
+
+    <item
+        class="com.lbe.parallel.ui.tour.SplashActivity"
+        name="leb_parallel"/>
+
+    <item
+        class="com.excelliance.kxqp.ui.HelloActivity"
+        name="shuangkai"/>
+
+    <item
+        class="com.stardust.scriptdroid.ui.splash.SplashActivity_"
+        name="auto_js"/>
+
+    <item
+        class="com.microsoft.translator.activity.SplashActivity"
+        name="microsoft_translator"/>
+
+    <item
+        class="com.tiqiaa.icontrol.WelcomeActivity"
+        name="icontrol"/>
+
+    <item
+        class="com.plan.kot32.tomatotime.activity.SplashActivity"
+        name="tomato_time"/>
+
+    <item
+        class="com.tencent.transfer.ui.FirstActivity"
+        name="tencent_transfer"/>
 
     <!--Game-->
     <item

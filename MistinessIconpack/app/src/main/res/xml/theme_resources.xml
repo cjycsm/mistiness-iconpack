@@ -36,7 +36,7 @@
         name="com.android.mms/com.android.mms.ui.ConversationList"
         image="mms"/>
 
-    <!--Flyme-->
+    <!--Meizu-->
     <AppIcon
         name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock"
         image="clock"/>
@@ -125,7 +125,7 @@
         name="com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity"
         image="wallet"/>
 
-    <!--H2OS-->
+    <!--Oneplus-->
     <AppIcon
         name="com.oneplus.calendar/com.android.calendar.AllInOneActivity"
         image="calendar"/>
@@ -185,6 +185,20 @@
     <AppIcon
         name="com.android.browser/com.tencent.mtt.SplashActivity"
         image="browser"/>
+
+    <AppIcon
+        name="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"
+        image="oneplus_backuprestore"/>
+
+    <!--Mi-->
+    <AppIcon
+        name="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity"
+        image="miui_calculator"/>
+
+    <!--Smartisan-->
+    <AppIcon
+        name="com.smartisan.notes/com.smartisan.notes.NewNotesActivity"
+        image="smartisan_notes"/>
 
     <!--Application-->
     <AppIcon
@@ -1518,6 +1532,34 @@
     <AppIcon
         name="com.pleasure.trace_wechat/com.camellia.trace.activity.SplashActivity"
         image="trace"/>
+
+    <AppIcon
+        name="com.lbe.parallel/com.lbe.parallel.ui.tour.SplashActivity"
+        image="leb_parallel"/>
+
+    <AppIcon
+        name="com.excelliance.dualaid/com.excelliance.kxqp.ui.HelloActivity"
+        image="shuangkai"/>
+
+    <AppIcon
+        name="com.stardust.scriptdroid/com.stardust.scriptdroid.ui.splash.SplashActivity_"
+        image="auto_js"/>
+
+    <AppIcon
+        name="com.microsoft.translator/com.microsoft.translator.activity.SplashActivity"
+        image="microsoft_translator"/>
+
+    <AppIcon
+        name="com.tiqiaa.icontrol/com.tiqiaa.icontrol.WelcomeActivity"
+        image="icontrol"/>
+
+    <AppIcon
+        name="com.plan.kot32.tomatotime/com.plan.kot32.tomatotime.activity.SplashActivity"
+        image="tomato_time"/>
+
+    <AppIcon
+        name="com.tencent.transfer/com.tencent.transfer.ui.FirstActivity"
+        image="tencent_transfer"/>
 
     <!--Game-->
     <AppIcon

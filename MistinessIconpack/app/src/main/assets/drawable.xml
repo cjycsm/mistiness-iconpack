@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>23</version>
+    <version>24</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -37,6 +37,7 @@
     <item drawable="app_logo"/>
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
+    <item drawable="auto_js"/>
     <item drawable="autohome"/>
     <item drawable="away_from_mobile"/>
     <item drawable="b612"/>
@@ -159,6 +160,7 @@
     <item drawable="hupu"/>
     <item drawable="huya"/>
     <item drawable="icebox"/>
+    <item drawable="icontrol"/>
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="if_sunshine_alt"/>
@@ -188,6 +190,7 @@
     <item drawable="lastpass"/>
     <item drawable="lawnchair"/>
     <item drawable="lbe_security"/>
+    <item drawable="leb_parallel"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light_beauty"/>
@@ -209,9 +212,11 @@
     <item drawable="mfw"/>
     <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_launcher"/>
+    <item drawable="microsoft_translator"/>
     <item drawable="mijia"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
+    <item drawable="miui_calculator"/>
     <item drawable="miuibbs"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
@@ -237,6 +242,7 @@
     <item drawable="nowcasting"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
+    <item drawable="oneplus_backuprestore"/>
     <item drawable="oneplus_bbs"/>
     <item drawable="opera"/>
     <item drawable="panda"/>
@@ -299,9 +305,11 @@
     <item drawable="share"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
+    <item drawable="shuangkai"/>
     <item drawable="shuqi"/>
     <item drawable="signal_master"/>
     <item drawable="sina_news"/>
+    <item drawable="smartisan_notes"/>
     <item drawable="smzdm"/>
     <item drawable="snapseed"/>
     <item drawable="sogou_ime"/>
@@ -334,6 +342,7 @@
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_secure"/>
     <item drawable="tencent_sports"/>
+    <item drawable="tencent_transfer"/>
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wifimanager"/>
@@ -345,6 +354,7 @@
     <item drawable="tiptap"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
+    <item drawable="tomato_time"/>
     <item drawable="toolbox"/>
     <item drawable="total_launcher"/>
     <item drawable="trace"/>

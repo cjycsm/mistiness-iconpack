@@ -29,7 +29,7 @@
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
         drawable="mms"/>
 
-    <!--Flyme-->
+    <!--Meizu-->
     <item
         component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
         drawable="clock"/>
@@ -118,7 +118,7 @@
         component="ComponentInfo{com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity}"
         drawable="wallet"/>
 
-    <!--H2OS-->
+    <!--Oneplus-->
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
         xml="calendar"
@@ -181,6 +181,20 @@
     <item
         component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}"
         drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}"
+        drawable="oneplus_backuprestore"/>
+
+    <!--Mi-->
+    <item
+        component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}"
+        drawable="miui_calculator"/>
+
+    <!--Smartisan-->
+    <item
+        component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}"
+        drawable="smartisan_notes"/>
 
     <!--Application-->
     <item
@@ -1514,6 +1528,34 @@
     <item
         component="ComponentInfo{com.pleasure.trace_wechat/com.camellia.trace.activity.SplashActivity}"
         drawable="trace"/>
+
+    <item
+        component="ComponentInfo{com.lbe.parallel/com.lbe.parallel.ui.tour.SplashActivity}"
+        drawable="leb_parallel"/>
+
+    <item
+        component="ComponentInfo{com.excelliance.dualaid/com.excelliance.kxqp.ui.HelloActivity}"
+        drawable="shuangkai"/>
+
+    <item
+        component="ComponentInfo{com.stardust.scriptdroid/com.stardust.scriptdroid.ui.splash.SplashActivity_}"
+        drawable="auto_js"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}"
+        drawable="microsoft_translator"/>
+
+    <item
+        component="ComponentInfo{com.tiqiaa.icontrol/com.tiqiaa.icontrol.WelcomeActivity}"
+        drawable="icontrol"/>
+
+    <item
+        component="ComponentInfo{com.plan.kot32.tomatotime/com.plan.kot32.tomatotime.activity.SplashActivity}"
+        drawable="tomato_time"/>
+
+    <item
+        component="ComponentInfo{com.tencent.transfer/com.tencent.transfer.ui.FirstActivity}"
+        drawable="tencent_transfer"/>
 
     <!--Game-->
     <item
