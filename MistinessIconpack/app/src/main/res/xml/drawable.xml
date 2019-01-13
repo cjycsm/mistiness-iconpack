@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>24</version>
+    <version>26</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -48,6 +48,7 @@
     <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidu_tieba"/>
     <item drawable="baidumap"/>
+    <item drawable="baimiao"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
@@ -65,6 +66,8 @@
     <item drawable="calculator"/>
     <item drawable="calendar"/>
     <item drawable="calendar_ii"/>
+    <item drawable="cam_card"/>
+    <item drawable="cam_scanner"/>
     <item drawable="camera"/>
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
@@ -118,6 +121,7 @@
     <item drawable="emoticon_creater"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
+    <item drawable="evernote"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_vpn"/>
@@ -133,6 +137,7 @@
     <item drawable="fooview"/>
     <item drawable="forest"/>
     <item drawable="gallery"/>
+    <item drawable="gallery_alt"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="geometric_weather"/>
@@ -140,6 +145,8 @@
     <item drawable="gold"/>
     <item drawable="google"/>
     <item drawable="google_camera"/>
+    <item drawable="google_keep"/>
+    <item drawable="google_keep_alt"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
@@ -209,10 +216,17 @@
     <item drawable="meipai"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
+    <item drawable="memento"/>
     <item drawable="mfw"/>
     <item drawable="microsoft_cartana"/>
+    <item drawable="microsoft_excel"/>
     <item drawable="microsoft_launcher"/>
+    <item drawable="microsoft_lens"/>
+    <item drawable="microsoft_onenote"/>
+    <item drawable="microsoft_outlook"/>
+    <item drawable="microsoft_powerpoint"/>
     <item drawable="microsoft_translator"/>
+    <item drawable="microsoft_word"/>
     <item drawable="mijia"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
@@ -242,6 +256,7 @@
     <item drawable="nowcasting"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
+    <item drawable="one_diary"/>
     <item drawable="oneplus_backuprestore"/>
     <item drawable="oneplus_bbs"/>
     <item drawable="opera"/>
@@ -299,6 +314,7 @@
     <item drawable="search_picture_tool"/>
     <item drawable="seekbooks"/>
     <item drawable="settings"/>
+    <item drawable="settings_alt"/>
     <item drawable="sf"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
@@ -382,9 +398,11 @@
     <item drawable="welike"/>
     <item drawable="weread"/>
     <item drawable="wifi_locating"/>
+    <item drawable="wiz_note"/>
     <item drawable="wooden_letter"/>
     <item drawable="word"/>
     <item drawable="wps"/>
+    <item drawable="wps_note"/>
     <item drawable="wuba"/>
     <item drawable="wuta_camera"/>
     <item drawable="xbrowser"/>

@@ -1555,6 +1555,66 @@
         class="com.tencent.transfer.ui.FirstActivity"
         name="tencent_transfer"/>
 
+    <item
+        class="com.microsoft.office.apphost.LaunchActivity"
+        name="microsoft_word"/>
+
+    <item
+        class="com.microsoft.office.apphost.LaunchActivity"
+        name="microsoft_powerpoint"/>
+
+    <item
+        class="com.microsoft.office.apphost.LaunchActivity"
+        name="microsoft_excel"/>
+
+    <item
+        class="com.microsoft.office.officelens.MainActivity"
+        name="microsoft_lens"/>
+
+    <item
+        class="com.chenupt.day.launch.SplashActivity11"
+        name="one_diary"/>
+
+    <item
+        class="com.google.android.keep.activities.BrowseActivity"
+        name="google_keep"/>
+
+    <item
+        class="cn.wiz.note.MainActivity"
+        name="wiz_note"/>
+
+    <item
+        class="com.microsoft.office.onenote.ui.ONMSplashActivity"
+        name="microsoft_onenote"/>
+
+    <item
+        class="cn.wps.note.StartActivity"
+        name="wps_note"/>
+
+    <item
+        class="com.evernote.ui.HomeActivity"
+        name="evernote"/>
+
+    <item
+        class="com.intsig.camscanner.launcher.WelcomeDefaultActivity"
+        name="cam_scanner"/>
+
+    <item
+        class="com.intsig.camcard.BcrFirstLaunchGuide"
+        name="cam_card"/>
+
+    <item
+        class="com.uzero.baimiao.Hello"
+        name="baimiao"/>
+
+    <item
+        class="com.microsoft.office.outlook.MainActivity"
+        name="microsoft_outlook"/>
+
+    <item
+        class="com.jyye.memento.view.splash.SplashActivity"
+        name="memento"/>
+
     <!--Game-->
     <item
         class="com.prime31.UnityPlayerNativeActivity"

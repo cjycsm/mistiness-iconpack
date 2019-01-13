@@ -1557,6 +1557,66 @@
         component="ComponentInfo{com.tencent.transfer/com.tencent.transfer.ui.FirstActivity}"
         drawable="tencent_transfer"/>
 
+    <item
+        component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_word"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_powerpoint"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}"
+        drawable="microsoft_excel"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity}"
+        drawable="microsoft_lens"/>
+
+    <item
+        component="ComponentInfo{com.chenupt.day/com.chenupt.day.launch.SplashActivity11}"
+        drawable="one_diary"/>
+
+    <item
+        component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}"
+        drawable="google_keep"/>
+
+    <item
+        component="ComponentInfo{cn.wiz.note/cn.wiz.note.MainActivity}"
+        drawable="wiz_note"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}"
+        drawable="microsoft_onenote"/>
+
+    <item
+        component="ComponentInfo{cn.wps.note/cn.wps.note.StartActivity}"
+        drawable="wps_note"/>
+
+    <item
+        component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}"
+        drawable="evernote"/>
+
+    <item
+        component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity}"
+        drawable="cam_scanner"/>
+
+    <item
+        component="ComponentInfo{com.intsig.BizCardReader/com.intsig.camcard.BcrFirstLaunchGuide}"
+        drawable="cam_card"/>
+
+    <item
+        component="ComponentInfo{com.uzero.baimiao/com.uzero.baimiao.Hello}"
+        drawable="baimiao"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}"
+        drawable="microsoft_outlook"/>
+
+    <item
+        component="ComponentInfo{com.jyye.memento/com.jyye.memento.view.splash.SplashActivity}"
+        drawable="memento"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"

@@ -1561,6 +1561,66 @@
         name="com.tencent.transfer/com.tencent.transfer.ui.FirstActivity"
         image="tencent_transfer"/>
 
+    <AppIcon
+        name="com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity"
+        image="microsoft_word"/>
+
+    <AppIcon
+        name="com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity"
+        image="microsoft_powerpoint"/>
+
+    <AppIcon
+        name="com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity"
+        image="microsoft_excel"/>
+
+    <AppIcon
+        name="com.microsoft.office.officelens/com.microsoft.office.officelens.MainActivity"
+        image="microsoft_lens"/>
+
+    <AppIcon
+        name="com.chenupt.day/com.chenupt.day.launch.SplashActivity11"
+        image="one_diary"/>
+
+    <AppIcon
+        name="com.google.android.keep/com.google.android.keep.activities.BrowseActivity"
+        image="google_keep"/>
+
+    <AppIcon
+        name="cn.wiz.note/cn.wiz.note.MainActivity"
+        image="wiz_note"/>
+
+    <AppIcon
+        name="com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity"
+        image="microsoft_onenote"/>
+
+    <AppIcon
+        name="cn.wps.note/cn.wps.note.StartActivity"
+        image="wps_note"/>
+
+    <AppIcon
+        name="com.evernote/com.evernote.ui.HomeActivity"
+        image="evernote"/>
+
+    <AppIcon
+        name="com.intsig.camscanner/com.intsig.camscanner.launcher.WelcomeDefaultActivity"
+        image="cam_scanner"/>
+
+    <AppIcon
+        name="com.intsig.BizCardReader/com.intsig.camcard.BcrFirstLaunchGuide"
+        image="cam_card"/>
+
+    <AppIcon
+        name="com.uzero.baimiao/com.uzero.baimiao.Hello"
+        image="baimiao"/>
+
+    <AppIcon
+        name="com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity"
+        image="microsoft_outlook"/>
+
+    <item
+        name="com.jyye.memento/com.jyye.memento.view.splash.SplashActivity"
+        image="memento"/>
+
     <!--Game-->
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"

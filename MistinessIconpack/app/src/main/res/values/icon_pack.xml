@@ -19,17 +19,22 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>miui_calculator</item>
-        <item>smartisan_notes</item>
-        <item>oneplus_backuprestore</item>
-        <item>leb_parallel</item>
-        <item>shuangkai</item>
-        <item>auto_js</item>
-        <item>microsoft_translator</item>
-        <item>icontrol</item>
-        <item>tomato_time</item>
-        <item>tencent_transfer</item>
-        <item>oblatum</item>
+        <item>microsoft_word</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_lens</item>
+        <item>one_diary</item>
+        <item>google_keep</item>
+        <item>google_keep_alt</item>
+        <item>wiz_note</item>
+        <item>microsoft_onenote</item>
+        <item>wps_note</item>
+        <item>evernote</item>
+        <item>cam_scanner</item>
+        <item>cam_card</item>
+        <item>baimiao</item>
+        <item>microsoft_outlook</item>
+        <item>memento</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -49,20 +54,33 @@
     </string-array>
 
     <string-array name="newest">
-        <item>miui_calculator</item>
-        <item>smartisan_notes</item>
-        <item>oneplus_backuprestore</item>
-        <item>leb_parallel</item>
-        <item>shuangkai</item>
-        <item>auto_js</item>
-        <item>microsoft_translator</item>
-        <item>icontrol</item>
-        <item>tomato_time</item>
-        <item>tencent_transfer</item>
+        <item>microsoft_word</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_lens</item>
+        <item>one_diary</item>
+        <item>google_keep</item>
+        <item>google_keep_alt</item>
+        <item>wiz_note</item>
+        <item>microsoft_onenote</item>
+        <item>wps_note</item>
+        <item>evernote</item>
+        <item>cam_scanner</item>
+        <item>cam_card</item>
+        <item>baimiao</item>
+        <item>microsoft_outlook</item>
+        <item>memento</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>oblatum</item>
+        <item>dialer</item>
+        <item>mms</item>
+        <item>gallery</item>
+        <item>gallery_alt</item>
+        <item>settings</item>
+        <item>settings_alt</item>
+        <item>wechat</item>
+        <item>quark</item>
     </string-array>
 
     <string-array name="application">
@@ -414,6 +432,22 @@
         <item>icontrol</item>
         <item>tomato_time</item>
         <item>tencent_transfer</item>
+        <item>microsoft_word</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_lens</item>
+        <item>one_diary</item>
+        <item>google_keep</item>
+        <item>google_keep_alt</item>
+        <item>wiz_note</item>
+        <item>microsoft_onenote</item>
+        <item>wps_note</item>
+        <item>evernote</item>
+        <item>cam_scanner</item>
+        <item>cam_card</item>
+        <item>baimiao</item>
+        <item>microsoft_outlook</item>
+        <item>memento</item>
     </string-array>
 
     <string-array name="game">
@@ -437,6 +471,7 @@
         <item>qrcode_scanner</item>
         <item>safe</item>
         <item>settings</item>
+        <item>settings_alt</item>
         <item>sound_recorder</item>
         <item>sound_recorder_alt</item>
         <item>theme_center</item>
@@ -449,6 +484,7 @@
         <item>music</item>
         <item>file_manager</item>
         <item>gallery</item>
+        <item>gallery_alt</item>
         <item>store</item>
         <item>email</item>
         <item>email_alt</item>
@@ -460,7 +496,9 @@
         <item>note</item>
         <item>dialer</item>
         <item>gallery</item>
+        <item>gallery_alt</item>
         <item>settings</item>
+        <item>settings_alt</item>
         <item>clock</item>
         <item>store</item>
         <item>file_manager</item>
