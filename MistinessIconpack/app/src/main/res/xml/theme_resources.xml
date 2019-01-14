@@ -1621,6 +1621,66 @@
         name="com.jyye.memento/com.jyye.memento.view.splash.SplashActivity"
         image="memento"/>
 
+    <AppIcon
+        name="com.zhaopin.social/com.zhaopin.social.SplashActivity"
+        image="zhilianzhaopin"/>
+
+    <AppIcon
+        name="com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity"
+        image="pure_writer"/>
+
+    <AppIcon
+        name="cn.ticktick.task/com.ticktick.task.activity.MeTaskActivity"
+        image="ticktick_task"/>
+
+    <AppIcon
+        name="com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity"
+        image="wunder_list"/>
+
+    <AppIcon
+        name="com.alpha.lagouapk/com.alpha.lagouapk.HelloActivity"
+        image="lagou"/>
+
+    <AppIcon
+        name="com.pomotodo/com.pomotodo.ui.activities.MainActivity"
+        image="pomotodo"/>
+
+    <AppIcon
+        name="com.kingsoft.email/com.kingsoft.email.ui.launch.WelcomeActivity"
+        image="wps_mail"/>
+
+    <AppIcon
+        name="com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity"
+        image="microsoft_todo"/>
+
+    <AppIcon
+        name="com.jd.jrapp/com.jd.jrapp.WelcomeActivity"
+        image="jd_jr"/>
+
+    <AppIcon
+        name="com.mymoney/com.mymoney.biz.splash.SplashScreenActivity"
+        image="suishouji"/>
+
+    <AppIcon
+        name="com.wacai365/com.wacai365.Launcher"
+        image="wacai"/>
+
+    <AppIcon
+        name="com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity"
+        image="qianji"/>
+
+    <AppIcon
+        name="com.zhangdan.app/com.zhangdan.app.activities.SplashActivity"
+        image="credit_card_manager"/>
+
+    <AppIcon
+        name="com.xiaomi.jr/com.xiaomi.jr.SplashActivity"
+        image="xiaomi_jr"/>
+
+    <AppIcon
+        name="com.lufax.android/com.lufax.android.activity.WelcomeActivity"
+        image="lufax"/>
+
     <!--Game-->
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"

@@ -1615,6 +1615,66 @@
         class="com.jyye.memento.view.splash.SplashActivity"
         name="memento"/>
 
+    <item
+        class="com.zhaopin.social.SplashActivity"
+        name="zhilianzhaopin"/>
+
+    <item
+        class="com.drakeet.purewriter.WriterActivity"
+        name="pure_writer"/>
+
+    <item
+        class="com.ticktick.task.activity.MeTaskActivity"
+        name="ticktick_task"/>
+
+    <item
+        class="com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity"
+        name="wunder_list"/>
+
+    <item
+        class="com.alpha.lagouapk.HelloActivity"
+        name="lagou"/>
+
+    <item
+        class="com.pomotodo.ui.activities.MainActivity"
+        name="pomotodo"/>
+
+    <item
+        class="com.kingsoft.email.ui.launch.WelcomeActivity"
+        name="wps_mail"/>
+
+    <item
+        class="com.microsoft.todos.ui.LaunchActivity"
+        name="microsoft_todo"/>
+
+    <item
+        class="com.jd.jrapp.WelcomeActivity"
+        name="jd_jr"/>
+
+    <item
+        class="com.mymoney.biz.splash.SplashScreenActivity"
+        name="suishouji"/>
+
+    <item
+        class="com.wacai365.Launcher"
+        name="wacai"/>
+
+    <item
+        class="com.mutangtech.qianji.ui.main.MainActivity"
+        name="qianji"/>
+
+    <item
+        class="com.zhangdan.app.activities.SplashActivity"
+        name="credit_card_manager"/>
+
+    <item
+        class="com.xiaomi.jr.SplashActivity"
+        name="xiaomi_jr"/>
+
+    <item
+        class="com.lufax.android.activity.WelcomeActivity"
+        name="lufax"/>
+
     <!--Game-->
     <item
         class="com.prime31.UnityPlayerNativeActivity"

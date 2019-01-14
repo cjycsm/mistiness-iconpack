@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>26</version>
+    <version>27</version>
 
     <category title="All"/>
     <item drawable="acfun"/>
@@ -88,6 +88,7 @@
     <item drawable="contacts"/>
     <item drawable="coolapk"/>
     <item drawable="cpu_z"/>
+    <item drawable="credit_card_manager"/>
     <item drawable="ctfile"/>
     <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
@@ -178,6 +179,7 @@
     <item drawable="ireader"/>
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
+    <item drawable="jd_jr"/>
     <item drawable="jianshu"/>
     <item drawable="jiemian"/>
     <item drawable="jike"/>
@@ -193,6 +195,7 @@
     <item drawable="kugou"/>
     <item drawable="kuwo"/>
     <item drawable="la_systemtoolbox"/>
+    <item drawable="lagou"/>
     <item drawable="lanzou"/>
     <item drawable="lastpass"/>
     <item drawable="lawnchair"/>
@@ -207,6 +210,7 @@
     <item drawable="loveread"/>
     <item drawable="lucky_patcher"/>
     <item drawable="ludashi"/>
+    <item drawable="lufax"/>
     <item drawable="maimai"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
@@ -225,6 +229,7 @@
     <item drawable="microsoft_onenote"/>
     <item drawable="microsoft_outlook"/>
     <item drawable="microsoft_powerpoint"/>
+    <item drawable="microsoft_todo"/>
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
     <item drawable="mijia"/>
@@ -267,6 +272,7 @@
     <item drawable="pedometer"/>
     <item drawable="pic_folder"/>
     <item drawable="poco_launcher"/>
+    <item drawable="pomotodo"/>
     <item drawable="power_clean"/>
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
@@ -275,8 +281,10 @@
     <item drawable="pu"/>
     <item drawable="pure"/>
     <item drawable="pure_weather"/>
+    <item drawable="pure_writer"/>
     <item drawable="qcloud"/>
     <item drawable="qdaily"/>
+    <item drawable="qianji"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
     <item drawable="qihoo_antivirus"/>
@@ -339,6 +347,7 @@
     <item drawable="store"/>
     <item drawable="storm"/>
     <item drawable="substratum"/>
+    <item drawable="suishouji"/>
     <item drawable="super_calculator"/>
     <item drawable="supersu"/>
     <item drawable="tantan"/>
@@ -365,6 +374,7 @@
     <item drawable="theme_center"/>
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
+    <item drawable="ticktick_task"/>
     <item drawable="tim"/>
     <item drawable="tingshu"/>
     <item drawable="tiptap"/>
@@ -385,6 +395,7 @@
     <item drawable="vlc"/>
     <item drawable="vtools"/>
     <item drawable="vue"/>
+    <item drawable="wacai"/>
     <item drawable="wallet"/>
     <item drawable="walli"/>
     <item drawable="wangxin"/>
@@ -402,14 +413,17 @@
     <item drawable="wooden_letter"/>
     <item drawable="word"/>
     <item drawable="wps"/>
+    <item drawable="wps_mail"/>
     <item drawable="wps_note"/>
     <item drawable="wuba"/>
+    <item drawable="wunder_list"/>
     <item drawable="wuta_camera"/>
     <item drawable="xbrowser"/>
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
     <item drawable="xiaomi_channel"/>
+    <item drawable="xiaomi_jr"/>
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
@@ -427,6 +441,7 @@
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
+    <item drawable="zhilianzhaopin"/>
     <item drawable="zhuanzhuan"/>
     <item drawable="zhuishushenqi"/>
     <item drawable="zol"/>

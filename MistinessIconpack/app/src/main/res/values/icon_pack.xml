@@ -19,22 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>microsoft_word</item>
-        <item>microsoft_powerpoint</item>
-        <item>microsoft_excel</item>
-        <item>microsoft_lens</item>
-        <item>one_diary</item>
-        <item>google_keep</item>
-        <item>google_keep_alt</item>
-        <item>wiz_note</item>
-        <item>microsoft_onenote</item>
-        <item>wps_note</item>
-        <item>evernote</item>
-        <item>cam_scanner</item>
-        <item>cam_card</item>
-        <item>baimiao</item>
-        <item>microsoft_outlook</item>
-        <item>memento</item>
+        <item>zhilianzhaopin</item>
+        <item>pure_writer</item>
+        <item>ticktick_task</item>
+        <item>wunder_list</item>
+        <item>lagou</item>
+        <item>pomotodo</item>
+        <item>wps_mail</item>
+        <item>microsoft_todo</item>
+        <item>jd_jr</item>
+        <item>suishouji</item>
+        <item>wacai</item>
+        <item>qianji</item>
+        <item>credit_card_manager</item>
+        <item>xiaomi_jr</item>
+        <item>lufax</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -54,33 +53,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>microsoft_word</item>
-        <item>microsoft_powerpoint</item>
-        <item>microsoft_excel</item>
-        <item>microsoft_lens</item>
-        <item>one_diary</item>
-        <item>google_keep</item>
-        <item>google_keep_alt</item>
-        <item>wiz_note</item>
-        <item>microsoft_onenote</item>
-        <item>wps_note</item>
-        <item>evernote</item>
-        <item>cam_scanner</item>
-        <item>cam_card</item>
-        <item>baimiao</item>
-        <item>microsoft_outlook</item>
-        <item>memento</item>
+        <item>zhilianzhaopin</item>
+        <item>pure_writer</item>
+        <item>ticktick_task</item>
+        <item>wunder_list</item>
+        <item>lagou</item>
+        <item>pomotodo</item>
+        <item>wps_mail</item>
+        <item>microsoft_todo</item>
+        <item>jd_jr</item>
+        <item>suishouji</item>
+        <item>wacai</item>
+        <item>qianji</item>
+        <item>credit_card_manager</item>
+        <item>xiaomi_jr</item>
+        <item>lufax</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>dialer</item>
-        <item>mms</item>
-        <item>gallery</item>
-        <item>gallery_alt</item>
-        <item>settings</item>
-        <item>settings_alt</item>
-        <item>wechat</item>
-        <item>quark</item>
+
     </string-array>
 
     <string-array name="application">
@@ -448,6 +439,21 @@
         <item>baimiao</item>
         <item>microsoft_outlook</item>
         <item>memento</item>
+        <item>zhilianzhaopin</item>
+        <item>pure_writer</item>
+        <item>ticktick_task</item>
+        <item>wunder_list</item>
+        <item>lagou</item>
+        <item>pomotodo</item>
+        <item>wps_mail</item>
+        <item>microsoft_todo</item>
+        <item>jd_jr</item>
+        <item>suishouji</item>
+        <item>wacai</item>
+        <item>qianji</item>
+        <item>credit_card_manager</item>
+        <item>xiaomi_jr</item>
+        <item>lufax</item>
     </string-array>
 
     <string-array name="game">

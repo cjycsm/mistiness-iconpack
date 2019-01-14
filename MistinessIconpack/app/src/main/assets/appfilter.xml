@@ -1617,6 +1617,66 @@
         component="ComponentInfo{com.jyye.memento/com.jyye.memento.view.splash.SplashActivity}"
         drawable="memento"/>
 
+    <item
+        component="ComponentInfo{com.zhaopin.social/com.zhaopin.social.SplashActivity}"
+        drawable="zhilianzhaopin"/>
+
+    <item
+        component="ComponentInfo{com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity}"
+        drawable="pure_writer"/>
+
+    <item
+        component="ComponentInfo{cn.ticktick.task/com.ticktick.task.activity.MeTaskActivity}"
+        drawable="ticktick_task"/>
+
+    <item
+        component="ComponentInfo{com.wunderkinder.wunderlistandroid/com.wunderkinder.wunderlistandroid.activity.WLMainFragmentActivity}"
+        drawable="wunder_list"/>
+
+    <item
+        component="ComponentInfo{com.alpha.lagouapk/com.alpha.lagouapk.HelloActivity}"
+        drawable="lagou"/>
+
+    <item
+        component="ComponentInfo{com.pomotodo/com.pomotodo.ui.activities.MainActivity}"
+        drawable="pomotodo"/>
+
+    <item
+        component="ComponentInfo{com.kingsoft.email/com.kingsoft.email.ui.launch.WelcomeActivity}"
+        drawable="wps_mail"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}"
+        drawable="microsoft_todo"/>
+
+    <item
+        component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.WelcomeActivity}"
+        drawable="jd_jr"/>
+
+    <item
+        component="ComponentInfo{com.mymoney/com.mymoney.biz.splash.SplashScreenActivity}"
+        drawable="suishouji"/>
+
+    <item
+        component="ComponentInfo{com.wacai365/com.wacai365.Launcher}"
+        drawable="wacai"/>
+
+    <item
+        component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}"
+        drawable="qianji"/>
+
+    <item
+        component="ComponentInfo{com.zhangdan.app/com.zhangdan.app.activities.SplashActivity}"
+        drawable="credit_card_manager"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.jr/com.xiaomi.jr.SplashActivity}"
+        drawable="xiaomi_jr"/>
+
+    <item
+        component="ComponentInfo{com.lufax.android/com.lufax.android.activity.WelcomeActivity}"
+        drawable="lufax"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
