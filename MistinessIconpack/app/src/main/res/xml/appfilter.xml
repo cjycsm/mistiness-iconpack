@@ -1677,6 +1677,66 @@
         component="ComponentInfo{com.lufax.android/com.lufax.android.activity.WelcomeActivity}"
         drawable="lufax"/>
 
+    <item
+        component="ComponentInfo{com.netease.moneykeeper/com.netease.moneykeeper.ui.launch.LaunchActivity}"
+        drawable="netease_moneykeeper"/>
+
+    <item
+        component="ComponentInfo{cmb.pb/cmb.pb.launch.PBInitActivity}"
+        drawable="cmb"/>
+
+    <item
+        component="ComponentInfo{com.cmbchina.ccd.pluto.cmbActivity/com.cmbchina.ccd.pluto.cmbActivity.SplashActivity}"
+        drawable="cmb_life"/>
+
+    <item
+        component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
+        drawable="ccb"/>
+
+    <item
+        component="ComponentInfo{com.icbc/com.icbc.activity.init.LoadingActivity}"
+        drawable="icbc"/>
+
+    <item
+        component="ComponentInfo{com.android.bankabc/com.android.bankabc.SplashActivity}"
+        drawable="abc"/>
+
+    <item
+        component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
+        drawable="boc"/>
+
+    <item
+        component="ComponentInfo{com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity}"
+        drawable="citic"/>
+
+    <item
+        component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}"
+        drawable="unionpay"/>
+
+    <item
+        component="ComponentInfo{cn.com.spdb.mobilebank.per/cn.com.spdb.mobilebank.per.activity.SplashActivity}"
+        drawable="spdb"/>
+
+    <item
+        component="ComponentInfo{com.hexin.plat.android/com.hexin.plat.android.AndroidLogoActivity}"
+        drawable="hexin"/>
+
+    <item
+        component="ComponentInfo{com.xueqiu.android/com.xueqiu.android.view.WelcomeActivityAlias}"
+        drawable="xueqiu"/>
+
+    <item
+        component="ComponentInfo{com.android.dazhihui/com.android.dazhihui.dzh.dzh}"
+        drawable="dzh"/>
+
+    <item
+        component="ComponentInfo{com.cmschina.stock/com.cmschina.stock.InitActivity}"
+        drawable="cms"/>
+
+    <item
+        component="ComponentInfo{com.guotai.dazhihui/com.gtja.home.InitScreen}"
+        drawable="gtja"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"

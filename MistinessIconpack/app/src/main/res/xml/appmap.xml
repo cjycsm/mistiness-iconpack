@@ -1675,6 +1675,66 @@
         class="com.lufax.android.activity.WelcomeActivity"
         name="lufax"/>
 
+    <item
+        class="com.netease.moneykeeper.ui.launch.LaunchActivity"
+        name="netease_moneykeeper"/>
+
+    <item
+        class="cmb.pb.launch.PBInitActivity"
+        name="cmb"/>
+
+    <item
+        class="com.cmbchina.ccd.pluto.cmbActivity.SplashActivity"
+        name="cmb_life"/>
+
+    <item
+        class="com.ccb.start.MainActivity"
+        name="ccb"/>
+
+    <item
+        class="com.icbc.activity.init.LoadingActivity"
+        name="icbc"/>
+
+    <item
+        class="com.android.bankabc.SplashActivity"
+        name="abc"/>
+
+    <item
+        class="com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
+        name="boc"/>
+
+    <item
+        class="com.ecitic.bank.mobile.ui.SplashActivity"
+        name="citic"/>
+
+    <item
+        class="com.unionpay.activity.UPActivityWelcome"
+        name="unionpay"/>
+
+    <item
+        class="cn.com.spdb.mobilebank.per.activity.SplashActivity"
+        name="spdb"/>
+
+    <item
+        class="com.hexin.plat.android.AndroidLogoActivity"
+        name="hexin"/>
+
+    <item
+        class="com.xueqiu.android.view.WelcomeActivityAlias"
+        name="xueqiu"/>
+
+    <item
+        class="com.android.dazhihui.dzh.dzh"
+        name="dzh"/>
+
+    <item
+        class="com.cmschina.stock.InitActivity"
+        name="cms"/>
+
+    <item
+        class="com.gtja.home.InitScreen"
+        name="gtja"/>
+
     <!--Game-->
     <item
         class="com.prime31.UnityPlayerNativeActivity"

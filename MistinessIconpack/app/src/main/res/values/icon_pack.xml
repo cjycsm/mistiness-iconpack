@@ -19,21 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>zhilianzhaopin</item>
-        <item>pure_writer</item>
-        <item>ticktick_task</item>
-        <item>wunder_list</item>
-        <item>lagou</item>
-        <item>pomotodo</item>
-        <item>wps_mail</item>
-        <item>microsoft_todo</item>
-        <item>jd_jr</item>
-        <item>suishouji</item>
-        <item>wacai</item>
-        <item>qianji</item>
-        <item>credit_card_manager</item>
-        <item>xiaomi_jr</item>
-        <item>lufax</item>
+        <item>netease_moneykeeper</item>
+        <item>cmb</item>
+        <item>cmb_life</item>
+        <item>ccb</item>
+        <item>icbc</item>
+        <item>abc</item>
+        <item>boc</item>
+        <item>citic</item>
+        <item>unionpay</item>
+        <item>spdb</item>
+        <item>hexin</item>
+        <item>xueqiu</item>
+        <item>dzh</item>
+        <item>cms</item>
+        <item>gtja</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -53,21 +53,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>zhilianzhaopin</item>
-        <item>pure_writer</item>
-        <item>ticktick_task</item>
-        <item>wunder_list</item>
-        <item>lagou</item>
-        <item>pomotodo</item>
-        <item>wps_mail</item>
-        <item>microsoft_todo</item>
-        <item>jd_jr</item>
-        <item>suishouji</item>
-        <item>wacai</item>
-        <item>qianji</item>
-        <item>credit_card_manager</item>
-        <item>xiaomi_jr</item>
-        <item>lufax</item>
+        <item>netease_moneykeeper</item>
+        <item>cmb</item>
+        <item>cmb_life</item>
+        <item>ccb</item>
+        <item>icbc</item>
+        <item>abc</item>
+        <item>boc</item>
+        <item>citic</item>
+        <item>unionpay</item>
+        <item>spdb</item>
+        <item>hexin</item>
+        <item>xueqiu</item>
+        <item>dzh</item>
+        <item>cms</item>
+        <item>gtja</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -454,6 +454,21 @@
         <item>credit_card_manager</item>
         <item>xiaomi_jr</item>
         <item>lufax</item>
+        <item>netease_moneykeeper</item>
+        <item>cmb</item>
+        <item>cmb_life</item>
+        <item>ccb</item>
+        <item>icbc</item>
+        <item>abc</item>
+        <item>boc</item>
+        <item>citic</item>
+        <item>unionpay</item>
+        <item>spdb</item>
+        <item>hexin</item>
+        <item>xueqiu</item>
+        <item>dzh</item>
+        <item>cms</item>
+        <item>gtja</item>
     </string-array>
 
     <string-array name="game">

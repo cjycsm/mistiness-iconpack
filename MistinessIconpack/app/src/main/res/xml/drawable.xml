@@ -19,9 +19,10 @@
   -->
 
 <resources>
-    <version>27</version>
+    <version>28</version>
 
     <category title="All"/>
+    <item drawable="abc"/>
     <item drawable="acfun"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
@@ -55,6 +56,7 @@
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
+    <item drawable="boc"/>
     <item drawable="brevent"/>
     <item drawable="browser"/>
     <item drawable="browser_alt"/>
@@ -74,14 +76,19 @@
     <item drawable="card"/>
     <item drawable="card_alt"/>
     <item drawable="card_emulator"/>
+    <item drawable="ccb"/>
     <item drawable="changba"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
+    <item drawable="citic"/>
     <item drawable="clock"/>
     <item drawable="cloud_115"/>
     <item drawable="cloudmusic"/>
+    <item drawable="cmb"/>
+    <item drawable="cmb_life"/>
+    <item drawable="cms"/>
     <item drawable="cntv"/>
     <item drawable="comiclover"/>
     <item drawable="comics_island"/>
@@ -111,6 +118,7 @@
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
     <item drawable="duokan"/>
+    <item drawable="dzh"/>
     <item drawable="ecalendar"/>
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
@@ -155,10 +163,12 @@
     <item drawable="google_voice"/>
     <item drawable="greenify"/>
     <item drawable="gtgj"/>
+    <item drawable="gtja"/>
     <item drawable="guokr"/>
     <item drawable="haodou"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
+    <item drawable="hexin"/>
     <item drawable="hi"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
@@ -167,6 +177,7 @@
     <item drawable="huoying"/>
     <item drawable="hupu"/>
     <item drawable="huya"/>
+    <item drawable="icbc"/>
     <item drawable="icebox"/>
     <item drawable="icontrol"/>
     <item drawable="idlefish"/>
@@ -251,6 +262,7 @@
     <item drawable="myandroidtools"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_mail"/>
+    <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
     <item drawable="netease_snailread"/>
     <item drawable="netease_yanxuan"/>
@@ -342,6 +354,7 @@
     <item drawable="soul"/>
     <item drawable="sound_recorder"/>
     <item drawable="sound_recorder_alt"/>
+    <item drawable="spdb"/>
     <item drawable="speedtest"/>
     <item drawable="steam"/>
     <item drawable="store"/>
@@ -388,6 +401,7 @@
     <item drawable="ttpic"/>
     <item drawable="uc"/>
     <item drawable="unicom"/>
+    <item drawable="unionpay"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="videoshow"/>
@@ -427,6 +441,7 @@
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
+    <item drawable="xueqiu"/>
     <item drawable="xunlei"/>
     <item drawable="yahoo_weather"/>
     <item drawable="yandong"/>

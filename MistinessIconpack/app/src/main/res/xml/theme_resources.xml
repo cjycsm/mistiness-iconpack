@@ -1681,6 +1681,66 @@
         name="com.lufax.android/com.lufax.android.activity.WelcomeActivity"
         image="lufax"/>
 
+    <AppIcon
+        name="com.netease.moneykeeper/com.netease.moneykeeper.ui.launch.LaunchActivity"
+        image="netease_moneykeeper"/>
+
+    <AppIcon
+        name="cmb.pb/cmb.pb.launch.PBInitActivity"
+        image="cmb"/>
+
+    <AppIcon
+        name="com.cmbchina.ccd.pluto.cmbActivity/com.cmbchina.ccd.pluto.cmbActivity.SplashActivity"
+        image="cmb_life"/>
+
+    <AppIcon
+        name="com.chinamworld.main/com.ccb.start.MainActivity"
+        image="ccb"/>
+
+    <AppIcon
+        name="com.icbc/com.icbc.activity.init.LoadingActivity"
+        image="icbc"/>
+
+    <AppIcon
+        name="com.android.bankabc/com.android.bankabc.SplashActivity"
+        image="abc"/>
+
+    <AppIcon
+        name="com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity"
+        image="boc"/>
+
+    <AppIcon
+        name="com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity"
+        image="citic"/>
+
+    <AppIcon
+        name="com.unionpay/com.unionpay.activity.UPActivityWelcome"
+        image="unionpay"/>
+
+    <AppIcon
+        name="cn.com.spdb.mobilebank.per/cn.com.spdb.mobilebank.per.activity.SplashActivity"
+        image="spdb"/>
+
+    <AppIcon
+        name="com.hexin.plat.android/com.hexin.plat.android.AndroidLogoActivity"
+        image="hexin"/>
+
+    <AppIcon
+        name="com.xueqiu.android/com.xueqiu.android.view.WelcomeActivityAlias"
+        image="xueqiu"/>
+
+    <AppIcon
+        name="com.android.dazhihui/com.android.dazhihui.dzh.dzh"
+        image="dzh"/>
+
+    <AppIcon
+        name="com.cmschina.stock/com.cmschina.stock.InitActivity"
+        image="cms"/>
+
+    <AppIcon
+        name="com.guotai.dazhihui/com.gtja.home.InitScreen"
+        image="gtja"/>
+
     <!--Game-->
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"
