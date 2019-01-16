@@ -1735,6 +1735,66 @@
         class="com.gtja.home.InitScreen"
         name="gtja"/>
 
+    <item
+        class="com.eastmoney.android.berlin.activity.MainActivity"
+        name="eastmoney"/>
+
+    <item
+        class="com.tencent.portfolio.splash.CSplashActivity"
+        name="tencent_portfolio"/>
+
+    <item
+        class="com.hexin.android.bank.LogoActivity"
+        name="hexin_bank"/>
+
+    <item
+        class="com.talicai.timiclient.ui.SplashActivity"
+        name="timi"/>
+
+    <item
+        class="com.qeeniao.mobile.kdjz.BlankActivity"
+        name="kdjz"/>
+
+    <item
+        class="melandru.lonicera.activity.launch.LaunchActivity"
+        name="lonicera"/>
+
+    <item
+        class="com.account.book.quanzi.activity.SplashActivity"
+        name="quanzi"/>
+
+    <item
+        class="com.codoon.gps.ui.login.WelcomeActivity"
+        name="codoon"/>
+
+    <item
+        class="com.yuedong.sport.main.WelcomeActivity_"
+        name="yuedong_sport"/>
+
+    <item
+        class="com.shine.ui.home.SplashActivity"
+        name="du"/>
+
+    <item
+        class="cn.dxy.android.aspirin.ui.activity.StartupActivity"
+        name="dxy_aspirin"/>
+
+    <item
+        class="cn.dxy.idxyer.common.StartupActivity"
+        name="dxy"/>
+
+    <item
+        class="me.chunyu.ChunyuDoctor.Activities.WelcomeActivity"
+        name="chunyu_doctor"/>
+
+    <item
+        class="cn.dxy.medicinehelper.activity.DrugLaunchActivity"
+        name="medicine_helper"/>
+
+    <item
+        class="com.huxiu.ui.activity.SplashActivity"
+        name="huxiu"/>
+
     <!--Game-->
     <item
         class="com.prime31.UnityPlayerNativeActivity"

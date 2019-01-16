@@ -1741,6 +1741,66 @@
         name="com.guotai.dazhihui/com.gtja.home.InitScreen"
         image="gtja"/>
 
+    <AppIcon
+        name="com.eastmoney.android.berlin/com.eastmoney.android.berlin.activity.MainActivity"
+        image="eastmoney"/>
+
+    <AppIcon
+        name="com.tencent.portfolio/com.tencent.portfolio.splash.CSplashActivity"
+        image="tencent_portfolio"/>
+
+    <AppIcon
+        name="com.hexin.android.bank/com.hexin.android.bank.LogoActivity"
+        image="hexin_bank"/>
+
+    <AppIcon
+        name="com.talicai.timiclient/com.talicai.timiclient.ui.SplashActivity"
+        image="timi"/>
+
+    <AppIcon
+        name="com.qeeniao.mobile.kdjz/com.qeeniao.mobile.kdjz.BlankActivity"
+        image="kdjz"/>
+
+    <AppIcon
+        name="melandru.lonicera/melandru.lonicera.activity.launch.LaunchActivity"
+        image="lonicera"/>
+
+    <AppIcon
+        name="com.account.book.quanzi/com.account.book.quanzi.activity.SplashActivity"
+        image="quanzi"/>
+
+    <AppIcon
+        name="com.codoon.gps/com.codoon.gps.ui.login.WelcomeActivity"
+        image="codoon"/>
+
+    <AppIcon
+        name="com.yuedong.sport/com.yuedong.sport.main.WelcomeActivity_"
+        image="yuedong_sport"/>
+
+    <AppIcon
+        name="com.shizhuang.duapp/com.shine.ui.home.SplashActivity"
+        image="du"/>
+
+    <AppIcon
+        name="cn.dxy.android.aspirin/cn.dxy.android.aspirin.ui.activity.StartupActivity"
+        image="dxy_aspirin"/>
+
+    <AppIcon
+        name="cn.dxy.idxyer/cn.dxy.idxyer.common.StartupActivity"
+        image="dxy"/>
+
+    <AppIcon
+        name="me.chunyu.ChunyuDoctor/me.chunyu.ChunyuDoctor.Activities.WelcomeActivity"
+        image="chunyu_doctor"/>
+
+    <AppIcon
+        name="cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.DrugLaunchActivity"
+        image="medicine_helper"/>
+
+    <AppIcon
+        name="com.huxiu/com.huxiu.ui.activity.SplashActivity"
+        image="huxiu"/>
+
     <!--Game-->
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"

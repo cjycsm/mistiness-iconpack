@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>28</version>
+    <version>29</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -82,6 +82,7 @@
     <item drawable="china_telecom"/>
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
+    <item drawable="chunyu_doctor"/>
     <item drawable="citic"/>
     <item drawable="clock"/>
     <item drawable="cloud_115"/>
@@ -90,6 +91,7 @@
     <item drawable="cmb_life"/>
     <item drawable="cms"/>
     <item drawable="cntv"/>
+    <item drawable="codoon"/>
     <item drawable="comiclover"/>
     <item drawable="comics_island"/>
     <item drawable="contacts"/>
@@ -117,8 +119,12 @@
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
+    <item drawable="du"/>
     <item drawable="duokan"/>
+    <item drawable="dxy"/>
+    <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
+    <item drawable="eastmoney"/>
     <item drawable="ecalendar"/>
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
@@ -169,6 +175,7 @@
     <item drawable="heike"/>
     <item drawable="hellobike"/>
     <item drawable="hexin"/>
+    <item drawable="hexin_bank"/>
     <item drawable="hi"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
@@ -176,6 +183,7 @@
     <item drawable="huoshan"/>
     <item drawable="huoying"/>
     <item drawable="hupu"/>
+    <item drawable="huxiu"/>
     <item drawable="huya"/>
     <item drawable="icbc"/>
     <item drawable="icebox"/>
@@ -196,6 +204,7 @@
     <item drawable="jike"/>
     <item drawable="jingdong"/>
     <item drawable="karaoke"/>
+    <item drawable="kdjz"/>
     <item drawable="keep"/>
     <item drawable="kfc"/>
     <item drawable="kindle"/>
@@ -217,6 +226,7 @@
     <item drawable="light_beauty"/>
     <item drawable="linkedin"/>
     <item drawable="lofter"/>
+    <item drawable="lonicera"/>
     <item drawable="lovebizhi"/>
     <item drawable="loveread"/>
     <item drawable="lucky_patcher"/>
@@ -227,6 +237,7 @@
     <item drawable="maoyan"/>
     <item drawable="map"/>
     <item drawable="mdschool"/>
+    <item drawable="medicine_helper"/>
     <item drawable="meeye"/>
     <item drawable="meipai"/>
     <item drawable="meituan_takeout"/>
@@ -318,6 +329,7 @@
     <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
     <item drawable="qsbk"/>
+    <item drawable="quanzi"/>
     <item drawable="quark"/>
     <item drawable="quqi"/>
     <item drawable="qzone"/>
@@ -376,6 +388,7 @@
     <item drawable="tencent_filemanager"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_news"/>
+    <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqlive"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_secure"/>
@@ -389,6 +402,7 @@
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
     <item drawable="tim"/>
+    <item drawable="timi"/>
     <item drawable="tingshu"/>
     <item drawable="tiptap"/>
     <item drawable="titanium_backup"/>
@@ -450,6 +464,7 @@
     <item drawable="youdao_note"/>
     <item drawable="youku"/>
     <item drawable="youtube"/>
+    <item drawable="yuedong_sport"/>
     <item drawable="yyets"/>
     <item drawable="z_launcher"/>
     <item drawable="zaker"/>

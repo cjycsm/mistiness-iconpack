@@ -19,21 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>netease_moneykeeper</item>
-        <item>cmb</item>
-        <item>cmb_life</item>
-        <item>ccb</item>
-        <item>icbc</item>
-        <item>abc</item>
-        <item>boc</item>
-        <item>citic</item>
-        <item>unionpay</item>
-        <item>spdb</item>
-        <item>hexin</item>
-        <item>xueqiu</item>
-        <item>dzh</item>
-        <item>cms</item>
-        <item>gtja</item>
+        <item>eastmoney</item>
+        <item>tencent_portfolio</item>
+        <item>hexin_bank</item>
+        <item>timi</item>
+        <item>kdjz</item>
+        <item>lonicera</item>
+        <item>quanzi</item>
+        <item>codoon</item>
+        <item>yuedong_sport</item>
+        <item>du</item>
+        <item>dxy_aspirin</item>
+        <item>dxy</item>
+        <item>chunyu_doctor</item>
+        <item>medicine_helper</item>
+        <item>huxiu</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -53,21 +53,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>netease_moneykeeper</item>
-        <item>cmb</item>
-        <item>cmb_life</item>
-        <item>ccb</item>
-        <item>icbc</item>
-        <item>abc</item>
-        <item>boc</item>
-        <item>citic</item>
-        <item>unionpay</item>
-        <item>spdb</item>
-        <item>hexin</item>
-        <item>xueqiu</item>
-        <item>dzh</item>
-        <item>cms</item>
-        <item>gtja</item>
+        <item>eastmoney</item>
+        <item>tencent_portfolio</item>
+        <item>hexin_bank</item>
+        <item>timi</item>
+        <item>kdjz</item>
+        <item>lonicera</item>
+        <item>quanzi</item>
+        <item>codoon</item>
+        <item>yuedong_sport</item>
+        <item>du</item>
+        <item>dxy_aspirin</item>
+        <item>dxy</item>
+        <item>chunyu_doctor</item>
+        <item>medicine_helper</item>
+        <item>huxiu</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -469,6 +469,21 @@
         <item>dzh</item>
         <item>cms</item>
         <item>gtja</item>
+        <item>eastmoney</item>
+        <item>tencent_portfolio</item>
+        <item>hexin_bank</item>
+        <item>timi</item>
+        <item>kdjz</item>
+        <item>lonicera</item>
+        <item>quanzi</item>
+        <item>codoon</item>
+        <item>yuedong_sport</item>
+        <item>du</item>
+        <item>dxy_aspirin</item>
+        <item>dxy</item>
+        <item>chunyu_doctor</item>
+        <item>medicine_helper</item>
+        <item>huxiu</item>
     </string-array>
 
     <string-array name="game">

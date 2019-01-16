@@ -1737,6 +1737,66 @@
         component="ComponentInfo{com.guotai.dazhihui/com.gtja.home.InitScreen}"
         drawable="gtja"/>
 
+    <item
+        component="ComponentInfo{com.eastmoney.android.berlin/com.eastmoney.android.berlin.activity.MainActivity}"
+        drawable="eastmoney"/>
+
+    <item
+        component="ComponentInfo{com.tencent.portfolio/com.tencent.portfolio.splash.CSplashActivity}"
+        drawable="tencent_portfolio"/>
+
+    <item
+        component="ComponentInfo{com.hexin.android.bank/com.hexin.android.bank.LogoActivity}"
+        drawable="hexin_bank"/>
+
+    <item
+        component="ComponentInfo{com.talicai.timiclient/com.talicai.timiclient.ui.SplashActivity}"
+        drawable="timi"/>
+
+    <item
+        component="ComponentInfo{com.qeeniao.mobile.kdjz/com.qeeniao.mobile.kdjz.BlankActivity}"
+        drawable="kdjz"/>
+
+    <item
+        component="ComponentInfo{melandru.lonicera/melandru.lonicera.activity.launch.LaunchActivity}"
+        drawable="lonicera"/>
+
+    <item
+        component="ComponentInfo{com.account.book.quanzi/com.account.book.quanzi.activity.SplashActivity}"
+        drawable="quanzi"/>
+
+    <item
+        component="ComponentInfo{com.codoon.gps/com.codoon.gps.ui.login.WelcomeActivity}"
+        drawable="codoon"/>
+
+    <item
+        component="ComponentInfo{com.yuedong.sport/com.yuedong.sport.main.WelcomeActivity_}"
+        drawable="yuedong_sport"/>
+
+    <item
+        component="ComponentInfo{com.shizhuang.duapp/com.shine.ui.home.SplashActivity}"
+        drawable="du"/>
+
+    <item
+        component="ComponentInfo{cn.dxy.android.aspirin/cn.dxy.android.aspirin.ui.activity.StartupActivity}"
+        drawable="dxy_aspirin"/>
+
+    <item
+        component="ComponentInfo{cn.dxy.idxyer/cn.dxy.idxyer.common.StartupActivity}"
+        drawable="dxy"/>
+
+    <item
+        component="ComponentInfo{me.chunyu.ChunyuDoctor/me.chunyu.ChunyuDoctor.Activities.WelcomeActivity}"
+        drawable="chunyu_doctor"/>
+
+    <item
+        component="ComponentInfo{cn.dxy.medicinehelper/cn.dxy.medicinehelper.activity.DrugLaunchActivity}"
+        drawable="medicine_helper"/>
+
+    <item
+        component="ComponentInfo{com.huxiu/com.huxiu.ui.activity.SplashActivity}"
+        drawable="huxiu"/>
+
     <!--Game-->
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
