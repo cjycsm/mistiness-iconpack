@@ -27,7 +27,6 @@
     <ThemePreviewMenu image="preview1" />
     <DockMenuAppIcon selector="drawer" />
 
-    <!--Android-->
     <AppIcon
         name="com.android.settings/com.android.settings.Settings"
         image="settings"/>
@@ -36,7 +35,6 @@
         name="com.android.mms/com.android.mms.ui.ConversationList"
         image="mms"/>
 
-    <!--Meizu-->
     <AppIcon
         name="com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock"
         image="clock"/>
@@ -51,15 +49,15 @@
 
     <AppIcon
         name="com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen"
-        image="map"/>
+        image="meizu_map"/>
 
     <AppIcon
         name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity"
-        image="note"/>
+        image="meizu_note"/>
 
     <AppIcon
         name="com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys"
-        image="pedometer"/>
+        image="meizu_pedometer"/>
 
     <AppIcon
         name="com.inklin.qrcodescanner/com.inklin.qrcodescanner.SplashActivity"
@@ -67,7 +65,7 @@
 
     <AppIcon
         name="com.meizu.safe/com.meizu.safe.SecurityMainActivity"
-        image="safe"/>
+        image="meizu_safe"/>
 
     <AppIcon
         name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity"
@@ -75,11 +73,11 @@
 
     <AppIcon
         name="com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity"
-        image="theme_center"/>
+        image="meizu_customizecenter"/>
 
     <AppIcon
         name="com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity"
-        image="toolbox"/>
+        image="meizu_toolbox"/>
 
     <AppIcon
         name="com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity"
@@ -99,7 +97,7 @@
 
     <AppIcon
         name="com.meizu.media.music/com.meizu.media.music.MusicActivity"
-        image="music"/>
+        image="meizu_music"/>
 
     <AppIcon
         name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity"
@@ -115,7 +113,7 @@
 
     <AppIcon
         name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity"
-        image="video"/>
+        image="meizu_video"/>
 
     <AppIcon
         name="com.android.email/com.android.email.activity.EmailActivity"
@@ -123,9 +121,8 @@
 
     <AppIcon
         name="com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity"
-        image="wallet"/>
+        image="meizu_wallet"/>
 
-    <!--Oneplus-->
     <AppIcon
         name="com.oneplus.calendar/com.android.calendar.AllInOneActivity"
         image="calendar"/>
@@ -140,11 +137,11 @@
 
     <AppIcon
         name="com.oneplus.note/com.oneplus.note.ui.MainActivity"
-        image="note"/>
+        image="oneplus_note"/>
 
     <AppIcon
         name="com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity"
-        image="card"/>
+        image="oneplus_card"/>
 
     <AppIcon
         name="com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity"
@@ -171,10 +168,6 @@
         image="calculator"/>
 
     <AppIcon
-        name="com.android.documentsui/com.android.documentsui.LauncherActivity"
-        image="downloads"/>
-
-    <AppIcon
         name="com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder"
         image="sound_recorder"/>
 
@@ -190,17 +183,18 @@
         name="com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity"
         image="oneplus_backuprestore"/>
 
-    <!--Mi-->
     <AppIcon
         name="com.miui.calculator/com.miui.calculator.cal.CalculatorActivity"
         image="miui_calculator"/>
 
-    <!--Smartisan-->
     <AppIcon
         name="com.smartisan.notes/com.smartisan.notes.NewNotesActivity"
         image="smartisan_notes"/>
 
-    <!--Application-->
+    <AppIcon
+        name="com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity"
+        image="samsung_shealth"/>
+
     <AppIcon
         name="com.dv.adm.pay/com.dv.adm.pay.Main"
         image="adm_pro"/>
@@ -1801,7 +1795,62 @@
         name="com.huxiu/com.huxiu.ui.activity.SplashActivity"
         image="huxiu"/>
 
-    <!--Game-->
+    <AppIcon
+        name="com.haodf.android/com.haodf.android.activity.SplashActivity"
+        image="haodf"/>
+
+    <AppIcon
+        name="com.yiwang/com.yiwang.LoadingActivity"
+        image="yiwang"/>
+
+    <AppIcon
+        name="com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.WelcomeActivity"
+        image="seeyou"/>
+
+    <AppIcon
+        name="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity"
+        image="xiaomi_health"/>
+
+    <AppIcon
+        name="cn.ledongli.ldl/cn.ledongli.ldl.activity.SplashScreenActivity"
+        image="ledongli"/>
+
+    <AppIcon
+        name="com.youdao.dict/com.youdao.dict.activity.DictSplashActivity"
+        image="youdao_dict"/>
+
+    <AppIcon
+        name="com.kingsoft/com.kingsoft.StartActivity"
+        image="kingsoft"/>
+
+    <AppIcon
+        name="com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity"
+        image="eudic"/>
+
+    <AppIcon
+        name="com.youdao.translator/com.youdao.translator.activity.LaunchActivity"
+        image="youdao_translator"/>
+
+    <AppIcon
+        name="bingdic.android.activity/bingdic.android.activity.SplashscreenActivity"
+        image="bingdic"/>
+
+    <AppIcon
+        name="com.xtuone.android.syllabus/com.xtuone.android.friday.InitActivity"
+        image="cjkcb"/>
+
+    <AppIcon
+        name="fm.jihua.kecheng/fm.jihua.kecheng.ui.BaseSplashActivity"
+        image="kecheng"/>
+
+    <AppIcon
+        name="com.ruby.timetable/com.ruby.timetable.ui.activity.StartActivity"
+        image="timetable"/>
+
+    <AppIcon
+        name="com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity"
+        image="wakeup_schedule"/>
+
     <AppIcon
         name="com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity"
         image="altos_adventure"/>
@@ -1825,5 +1874,37 @@
     <AppIcon
         name="com.heimai666.ninja/ninja.heimai6666.com.mylibrary.HMYXUnityActivity"
         image="bladeheart_ninja"/>
+
+    <AppIcon
+        name="com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.google.android.calculator/com.android.calculator2.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
+        image="wallpaper"/>
+
+    <AppIcon
+        name="com.google.android.calendar/com.android.calendar.AllInOneActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.google.android.deskclock/com.android.deskclock.DeskClock"
+        image="clock"/>
+
+    <AppIcon
+        name="com.google.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.android.documentsui/com.android.documentsui.LauncherActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"
+        image="mms"/>
 
 </Theme>

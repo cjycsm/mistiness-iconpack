@@ -20,7 +20,6 @@
 
 <appmap>
 
-    <!--Android-->
     <item
         class="com.android.settings.Settings"
         name="settings"/>
@@ -44,15 +43,15 @@
 
     <item
         class="com.baidu.baidumaps.WelcomeScreen"
-        name="map"/>
+        name="meizu_map"/>
 
     <item
         class="com.meizu.flyme.notepaper.app.NotePaperActivity"
-        name="note"/>
+        name="meizu_note"/>
 
     <item
         class="com.meizu.net.pedometer.ui.PedometerMainActivitys"
-        name="pedometer"/>
+        name="meizu_pedometer"/>
 
     <item
         class="com.inklin.qrcodescanner.SplashActivity"
@@ -60,7 +59,7 @@
 
     <item
         class="com.meizu.safe.SecurityMainActivity"
-        name="safe"/>
+        name="meizu_safe"/>
 
     <item
         class="com.android.soundrecorder.MzRecorderActivity"
@@ -68,11 +67,11 @@
 
     <item
         class="com.meizu.customizecenter.frame.activity.CustomizeCenterActivity"
-        name="theme_center"/>
+        name="meizu_customizecenter"/>
 
     <item
         class="com.meizu.flyme.toolbox.activity.ToolBoxActivity"
-        name="toolbox"/>
+        name="meizu_toolbox"/>
 
     <item
         class="com.meizu.flyme.weather.WeatherMainActivity"
@@ -92,7 +91,7 @@
 
     <item
         class="com.meizu.media.music.MusicActivity"
-        name="music"/>
+        name="meizu_music"/>
 
     <item
         class="com.meizu.flyme.filemanager.activity.HomeActivity"
@@ -108,7 +107,7 @@
 
     <item
         class="com.meizu.media.video.VideoMainActivity"
-        name="video"/>
+        name="meizu_video"/>
 
     <item
         class="com.android.email.activity.EmailActivity"
@@ -116,9 +115,8 @@
 
     <item
         class="com.meizu.flyme.wallet.activity.WalletTabActivity"
-        name="wallet"/>
+        name="meizu_wallet"/>
 
-    <!--Oneplus-->
     <item
         class="com.android.calendar.AllInOneActivity"
         name="calendar"/>
@@ -133,11 +131,11 @@
 
     <item
         class="com.oneplus.note.ui.MainActivity"
-        name="note"/>
+        name="oneplus_note"/>
 
     <item
         class="com.oneplus.card.entity.activity.CardlistActivity"
-        name="card"/>
+        name="oneplus_card"/>
 
     <item
         class="com.oneplus.contacts.activities.OPDialtactsActivity"
@@ -164,10 +162,6 @@
         name="calculator"/>
 
     <item
-        class="com.android.documentsui.LauncherActivity"
-        name="downloads"/>
-
-    <item
         class="com.oneplus.soundrecorder.SoundRecorder"
         name="sound_recorder"/>
 
@@ -184,17 +178,17 @@
         name="oneplus_backuprestore"/>
 
     <item
-        class="com.smartisan.notes.NewNotesActivity"
-        name="smartisan_notes"/>
-
-    <!--Mi-->
-    <item
         class="com.miui.calculator.cal.CalculatorActivity"
         name="miui_calculator"/>
 
-    <!--Smartisan-->
+    <item
+        class="com.smartisan.notes.NewNotesActivity"
+        name="smartisan_notes"/>
 
-    <!--Application-->
+    <item
+        class="com.samsung.android.app.shealth.home.HomeMainActivity"
+        name="samsung_shealth"/>
+
     <item
         class="com.dv.adm.pay.Main"
         name="adm_pro"/>
@@ -1795,7 +1789,62 @@
         class="com.huxiu.ui.activity.SplashActivity"
         name="huxiu"/>
 
-    <!--Game-->
+    <item
+        class="com.haodf.android.activity.SplashActivity"
+        name="haodf"/>
+
+    <item
+        class="com.yiwang.LoadingActivity"
+        name="yiwang"/>
+
+    <item
+        class="com.lingan.seeyou.ui.activity.main.WelcomeActivity"
+        name="seeyou"/>
+
+    <item
+        class="com.xiaomi.hm.health.activity.StartUpActivity"
+        name="xiaomi_health"/>
+
+    <item
+        class="cn.ledongli.ldl.activity.SplashScreenActivity"
+        name="ledongli"/>
+
+    <item
+        class="com.youdao.dict.activity.DictSplashActivity"
+        name="youdao_dict"/>
+
+    <item
+        class="com.kingsoft.StartActivity"
+        name="kingsoft"/>
+
+    <item
+        class="com.eusoft.dict.activity.SplashActivity"
+        name="eudic"/>
+
+    <item
+        class="com.youdao.translator.activity.LaunchActivity"
+        name="youdao_translator"/>
+
+    <item
+        class="bingdic.android.activity.SplashscreenActivity"
+        name="bingdic"/>
+
+    <item
+        class="com.xtuone.android.friday.InitActivity"
+        name="cjkcb"/>
+
+    <item
+        class="fm.jihua.kecheng.ui.BaseSplashActivity"
+        name="kecheng"/>
+
+    <item
+        class="com.ruby.timetable.ui.activity.StartActivity"
+        name="timetable"/>
+
+    <item
+        class="com.suda.yzune.wakeupschedule.SplashActivity"
+        name="wakeup_schedule"/>
+
     <item
         class="com.prime31.UnityPlayerNativeActivity"
         name="altos_adventure"/>
@@ -1819,5 +1868,37 @@
     <item
         class="ninja.heimai6666.com.mylibrary.HMYXUnityActivity"
         name="bladeheart_ninja"/>
+
+    <item
+        class="com.google.android.dialer.extensions.GoogleDialtactsActivity"
+        name="dialer"/>
+
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.google.android.apps.wallpaper.picker.CategoryPickerActivity"
+        name="wallpaper"/>
+
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.deskclock.DeskClock"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.android.documentsui.LauncherActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.google.android.apps.messaging.ui.ConversationListActivity"
+        name="mms"/>
 
 </appmap>

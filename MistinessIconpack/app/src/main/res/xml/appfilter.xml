@@ -20,7 +20,6 @@
 
 <resources>
 
-    <!--Android-->
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings"/>
@@ -29,7 +28,6 @@
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
         drawable="mms"/>
 
-    <!--Meizu-->
     <item
         component="ComponentInfo{com.android.alarmclock/com.meizu.flyme.alarmclock.DeskClock}"
         drawable="clock"/>
@@ -44,15 +42,15 @@
 
     <item
         component="ComponentInfo{com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen}"
-        drawable="map"/>
+        drawable="meizu_map"/>
 
     <item
         component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}"
-        drawable="note"/>
+        drawable="meizu_note"/>
 
     <item
         component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}"
-        drawable="pedometer"/>
+        drawable="meizu_pedometer"/>
 
     <item
         component="ComponentInfo{com.inklin.qrcodescanner/com.inklin.qrcodescanner.SplashActivity}"
@@ -60,7 +58,7 @@
 
     <item
         component="ComponentInfo{com.meizu.safe/com.meizu.safe.SecurityMainActivity}"
-        drawable="safe"/>
+        drawable="meizu_safe"/>
 
     <item
         component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity}"
@@ -68,11 +66,11 @@
 
     <item
         component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}"
-        drawable="theme_center"/>
+        drawable="meizu_customizecenter"/>
 
     <item
         component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}"
-        drawable="toolbox"/>
+        drawable="meizu_toolbox"/>
 
     <item
         component="ComponentInfo{com.meizu.flyme.weather/com.meizu.flyme.weather.WeatherMainActivity}"
@@ -92,7 +90,7 @@
 
     <item
         component="ComponentInfo{com.meizu.media.music/com.meizu.media.music.MusicActivity}"
-        drawable="music"/>
+        drawable="meizu_music"/>
 
     <item
         component="ComponentInfo{com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity}"
@@ -108,7 +106,7 @@
 
     <item
         component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}"
-        drawable="video"/>
+        drawable="meizu_video"/>
 
     <item
         component="ComponentInfo{com.android.email/com.android.email.activity.EmailActivity}"
@@ -116,9 +114,8 @@
 
     <item
         component="ComponentInfo{com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity}"
-        drawable="wallet"/>
+        drawable="meizu_wallet"/>
 
-    <!--Oneplus-->
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
         xml="calendar"
@@ -136,11 +133,11 @@
 
     <item
         component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}"
-        drawable="note"/>
+        drawable="oneplus_note"/>
 
     <item
         component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}"
-        drawable="card"/>
+        drawable="oneplus_card"/>
 
     <item
         component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}"
@@ -167,10 +164,6 @@
         drawable="calculator"/>
 
     <item
-        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
-        drawable="downloads"/>
-
-    <item
         component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}"
         drawable="sound_recorder"/>
 
@@ -186,17 +179,18 @@
         component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}"
         drawable="oneplus_backuprestore"/>
 
-    <!--Mi-->
     <item
         component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}"
         drawable="miui_calculator"/>
 
-    <!--Smartisan-->
     <item
         component="ComponentInfo{com.smartisan.notes/com.smartisan.notes.NewNotesActivity}"
         drawable="smartisan_notes"/>
 
-    <!--Application-->
+    <item
+        component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}"
+        drawable="samsung_shealth"/>
+
     <item
         component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}"
         drawable="adm_pro"/>
@@ -1797,7 +1791,62 @@
         component="ComponentInfo{com.huxiu/com.huxiu.ui.activity.SplashActivity}"
         drawable="huxiu"/>
 
-    <!--Game-->
+    <item
+        component="ComponentInfo{com.haodf.android/com.haodf.android.activity.SplashActivity}"
+        drawable="haodf"/>
+
+    <item
+        component="ComponentInfo{com.yiwang/com.yiwang.LoadingActivity}"
+        drawable="yiwang"/>
+
+    <item
+        component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.WelcomeActivity}"
+        drawable="seeyou"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}"
+        drawable="xiaomi_health"/>
+
+    <item
+        component="ComponentInfo{cn.ledongli.ldl/cn.ledongli.ldl.activity.SplashScreenActivity}"
+        drawable="ledongli"/>
+
+    <item
+        component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}"
+        drawable="youdao_dict"/>
+
+    <item
+        component="ComponentInfo{com.kingsoft/com.kingsoft.StartActivity}"
+        drawable="kingsoft"/>
+
+    <item
+        component="ComponentInfo{com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity}"
+        drawable="eudic"/>
+
+    <item
+        component="ComponentInfo{com.youdao.translator/com.youdao.translator.activity.LaunchActivity}"
+        drawable="youdao_translator"/>
+
+    <item
+        component="ComponentInfo{bingdic.android.activity/bingdic.android.activity.SplashscreenActivity}"
+        drawable="bingdic"/>
+
+    <item
+        component="ComponentInfo{com.xtuone.android.syllabus/com.xtuone.android.friday.InitActivity}"
+        drawable="cjkcb"/>
+
+    <item
+        component="ComponentInfo{fm.jihua.kecheng/fm.jihua.kecheng.ui.BaseSplashActivity}"
+        drawable="kecheng"/>
+
+    <item
+        component="ComponentInfo{com.ruby.timetable/com.ruby.timetable.ui.activity.StartActivity}"
+        drawable="timetable"/>
+
+    <item
+        component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity}"
+        drawable="wakeup_schedule"/>
+
     <item
         component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}"
         drawable="altos_adventure"/>
@@ -1821,5 +1870,37 @@
     <item
         component="ComponentInfo{com.heimai666.ninja/ninja.heimai6666.com.mylibrary.HMYXUnityActivity}"
         drawable="bladeheart_ninja"/>
+
+    <item
+        component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.wallpaper/com.google.android.apps.wallpaper.picker.CategoryPickerActivity}"
+        drawable="wallpaper"/>
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}"
+        drawable="mms"/>
 
 </resources>
