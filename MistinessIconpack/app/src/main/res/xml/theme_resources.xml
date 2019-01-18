@@ -41,7 +41,7 @@
 
     <AppIcon
         name="com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity"
-        image="data_migration"/>
+        image="meizu_datamigration"/>
 
     <AppIcon
         name="com.android.dialer/com.android.dialer.DialtactsActivity"
@@ -49,7 +49,7 @@
 
     <AppIcon
         name="com.baidu.BaiduMap.meizu/com.baidu.baidumaps.WelcomeScreen"
-        image="meizu_map"/>
+        image="map"/>
 
     <AppIcon
         name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity"
@@ -65,7 +65,7 @@
 
     <AppIcon
         name="com.meizu.safe/com.meizu.safe.SecurityMainActivity"
-        image="meizu_safe"/>
+        image="safe"/>
 
     <AppIcon
         name="com.android.soundrecorder/com.android.soundrecorder.MzRecorderActivity"
@@ -97,7 +97,7 @@
 
     <AppIcon
         name="com.meizu.media.music/com.meizu.media.music.MusicActivity"
-        image="meizu_music"/>
+        image="music"/>
 
     <AppIcon
         name="com.meizu.filemanager/com.meizu.flyme.filemanager.activity.HomeActivity"
@@ -113,7 +113,7 @@
 
     <AppIcon
         name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity"
-        image="meizu_video"/>
+        image="video"/>
 
     <AppIcon
         name="com.android.email/com.android.email.activity.EmailActivity"
@@ -1906,5 +1906,189 @@
     <AppIcon
         name="com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity"
         image="mms"/>
+
+    <AppIcon
+        name="com.android.stk/com.android.stk.StkMain"
+        image="stk"/>
+
+    <AppIcon
+        name="org.lineageos.jelly/org.lineageos.jelly.MainActivity"
+        image="browser"/>
+
+    <AppIcon
+        name="com.android.calculator2/com.android.calculator2.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="com.android.calendar/com.android.calendar.AllInOneActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="org.lineageos.snap/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.android.deskclock/com.android.deskclock.DeskClock"
+        image="clock"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.android.email/com.android.email.activity.Welcome"
+        image="email"/>
+
+    <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.GalleryActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity"
+        image="mms"/>
+
+    <AppIcon
+        name="org.lineageos.recorder/org.lineageos.recorder.RecorderActivity"
+        image="recorder"/>
+
+    <AppIcon
+        name="com.android.dialer/com.android.dialer.app.DialtactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="org.lineageos.audiofx/org.lineageos.audiofx.activity.ActivityMusic"
+        image="audiofx"/>
+
+    <AppIcon
+        name="com.fenbi.android.solar/com.fenbi.android.solar.activity.RouterActivity"
+        image="fenbi_solar"/>
+
+    <AppIcon
+        name="com.fenbi.android.gaozhong/com.fenbi.android.s.activity.portal.WelcomeActivity"
+        image="fenbi_gaozhong"/>
+
+    <AppIcon
+        name="com.jxedt/com.jxedt.ui.activitys.GuideActivity"
+        image="jxedt"/>
+
+    <AppIcon
+        name="com.tal.kaoyan/com.tal.kaoyan.ui.activity.SplashActivity"
+        image="kaoyan"/>
+
+    <AppIcon
+        name="com.zzh.hfs.plus/com.zzh.hfs.plus.SplashActivity"
+        image="hfs_plus"/>
+
+    <AppIcon
+        name="com.shanbay.words/com.shanbay.words.startup.SplashActivity"
+        image="shanbay_words"/>
+
+    <AppIcon
+        name="com.baidu.baidutranslate/com.baidu.baidutranslate.activity.SplashActivity"
+        image="baidu_translator"/>
+
+    <AppIcon
+        name="com.duolingo/com.duolingo.app.LoginActivity"
+        image="duolinguo"/>
+
+    <AppIcon
+        name="com.shanbay.news/com.shanbay.news.startup.SplashActivity"
+        image="shanbay_news"/>
+
+    <AppIcon
+        name="com.liulishuo.engzo/com.liulishuo.engzo.app.activity.LauncherActivity"
+        image="liulishuo_engzo"/>
+
+    <AppIcon
+        name="com.fenbi.android.servant/com.fenbi.android.uni.activity.portal.WelcomeActivity"
+        image="fenbi_servant"/>
+
+    <AppIcon
+        name="com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome"
+        image="netease_ucmooc"/>
+
+    <AppIcon
+        name="com.google.android.apps.maps/com.google.android.maps.MapsActivity"
+        image="google_maps"/>
+
+    <AppIcon
+        name="com.google.earth/com.google.android.apps.earth.EarthActivity"
+        image="google_earth"/>
+
+    <AppIcon
+        name="com.tencent.map/com.tencent.map.WelcomeActivity"
+        image="tencent_map"/>
+
+    <AppIcon
+        name="com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
+        image="store"/>
+
+    <AppIcon
+        name="com.android.browser/com.android.browser.BrowserActivity"
+        image="browser"/>
+
+    <AppIcon
+        name="com.android.calendar/com.android.calendar.homepage.AllInOneActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.android.camera/com.android.camera.Camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.android.deskclock/com.android.deskclock.DeskClockTabActivity"
+        image="clock"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList"
+        image="downloads"/>
+
+    <AppIcon
+        name="com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.miui.gallery/com.miui.gallery.activity.HomePageActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.android.mms/com.android.mms.ui.MmsTabActivity"
+        image="mms"/>
+
+    <AppIcon
+        name="com.miui.video/com.miui.video.HomeActivity"
+        image="video"/>
+
+    <AppIcon
+        name="com.miui.player/com.miui.player.ui.MusicBrowserActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.SoundRecorder"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.xiaomi.scanner/com.xiaomi.scanner.app.ScanActivity"
+        image="qrcode_scanner"/>
+
+    <AppIcon
+        name="com.miui.securitycenter/com.miui.securityscan.MainActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.android.settings/com.android.settings.MainSettings"
+        image="settings"/>
+
+    <AppIcon
+        name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
+        image="weather"/>
 
 </Theme>

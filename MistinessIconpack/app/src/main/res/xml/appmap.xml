@@ -35,7 +35,7 @@
 
     <item
         class="com.meizu.datamigration.capture.DataMigrationActivity"
-        name="data_migration"/>
+        name="meizu_datamigration"/>
 
     <item
         class="com.android.dialer.DialtactsActivity"
@@ -43,7 +43,7 @@
 
     <item
         class="com.baidu.baidumaps.WelcomeScreen"
-        name="meizu_map"/>
+        name="map"/>
 
     <item
         class="com.meizu.flyme.notepaper.app.NotePaperActivity"
@@ -59,7 +59,7 @@
 
     <item
         class="com.meizu.safe.SecurityMainActivity"
-        name="meizu_safe"/>
+        name="safe"/>
 
     <item
         class="com.android.soundrecorder.MzRecorderActivity"
@@ -91,7 +91,7 @@
 
     <item
         class="com.meizu.media.music.MusicActivity"
-        name="meizu_music"/>
+        name="music"/>
 
     <item
         class="com.meizu.flyme.filemanager.activity.HomeActivity"
@@ -107,7 +107,7 @@
 
     <item
         class="com.meizu.media.video.VideoMainActivity"
-        name="meizu_video"/>
+        name="video"/>
 
     <item
         class="com.android.email.activity.EmailActivity"
@@ -1900,5 +1900,189 @@
     <item
         class="com.google.android.apps.messaging.ui.ConversationListActivity"
         name="mms"/>
+
+    <item
+        class="com.android.stk.StkMain"
+        name="stk"/>
+
+    <item
+        class="org.lineageos.jelly.MainActivity"
+        name="browser"/>
+
+    <item
+        class="com.android.calculator2.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.android.deskclock.DeskClock"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.android.email.activity.Welcome"
+        name="email"/>
+
+    <item
+        class="com.android.gallery3d.app.GalleryActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.messaging.ui.conversationlist.ConversationListActivity"
+        name="mms"/>
+
+    <item
+        class="org.lineageos.recorder.RecorderActivity"
+        name="recorder"/>
+
+    <item
+        class="com.android.dialer.app.DialtactsActivity"
+        name="dialer"/>
+
+    <item
+        class="org.lineageos.audiofx.activity.ActivityMusic"
+        name="audiofx"/>
+
+    <item
+        class="com.fenbi.android.solar.activity.RouterActivity"
+        name="fenbi_solar"/>
+
+    <item
+        class="com.fenbi.android.s.activity.portal.WelcomeActivity"
+        name="fenbi_gaozhong"/>
+
+    <item
+        class="com.jxedt.ui.activitys.GuideActivity"
+        name="jxedt"/>
+
+    <item
+        class="com.tal.kaoyan.ui.activity.SplashActivity"
+        name="kaoyan"/>
+
+    <item
+        class="com.zzh.hfs.plus.SplashActivity"
+        name="hfs_plus"/>
+
+    <item
+        class="com.shanbay.words.startup.SplashActivity"
+        name="shanbay_words"/>
+
+    <item
+        class="com.baidu.baidutranslate.activity.SplashActivity"
+        name="baidu_translator"/>
+
+    <item
+        class="com.duolingo.app.LoginActivity"
+        name="duolinguo"/>
+
+    <item
+        class="com.shanbay.news.startup.SplashActivity"
+        name="shanbay_news"/>
+
+    <item
+        class="com.liulishuo.engzo.app.activity.LauncherActivity"
+        name="liulishuo_engzo"/>
+
+    <item
+        class="com.fenbi.android.uni.activity.portal.WelcomeActivity"
+        name="fenbi_servant"/>
+
+    <item
+        class="com.netease.edu.ucmooc.activity.ActivityWelcome"
+        name="netease_ucmooc"/>
+
+    <item
+        class="com.google.android.maps.MapsActivity"
+        name="google_maps"/>
+
+    <item
+        class="com.google.android.apps.earth.EarthActivity"
+        name="google_earth"/>
+
+    <item
+        class="com.tencent.map.WelcomeActivity"
+        name="tencent_map"/>
+
+    <item
+        class="com.xiaomi.market.ui.MarketTabActivity"
+        name="store"/>
+
+    <item
+        class="com.android.browser.BrowserActivity"
+        name="browser"/>
+
+    <item
+        class="com.android.calendar.homepage.AllInOneActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.Camera"
+        name="camera"/>
+
+    <item
+        class="com.android.deskclock.DeskClockTabActivity"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.android.contacts.activities.TwelveKeyDialer"
+        name="dialer"/>
+
+    <item
+        class="com.android.providers.downloads.ui.DownloadList"
+        name="downloads"/>
+
+    <item
+        class="com.android.fileexplorer.FileExplorerTabActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.miui.gallery.activity.HomePageActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.mms.ui.MmsTabActivity"
+        name="mms"/>
+
+    <item
+        class="com.miui.video.HomeActivity"
+        name="video"/>
+
+    <item
+        class="com.miui.player.ui.MusicBrowserActivity"
+        name="music"/>
+
+    <item
+        class="com.android.soundrecorder.SoundRecorder"
+        name="sound_recorder"/>
+
+    <item
+        class="com.xiaomi.scanner.app.ScanActivity"
+        name="qrcode_scanner"/>
+
+    <item
+        class="com.miui.securityscan.MainActivity"
+        name="safe"/>
+
+    <item
+        class="com.android.settings.MainSettings"
+        name="settings"/>
+
+    <item
+        class="com.miui.weather2.ActivityWeatherMain"
+        name="weather"/>
 
 </appmap>

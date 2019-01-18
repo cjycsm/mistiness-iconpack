@@ -19,21 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>haodf</item>
-        <item>yiwang</item>
-        <item>seeyou</item>
-        <item>xiaomi_health</item>
-        <item>ledongli</item>
-        <item>youdao_dict</item>
-        <item>kingsoft</item>
-        <item>eudic</item>
-        <item>youdao_translator</item>
-        <item>bingdic</item>
-        <item>cjkcb</item>
-        <item>kecheng</item>
-        <item>timetable</item>
-        <item>wakeup_schedule</item>
-        <item>samsung_shealth</item>
+        <item>fenbi_solar</item>
+        <item>fenbi_gaozhong</item>
+        <item>jxedt</item>
+        <item>kaoyan</item>
+        <item>hfs_plus</item>
+        <item>shanbay_words</item>
+        <item>baidu_translator</item>
+        <item>duolinguo</item>
+        <item>shanbay_news</item>
+        <item>liulishuo_engzo</item>
+        <item>fenbi_servant</item>
+        <item>netease_ucmooc</item>
+        <item>google_maps</item>
+        <item>google_earth</item>
+        <item>tencent_map</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -46,34 +46,41 @@
         <item>重绘</item>
         <item>应用</item>
         <item>游戏</item>
+        <item>原生</item>
+        <item>小米</item>
         <item>魅族</item>
         <item>一加</item>
-        <item>小米</item>
         <item>Pixel</item>
         <item>锤子</item>
         <item>三星</item>
     </string-array>
 
     <string-array name="新增">
-        <item>haodf</item>
-        <item>yiwang</item>
-        <item>seeyou</item>
-        <item>xiaomi_health</item>
-        <item>ledongli</item>
-        <item>youdao_dict</item>
-        <item>kingsoft</item>
-        <item>eudic</item>
-        <item>youdao_translator</item>
-        <item>bingdic</item>
-        <item>cjkcb</item>
-        <item>kecheng</item>
-        <item>timetable</item>
-        <item>wakeup_schedule</item>
-        <item>samsung_shealth</item>
+        <item>fenbi_solar</item>
+        <item>fenbi_gaozhong</item>
+        <item>jxedt</item>
+        <item>kaoyan</item>
+        <item>hfs_plus</item>
+        <item>shanbay_words</item>
+        <item>baidu_translator</item>
+        <item>duolinguo</item>
+        <item>shanbay_news</item>
+        <item>liulishuo_engzo</item>
+        <item>fenbi_servant</item>
+        <item>netease_ucmooc</item>
+        <item>google_maps</item>
+        <item>google_earth</item>
+        <item>tencent_map</item>
     </string-array>
 
     <string-array name="重绘">
-
+        <item>adm_pro</item>
+        <item>browser</item>
+        <item>browser_alt</item>
+        <item>store</item>
+        <item>store_alt</item>
+        <item>meizu_note</item>
+        <item>meizu_wallet</item>
     </string-array>
 
     <string-array name="应用">
@@ -500,6 +507,21 @@
         <item>kecheng</item>
         <item>timetable</item>
         <item>wakeup_schedule</item>
+        <item>fenbi_solar</item>
+        <item>fenbi_gaozhong</item>
+        <item>jxedt</item>
+        <item>kaoyan</item>
+        <item>hfs_plus</item>
+        <item>shanbay_words</item>
+        <item>baidu_translator</item>
+        <item>duolinguo</item>
+        <item>shanbay_news</item>
+        <item>liulishuo_engzo</item>
+        <item>fenbi_servant</item>
+        <item>netease_ucmooc</item>
+        <item>google_maps</item>
+        <item>google_earth</item>
+        <item>tencent_map</item>
     </string-array>
 
     <string-array name="游戏">
@@ -515,13 +537,13 @@
     <string-array name="魅族">
         <item>calculator</item>
         <item>clock</item>
-        <item>data_migration</item>
+        <item>meizu_datamigration</item>
         <item>dialer</item>
-        <item>meizu_map</item>
+        <item>map</item>
         <item>meizu_note</item>
         <item>meizu_pedometer</item>
         <item>qrcode_scanner</item>
-        <item>meizu_safe</item>
+        <item>safe</item>
         <item>settings</item>
         <item>settings_alt</item>
         <item>sound_recorder</item>
@@ -533,14 +555,17 @@
         <item>camera</item>
         <item>calendar</item>
         <item>mms</item>
-        <item>meizu_music</item>
+        <item>music</item>
         <item>file_manager</item>
         <item>gallery</item>
         <item>store</item>
+        <item>store_alt</item>
         <item>email</item>
         <item>email_alt</item>
-        <item>meizu_video</item>
+        <item>video</item>
         <item>meizu_wallet</item>
+        <item>browser</item>
+        <item>browser_alt</item>
     </string-array>
 
     <string-array name="一加">
@@ -551,6 +576,7 @@
         <item>settings_alt</item>
         <item>clock</item>
         <item>store</item>
+        <item>store_alt</item>
         <item>file_manager</item>
         <item>camera</item>
         <item>mms</item>
@@ -570,6 +596,30 @@
 
     <string-array name="小米">
         <item>miui_calculator</item>
+        <item>store</item>
+        <item>store_alt</item>
+        <item>browser</item>
+        <item>browser_alt</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>clock</item>
+        <item>contacts</item>
+        <item>dialer</item>
+        <item>downloads</item>
+        <item>file_manager</item>
+        <item>gallery</item>
+        <item>mms</item>
+        <item>video</item>
+        <item>music</item>
+        <item>sound_recorder</item>
+        <item>sound_recorder_alt</item>
+        <item>qrcode_scanner</item>
+        <item>safe</item>
+        <item>settings</item>
+        <item>settings_alt</item>
+        <item>weather</item>
+        <item>email</item>
+        <item>email_alt</item>
     </string-array>
 
     <string-array name="Pixel">
@@ -579,10 +629,31 @@
         <item>calendar</item>
         <item>clock</item>
         <item>settings</item>
+        <item>setting_alt</item>
         <item>contacts</item>
         <item>file_manager</item>
         <item>mms</item>
         <item>stk</item>
+    </string-array>
+
+    <string-array name="原生">
+        <item>browser</item>
+        <item>browser_alt</item>
+        <item>calculator</item>
+        <item>calendar</item>
+        <item>canera</item>
+        <item>clock</item>
+        <item>contacts</item>
+        <item>email</item>
+        <item>email_alt</item>
+        <item>gallery</item>
+        <item>mms</item>
+        <item>recorder</item>
+        <item>dialer</item>
+        <item>file_manager</item>
+        <item>settings</item>
+        <item>settings_alt</item>
+        <item>audiofx</item>
     </string-array>
 
     <string-array name="锤子">

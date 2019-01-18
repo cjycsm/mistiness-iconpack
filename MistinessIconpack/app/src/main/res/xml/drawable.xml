@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>30</version>
+    <version>31</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -48,6 +48,7 @@
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidu_tieba"/>
+    <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
     <item drawable="bilibili"/>
@@ -101,7 +102,6 @@
     <item drawable="ctfile"/>
     <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
-    <item drawable="data_migration"/>
     <item drawable="day_day_cook"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
@@ -121,6 +121,7 @@
     <item drawable="downloads"/>
     <item drawable="du"/>
     <item drawable="duokan"/>
+    <item drawable="duolinguo"/>
     <item drawable="dxy"/>
     <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
@@ -144,6 +145,9 @@
     <item drawable="eyepetizer"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
+    <item drawable="fenbi_gaozhong"/>
+    <item drawable="fenbi_servant"/>
+    <item drawable="fenbi_solar"/>
     <item drawable="feng_news"/>
     <item drawable="file_manager"/>
     <item drawable="firefox"/>
@@ -160,8 +164,10 @@
     <item drawable="gold"/>
     <item drawable="google"/>
     <item drawable="google_camera"/>
+    <item drawable="google_earth"/>
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
+    <item drawable="google_maps"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
@@ -177,6 +183,7 @@
     <item drawable="hellobike"/>
     <item drawable="hexin"/>
     <item drawable="hexin_bank"/>
+    <item drawable="hfs_plus"/>
     <item drawable="hi"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
@@ -204,6 +211,8 @@
     <item drawable="jiemian"/>
     <item drawable="jike"/>
     <item drawable="jingdong"/>
+    <item drawable="jxedt"/>
+    <item drawable="kaoyan"/>
     <item drawable="karaoke"/>
     <item drawable="kdjz"/>
     <item drawable="kecheng"/>
@@ -229,6 +238,7 @@
     <item drawable="life_is_strange"/>
     <item drawable="light_beauty"/>
     <item drawable="linkedin"/>
+    <item drawable="liulishuo_engzo"/>
     <item drawable="lofter"/>
     <item drawable="lonicera"/>
     <item drawable="lovebizhi"/>
@@ -239,6 +249,7 @@
     <item drawable="maimai"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
+    <item drawable="map"/>
     <item drawable="mdschool"/>
     <item drawable="medicine_helper"/>
     <item drawable="meeye"/>
@@ -246,13 +257,10 @@
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
     <item drawable="meizu_customizecenter"/>
-    <item drawable="meizu_map"/>
-    <item drawable="meizu_music"/>
+    <item drawable="meizu_datamigration"/>
     <item drawable="meizu_note"/>
     <item drawable="meizu_pedometer"/>
-    <item drawable="meizu_safe"/>
     <item drawable="meizu_toolbox"/>
-    <item drawable="meizu_video"/>
     <item drawable="meizu_wallet"/>
     <item drawable="memento"/>
     <item drawable="mfw"/>
@@ -279,6 +287,7 @@
     <item drawable="mt"/>
     <item drawable="mtxx"/>
     <item drawable="mtxx_alt"/>
+    <item drawable="music"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
@@ -287,6 +296,7 @@
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
     <item drawable="netease_snailread"/>
+    <item drawable="netease_ucmooc"/>
     <item drawable="netease_yanxuan"/>
     <item drawable="nga"/>
     <item drawable="nomo"/>
@@ -344,12 +354,14 @@
     <item drawable="quark"/>
     <item drawable="quqi"/>
     <item drawable="qzone"/>
+    <item drawable="radio"/>
     <item drawable="railway"/>
     <item drawable="read"/>
     <item drawable="relaxio"/>
     <item drawable="remover"/>
     <item drawable="retor_music"/>
     <item drawable="root_explore"/>
+    <item drawable="safe"/>
     <item drawable="samsung_shealth"/>
     <item drawable="sdclear"/>
     <item drawable="sdm"/>
@@ -362,6 +374,8 @@
     <item drawable="sf"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
+    <item drawable="shanbay_news"/>
+    <item drawable="shanbay_words"/>
     <item drawable="share"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
@@ -382,6 +396,7 @@
     <item drawable="speedtest"/>
     <item drawable="steam"/>
     <item drawable="store"/>
+    <item drawable="store_alt"/>
     <item drawable="storm"/>
     <item drawable="substratum"/>
     <item drawable="suishouji"/>
@@ -399,6 +414,7 @@
     <item drawable="tencent_docs"/>
     <item drawable="tencent_filemanager"/>
     <item drawable="tencent_ipai"/>
+    <item drawable="tencent_map"/>
     <item drawable="tencent_news"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqlive"/>
@@ -428,6 +444,7 @@
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
     <item drawable="via"/>
+    <item drawable="video"/>
     <item drawable="videoshow"/>
     <item drawable="village"/>
     <item drawable="vlc"/>
