@@ -58,20 +58,20 @@
 
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
-        <item>新增</item>
-        <item>重绘</item>
-        <item>应用</item>
-        <item>游戏</item>
-        <item>原生</item>
-        <item>小米</item>
-        <item>魅族</item>
-        <item>一加</item>
-        <item>Pixel</item>
-        <item>锤子</item>
-        <item>三星</item>
+        <item>newest</item>
+        <item>upgrade</item>
+        <item>application</item>
+        <item>game</item>
+        <item>LineageOS</item>
+        <item>MIUI</item>
+        <item>Flyme</item>
+        <item>H2OS</item>
+        <item>PixelExperience</item>
+        <item>SmartisanOS</item>
+        <item>OneUI</item>
     </string-array>
 
-    <string-array name="新增">
+    <string-array name="newest">
         <item>miui_notes</item>
         <item>stk</item>
         <item>stk_alt</item>
@@ -101,12 +101,12 @@
         <item>audiofx</item>
     </string-array>
 
-    <string-array name="重绘">
+    <string-array name="upgrade">
         <item>oneplus_note</item>
         <item>oneplus_card</item>
     </string-array>
 
-    <string-array name="应用">
+    <string-array name="application">
         <item>adm_pro</item>
         <item>alipay</item>
         <item>anjian</item>
@@ -547,7 +547,7 @@
         <item>tencent_map</item>
     </string-array>
 
-    <string-array name="游戏">
+    <string-array name="game">
         <item>altos_adventure</item>
         <item>altos_odyssey</item>
         <item>if_sunshine</item>
@@ -557,7 +557,7 @@
         <item>bladeheart_ninja</item>
     </string-array>
 
-    <string-array name="魅族">
+    <string-array name="Flyme">
         <item>calculator</item>
         <item>clock</item>
         <item>meizu_datamigration</item>
@@ -609,7 +609,7 @@
         <item>stk_alt</item>
     </string-array>
 
-    <string-array name="一加">
+    <string-array name="H2OS">
         <item>oneplus_note</item>
         <item>dialer</item>
         <item>gallery</item>
@@ -635,7 +635,7 @@
         <item>oneplus_backuprestore</item>
     </string-array>
 
-    <string-array name="小米">
+    <string-array name="MIUI">
         <item>miui_calculator</item>
         <item>store</item>
         <item>store_alt</item>
@@ -675,7 +675,7 @@
         <item>mipay</item>
     </string-array>
 
-    <string-array name="Pixel">
+    <string-array name="PixelExperience">
         <item>dialer</item>
         <item>calculator</item>
         <item>wallpaper</item>
@@ -690,7 +690,7 @@
         <item>stk_alt</item>
     </string-array>
 
-    <string-array name="原生">
+    <string-array name="LineageOS">
         <item>browser</item>
         <item>browser_alt</item>
         <item>calculator</item>
@@ -710,11 +710,11 @@
         <item>audiofx</item>
     </string-array>
 
-    <string-array name="锤子">
+    <string-array name="SmartisanOS">
         <item>smartisan_notes</item>
     </string-array>
 
-    <string-array name="三星">
+    <string-array name="OneUI">
         <item>samsung_shealth</item>
     </string-array>
 
