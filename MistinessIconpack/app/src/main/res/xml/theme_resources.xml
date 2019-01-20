@@ -2091,4 +2091,92 @@
         name="com.miui.weather2/com.miui.weather2.ActivityWeatherMain"
         image="weather"/>
 
+    <AppIcon
+        name="com.miui.notes/com.miui.notes.ui.NotesListActivity"
+        image="miui_notes"/>
+
+    <AppIcon
+        name="com.android.stk.StkMain/com.android.stk.StkMain"
+        image="stk"/>
+
+    <AppIcon
+        name="com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
+        image="feedback"/>
+
+    <AppIcon
+        name="com.miui.compass/com.miui.compass.CompassActivity"
+        image="compass"/>
+
+    <AppIcon
+        name="com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
+        image="recorder"/>
+
+    <AppIcon
+        name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
+        image="miui_theme_manager"/>
+
+    <AppIcon
+        name="com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity"
+        image="miui_virtual_sim"/>
+
+    <AppIcon
+        name="com.miui.voiceassist/com.xiaomi.voiceassistant.LauncherRouterActivity"
+        image="miui_voice_assistant"/>
+
+    <AppIcon
+        name="com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity"
+        image="mipay"/>
+
+    <AppIcon
+        name="com.meizu.compaign/com.meizu.flyme.venice.modules.home.HomePageActivity"
+        image="meizu_compaign"/>
+
+    <AppIcon
+        name="com.meizu.media.ebook/com.meizu.media.ebook.bookstore.EBookActivity"
+        image="meizu_ebook"/>
+
+    <AppIcon
+        name="com.meizu.flyme.gamecenter/com.meizu.flyme.gamecenter.activity.DefaultActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.meizu.media.life/com.meizu.media.life.base.home.HomeActivity"
+        image="meizu_life"/>
+
+    <AppIcon
+        name="com.meizu.mznfcpay/com.meizu.mznfcpay.cardlist.AllCardListActivity"
+        image="meizu_mznfcpay"/>
+
+    <AppIcon
+        name="com.meizu.media.reader/com.meizu.media.reader.ReaderMainActivity"
+        image="meizu_reader"/>
+
+    <AppIcon
+        name="com.meizu.mzroottools/com.meizu.mzroottools.ui.activity.MainActivity"
+        image="meizu_mzroottools"/>
+
+    <AppIcon
+        name="com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity"
+        image="update"/>
+
+    <AppIcon
+        name="com.meizu.feedback/com.meizu.feedback.activity.MainActivity"
+        image="feedback"/>
+
+    <AppIcon
+        name="com.flyme.roamingpay/com.flyme.roamingpay.userintent.EntranceActivity"
+        image="flyme_roamingpay"/>
+
+    <AppIcon
+        name="com.meizu.voiceassistant/com.meizu.voiceassistant.MainActivity"
+        image="meizu_voiceassistant"/>
+
+    <AppIcon
+        name="com.flyme.videoclips/com.flyme.videoclips.activity.HomeWeexActivity"
+        image="flyme_videoclips"/>
+
+    <AppIcon
+        name="com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity"
+        image="meizu_store"/>
+
 </Theme>

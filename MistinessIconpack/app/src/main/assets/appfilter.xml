@@ -2087,4 +2087,92 @@
         component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}"
         drawable="weather"/>
 
+    <item
+        component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}"
+        drawable="miui_notes"/>
+
+    <item
+        component="ComponentInfo{com.android.stk.StkMain/com.android.stk.StkMain}"
+        drawable="stk"/>
+
+    <item
+        component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}"
+        drawable="feedback"/>
+
+    <item
+        component="ComponentInfo{com.miui.compass/com.miui.compass.CompassActivity}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{com.miui.screenrecorder/com.miui.screenrecorder.activity.ScreenRecorderHomeActivity}"
+        drawable="recorder"/>
+
+    <item
+        component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
+        drawable="miui_theme_manager"/>
+
+    <item
+        component="ComponentInfo{com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity}"
+        drawable="miui_virtual_sim"/>
+
+    <item
+        component="ComponentInfo{com.miui.voiceassist/com.xiaomi.voiceassistant.LauncherRouterActivity}"
+        drawable="miui_voice_assistant"/>
+
+    <item
+        component="ComponentInfo{com.mipay.wallet/com.mipay.wallet.ui.MipayEntryActivity}"
+        drawable="mipay"/>
+
+    <item
+        component="ComponentInfo{com.meizu.compaign/com.meizu.flyme.venice.modules.home.HomePageActivity}"
+        drawable="meizu_compaign"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.ebook/com.meizu.media.ebook.bookstore.EBookActivity}"
+        drawable="meizu_ebook"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.gamecenter/com.meizu.flyme.gamecenter.activity.DefaultActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.life/com.meizu.media.life.base.home.HomeActivity}"
+        drawable="meizu_life"/>
+
+    <item
+        component="ComponentInfo{com.meizu.mznfcpay/com.meizu.mznfcpay.cardlist.AllCardListActivity}"
+        drawable="meizu_mznfcpay"/>
+
+    <item
+        component="ComponentInfo{com.meizu.media.reader/com.meizu.media.reader.ReaderMainActivity}"
+        drawable="meizu_reader"/>
+
+    <item
+        component="ComponentInfo{com.meizu.mzroottools/com.meizu.mzroottools.ui.activity.MainActivity}"
+        drawable="meizu_mzroottools"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.update/com.meizu.flyme.update.SystemUpgradeListActivity}"
+        drawable="update"/>
+
+    <item
+        component="ComponentInfo{com.meizu.feedback/com.meizu.feedback.activity.MainActivity}"
+        drawable="feedback"/>
+
+    <item
+        component="ComponentInfo{com.flyme.roamingpay/com.flyme.roamingpay.userintent.EntranceActivity}"
+        drawable="flyme_roamingpay"/>
+
+    <item
+        component="ComponentInfo{com.meizu.voiceassistant/com.meizu.voiceassistant.MainActivity}"
+        drawable="meizu_voiceassistant"/>
+
+    <item
+        component="ComponentInfo{com.flyme.videoclips/com.flyme.videoclips.activity.HomeWeexActivity}"
+        drawable="flyme_videoclips"/>
+
+    <item
+        component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity}"
+        drawable="meizu_store"/>
+
 </resources>

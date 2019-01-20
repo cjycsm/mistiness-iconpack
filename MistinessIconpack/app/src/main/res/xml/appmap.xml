@@ -2085,4 +2085,92 @@
         class="com.miui.weather2.ActivityWeatherMain"
         name="weather"/>
 
+    <item
+        class="com.miui.notes.ui.NotesListActivity"
+        name="miui_notes"/>
+
+    <item
+        class="com.android.stk.StkMain"
+        name="stk"/>
+
+    <item
+        class="com.miui.bugreport.ui.MainTabActivity"
+        name="feedback"/>
+
+    <item
+        class="com.miui.compass.CompassActivity"
+        name="compass"/>
+
+    <item
+        class="com.miui.screenrecorder.activity.ScreenRecorderHomeActivity"
+        name="recorder"/>
+
+    <item
+        class="com.android.thememanager.ThemeResourceTabActivity"
+        name="miui_theme_manager"/>
+
+    <item
+        class="com.miui.virtualsim.ui.MainActivity"
+        name="miui_virtual_sim"/>
+
+    <item
+        class="com.xiaomi.voiceassistant.LauncherRouterActivity"
+        name="miui_voice_assistant"/>
+
+    <item
+        class="com.mipay.wallet.ui.MipayEntryActivity"
+        name="mipay"/>
+
+    <item
+        class="com.meizu.flyme.venice.modules.home.HomePageActivity"
+        name="meizu_compaign"/>
+
+    <item
+        class="com.meizu.media.ebook.bookstore.EBookActivity"
+        name="meizu_ebook"/>
+
+    <item
+        class="com.meizu.flyme.gamecenter.activity.DefaultActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.meizu.media.life.base.home.HomeActivity"
+        name="meizu_life"/>
+
+    <item
+        class="com.meizu.mznfcpay.cardlist.AllCardListActivity"
+        name="meizu_mznfcpay"/>
+
+    <item
+        class="com.meizu.media.reader.ReaderMainActivity"
+        name="meizu_reader"/>
+
+    <item
+        class="com.meizu.mzroottools.ui.activity.MainActivity"
+        name="meizu_mzroottools"/>
+
+    <item
+        class="com.meizu.flyme.update.SystemUpgradeListActivity"
+        name="update"/>
+
+    <item
+        class="com.meizu.feedback.activity.MainActivity"
+        name="feedback"/>
+
+    <item
+        class="com.flyme.roamingpay.userintent.EntranceActivity"
+        name="flyme_roamingpay"/>
+
+    <item
+        class="com.meizu.voiceassistant.MainActivity"
+        name="meizu_voiceassistant"/>
+
+    <item
+        class="com.flyme.videoclips.activity.HomeWeexActivity"
+        name="flyme_videoclips"/>
+
+    <item
+        class="com.meizu.store.newhome.NewHomeActivity"
+        name="meizu_store"/>
+
 </appmap>

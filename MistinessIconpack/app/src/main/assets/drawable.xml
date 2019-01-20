@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>31</version>
+    <version>32</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -38,6 +38,7 @@
     <item drawable="app_logo"/>
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
+    <item drawable="audiofx"/>
     <item drawable="auto_js"/>
     <item drawable="autohome"/>
     <item drawable="away_from_mobile"/>
@@ -95,6 +96,8 @@
     <item drawable="codoon"/>
     <item drawable="comiclover"/>
     <item drawable="comics_island"/>
+    <item drawable="compass"/>
+    <item drawable="compass_alt"/>
     <item drawable="contacts"/>
     <item drawable="coolapk"/>
     <item drawable="cpu_z"/>
@@ -145,6 +148,8 @@
     <item drawable="eyepetizer"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
+    <item drawable="feedback"/>
+    <item drawable="feedback_alt"/>
     <item drawable="fenbi_gaozhong"/>
     <item drawable="fenbi_servant"/>
     <item drawable="fenbi_solar"/>
@@ -153,10 +158,14 @@
     <item drawable="firefox"/>
     <item drawable="flipboard"/>
     <item drawable="floating"/>
+    <item drawable="flyme_roamingpay"/>
+    <item drawable="flyme_videoclips"/>
     <item drawable="font"/>
     <item drawable="fooview"/>
     <item drawable="forest"/>
     <item drawable="gallery"/>
+    <item drawable="gamecenter"/>
+    <item drawable="gamecenter_alt"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="geometric_weather"/>
@@ -181,6 +190,8 @@
     <item drawable="haodou"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
+    <item drawable="help"/>
+    <item drawable="help_alt"/>
     <item drawable="hexin"/>
     <item drawable="hexin_bank"/>
     <item drawable="hfs_plus"/>
@@ -256,11 +267,19 @@
     <item drawable="meipai"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
+    <item drawable="meizu_compaign"/>
     <item drawable="meizu_customizecenter"/>
     <item drawable="meizu_datamigration"/>
+    <item drawable="meizu_ebook"/>
+    <item drawable="meizu_life"/>
+    <item drawable="meizu_mznfcpay"/>
+    <item drawable="meizu_mzroottools"/>
     <item drawable="meizu_note"/>
     <item drawable="meizu_pedometer"/>
+    <item drawable="meizu_reader"/>
+    <item drawable="meizu_store"/>
     <item drawable="meizu_toolbox"/>
+    <item drawable="meizu_voiceassistant"/>
     <item drawable="meizu_wallet"/>
     <item drawable="memento"/>
     <item drawable="mfw"/>
@@ -275,9 +294,14 @@
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
     <item drawable="mijia"/>
+    <item drawable="mipay"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
     <item drawable="miui_calculator"/>
+    <item drawable="miui_notes"/>
+    <item drawable="miui_theme_manager"/>
+    <item drawable="miui_virtual_sim"/>
+    <item drawable="miui_voice_assistant"/>
     <item drawable="miuibbs"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
@@ -357,7 +381,10 @@
     <item drawable="radio"/>
     <item drawable="railway"/>
     <item drawable="read"/>
+    <item drawable="recorder"/>
     <item drawable="relaxio"/>
+    <item drawable="remote_control"/>
+    <item drawable="remote_control_alt"/>
     <item drawable="remover"/>
     <item drawable="retor_music"/>
     <item drawable="root_explore"/>
@@ -395,6 +422,8 @@
     <item drawable="spdb"/>
     <item drawable="speedtest"/>
     <item drawable="steam"/>
+    <item drawable="stk"/>
+    <item drawable="stk_alt"/>
     <item drawable="store"/>
     <item drawable="store_alt"/>
     <item drawable="storm"/>
@@ -443,6 +472,8 @@
     <item drawable="uc"/>
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
+    <item drawable="update"/>
+    <item drawable="update_alt"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="videoshow"/>
