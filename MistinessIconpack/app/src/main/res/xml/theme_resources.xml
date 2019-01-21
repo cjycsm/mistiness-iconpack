@@ -2179,4 +2179,64 @@
         name="com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity"
         image="meizu_store"/>
 
+    <AppIcon
+        name="ctrip.android.view/ctrip.business.splash.CtripSplashActivity"
+        image="ctrip"/>
+
+    <AppIcon
+        name="com.Qunar/com.mqunar.splash.SplashActivity"
+        image="qunar"/>
+
+    <AppIcon
+        name="com.qyer.android.jinnang/com.qyer.android.jinnang.activity.launcher.SplashActivity"
+        image="qyer"/>
+
+    <AppIcon
+        name="com.dp.android.elong/com.elong.activity.others.AppGuidActivity"
+        image="elong"/>
+
+    <AppIcon
+        name="com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity"
+        image="tripadvisor"/>
+
+    <AppIcon
+        name="com.airbnb.android/com.airbnb.android.activities.MainActivity"
+        image="airbnb"/>
+
+    <AppIcon
+        name="com.booking/com.booking.startup.HomeActivity"
+        image="booking"/>
+
+    <AppIcon
+        name="com.xiaozhu.xzdz/com.xiaozhu.xzdz.XZLauncher_XZAlias0"
+        image="xiaozhu"/>
+
+    <AppIcon
+        name="com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity"
+        image="agoda"/>
+
+    <AppIcon
+        name="com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity"
+        image="didapinche"/>
+
+    <AppIcon
+        name="com.didi.echo/com.didi.echo.bussiness.splash.SplashActivity"
+        image="uber_didi"/>
+
+    <AppIcon
+        name="com.yongche.android/com.yongche.android.YDBiz.Welcome.LoadingActivity"
+        image="yidaoyongche"/>
+
+    <AppIcon
+        name="com.szzc.ucar.pilot/com.szzc.splash.SplashActivity"
+        image="szzc"/>
+
+    <AppIcon
+        name="cn.caocaokeji.user/cn.caocaokeji.user.load.LoadActivity"
+        image="caocao"/>
+
+    <AppIcon
+        name="com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity"
+        image="chelaile"/>
+
 </Theme>

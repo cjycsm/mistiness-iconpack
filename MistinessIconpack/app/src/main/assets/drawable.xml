@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>32</version>
+    <version>34</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -27,6 +27,8 @@
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
     <item drawable="adobe_reader"/>
+    <item drawable="agoda"/>
+    <item drawable="airbnb"/>
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
     <item drawable="alipay"/>
@@ -60,6 +62,7 @@
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
     <item drawable="boc"/>
+    <item drawable="booking"/>
     <item drawable="brevent"/>
     <item drawable="browser"/>
     <item drawable="browser_alt"/>
@@ -76,9 +79,11 @@
     <item drawable="camera"/>
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
+    <item drawable="caocao"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
     <item drawable="changba"/>
+    <item drawable="chelaile"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
     <item drawable="chrome"/>
@@ -103,11 +108,13 @@
     <item drawable="cpu_z"/>
     <item drawable="credit_card_manager"/>
     <item drawable="ctfile"/>
+    <item drawable="ctrip"/>
     <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
     <item drawable="day_day_cook"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
+    <item drawable="didapinche"/>
     <item drawable="didi"/>
     <item drawable="digit"/>
     <item drawable="dingtalk"/>
@@ -134,6 +141,7 @@
     <item drawable="edge_gesture"/>
     <item drawable="edge_lighting"/>
     <item drawable="ele"/>
+    <item drawable="elong"/>
     <item drawable="email"/>
     <item drawable="email_alt"/>
     <item drawable="emore"/>
@@ -376,7 +384,9 @@
     <item drawable="qsbk"/>
     <item drawable="quanzi"/>
     <item drawable="quark"/>
+    <item drawable="qunar"/>
     <item drawable="quqi"/>
+    <item drawable="qyer"/>
     <item drawable="qzone"/>
     <item drawable="radio"/>
     <item drawable="railway"/>
@@ -431,6 +441,7 @@
     <item drawable="suishouji"/>
     <item drawable="super_calculator"/>
     <item drawable="supersu"/>
+    <item drawable="szzc"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
     <item drawable="taobao_movie"/>
@@ -468,7 +479,9 @@
     <item drawable="total_launcher"/>
     <item drawable="trace"/>
     <item drawable="transparent_wallpaper"/>
+    <item drawable="tripadvisor"/>
     <item drawable="ttpic"/>
+    <item drawable="uber_didi"/>
     <item drawable="uc"/>
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
@@ -512,6 +525,7 @@
     <item drawable="xiaomi_channel"/>
     <item drawable="xiaomi_health"/>
     <item drawable="xiaomi_jr"/>
+    <item drawable="xiaozhu"/>
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
@@ -520,6 +534,7 @@
     <item drawable="yahoo_weather"/>
     <item drawable="yandong"/>
     <item drawable="yi_live"/>
+    <item drawable="yidaoyongche"/>
     <item drawable="yiwang"/>
     <item drawable="yixin"/>
     <item drawable="youdao_dict"/>

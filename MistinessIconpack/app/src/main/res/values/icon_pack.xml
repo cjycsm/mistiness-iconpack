@@ -19,37 +19,21 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>miui_notes</item>
-        <item>stk</item>
-        <item>stk_alt</item>
-        <item>feedback</item>
-        <item>feedback_alt</item>
-        <item>compass</item>
-        <item>compass_alt</item>
-        <item>recorder</item>
-        <item>miui_theme_manager</item>
-        <item>miui_virtual_sim</item>
-        <item>miui_voice_assistant</item>
-        <item>mipay</item>
-        <item>meizu_compaign</item>
-        <item>meizu_ebook</item>
-        <item>gamecenter</item>
-        <item>gamecenter_alt</item>
-        <item>meizu_life</item>
-        <item>meizu_mznfcpay</item>
-        <item>meizu_reader</item>
-        <item>meizu_mzroottools</item>
-        <item>update</item>
-        <item>update_alt</item>
-        <item>feedback</item>
-        <item>feedback_alt</item>
-        <item>flyme_roamingpay</item>
-        <item>meizu_voiceassistant</item>
-        <item>flyme_videoclips</item>
-        <item>meizu_store</item>
-        <item>audiofx</item>
-        <item>oneplus_note</item>
-        <item>oneplus_card</item>
+        <item>ctrip</item>
+        <item>qunar</item>
+        <item>qyer</item>
+        <item>elong</item>
+        <item>tripadvisor</item>
+        <item>airbnb</item>
+        <item>booking</item>
+        <item>xiaozhu</item>
+        <item>agoda</item>
+        <item>didapinche</item>
+        <item>uber_didi</item>
+        <item>yidaoyongche</item>
+        <item>szzc</item>
+        <item>caocao</item>
+        <item>chelaile</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -72,38 +56,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>miui_notes</item>
-        <item>stk</item>
-        <item>stk_alt</item>
-        <item>feedback</item>
-        <item>feedback_alt</item>
-        <item>compass</item>
-        <item>compass_alt</item>
-        <item>recorder</item>
-        <item>miui_theme_manager</item>
-        <item>miui_virtual_sim</item>
-        <item>miui_voice_assistant</item>
-        <item>mipay</item>
-        <item>meizu_compaign</item>
-        <item>meizu_ebook</item>
-        <item>gamecenter</item>
-        <item>gamecenter_alt</item>
-        <item>meizu_life</item>
-        <item>meizu_mznfcpay</item>
-        <item>meizu_reader</item>
-        <item>meizu_mzroottools</item>
-        <item>update</item>
-        <item>update_alt</item>
-        <item>flyme_roamingpay</item>
-        <item>meizu_voiceassistant</item>
-        <item>flyme_videoclips</item>
-        <item>meizu_store</item>
-        <item>audiofx</item>
+        <item>ctrip</item>
+        <item>qunar</item>
+        <item>qyer</item>
+        <item>elong</item>
+        <item>tripadvisor</item>
+        <item>airbnb</item>
+        <item>booking</item>
+        <item>xiaozhu</item>
+        <item>agoda</item>
+        <item>didapinche</item>
+        <item>uber_didi</item>
+        <item>yidaoyongche</item>
+        <item>szzc</item>
+        <item>caocao</item>
+        <item>chelaile</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>oneplus_note</item>
-        <item>oneplus_card</item>
+
     </string-array>
 
     <string-array name="application">
@@ -545,6 +516,21 @@
         <item>google_maps</item>
         <item>google_earth</item>
         <item>tencent_map</item>
+        <item>ctrip</item>
+        <item>qunar</item>
+        <item>qyer</item>
+        <item>elong</item>
+        <item>tripadvisor</item>
+        <item>airbnb</item>
+        <item>booking</item>
+        <item>xiaozhu</item>
+        <item>agoda</item>
+        <item>didapinche</item>
+        <item>uber_didi</item>
+        <item>yidaoyongche</item>
+        <item>szzc</item>
+        <item>caocao</item>
+        <item>chelaile</item>
     </string-array>
 
     <string-array name="game">

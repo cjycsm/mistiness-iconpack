@@ -2175,4 +2175,64 @@
         component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity}"
         drawable="meizu_store"/>
 
+    <item
+        component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}"
+        drawable="ctrip"/>
+
+    <item
+        component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}"
+        drawable="qunar"/>
+
+    <item
+        component="ComponentInfo{com.qyer.android.jinnang/com.qyer.android.jinnang.activity.launcher.SplashActivity}"
+        drawable="qyer"/>
+
+    <item
+        component="ComponentInfo{com.dp.android.elong/com.elong.activity.others.AppGuidActivity}"
+        drawable="elong"/>
+
+    <item
+        component="ComponentInfo{com.tripadvisor.tripadvisor.daodao/com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity}"
+        drawable="tripadvisor"/>
+
+    <item
+        component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}"
+        drawable="airbnb"/>
+
+    <item
+        component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}"
+        drawable="booking"/>
+
+    <item
+        component="ComponentInfo{com.xiaozhu.xzdz/com.xiaozhu.xzdz.XZLauncher_XZAlias0}"
+        drawable="xiaozhu"/>
+
+    <item
+        component="ComponentInfo{com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity}"
+        drawable="agoda"/>
+
+    <item
+        component="ComponentInfo{com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity}"
+        drawable="didapinche"/>
+
+    <item
+        component="ComponentInfo{com.didi.echo/com.didi.echo.bussiness.splash.SplashActivity}"
+        drawable="uber_didi"/>
+
+    <item
+        component="ComponentInfo{com.yongche.android/com.yongche.android.YDBiz.Welcome.LoadingActivity}"
+        drawable="yidaoyongche"/>
+
+    <item
+        component="ComponentInfo{com.szzc.ucar.pilot/com.szzc.splash.SplashActivity}"
+        drawable="szzc"/>
+
+    <item
+        component="ComponentInfo{cn.caocaokeji.user/cn.caocaokeji.user.load.LoadActivity}"
+        drawable="caocao"/>
+
+    <item
+        component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}"
+        drawable="chelaile"/>
+
 </resources>

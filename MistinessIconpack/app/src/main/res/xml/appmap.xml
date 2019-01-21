@@ -2173,4 +2173,64 @@
         class="com.meizu.store.newhome.NewHomeActivity"
         name="meizu_store"/>
 
+    <item
+        class="ctrip.business.splash.CtripSplashActivity"
+        name="ctrip"/>
+
+    <item
+        class="com.mqunar.splash.SplashActivity"
+        name="qunar"/>
+
+    <item
+        class="com.qyer.android.jinnang.activity.launcher.SplashActivity"
+        name="qyer"/>
+
+    <item
+        class="com.elong.activity.others.AppGuidActivity"
+        name="elong"/>
+
+    <item
+        class="com.tripadvisor.tripadvisor.daodao.launch.TripAdvisorDaoDaoActivity"
+        name="tripadvisor"/>
+
+    <item
+        class="com.airbnb.android.activities.MainActivity"
+        name="airbnb"/>
+
+    <item
+        class="com.booking.startup.HomeActivity"
+        name="booking"/>
+
+    <item
+        class="com.xiaozhu.xzdz.XZLauncher_XZAlias0"
+        name="xiaozhu"/>
+
+    <item
+        class="com.agoda.mobile.consumer.screens.splash.AppLauncherActivity"
+        name="agoda"/>
+
+    <item
+        class="com.didapinche.booking.home.activity.StartActivity"
+        name="didapinche"/>
+
+    <item
+        class="com.didi.echo.bussiness.splash.SplashActivity"
+        name="uber_didi"/>
+
+    <item
+        class="com.yongche.android.YDBiz.Welcome.LoadingActivity"
+        name="yidaoyongche"/>
+
+    <item
+        class="com.szzc.splash.SplashActivity"
+        name="szzc"/>
+
+    <item
+        class="cn.caocaokeji.user.load.LoadActivity"
+        name="caocao"/>
+
+    <item
+        class="dev.xesam.chelaile.app.module.func.SplashActivity"
+        name="chelaile"/>
+
 </appmap>
