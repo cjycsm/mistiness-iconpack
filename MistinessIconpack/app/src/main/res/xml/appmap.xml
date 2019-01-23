@@ -103,7 +103,7 @@
 
     <item
         class="com.meizu.flyme.appcenter.activitys.AppMainActivity"
-        name="store"/>
+        name="appstore"/>
 
     <item
         class="com.meizu.media.video.VideoMainActivity"
@@ -147,7 +147,7 @@
 
     <item
         class="com.oppo.market.activity.MainActivity"
-        name="store"/>
+        name="appstore"/>
 
     <item
         class="com.oneplus.filemanager.HomePageActivity"
@@ -618,7 +618,7 @@
         name="tmall"/>
 
     <item
-        class="com.qigelong.lib.wAwiconpack.MainActivity"
+        class="wxb.qigeco.waw.icons.MainActivity"
         name="waw"/>
 
     <item
@@ -2015,7 +2015,7 @@
 
     <item
         class="com.xiaomi.market.ui.MarketTabActivity"
-        name="store"/>
+        name="appstore"/>
 
     <item
         class="com.android.browser.BrowserActivity"
@@ -2232,5 +2232,114 @@
     <item
         class="dev.xesam.chelaile.app.module.func.SplashActivity"
         name="chelaile"/>
+
+    <item
+        class="cn.chinabus.main.ui.other.SplashActivity_"
+        name="chinabus"/>
+
+    <item
+        class="com.mygolbs.mybus.LoginActivity"
+        name="mybus"/>
+
+    <item
+        class="com.zt.main.entrance.ZTLaunchActivity"
+        name="yipiao"/>
+
+    <item
+        class="com.zt.main.entrance.ZTLaunchActivity"
+        name="tieyou"/>
+
+    <item
+        class="com.umetrip.android.msky.app.module.startup.SplashActivity"
+        name="umetrip"/>
+
+    <item
+        class="com.feeyo.vz.activity.VZLaunchActivity"
+        name="vz"/>
+
+    <item
+        class="com.flightmanager.view.Loading"
+        name="flight_manager"/>
+
+    <item
+        class="com.xiaomi.youpin.activity.SplashActivity"
+        name="xiaomi_youpin"/>
+
+    <item
+        class="com.xiaomi.shop.activity.MainTabActivity"
+        name="xiaomi_shop"/>
+
+    <item
+        class="com.amazon.mShop.home.HomeActivity"
+        name="amazon"/>
+
+    <item
+        class="com.suning.mobile.ebuy.host.InitialActivity"
+        name="suning_ebuy"/>
+
+    <item
+        class="com.achievo.vipshop.activity.LodingActivity"
+        name="vipshop"/>
+
+    <item
+        class="com.dangdang.buy2.StartupActivity"
+        name="dangdang"/>
+
+    <item
+        class="com.thestore.main.LoadingActivity"
+        name="thestore"/>
+
+    <item
+        class="com.xingin.xhs.activity.SplashActivity"
+        name="xhs"/>
+
+    <item
+        class="com.chengzivr.android.GuideActivity"
+        name="chengzivr"/>
+
+    <item
+        class="cn.ninegame.gamemanager.activity.MainActivity"
+        name="ninegame"/>
+
+    <item
+        class="com.mogujie.home.MGInitAct"
+        name="mogujie"/>
+
+    <item
+        class="com.jm.android.jumei.home.activity.StartActivity"
+        name="jumei"/>
+
+    <item
+        class="com.xunmeng.pinduoduo.ui.activity.MainFrameActivity"
+        name="pinduoduo"/>
+
+    <item
+        class="com.meituan.android.pt.homepage.activity.Welcome"
+        name="meituan"/>
+
+    <item
+        class="com.baidu.bainuo.dex.InstallDexActivity"
+        name="baidu_nuomi"/>
+
+    <item
+        class="com.wuba.activity.launch.LaunchActivity"
+        name="ganji"/>
+
+    <item
+        class="com.youdao.huihui.deals.activity.StartUpActivity"
+        name="youdao_huihui"/>
+
+    <item
+        class="com.kaola.modules.boot.splash.SplashActivity"
+        name="netease_kaola"/>
+
+    <item
+        class="com.ruanmei.lapin.activity.SplashActivity"
+        name="lapin"/>
+
+    <item
+        class="com.taobao.sns.activity.LaunchActivity"
+        name="etao"/>
+
 
 </appmap>

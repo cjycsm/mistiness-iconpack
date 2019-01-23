@@ -19,21 +19,38 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>ctrip</item>
-        <item>qunar</item>
-        <item>qyer</item>
-        <item>elong</item>
-        <item>tripadvisor</item>
-        <item>airbnb</item>
-        <item>booking</item>
-        <item>xiaozhu</item>
-        <item>agoda</item>
-        <item>didapinche</item>
-        <item>uber_didi</item>
-        <item>yidaoyongche</item>
-        <item>szzc</item>
-        <item>caocao</item>
-        <item>chelaile</item>
+        <item>chinabus</item>
+        <item>mybus</item>
+        <item>yipiao</item>
+        <item>tieyou</item>
+        <item>umetrip</item>
+        <item>vz</item>
+        <item>flight_manager</item>
+        <item>xiaomi_youpin</item>
+        <item>xiaomi_shop</item>
+        <item>amazon</item>
+        <item>suning_ebuy</item>
+        <item>vipshop</item>
+        <item>dangdang</item>
+        <item>thestore</item>
+        <item>xhs</item>
+        <item>waw</item>
+        <item>chengzivr</item>
+        <item>ninegame</item>
+        <item>mogujie</item>
+        <item>jumei</item>
+        <item>pinduoduo</item>
+        <item>meituan</item>
+        <item>baidu_nuomi</item>
+        <item>ganji</item>
+        <item>youdao_huihui</item>
+        <item>netease_kaola</item>
+        <item>lapin</item>
+        <item>etao</item>
+        <item>appstore</item>
+        <item>appstore_alt1</item>
+        <item>appstore_alt2</item>
+        <item>appstore_alt3</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -56,25 +73,41 @@
     </string-array>
 
     <string-array name="newest">
-        <item>ctrip</item>
-        <item>qunar</item>
-        <item>qyer</item>
-        <item>elong</item>
-        <item>tripadvisor</item>
-        <item>airbnb</item>
-        <item>booking</item>
-        <item>xiaozhu</item>
-        <item>agoda</item>
-        <item>didapinche</item>
-        <item>uber_didi</item>
-        <item>yidaoyongche</item>
-        <item>szzc</item>
-        <item>caocao</item>
-        <item>chelaile</item>
+        <item>chinabus</item>
+        <item>mybus</item>
+        <item>yipiao</item>
+        <item>tieyou</item>
+        <item>umetrip</item>
+        <item>vz</item>
+        <item>flight_manager</item>
+        <item>xiaomi_youpin</item>
+        <item>xiaomi_shop</item>
+        <item>amazon</item>
+        <item>suning_ebuy</item>
+        <item>vipshop</item>
+        <item>dangdang</item>
+        <item>thestore</item>
+        <item>xhs</item>
+        <item>chengzivr</item>
+        <item>ninegame</item>
+        <item>mogujie</item>
+        <item>jumei</item>
+        <item>pinduoduo</item>
+        <item>meituan</item>
+        <item>baidu_nuomi</item>
+        <item>ganji</item>
+        <item>youdao_huihui</item>
+        <item>netease_kaola</item>
+        <item>lapin</item>
+        <item>etao</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>waw</item>
+        <item>appstore</item>
+        <item>appstore_alt1</item>
+        <item>appstore_alt2</item>
+        <item>appstore_alt3</item>
     </string-array>
 
     <string-array name="application">
@@ -531,6 +564,33 @@
         <item>szzc</item>
         <item>caocao</item>
         <item>chelaile</item>
+        <item>chinabus</item>
+        <item>mybus</item>
+        <item>yipiao</item>
+        <item>tieyou</item>
+        <item>umetrip</item>
+        <item>vz</item>
+        <item>flight_manager</item>
+        <item>xiaomi_youpin</item>
+        <item>xiaomi_shop</item>
+        <item>amazon</item>
+        <item>suning_ebuy</item>
+        <item>vipshop</item>
+        <item>dangdang</item>
+        <item>thestore</item>
+        <item>xhs</item>
+        <item>chengzivr</item>
+        <item>ninegame</item>
+        <item>mogujie</item>
+        <item>jumei</item>
+        <item>pinduoduo</item>
+        <item>meituan</item>
+        <item>baidu_nuomi</item>
+        <item>ganji</item>
+        <item>youdao_huihui</item>
+        <item>netease_kaola</item>
+        <item>lapin</item>
+        <item>etao</item>
     </string-array>
 
     <string-array name="game">
@@ -567,8 +627,10 @@
         <item>music</item>
         <item>file_manager</item>
         <item>gallery</item>
-        <item>store</item>
-        <item>store_alt</item>
+        <item>appstore</item>
+        <item>appstore_alt1</item>
+        <item>appstore_alt2</item>
+        <item>appstore_alt3</item>
         <item>email</item>
         <item>email_alt</item>
         <item>video</item>
@@ -602,8 +664,10 @@
         <item>settings</item>
         <item>settings_alt</item>
         <item>clock</item>
-        <item>store</item>
-        <item>store_alt</item>
+        <item>appstore</item>
+        <item>appstore_alt1</item>
+        <item>appstore_alt2</item>
+        <item>appstore_alt3</item>
         <item>file_manager</item>
         <item>camera</item>
         <item>mms</item>
@@ -623,8 +687,10 @@
 
     <string-array name="MIUI">
         <item>miui_calculator</item>
-        <item>store</item>
-        <item>store_alt</item>
+        <item>appstore</item>
+        <item>appstore_alt1</item>
+        <item>appstore_alt2</item>
+        <item>appstore_alt3</item>
         <item>browser</item>
         <item>browser_alt</item>
         <item>calendar</item>

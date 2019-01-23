@@ -102,7 +102,7 @@
 
     <item
         component="ComponentInfo{com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity}"
-        drawable="store"/>
+        drawable="appstore"/>
 
     <item
         component="ComponentInfo{com.meizu.media.video/com.meizu.media.video.VideoMainActivity}"
@@ -149,7 +149,7 @@
 
     <item
         component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}"
-        drawable="store"/>
+        drawable="appstore"/>
 
     <item
         component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}"
@@ -620,7 +620,7 @@
         drawable="tmall"/>
 
     <item
-        component="ComponentInfo{wwAww.icons/com.qigelong.lib.wAwiconpack.MainActivity}"
+        component="ComponentInfo{com.qigeco.waw.iconpack/wxb.qigeco.waw.icons.MainActivity}"
         drawable="waw"/>
 
     <item
@@ -2017,7 +2017,7 @@
 
     <item
         component="ComponentInfo{com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity}"
-        drawable="store"/>
+        drawable="appstore"/>
 
     <item
         component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}"
@@ -2234,5 +2234,113 @@
     <item
         component="ComponentInfo{com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity}"
         drawable="chelaile"/>
+
+    <item
+        component="ComponentInfo{cn.chinabus.main/cn.chinabus.main.ui.other.SplashActivity_}"
+        drawable="chinabus"/>
+
+    <item
+        component="ComponentInfo{com.mygolbs.mybus/com.mygolbs.mybus.LoginActivity}"
+        drawable="mybus"/>
+
+    <item
+        component="ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}"
+        drawable="yipiao"/>
+
+    <item
+        component="ComponentInfo{com.tieyou.train.ark/com.zt.main.entrance.ZTLaunchActivity}"
+        drawable="tieyou"/>
+
+    <item
+        component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}"
+        drawable="umetrip"/>
+
+    <item
+        component="ComponentInfo{vz.com/com.feeyo.vz.activity.VZLaunchActivity}"
+        drawable="vz"/>
+
+    <item
+        component="ComponentInfo{com.flightmanager.view/com.flightmanager.view.Loading}"
+        drawable="flight_manager"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}"
+        drawable="xiaomi_youpin"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}"
+        drawable="xiaomi_shop"/>
+
+    <item
+        component="ComponentInfo{cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}"
+        drawable="amazon"/>
+
+    <item
+        component="ComponentInfo{com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity}"
+        drawable="suning_ebuy"/>
+
+    <item
+        component="ComponentInfo{com.achievo.vipshop/com.achievo.vipshop.activity.LodingActivity}"
+        drawable="vipshop"/>
+
+    <item
+        component="ComponentInfo{com.dangdang.buy2/com.dangdang.buy2.StartupActivity}"
+        drawable="dangdang"/>
+
+    <item
+        component="ComponentInfo{com.thestore.main/com.thestore.main.LoadingActivity}"
+        drawable="thestore"/>
+
+    <item
+        component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}"
+        drawable="xhs"/>
+
+    <item
+        component="ComponentInfo{com.chengzivr.android/com.chengzivr.android.GuideActivity}"
+        drawable="chengzivr"/>
+
+    <item
+        component="ComponentInfo{cn.ninegame.gamemanager/cn.ninegame.gamemanager.activity.MainActivity}"
+        drawable="ninegame"/>
+
+    <item
+        component="ComponentInfo{com.mogujie/com.mogujie.home.MGInitAct}"
+        drawable="mogujie"/>
+
+    <item
+        component="ComponentInfo{com.jm.android.jumei/com.jm.android.jumei.home.activity.StartActivity}"
+        drawable="jumei"/>
+
+    <item
+        component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}"
+        drawable="pinduoduo"/>
+
+    <item
+        component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}"
+        drawable="meituan"/>
+
+    <item
+        component="ComponentInfo{com.nuomi/com.baidu.bainuo.dex.InstallDexActivity}"
+        drawable="baidu_nuomi"/>
+
+    <item
+        component="ComponentInfo{com.ganji.android/com.wuba.activity.launch.LaunchActivity}"
+        drawable="ganji"/>
+
+    <item
+        component="ComponentInfo{com.youdao.huihui.deals/com.youdao.huihui.deals.activity.StartUpActivity}"
+        drawable="youdao_huihui"/>
+
+    <item
+        component="ComponentInfo{com.kaola/com.kaola.modules.boot.splash.SplashActivity}"
+        drawable="netease_kaola"/>
+
+    <item
+        component="ComponentInfo{com.ruanmei.lapin/com.ruanmei.lapin.activity.SplashActivity}"
+        drawable="lapin"/>
+
+    <item
+        component="ComponentInfo{com.taobao.etao/com.taobao.sns.activity.LaunchActivity}"
+        drawable="etao"/>
 
 </resources>

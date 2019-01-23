@@ -109,7 +109,7 @@
 
     <AppIcon
         name="com.meizu.mstore/com.meizu.flyme.appcenter.activitys.AppMainActivity"
-        image="store"/>
+        image="appstore"/>
 
     <AppIcon
         name="com.meizu.media.video/com.meizu.media.video.VideoMainActivity"
@@ -153,7 +153,7 @@
 
     <AppIcon
         name="com.oppo.market/com.oppo.market.activity.MainActivity"
-        image="store"/>
+        image="appstore"/>
 
     <AppIcon
         name="com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity"
@@ -624,7 +624,7 @@
         image="tmall"/>
 
     <AppIcon
-        name="wwAww.icons/com.qigelong.lib.wAwiconpack.MainActivity"
+        name="com.qigeco.waw.iconpack/wxb.qigeco.waw.icons.MainActivity"
         image="waw"/>
 
     <AppIcon
@@ -2021,7 +2021,7 @@
 
     <AppIcon
         name="com.xiaomi.market/com.xiaomi.market.ui.MarketTabActivity"
-        image="store"/>
+        image="appstore"/>
 
     <AppIcon
         name="com.android.browser/com.android.browser.BrowserActivity"
@@ -2238,5 +2238,113 @@
     <AppIcon
         name="com.ygkj.chelaile.standard/dev.xesam.chelaile.app.module.func.SplashActivity"
         image="chelaile"/>
+
+    <AppIcon
+        name="cn.chinabus.main/cn.chinabus.main.ui.other.SplashActivity_"
+        image="chinabus"/>
+
+    <AppIcon
+        name="com.mygolbs.mybus/com.mygolbs.mybus.LoginActivity"
+        image="mybus"/>
+
+    <AppIcon
+        name="com.yipiao/com.zt.main.entrance.ZTLaunchActivity"
+        image="yipiao"/>
+
+    <AppIcon
+        name="com.tieyou.train.ark/com.zt.main.entrance.ZTLaunchActivity"
+        image="tieyou"/>
+
+    <AppIcon
+        name="com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity"
+        image="umetrip"/>
+
+    <AppIcon
+        name="vz.com/com.feeyo.vz.activity.VZLaunchActivity"
+        image="vz"/>
+
+    <AppIcon
+        name="com.flightmanager.view/com.flightmanager.view.Loading"
+        image="flight_manager"/>
+
+    <AppIcon
+        name="com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity"
+        image="xiaomi_youpin"/>
+
+    <AppIcon
+        name="com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity"
+        image="xiaomi_shop"/>
+
+    <AppIcon
+        name="cn.amazon.mShop.android/com.amazon.mShop.home.HomeActivity"
+        image="amazon"/>
+
+    <AppIcon
+        name="com.suning.mobile.ebuy/com.suning.mobile.ebuy.host.InitialActivity"
+        image="suning_ebuy"/>
+
+    <AppIcon
+        name="com.achievo.vipshop/com.achievo.vipshop.activity.LodingActivity"
+        image="vipshop"/>
+
+    <AppIcon
+        name="com.dangdang.buy2/com.dangdang.buy2.StartupActivity"
+        image="dangdang"/>
+
+    <AppIcon
+        name="com.thestore.main/com.thestore.main.LoadingActivity"
+        image="thestore"/>
+
+    <AppIcon
+        name="com.xingin.xhs/com.xingin.xhs.activity.SplashActivity"
+        image="xhs"/>
+
+    <AppIcon
+        name="com.chengzivr.android/com.chengzivr.android.GuideActivity"
+        image="chengzivr"/>
+
+    <AppIcon
+        name="cn.ninegame.gamemanager/cn.ninegame.gamemanager.activity.MainActivity"
+        image="ninegame"/>
+
+    <AppIcon
+        name="com.mogujie/com.mogujie.home.MGInitAct"
+        image="mogujie"/>
+
+    <AppIcon
+        name="com.jm.android.jumei/com.jm.android.jumei.home.activity.StartActivity"
+        image="jumei"/>
+
+    <AppIcon
+        name="com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity"
+        image="pinduoduo"/>
+
+    <AppIcon
+        name="com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome"
+        image="meituan"/>
+
+    <AppIcon
+        name="com.nuomi/com.baidu.bainuo.dex.InstallDexActivity"
+        image="baidu_nuomi"/>
+
+    <AppIcon
+        name="com.ganji.android/com.wuba.activity.launch.LaunchActivity"
+        image="ganji"/>
+
+    <AppIcon
+        name="com.youdao.huihui.deals/com.youdao.huihui.deals.activity.StartUpActivity"
+        image="youdao_huihui"/>
+
+    <AppIcon
+        name="com.kaola/com.kaola.modules.boot.splash.SplashActivity"
+        image="netease_kaola"/>
+
+    <AppIcon
+        name="com.ruanmei.lapin/com.ruanmei.lapin.activity.SplashActivity"
+        image="lapin"/>
+
+    <AppIcon
+        name="com.taobao.etao/com.taobao.sns.activity.LaunchActivity"
+        image="etao"/>
 
 </Theme>

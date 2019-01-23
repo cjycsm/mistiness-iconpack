@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>34</version>
+    <version>35</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -34,10 +34,15 @@
     <item drawable="alipay"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
+    <item drawable="amazon"/>
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
     <item drawable="app_logo"/>
+    <item drawable="appstore"/>
+    <item drawable="appstore_alt1"/>
+    <item drawable="appstore_alt2"/>
+    <item drawable="appstore_alt3"/>
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
     <item drawable="audiofx"/>
@@ -50,6 +55,7 @@
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
+    <item drawable="baidu_nuomi"/>
     <item drawable="baidu_tieba"/>
     <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
@@ -84,8 +90,10 @@
     <item drawable="ccb"/>
     <item drawable="changba"/>
     <item drawable="chelaile"/>
+    <item drawable="chengzivr"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
+    <item drawable="chinabus"/>
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="chunyu_doctor"/>
@@ -111,6 +119,7 @@
     <item drawable="ctrip"/>
     <item drawable="cuto"/>
     <item drawable="dan_the_man"/>
+    <item drawable="dangdang"/>
     <item drawable="day_day_cook"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
@@ -148,6 +157,7 @@
     <item drawable="emoticon_creater"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
+    <item drawable="etao"/>
     <item drawable="eudic"/>
     <item drawable="evernote"/>
     <item drawable="express"/>
@@ -164,6 +174,7 @@
     <item drawable="feng_news"/>
     <item drawable="file_manager"/>
     <item drawable="firefox"/>
+    <item drawable="flight_manager"/>
     <item drawable="flipboard"/>
     <item drawable="floating"/>
     <item drawable="flyme_roamingpay"/>
@@ -174,6 +185,7 @@
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecenter_alt"/>
+    <item drawable="ganji"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="geometric_weather"/>
@@ -230,6 +242,7 @@
     <item drawable="jiemian"/>
     <item drawable="jike"/>
     <item drawable="jingdong"/>
+    <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kaoyan"/>
     <item drawable="karaoke"/>
@@ -248,6 +261,7 @@
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
     <item drawable="lanzou"/>
+    <item drawable="lapin"/>
     <item drawable="lastpass"/>
     <item drawable="lawnchair"/>
     <item drawable="lbe_security"/>
@@ -273,6 +287,7 @@
     <item drawable="medicine_helper"/>
     <item drawable="meeye"/>
     <item drawable="meipai"/>
+    <item drawable="meituan"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
     <item drawable="meizu_compaign"/>
@@ -313,6 +328,7 @@
     <item drawable="miuibbs"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
+    <item drawable="mogujie"/>
     <item drawable="moji_weather"/>
     <item drawable="momo"/>
     <item drawable="moonreader"/>
@@ -323,7 +339,9 @@
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
+    <item drawable="mybus"/>
     <item drawable="netease_cartoonreader"/>
+    <item drawable="netease_kaola"/>
     <item drawable="netease_mail"/>
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
@@ -331,6 +349,7 @@
     <item drawable="netease_ucmooc"/>
     <item drawable="netease_yanxuan"/>
     <item drawable="nga"/>
+    <item drawable="ninegame"/>
     <item drawable="nomo"/>
     <item drawable="nova_launcher"/>
     <item drawable="nowcasting"/>
@@ -347,6 +366,7 @@
     <item drawable="paper"/>
     <item drawable="pcamera"/>
     <item drawable="pic_folder"/>
+    <item drawable="pinduoduo"/>
     <item drawable="poco_launcher"/>
     <item drawable="pomotodo"/>
     <item drawable="power_clean"/>
@@ -434,11 +454,10 @@
     <item drawable="steam"/>
     <item drawable="stk"/>
     <item drawable="stk_alt"/>
-    <item drawable="store"/>
-    <item drawable="store_alt"/>
     <item drawable="storm"/>
     <item drawable="substratum"/>
     <item drawable="suishouji"/>
+    <item drawable="suning_ebuy"/>
     <item drawable="super_calculator"/>
     <item drawable="supersu"/>
     <item drawable="szzc"/>
@@ -465,9 +484,11 @@
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wifimanager"/>
+    <item drawable="thestore"/>
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
+    <item drawable="tieyou"/>
     <item drawable="tim"/>
     <item drawable="timetable"/>
     <item drawable="timi"/>
@@ -483,6 +504,7 @@
     <item drawable="ttpic"/>
     <item drawable="uber_didi"/>
     <item drawable="uc"/>
+    <item drawable="umetrip"/>
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
     <item drawable="update"/>
@@ -491,9 +513,11 @@
     <item drawable="video"/>
     <item drawable="videoshow"/>
     <item drawable="village"/>
+    <item drawable="vipshop"/>
     <item drawable="vlc"/>
     <item drawable="vtools"/>
     <item drawable="vue"/>
+    <item drawable="vz"/>
     <item drawable="wacai"/>
     <item drawable="wakeup_schedule"/>
     <item drawable="walli"/>
@@ -519,12 +543,15 @@
     <item drawable="wunder_list"/>
     <item drawable="wuta_camera"/>
     <item drawable="xbrowser"/>
+    <item drawable="xhs"/>
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
     <item drawable="xiaomi_channel"/>
     <item drawable="xiaomi_health"/>
     <item drawable="xiaomi_jr"/>
+    <item drawable="xiaomi_shop"/>
+    <item drawable="xiaomi_youpin"/>
     <item drawable="xiaozhu"/>
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
@@ -535,9 +562,11 @@
     <item drawable="yandong"/>
     <item drawable="yi_live"/>
     <item drawable="yidaoyongche"/>
+    <item drawable="yipiao"/>
     <item drawable="yiwang"/>
     <item drawable="yixin"/>
     <item drawable="youdao_dict"/>
+    <item drawable="youdao_huihui"/>
     <item drawable="youdao_note"/>
     <item drawable="youdao_translator"/>
     <item drawable="youku"/>
