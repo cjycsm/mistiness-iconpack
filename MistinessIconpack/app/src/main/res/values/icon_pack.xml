@@ -19,38 +19,22 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>chinabus</item>
-        <item>mybus</item>
-        <item>yipiao</item>
-        <item>tieyou</item>
-        <item>umetrip</item>
-        <item>vz</item>
-        <item>flight_manager</item>
-        <item>xiaomi_youpin</item>
-        <item>xiaomi_shop</item>
-        <item>amazon</item>
-        <item>suning_ebuy</item>
-        <item>vipshop</item>
-        <item>dangdang</item>
-        <item>thestore</item>
-        <item>xhs</item>
-        <item>waw</item>
-        <item>chengzivr</item>
+        <item>life_is_strange</item>
         <item>ninegame</item>
-        <item>mogujie</item>
-        <item>jumei</item>
-        <item>pinduoduo</item>
-        <item>meituan</item>
-        <item>baidu_nuomi</item>
-        <item>ganji</item>
-        <item>youdao_huihui</item>
-        <item>netease_kaola</item>
-        <item>lapin</item>
-        <item>etao</item>
-        <item>appstore</item>
-        <item>appstore_alt1</item>
-        <item>appstore_alt2</item>
-        <item>appstore_alt3</item>
+        <item>altos_adventure</item>
+        <item>if_sunshine</item>
+        <item>chinabus_lieche</item>
+        <item>chinabus_metor</item>
+        <item>sgame</item>
+        <item>pubgmhd</item>
+        <item>mrzh</item>
+        <item>hlddz</item>
+        <item>speedmobile</item>
+        <item>onmyoji</item>
+        <item>knight</item>
+        <item>hearthstone</item>
+        <item>clashroyale</item>
+        <item>cf</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -73,41 +57,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>chinabus</item>
-        <item>mybus</item>
-        <item>yipiao</item>
-        <item>tieyou</item>
-        <item>umetrip</item>
-        <item>vz</item>
-        <item>flight_manager</item>
-        <item>xiaomi_youpin</item>
-        <item>xiaomi_shop</item>
-        <item>amazon</item>
-        <item>suning_ebuy</item>
-        <item>vipshop</item>
-        <item>dangdang</item>
-        <item>thestore</item>
-        <item>xhs</item>
-        <item>chengzivr</item>
-        <item>ninegame</item>
-        <item>mogujie</item>
-        <item>jumei</item>
-        <item>pinduoduo</item>
-        <item>meituan</item>
-        <item>baidu_nuomi</item>
-        <item>ganji</item>
-        <item>youdao_huihui</item>
-        <item>netease_kaola</item>
-        <item>lapin</item>
-        <item>etao</item>
+        <item>chinabus_lieche</item>
+        <item>chinabus_metor</item>
+        <item>sgame</item>
+        <item>pubgmhd</item>
+        <item>mrzh</item>
+        <item>hlddz</item>
+        <item>speedmobile</item>
+        <item>onmyoji</item>
+        <item>knight</item>
+        <item>hearthstone</item>
+        <item>clashroyale</item>
+        <item>cf</item>
+
     </string-array>
 
     <string-array name="upgrade">
-        <item>waw</item>
-        <item>appstore</item>
-        <item>appstore_alt1</item>
-        <item>appstore_alt2</item>
-        <item>appstore_alt3</item>
+        <item>life_is_strange</item>
+        <item>ninegame</item>
+        <item>altos_adventure</item>
+        <item>if_sunshine</item>
     </string-array>
 
     <string-array name="application">
@@ -591,16 +560,27 @@
         <item>netease_kaola</item>
         <item>lapin</item>
         <item>etao</item>
+        <item>chinabus_lieche</item>
+        <item>chinabus_metor</item>
     </string-array>
 
     <string-array name="game">
         <item>altos_adventure</item>
         <item>altos_odyssey</item>
         <item>if_sunshine</item>
-        <item>if_sunshine_alt</item>
         <item>life_is_strange</item>
         <item>dan_the_man</item>
         <item>bladeheart_ninja</item>
+        <item>sgame</item>
+        <item>pubgmhd</item>
+        <item>mrzh</item>
+        <item>hlddz</item>
+        <item>speedmobile</item>
+        <item>onmyoji</item>
+        <item>knight</item>
+        <item>hearthstone</item>
+        <item>clashroyale</item>
+        <item>cf</item>
     </string-array>
 
     <string-array name="Flyme">

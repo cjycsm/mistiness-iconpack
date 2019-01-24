@@ -2341,5 +2341,52 @@
         class="com.taobao.sns.activity.LaunchActivity"
         name="etao"/>
 
+    <item
+        class="com.tencent.tmgp.sgame.SGameActivity"
+        name="sgame"/>
+
+    <item
+        class="com.epicgames.ue4.SplashActivity"
+        name="pubgmhd"/>
+
+    <item
+        class="com.netease.mrzh.Launcher"
+        name="mrzh"/>
+
+    <item
+        class="com.qqgame.hlddz.NewHLDDZ"
+        name="hlddz"/>
+
+    <item
+        class="com.tencent.tmgp.speedmobile.speedmobile"
+        name="speedmobile"/>
+
+    <item
+        class="com.netease.onmyoji.Launcher"
+        name="onmyoji"/>
+
+    <item
+        class="com.chillyroom.plugin.wrapper4399.ActivityWrapper4399"
+        name="knight"/>
+
+    <item
+        class="com.blizzard.wtcg.hearthstone.HearthstoneActivity"
+        name="hearthstone"/>
+
+    <item
+        class="com.supercell.clashroyale.uc.GameApp"
+        name="clashroyale"/>
+
+    <item
+        class="com.tencent.tmgp.cf.AFMainActivity"
+        name="cf"/>
+
+    <item
+        class="cn.lieche.main.SplashActivity"
+        name="chinabus_lieche"/>
+
+    <item
+        class="cn.chinabus.metro.main.ui.SplashActivity_"
+        name="chinabus_metor"/>
 
 </appmap>

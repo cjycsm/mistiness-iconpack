@@ -2347,4 +2347,52 @@
         name="com.taobao.etao/com.taobao.sns.activity.LaunchActivity"
         image="etao"/>
 
+    <AppIcon
+        name="com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity"
+        image="sgame"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity"
+        image="pubgmhd"/>
+
+    <AppIcon
+        name="com.netease.mrzh/com.netease.mrzh.Launcher"
+        image="mrzh"/>
+
+    <AppIcon
+        name="com.qqgame.hlddz/com.qqgame.hlddz.NewHLDDZ"
+        image="hlddz"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.speedmobile/com.tencent.tmgp.speedmobile.speedmobile"
+        image="speedmobile"/>
+
+    <AppIcon
+        name="com.netease.onmyoji/com.netease.onmyoji.Launcher"
+        image="onmyoji"/>
+
+    <AppIcon
+        name="com.jingmo.knight/com.chillyroom.plugin.wrapper4399.ActivityWrapper4399"
+        image="knight"/>
+
+    <AppIcon
+        name="com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity"
+        image="hearthstone"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.uc/com.supercell.clashroyale.uc.GameApp"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity"
+        image="cf"/>
+
+    <AppIcon
+        name="cn.lieche.main/cn.lieche.main.SplashActivity"
+        image="chinabus_lieche"/>
+
+    <AppIcon
+        name="cn.chinabus.metro.main/cn.chinabus.metro.main.ui.SplashActivity_"
+        image="chinabus_metor"/>
+
 </Theme>

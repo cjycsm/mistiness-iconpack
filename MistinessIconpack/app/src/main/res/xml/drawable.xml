@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>35</version>
+    <version>36</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -38,7 +38,6 @@
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
-    <item drawable="app_logo"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
@@ -88,17 +87,21 @@
     <item drawable="caocao"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
+    <item drawable="cf"/>
     <item drawable="changba"/>
     <item drawable="chelaile"/>
     <item drawable="chengzivr"/>
     <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
     <item drawable="chinabus"/>
+    <item drawable="chinabus_lieche"/>
+    <item drawable="chinabus_metor"/>
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="chunyu_doctor"/>
     <item drawable="citic"/>
     <item drawable="cjkcb"/>
+    <item drawable="clashroyale"/>
     <item drawable="clock"/>
     <item drawable="cloud_115"/>
     <item drawable="cloudmusic"/>
@@ -208,6 +211,7 @@
     <item drawable="guokr"/>
     <item drawable="haodf"/>
     <item drawable="haodou"/>
+    <item drawable="hearthstone"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
     <item drawable="help"/>
@@ -218,6 +222,7 @@
     <item drawable="hi"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
+    <item drawable="hlddz"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
     <item drawable="huoying"/>
@@ -229,7 +234,6 @@
     <item drawable="icontrol"/>
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
-    <item drawable="if_sunshine_alt"/>
     <item drawable="ifly_ime"/>
     <item drawable="ifont"/>
     <item drawable="imusic"/>
@@ -253,6 +257,7 @@
     <item drawable="kindle"/>
     <item drawable="kingroot"/>
     <item drawable="kingsoft"/>
+    <item drawable="knight"/>
     <item drawable="kuaikan_comic"/>
     <item drawable="kuaishou"/>
     <item drawable="kuaiya"/>
@@ -332,6 +337,7 @@
     <item drawable="moji_weather"/>
     <item drawable="momo"/>
     <item drawable="moonreader"/>
+    <item drawable="mrzh"/>
     <item drawable="mt"/>
     <item drawable="mtxx"/>
     <item drawable="mtxx_alt"/>
@@ -360,6 +366,7 @@
     <item drawable="oneplus_bbs"/>
     <item drawable="oneplus_card"/>
     <item drawable="oneplus_note"/>
+    <item drawable="onmyoji"/>
     <item drawable="opera"/>
     <item drawable="panda"/>
     <item drawable="panda_alt"/>
@@ -375,6 +382,7 @@
     <item drawable="prisma"/>
     <item drawable="ps"/>
     <item drawable="pu"/>
+    <item drawable="pubgmhd"/>
     <item drawable="pure"/>
     <item drawable="pure_weather"/>
     <item drawable="pure_writer"/>
@@ -429,6 +437,7 @@
     <item drawable="settings"/>
     <item drawable="settings_alt"/>
     <item drawable="sf"/>
+    <item drawable="sgame"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
     <item drawable="shanbay_news"/>
@@ -450,6 +459,7 @@
     <item drawable="sound_recorder"/>
     <item drawable="sound_recorder_alt"/>
     <item drawable="spdb"/>
+    <item drawable="speedmobile"/>
     <item drawable="speedtest"/>
     <item drawable="steam"/>
     <item drawable="stk"/>

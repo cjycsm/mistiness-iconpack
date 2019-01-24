@@ -2343,4 +2343,52 @@
         component="ComponentInfo{com.taobao.etao/com.taobao.sns.activity.LaunchActivity}"
         drawable="etao"/>
 
+    <item
+        component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}"
+        drawable="sgame"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
+        drawable="pubgmhd"/>
+
+    <item
+        component="ComponentInfo{com.netease.mrzh/com.netease.mrzh.Launcher}"
+        drawable="mrzh"/>
+
+    <item
+        component="ComponentInfo{com.qqgame.hlddz/com.qqgame.hlddz.NewHLDDZ}"
+        drawable="hlddz"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.tmgp.speedmobile.speedmobile}"
+        drawable="speedmobile"/>
+
+    <item
+        component="ComponentInfo{com.netease.onmyoji/com.netease.onmyoji.Launcher}"
+        drawable="onmyoji"/>
+
+    <item
+        component="ComponentInfo{com.jingmo.knight/com.chillyroom.plugin.wrapper4399.ActivityWrapper4399}"
+        drawable="knight"/>
+
+    <item
+        component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneActivity}"
+        drawable="hearthstone"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.uc/com.supercell.clashroyale.uc.GameApp}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}"
+        drawable="cf"/>
+
+    <item
+        component="ComponentInfo{cn.lieche.main/cn.lieche.main.SplashActivity}"
+        drawable="chinabus_lieche"/>
+
+    <item
+        component="ComponentInfo{cn.chinabus.metro.main/cn.chinabus.metro.main.ui.SplashActivity_}"
+        drawable="chinabus_metor"/>
+
 </resources>
