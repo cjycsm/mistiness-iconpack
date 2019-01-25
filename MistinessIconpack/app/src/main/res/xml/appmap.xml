@@ -2389,4 +2389,36 @@
         class="cn.chinabus.metro.main.ui.SplashActivity_"
         name="chinabus_metor"/>
 
+    <item
+        class="com.tencent.tmgp.supercell.clashofclans.GameAppTencent"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft"/>
+
+    <item
+        class="com.happyelements.hellolua.MainActivity"
+        name="happyelements"/>
+
+    <item
+        class="com.netease.dwrg.Launcher"
+        name="netease_dwrg"/>
+
+    <item
+        class="com.superevilmegacorp.nuogameentry.NuoActivityLauncher"
+        name="vainglory"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA8HM.Game"
+        name="asphalt8"/>
+
+    <item
+        class="com.miHoYo.bh3.uc.UCGameACT"
+        name="bh3"/>
+
+    <item
+        class="com.firemint.realracing.MainActivity"
+        name="realracing3"/>
+
 </appmap>

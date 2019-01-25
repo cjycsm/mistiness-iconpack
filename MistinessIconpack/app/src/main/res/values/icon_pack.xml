@@ -19,22 +19,17 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
-        <item>life_is_strange</item>
-        <item>ninegame</item>
-        <item>altos_adventure</item>
-        <item>if_sunshine</item>
-        <item>chinabus_lieche</item>
-        <item>chinabus_metor</item>
-        <item>sgame</item>
-        <item>pubgmhd</item>
-        <item>mrzh</item>
-        <item>hlddz</item>
-        <item>speedmobile</item>
-        <item>onmyoji</item>
+        <item>coolapk</item>
+        <item>cloudmusic</item>
+        <item>ithome</item>
+        <item>airbnb</item>
+        <item>weibo</item>
+        <item>miui_calculator</item>
+        <item>lastpass</item>
+        <item>bilibili</item>
+        <item>alipay</item>
         <item>knight</item>
-        <item>hearthstone</item>
-        <item>clashroyale</item>
-        <item>cf</item>
+        <item>bladeheart_ninja</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -57,26 +52,9 @@
     </string-array>
 
     <string-array name="newest">
-        <item>chinabus_lieche</item>
-        <item>chinabus_metor</item>
-        <item>sgame</item>
-        <item>pubgmhd</item>
-        <item>mrzh</item>
-        <item>hlddz</item>
-        <item>speedmobile</item>
-        <item>onmyoji</item>
-        <item>knight</item>
-        <item>hearthstone</item>
-        <item>clashroyale</item>
-        <item>cf</item>
-
     </string-array>
 
     <string-array name="upgrade">
-        <item>life_is_strange</item>
-        <item>ninegame</item>
-        <item>altos_adventure</item>
-        <item>if_sunshine</item>
     </string-array>
 
     <string-array name="application">
@@ -581,6 +559,14 @@
         <item>hearthstone</item>
         <item>clashroyale</item>
         <item>cf</item>
+        <item>clash_of_clans</item>
+        <item>minecraft</item>
+        <item>happyelements</item>
+        <item>netease_dwrg</item>
+        <item>vainglory</item>
+        <item>asphalt8</item>
+        <item>bh3</item>
+        <item>realracing3</item>
     </string-array>
 
     <string-array name="Flyme">

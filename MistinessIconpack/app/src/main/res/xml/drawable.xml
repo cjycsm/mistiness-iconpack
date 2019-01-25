@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>36</version>
+    <version>37</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -44,6 +44,7 @@
     <item drawable="appstore_alt3"/>
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
+    <item drawable="asphalt8"/>
     <item drawable="audiofx"/>
     <item drawable="auto_js"/>
     <item drawable="autohome"/>
@@ -59,6 +60,7 @@
     <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
+    <item drawable="bh3"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
@@ -101,6 +103,7 @@
     <item drawable="chunyu_doctor"/>
     <item drawable="citic"/>
     <item drawable="cjkcb"/>
+    <item drawable="clash_of_clans"/>
     <item drawable="clashroyale"/>
     <item drawable="clock"/>
     <item drawable="cloud_115"/>
@@ -211,6 +214,7 @@
     <item drawable="guokr"/>
     <item drawable="haodf"/>
     <item drawable="haodou"/>
+    <item drawable="happyelements"/>
     <item drawable="hearthstone"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
@@ -322,6 +326,7 @@
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
     <item drawable="mijia"/>
+    <item drawable="minecraft"/>
     <item drawable="mipay"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
@@ -347,6 +352,7 @@
     <item drawable="myandroidtools"/>
     <item drawable="mybus"/>
     <item drawable="netease_cartoonreader"/>
+    <item drawable="netease_dwrg"/>
     <item drawable="netease_kaola"/>
     <item drawable="netease_mail"/>
     <item drawable="netease_moneykeeper"/>
@@ -419,6 +425,7 @@
     <item drawable="radio"/>
     <item drawable="railway"/>
     <item drawable="read"/>
+    <item drawable="realracing3"/>
     <item drawable="recorder"/>
     <item drawable="relaxio"/>
     <item drawable="remote_control"/>
@@ -519,6 +526,7 @@
     <item drawable="unionpay"/>
     <item drawable="update"/>
     <item drawable="update_alt"/>
+    <item drawable="vainglory"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="videoshow"/>

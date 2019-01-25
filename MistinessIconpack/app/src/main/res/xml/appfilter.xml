@@ -2391,4 +2391,36 @@
         component="ComponentInfo{cn.chinabus.metro.main/cn.chinabus.metro.main.ui.SplashActivity_}"
         drawable="chinabus_metor"/>
 
+    <item
+        component="ComponentInfo{com.tencent.tmgp.supercell.clashofclans/com.tencent.tmgp.supercell.clashofclans.GameAppTencent}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft"/>
+
+    <item
+        component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity}"
+        drawable="happyelements"/>
+
+    <item
+        component="ComponentInfo{com.netease.dwrg/com.netease.dwrg.Launcher}"
+        drawable="netease_dwrg"/>
+
+    <item
+        component="ComponentInfo{com.superevilmegacorp.game/com.superevilmegacorp.nuogameentry.NuoActivityLauncher}"
+        drawable="vainglory"/>
+
+    <item
+        component="ComponentInfo{com.gameloft.android.ANMP.GloftA8HM/com.gameloft.android.ANMP.GloftA8HM.Game}"
+        drawable="asphalt8"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.bh3.uc/com.miHoYo.bh3.uc.UCGameACT}"
+        drawable="bh3"/>
+
+    <item
+        component="ComponentInfo{com.ea.games.r3_row/com.firemint.realracing.MainActivity}"
+        drawable="realracing3"/>
+
 </resources>

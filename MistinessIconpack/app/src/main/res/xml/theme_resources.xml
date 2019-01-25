@@ -2395,4 +2395,36 @@
         name="cn.chinabus.metro.main/cn.chinabus.metro.main.ui.SplashActivity_"
         image="chinabus_metor"/>
 
+    <AppIcon
+        name="com.tencent.tmgp.supercell.clashofclans/com.tencent.tmgp.supercell.clashofclans.GameAppTencent"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.netease.x19/com.mojang.minecraftpe.MainActivity"
+        image="minecraft"/>
+
+    <AppIcon
+        name="com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity"
+        image="happyelements"/>
+
+    <AppIcon
+        name="com.netease.dwrg/com.netease.dwrg.Launcher"
+        image="netease_dwrg"/>
+
+    <AppIcon
+        name="com.superevilmegacorp.game/com.superevilmegacorp.nuogameentry.NuoActivityLauncher"
+        image="vainglory"/>
+
+    <AppIcon
+        name="com.gameloft.android.ANMP.GloftA8HM/com.gameloft.android.ANMP.GloftA8HM.Game"
+        image="asphalt8"/>
+
+    <AppIcon
+        name="com.miHoYo.bh3.uc/com.miHoYo.bh3.uc.UCGameACT"
+        image="bh3"/>
+
+    <AppIcon
+        name="com.ea.games.r3_row/com.firemint.realracing.MainActivity"
+        image="realracing3"/>
+
 </Theme>
