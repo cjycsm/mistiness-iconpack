@@ -55,8 +55,8 @@ android {
         applicationId "person.cjy.iconpack.mistiness"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 37
-        versionName "1.0.0-RC"
+        versionCode 38
+        versionName "1.0.0-RC2"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
