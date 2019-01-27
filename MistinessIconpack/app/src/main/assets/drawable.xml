@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>38</version>
+    <version>39</version>
 
     <category title="All"/>
     <item drawable="abc"/>
