@@ -34,7 +34,7 @@
 
     <item
         component="ComponentInfo{com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity}"
-        drawable="meizu_datamigration"/>
+        drawable="backup"/>
 
     <item
         component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}"
@@ -1468,6 +1468,10 @@
         drawable="geometric_weather"/>
 
     <item
+        component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.main.MainActivity}"
+        drawable="geometric_weather"/>
+
+    <item
         component="ComponentInfo{com.nowcasting.activity/com.nowcasting.activity.SplashActivity}"
         drawable="nowcasting"/>
 
@@ -2422,5 +2426,269 @@
     <item
         component="ComponentInfo{com.ea.games.r3_row/com.firemint.realracing.MainActivity}"
         drawable="realracing3"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.google.android.Pixel2Mod/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}"
+        drawable="shadowsocksr"/>
+
+    <item
+        component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}"
+        drawable="mx"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="bilibili"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/l.ۦۤ۬ۤ}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
+        drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}"
+        drawable="list"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity}"
+        drawable="help"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.globalroaming/com.samsung.android.globalroaming.activity.StartingActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.app.music.chn/com.samsung.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity}"
+        drawable="read"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2}"
+        drawable="remote_control"/>
+
+    <item
+        component="ComponentInfo{com.ChillyRoom.DungeonShooter/com.chillyroomsdk.iapppay.MainActivity}"
+        drawable="knight"/>
+
+    <item
+        component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}"
+        drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.huawei.camera/com.huawei.camera}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
+        drawable="stk"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}"
+        drawable="update"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.biadu.netdisk/com.baidu.netdisk.ui.Navigate}"
+        drawable="baidu_netdisk"/>
+
+    <item
+        component="ComponentInfo{com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity}"
+        drawable="hunantv"/>
+
+    <item
+        component="ComponentInfo{com.huawei.compass/com.huawei.compass.MainActivity}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{com.yyw.box.androidclient/com.yyw.box.login.LoginActivity}"
+        drawable="cloud_115"/>
+
+    <item
+        component="ComponentInfo{com.nbc.datatransfer/com.nbc.datatransfer.DataTransferMainActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.hmdglobal.camera2/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.nbc.filemanager/com.fihtdc.filemanager.FileManager}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.gallery/com.evenwell.gallery.app.Gallery}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.voicenote/com.evenwell.voicenote.MainActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.hmdglobal.support/com.hmdglobal.support.ui.splash.SplashActivity}"
+        drawable="help"/>
+
+    <item
+        component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.coloros.backuprestore/com.coloros.phoneclone.PhoneCloneMainActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.coloros.compass/com.coloros.compass.flat.FlatCompass}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}"
+        drawable="weather"/>
 
 </resources>

@@ -41,7 +41,7 @@
 
     <AppIcon
         name="com.meizu.datamigration/com.meizu.datamigration.capture.DataMigrationActivity"
-        image="meizu_datamigration"/>
+        image="backup"/>
 
     <AppIcon
         name="com.android.dialer/com.android.dialer.DialtactsActivity"
@@ -1472,6 +1472,10 @@
         image="geometric_weather"/>
 
     <AppIcon
+        name="wangdaye.com.geometricweather/wangdaye.com.geometricweather.ui.activity.main.MainActivity"
+        image="geometric_weather"/>
+
+    <AppIcon
         name="com.nowcasting.activity/com.nowcasting.activity.SplashActivity"
         image="nowcasting"/>
 
@@ -2426,5 +2430,269 @@
     <AppIcon
         name="com.ea.games.r3_row/com.firemint.realracing.MainActivity"
         image="realracing3"/>
+
+    <AppIcon
+        name="com.sonyericsson.album/com.sonyericsson.album.MainActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.google.android.Pixel2Mod/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+
+    <AppIcon
+        name="in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks"
+        image="shadowsocksr"/>
+
+    <AppIcon
+        name="com.android.fmradio/com.android.fmradio.FmMainActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList"
+        image="mx"/>
+
+    <AppIcon
+        name="com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity"
+        image="bilibili"/>
+
+    <AppIcon
+        name="bin.mt.plus/l.ۦۤ۬ۤ"
+        image="mt"/>
+
+    <AppIcon
+        name="com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="com.sec.android.app.camera/com.sec.android.app.camera.Camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage"
+        image="clock"/>
+
+    <AppIcon
+        name="com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.samsung.android.calendar/com.android.calendar.AllInOneActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL"
+        image="email"/>
+
+    <AppIcon
+        name="com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity"
+        image="appstore"/>
+
+    <AppIcon
+        name="com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.samsung.android.messaging/com.android.mms.ui.ConversationComposer"
+        image="mms"/>
+
+    <AppIcon
+        name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity"
+        image="list"/>
+
+    <AppIcon
+        name="com.samsung.android.app.sreminder/com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity"
+        image="help"/>
+
+    <AppIcon
+        name="com.samsung.android.globalroaming/com.samsung.android.globalroaming.activity.StartingActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity"
+        image="browser"/>
+
+    <AppIcon
+        name="com.samsung.android.app.music.chn/com.samsung.android.app.music.common.activity.MusicMainActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList"
+        image="video"/>
+
+    <AppIcon
+        name="com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity"
+        image="read"/>
+
+    <AppIcon
+        name="com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.duokan.phone.remotecontroller/com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2"
+        image="remote_control"/>
+
+    <AppIcon
+        name="com.ChillyRoom.DungeonShooter/com.chillyroomsdk.iapppay.MainActivity"
+        image="knight"/>
+
+    <AppIcon
+        name="com.huawei.appmarket/com.huawei.appmarket.MainActivity"
+        image="appstore"/>
+
+    <AppIcon
+        name="com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.huawei.camera/com.huawei.camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.android.deskclock/com.android.deskclock.AlarmsMainActivity"
+        image="clock"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.android.gallery3d/com.huawei.gallery.app.GalleryMain"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.huawei.himovie/com.huawei.himovie.ui.login.SplashScreenActivity"
+        image="video"/>
+
+    <AppIcon
+        name="com.android.mediacenter/com.android.mediacenter.PageActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.huawei.systemmanager/com.huawei.systemmanager.mainscreen.MainScreenActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.android.stk/com.android.stk.StkLauncherActivity"
+        image="stk"/>
+
+    <AppIcon
+        name="com.android.settings/com.android.settings.HWSettings"
+        image="settings"/>
+
+    <AppIcon
+        name="com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity"
+        image="update"/>
+
+    <AppIcon
+        name="com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome"
+        image="weather"/>
+
+    <AppIcon
+        name="com.biadu.netdisk/com.baidu.netdisk.ui.Navigate"
+        image="baidu_netdisk"/>
+
+    <AppIcon
+        name="com.hunantv.imgo.activity/com.hunantv.imgo.activity.MainActivity"
+        image="hunantv"/>
+
+    <AppIcon
+        name="com.huawei.compass/com.huawei.compass.MainActivity"
+        image="compass"/>
+
+    <AppIcon
+        name="com.yyw.box.androidclient/com.yyw.box.login.LoginActivity"
+        image="cloud_115"/>
+
+    <AppIcon
+        name="com.nbc.datatransfer/com.nbc.datatransfer.DataTransferMainActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.hmdglobal.camera2/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.nbc.filemanager/com.fihtdc.filemanager.FileManager"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.evenwell.gallery/com.evenwell.gallery.app.Gallery"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.evenwell.voicenote/com.evenwell.voicenote.MainActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.hmdglobal.support/com.hmdglobal.support.ui.splash.SplashActivity"
+        image="help"/>
+
+    <AppIcon
+        name="com.oppo.camera/com.oppo.camera.Camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock"
+        image="clock"/>
+
+    <AppIcon
+        name="com.coloros.backuprestore/com.coloros.phoneclone.PhoneCloneMainActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.coloros.compass/com.coloros.compass.flat.FlatCompass"
+        image="compass"/>
+
+    <AppIcon
+        name="com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.oppo.music/com.oppo.music.MainListActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.coloros.phonemanager/com.coloros.phonemanager.FakeActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.filebrowser.BrowseFile"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.android.settings/com.oppo.settings.SettingsActivity"
+        image="settings"/>
+
+    <AppIcon
+        name="com.coloros.weather/com.coloros.weather.OppoMainActivity"
+        image="weather"/>
 
 </Theme>

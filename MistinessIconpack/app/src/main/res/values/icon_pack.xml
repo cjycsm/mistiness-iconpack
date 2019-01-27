@@ -42,13 +42,12 @@
         <item>upgrade</item>
         <item>application</item>
         <item>game</item>
-        <item>LineageOS</item>
-        <item>MIUI</item>
-        <item>Flyme</item>
-        <item>H2OS</item>
-        <item>PixelExperience</item>
-        <item>SmartisanOS</item>
-        <item>OneUI</item>
+        <item>universal</item>
+        <item>mi</item>
+        <item>meizu</item>
+        <item>oneplus</item>
+        <item>samsung</item>
+        <item>smartisan</item>
     </string-array>
 
     <string-array name="newest">
@@ -540,6 +539,7 @@
         <item>etao</item>
         <item>chinabus_lieche</item>
         <item>chinabus_metor</item>
+        <item>audiofx</item>
     </string-array>
 
     <string-array name="game">
@@ -569,22 +569,18 @@
         <item>realracing3</item>
     </string-array>
 
-    <string-array name="Flyme">
+    <string-array name="universal">
         <item>calculator</item>
         <item>clock</item>
-        <item>meizu_datamigration</item>
+        <item>backup</item>
         <item>dialer</item>
         <item>map</item>
-        <item>meizu_note</item>
-        <item>meizu_pedometer</item>
-        <item>qrcode_scanner</item>
         <item>safe</item>
         <item>settings</item>
         <item>settings_alt</item>
+        <item>qrcode_scanner</item>
         <item>sound_recorder</item>
         <item>sound_recorder_alt</item>
-        <item>meizu_customizecenter</item>
-        <item>meizu_toolbox</item>
         <item>weather</item>
         <item>downloads</item>
         <item>camera</item>
@@ -600,9 +596,33 @@
         <item>email</item>
         <item>email_alt</item>
         <item>video</item>
-        <item>meizu_wallet</item>
         <item>browser</item>
         <item>browser_alt</item>
+        <item>update</item>
+        <item>update_alt</item>
+        <item>feedback</item>
+        <item>feedback_alt</item>
+        <item>stk</item>
+        <item>stk_alt</item>
+        <item>compass</item>
+        <item>compass_alt</item>
+        <item>recorder</item>
+        <item>radio</item>
+        <item>remote_control</item>
+        <item>remote_control_alt</item>
+        <item>wallpaper</item>
+        <item>contacts</item>
+        <item>help</item>
+        <item>help_alt</item>
+        <item>list</item>
+    </string-array>
+
+    <string-array name="meizu">
+        <item>meizu_note</item>
+        <item>meizu_pedometer</item>
+        <item>meizu_customizecenter</item>
+        <item>meizu_toolbox</item>
+        <item>meizu_wallet</item>
         <item>meizu_compaign</item>
         <item>meizu_ebook</item>
         <item>gamecenter</item>
@@ -611,128 +631,32 @@
         <item>meizu_mznfcpay</item>
         <item>meizu_reader</item>
         <item>meizu_mzroottools</item>
-        <item>update</item>
-        <item>update_alt</item>
-        <item>feedback</item>
-        <item>feedback_alt</item>
         <item>flyme_roamingpay</item>
         <item>meizu_voiceassistant</item>
         <item>flyme_videoclips</item>
         <item>meizu_store</item>
-        <item>stk</item>
-        <item>stk_alt</item>
     </string-array>
 
-    <string-array name="H2OS">
+    <string-array name="oneplus">
         <item>oneplus_note</item>
-        <item>dialer</item>
-        <item>gallery</item>
-        <item>settings</item>
-        <item>settings_alt</item>
-        <item>clock</item>
-        <item>appstore</item>
-        <item>appstore_alt1</item>
-        <item>appstore_alt2</item>
-        <item>appstore_alt3</item>
-        <item>file_manager</item>
-        <item>camera</item>
-        <item>mms</item>
-        <item>calculator</item>
-        <item>calendar</item>
-        <item>weather</item>
-        <item>contacts</item>
-        <item>browser</item>
-        <item>browser_alt</item>
-        <item>email</item>
-        <item>email_alt</item>
-        <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
         <item>oneplus_card</item>
         <item>oneplus_backuprestore</item>
     </string-array>
 
-    <string-array name="MIUI">
+    <string-array name="mi">
         <item>miui_calculator</item>
-        <item>appstore</item>
-        <item>appstore_alt1</item>
-        <item>appstore_alt2</item>
-        <item>appstore_alt3</item>
-        <item>browser</item>
-        <item>browser_alt</item>
-        <item>calendar</item>
-        <item>camera</item>
-        <item>clock</item>
-        <item>contacts</item>
-        <item>dialer</item>
-        <item>downloads</item>
-        <item>file_manager</item>
-        <item>gallery</item>
-        <item>mms</item>
-        <item>video</item>
-        <item>music</item>
-        <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
-        <item>qrcode_scanner</item>
-        <item>safe</item>
-        <item>settings</item>
-        <item>settings_alt</item>
-        <item>weather</item>
-        <item>email</item>
-        <item>email_alt</item>
         <item>miui_notes</item>
-        <item>stk</item>
-        <item>stk_alt</item>
-        <item>feedback</item>
-        <item>feedback_alt</item>
-        <item>compass</item>
-        <item>compass_alt</item>
-        <item>recorder</item>
         <item>miui_theme_manager</item>
         <item>miui_virtual_sim</item>
         <item>miui_voice_assistant</item>
         <item>mipay</item>
     </string-array>
 
-    <string-array name="PixelExperience">
-        <item>dialer</item>
-        <item>calculator</item>
-        <item>wallpaper</item>
-        <item>calendar</item>
-        <item>clock</item>
-        <item>settings</item>
-        <item>settings_alt</item>
-        <item>contacts</item>
-        <item>file_manager</item>
-        <item>mms</item>
-        <item>stk</item>
-        <item>stk_alt</item>
-    </string-array>
-
-    <string-array name="LineageOS">
-        <item>browser</item>
-        <item>browser_alt</item>
-        <item>calculator</item>
-        <item>calendar</item>
-        <item>canera</item>
-        <item>clock</item>
-        <item>contacts</item>
-        <item>email</item>
-        <item>email_alt</item>
-        <item>gallery</item>
-        <item>mms</item>
-        <item>recorder</item>
-        <item>dialer</item>
-        <item>file_manager</item>
-        <item>settings</item>
-        <item>settings_alt</item>
-        <item>audiofx</item>
-    </string-array>
-
-    <string-array name="SmartisanOS">
+    <string-array name="smartisan">
         <item>smartisan_notes</item>
     </string-array>
 
-    <string-array name="OneUI">
+    <string-array name="samsung">
         <item>samsung_shealth</item>
     </string-array>
 

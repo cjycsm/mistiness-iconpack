@@ -35,7 +35,7 @@
 
     <item
         class="com.meizu.datamigration.capture.DataMigrationActivity"
-        name="meizu_datamigration"/>
+        name="backup"/>
 
     <item
         class="com.android.dialer.DialtactsActivity"
@@ -1466,6 +1466,10 @@
         name="geometric_weather"/>
 
     <item
+        class="wangdaye.com.geometricweather.ui.activity.main.MainActivity"
+        name="geometric_weather"/>
+
+    <item
         class="com.nowcasting.activity.SplashActivity"
         name="nowcasting"/>
 
@@ -2420,5 +2424,271 @@
     <item
         class="com.firemint.realracing.MainActivity"
         name="realracing3"/>
+
+    <item
+        class="com.sonyericsson.album.MainActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="com.github.shadowsocks.Shadowsocks"
+        name="shadowsocksr"/>
+
+    <item
+        class="com.android.fmradio.FmMainActivity"
+        name="radio"/>
+
+    <item
+        class="com.mxtech.videoplayer.pro.ActivityMediaList"
+        name="mx"/>
+
+    <item
+        class="tv.danmaku.bili.ui.splash.SplashActivity"
+        name="bilibili"/>
+
+    <item
+        class="l.ۦۤ۬ۤ"
+        name="mt"/>
+
+    <item
+        class="com.sec.android.app.popupcalculator.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.sec.android.app.camera.Camera"
+        name="camera"/>
+
+    <item
+        class="com.sec.android.app.clockpackage.ClockPackage"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <item
+        class="com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity"
+        name="safe"/>
+
+    <item
+        class="com.samsung.android.email.ui.activity.MessageListXL"
+        name="email"/>
+
+    <item
+        class="com.sec.android.app.samsungapps.SamsungAppsMainActivity"
+        name="appstore"/>
+
+    <item
+        class="com.samsung.android.game.gamehome.activity.StartActivityCN"
+        name="gamecenter"/>
+
+    <item
+        class="com.sec.android.gallery3d.app.GalleryOpaqueActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.mms.ui.ConversationComposer"
+        name="mms"/>
+
+    <item
+        class="com.sec.android.app.myfiles.common.MainActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.samsung.android.app.reminder.ui.LaunchMainActivity"
+        name="list"/>
+
+    <item
+        class="com.samsung.android.app.sreminder.phone.cardlist.SReminderActivity"
+        name="help"/>
+
+    <item
+        class="com.samsung.android.globalroaming.activity.StartingActivity"
+        name="backup"/>
+
+    <item
+        class="com.sec.android.app.sbrowser.SBrowserMainActivity"
+        name="browser"/>
+
+    <item
+        class="com.samsung.android.app.music.common.activity.MusicMainActivity"
+        name="music"/>
+
+    <item
+        class="com.samsung.android.videolist.list.activity.VideoList"
+        name="video"/>
+
+    <item
+        class="com.sec.android.app.voicenote.main.VNMainActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.kunfei.bookshelf.view.activity.WelcomeActivity"
+        name="read"/>
+
+    <item
+        class="com.xiaomi.gamecenter.ui.MainTabActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.xiaomi.mitv.phone.remotecontroller.HoriWidgetMainActivityV2"
+        name="remote_control"/>
+
+    <item
+        class="com.chillyroomsdk.iapppay.MainActivity"
+        name="knight"/>
+
+    <item
+        class="com.huawei.appmarket.MainActivity"
+        name="appstore"/>
+
+    <item
+        class="com.huawei.KoBackup.InitializeActivity"
+        name="backup"/>
+
+    <item
+        class="com.huawei.camera"
+        name="camera"/>
+
+    <item
+        class="com.android.deskclock.AlarmsMainActivity"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.DialtactsActivity"
+        name="contacts"/>
+
+    <item
+        class="com.huawei.hidisk.filemanager.FileManager"
+        name="file_manager"/>
+
+    <item
+        class="com.huawei.gallery.app.GalleryMain"
+        name="gallery"/>
+
+    <item
+        class="com.huawei.himovie.ui.login.SplashScreenActivity"
+        name="video"/>
+
+    <item
+        class="com.android.mediacenter.PageActivity"
+        name="music"/>
+
+    <item
+        class="com.huawei.systemmanager.mainscreen.MainScreenActivity"
+        name="safe"/>
+
+    <item
+        class="com.android.stk.StkLauncherActivity"
+        name="stk"/>
+
+    <item
+        class="com.android.settings.HWSettings"
+        name="settings"/>
+
+    <item
+        class="com.huawei.android.hwouc.ui.activities.MainEntranceActivity"
+        name="update"/>
+
+    <item
+        class="com.huawei.android.totemweatherapp.WeatherHome"
+        name="weather"/>
+
+    <item
+        class="com.baidu.netdisk.ui.Navigate"
+        name="baidu_netdisk"/>
+
+    <item
+        class="com.hunantv.imgo.activity.MainActivity"
+        name="hunantv"/>
+
+    <item
+        class="com.huawei.compass.MainActivity"
+        name="compass"/>
+
+    <item
+        class="com.yyw.box.login.LoginActivity"
+        name="cloud_115"/>
+
+    <item
+        class="com.nbc.datatransfer.DataTransferMainActivity"
+        name="backup"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.android.contacts.activities.DialtactsActivity"
+        name="contacts"/>
+
+    <item
+        class="com.fihtdc.filemanager.FileManager"
+        name="file_manager"/>
+
+    <item
+        class="com.evenwell.gallery.app.Gallery"
+        name="gallery"/>
+
+    <item
+        class="com.evenwell.voicenote.MainActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.hmdglobal.support.ui.splash.SplashActivity"
+        name="help"/>
+
+    <item
+        class="com.oppo.camera.Camera"
+        name="camera"/>
+
+    <item
+        class="com.coloros.alarmclock.AlarmClock"
+        name="clock"/>
+
+    <item
+        class="com.coloros.phoneclone.PhoneCloneMainActivity"
+        name="backup"/>
+
+    <item
+        class="com.coloros.compass.flat.FlatCompass"
+        name="compass"/>
+
+    <item
+        class="com.nearme.gamecenter.ui.activity.SplashActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.oppo.music.MainListActivity"
+        name="music"/>
+
+    <item
+        class="com.coloros.phonemanager.FakeActivity"
+        name="safe"/>
+
+    <item
+        class="com.oppo.gallery3d.app.Gallery"
+        name="gallery"/>
+
+    <item
+        class="oppo.multimedia.soundrecorder.filebrowser.BrowseFile"
+        name="sound_recorder"/>
+
+    <item
+        class="com.oppo.settings.SettingsActivity"
+        name="settings"/>
+
+    <item
+        class="com.coloros.weather.OppoMainActivity"
+        name="weather"/>
+
+
 
 </appmap>

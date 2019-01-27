@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>40</version>
+    <version>41</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -50,6 +50,7 @@
     <item drawable="autohome"/>
     <item drawable="away_from_mobile"/>
     <item drawable="b612"/>
+    <item drawable="backup"/>
     <item drawable="baicizhan"/>
     <item drawable="baidu"/>
     <item drawable="baidu_ime"/>
@@ -280,6 +281,7 @@
     <item drawable="life_is_strange"/>
     <item drawable="light_beauty"/>
     <item drawable="linkedin"/>
+    <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="lofter"/>
     <item drawable="lonicera"/>
@@ -301,7 +303,6 @@
     <item drawable="meiyan_camera"/>
     <item drawable="meizu_compaign"/>
     <item drawable="meizu_customizecenter"/>
-    <item drawable="meizu_datamigration"/>
     <item drawable="meizu_ebook"/>
     <item drawable="meizu_life"/>
     <item drawable="meizu_mznfcpay"/>
