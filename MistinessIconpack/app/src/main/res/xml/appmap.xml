@@ -47,7 +47,7 @@
 
     <item
         class="com.meizu.flyme.notepaper.app.NotePaperActivity"
-        name="meizu_note"/>
+        name="notes"/>
 
     <item
         class="com.meizu.net.pedometer.ui.PedometerMainActivitys"
@@ -67,7 +67,7 @@
 
     <item
         class="com.meizu.customizecenter.frame.activity.CustomizeCenterActivity"
-        name="meizu_customizecenter"/>
+        name="theme"/>
 
     <item
         class="com.meizu.flyme.toolbox.activity.ToolBoxActivity"
@@ -115,7 +115,7 @@
 
     <item
         class="com.meizu.flyme.wallet.activity.WalletTabActivity"
-        name="meizu_wallet"/>
+        name="wallet"/>
 
     <item
         class="com.android.calendar.AllInOneActivity"
@@ -2091,11 +2091,7 @@
 
     <item
         class="com.miui.notes.ui.NotesListActivity"
-        name="miui_notes"/>
-
-    <item
-        class="com.android.stk.StkMain"
-        name="stk"/>
+        name="notes"/>
 
     <item
         class="com.miui.bugreport.ui.MainTabActivity"
@@ -2111,7 +2107,7 @@
 
     <item
         class="com.android.thememanager.ThemeResourceTabActivity"
-        name="miui_theme_manager"/>
+        name="theme"/>
 
     <item
         class="com.miui.virtualsim.ui.MainActivity"
@@ -2586,7 +2582,7 @@
         name="safe"/>
 
     <item
-        class="com.android.stk.StkLauncherActivity"
+        class="com.android.stk.StkLauncherActivity2"
         name="stk"/>
 
     <item
@@ -2689,6 +2685,172 @@
         class="com.coloros.weather.OppoMainActivity"
         name="weather"/>
 
+    <item
+        class="com.meizu.flyme.notepaper.app.NoteSplashActivity"
+        name="notes"/>
 
+    <item
+        class="com.eusoft.dict.activity.SplashActivity"
+        name="eudic"/>
+
+    <item
+        class="com.asus.deskclock.DeskClock"
+        name="clock"/>
+
+    <item
+        class="org.mokee.audiofx.activity.ActivityMusic"
+        name="audiofx"/>
+
+    <item
+        class="ch.deletescape.lawnchair.LawnchairLauncher"
+        name="lawnchair"/>
+
+    <item
+        class="com.amazon.mShop.home.HomeActivity"
+        name="amazon"/>
+
+    <item
+        class="com.sonymobile.androidapp.audiorecorder.activity.MainActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.sonymobile.calendar.LaunchActivity"
+        name="calendar"/>
+
+    <item
+        class="com.sonyericsson.android.camera.CameraActivity"
+        name="camera"/>
+
+    <item
+        class="com.sonyericsson.organizer.Organizer"
+        name="clock"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.sonymobile.email.activity.Welcome"
+        name="email"/>
+
+    <item
+        class="com.sonyericsson.fmradio.ui.FmRadioActivity"
+        name="radio"/>
+
+    <item
+        class="com.sonyericsson.conversations.ui.ConversationListActivity"
+        name="mms"/>
+
+    <item
+        class="com.sonyericsson.music.MusicActivity"
+        name="music"/>
+
+    <item
+        class="com.sonymobile.notes.dashboard.DashboardActivity"
+        name="note"/>
+
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="dialer"/>
+
+    <item
+        class="com.sonymobile.xperiaweather.MainActivity"
+        name="weather"/>
+
+    <item
+        class="com.sonymobile.support.InAppSupportLauncher"
+        name="help"/>
+
+    <item
+        class="com.sonymobile.xperiatransfermobile.ui.LaunchActivity"
+        name="backup"/>
+
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="browser"/>
+
+    <item
+        class="com.android.systemui.flashlight.FlashlightActivity"
+        name="light"/>
+
+    <item
+        class="com.example.android.notepad.NotePadActivity"
+        name="huawei_notes"/>
+
+    <item
+        class="com.huawei.android.thememanager.PageActivity"
+        name="theme"/>
+
+    <item
+        class="com.huawei.gameassistant.views.GameassistantMainActivity"
+        name="huawei_assistant"/>
+
+    <item
+        class="com.huawei.health.MainActivity"
+        name="huawei_health"/>
+
+    <item
+        class="com.huawei.phoneservice.LaunchActivity"
+        name="huawei_service"/>
+
+    <item
+        class="com.huawei.remoteassistant.view.activity.MainActivity"
+        name="huawei_remote_assistant"/>
+
+    <item
+        class="com.huawei.trustspace.mainscreen.LoadActivity"
+        name="huawei_trustspace"/>
+
+    <item
+        class="com.huawei.vassistant.ui.main.VAssistantActivity"
+        name="huawei_voice_assistant"/>
+
+    <item
+        class="com.huawei.wallet.view.MainActivity"
+        name="wallet"/>
+
+    <item
+        class="com.nbc.voiceassistant.view.OnePiexlActivity"
+        name="nokia_voice_assistant"/>
+
+    <item
+        class="com.smartisanos.smartfolder.aoa.MainActivity"
+        name="handshaker"/>
+
+    <item
+        class="com.teammt.gmanrainy.emuithemestore.activity.MainActivity"
+        name="theme_alt"/>
+
+    <item
+        class="com.huawei.android.findmyphone.ui.FindMyPhoneActivity"
+        name="huawei_find_my_phone"/>
+
+    <item
+        class="com.huawei.mw.plugin.guide.activity.IntroduceActivity"
+        name="huawei_mw"/>
+
+    <item
+        class="com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+        name="huawei_theme_manager"/>
+
+    <item
+        class="ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+        name="huawei_theme_manager"/>
+
+    <item
+        class="com.nearme.themespace.activities.ThemeActivity"
+        name="theme"/>
+
+    <item
+        class="com.nearme.note.view.AllNoteActivity"
+        name="notes"/>
+
+    <item
+        class="com.samsung.android.themestore.activity.Launcher"
+        name="theme"/>
+
+    <item
+        class="com.samsung.android.app.notes.memolist.MemoListActivity"
+        name="notes"/>
 
 </appmap>

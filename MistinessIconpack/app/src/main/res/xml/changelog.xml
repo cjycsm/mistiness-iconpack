@@ -15,12 +15,15 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.1.0" />
-    <item text="新增三星部分内置应用的适配" />
-    <item text="新增华为部分内置应用的适配" />
-    <item text="新增诺基亚部分内置应用的适配" />
-    <item text="新增OPPO部分内置应用的适配" />
-    <item text="新增小米部分内置应用的适配" />
-    <item text="修复个别应用的适配" />
-    <item text="修复个别游戏的适配" />
+    <version title="v1.1.1" />
+    <item text="新增图标15枚" />
+    <item text="重绘图标2枚" />
+    <item text="新增适配索尼内置应用15款" />
+    <item text="新增适配华为内置应用11款" />
+    <item text="新增适配OPPO内置应用2款" />
+    <item text="新增适配三星内置应用2款" />
+    <item text="新增适配华硕内置应用1款" />
+    <item text="新增适配诺基亚内置应用1款" />
+    <item text="新增适配锤子内置应用1款" />
+    <item text="其他修复和改进" />
 </resources>

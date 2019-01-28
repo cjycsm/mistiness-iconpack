@@ -46,7 +46,7 @@
 
     <item
         component="ComponentInfo{com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity}"
-        drawable="meizu_note"/>
+        drawable="notes"/>
 
     <item
         component="ComponentInfo{com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys}"
@@ -66,7 +66,7 @@
 
     <item
         component="ComponentInfo{com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity}"
-        drawable="meizu_customizecenter"/>
+        drawable="theme"/>
 
     <item
         component="ComponentInfo{com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity}"
@@ -114,7 +114,7 @@
 
     <item
         component="ComponentInfo{com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity}"
-        drawable="meizu_wallet"/>
+        drawable="wallet"/>
 
     <item
         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}"
@@ -2093,11 +2093,7 @@
 
     <item
         component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}"
-        drawable="miui_notes"/>
-
-    <item
-        component="ComponentInfo{com.android.stk.StkMain/com.android.stk.StkMain}"
-        drawable="stk"/>
+        drawable="notes"/>
 
     <item
         component="ComponentInfo{com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity}"
@@ -2113,7 +2109,7 @@
 
     <item
         component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}"
-        drawable="miui_theme_manager"/>
+        drawable="theme"/>
 
     <item
         component="ComponentInfo{com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity}"
@@ -2588,7 +2584,7 @@
         drawable="safe"/>
 
     <item
-        component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
+        component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}"
         drawable="stk"/>
 
     <item
@@ -2690,5 +2686,173 @@
     <item
         component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}"
         drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.meizu.notes/com.meizu.flyme.notepaper.app.NoteSplashActivity}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{com.qianyan.eudic/com.eusoft.dict.activity.SplashActivity}"
+        drawable="eudic"/>
+
+    <item
+        component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{org.mokee.audiofx/org.mokee.audiofx.activity.ActivityMusic}"
+        drawable="audiofx"/>
+
+    <item
+        component="ComponentInfo{ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher}"
+        drawable="lawnchair"/>
+
+    <item
+        component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}"
+        drawable="amazon"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity}"
+        drawable="note"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}"
+        drawable="help"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.xperiatransfermobile/com.sonymobile.xperiatransfermobile.ui.LaunchActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.android.browser/com.google.android.apps.chrome.Main}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.android.systemui/com.android.systemui.flashlight.FlashlightActivity}"
+        drawable="light"/>
+
+    <item
+        component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}"
+        drawable="huawei_notes"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity}"
+        drawable="theme"/>
+
+    <item
+        component="ComponentInfo{com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity}"
+        drawable="huawei_assistant"/>
+
+    <item
+        component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}"
+        drawable="huawei_health"/>
+
+    <item
+        component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}"
+        drawable="huawei_service"/>
+
+    <item
+        component="ComponentInfo{com.huawei.remoteassistant/com.huawei.remoteassistant.view.activity.MainActivity}"
+        drawable="huawei_remote_assistant"/>
+
+    <item
+        component="ComponentInfo{com.huawei.trustspace/com.huawei.trustspace.mainscreen.LoadActivity}"
+        drawable="huawei_trustspace"/>
+
+    <item
+        component="ComponentInfo{com.huawei.vassistant/com.huawei.vassistant.ui.main.VAssistantActivity}"
+        drawable="huawei_voice_assistant"/>
+
+    <item
+        component="ComponentInfo{com.huawei.wallet/com.huawei.wallet.view.MainActivity}"
+        drawable="wallet"/>
+
+    <item
+        component="ComponentInfo{com.nbc.voiceassistant/com.nbc.voiceassistant.view.OnePiexlActivity}"
+        drawable="nokia_voice_assistant"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.smartfolder.aoa/com.smartisanos.smartfolder.aoa.MainActivity}"
+        drawable="handshaker"/>
+
+    <item
+        component="ComponentInfo{com.teammt.gmanrainy.themestore/com.teammt.gmanrainy.emuithemestore.activity.MainActivity}"
+        drawable="theme_alt"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.FindMyPhoneActivity}"
+        drawable="huawei_find_my_phone"/>
+
+    <item
+        component="ComponentInfo{com.huawei.mw/com.huawei.mw.plugin.guide.activity.IntroduceActivity}"
+        drawable="huawei_mw"/>
+
+    <item
+        component="ComponentInfo{com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}"
+        drawable="huawei_theme_manager"/>
+
+    <item
+        component="ComponentInfo{ru.deishelon.lab.huaweithememanager/ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity}"
+        drawable="huawei_theme_manager"/>
+
+    <item
+        component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}"
+        drawable="theme"/>
+
+    <item
+        component="ComponentInfo{com.nearme.note/com.nearme.note.view.AllNoteActivity}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}"
+        drawable="theme"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}"
+        drawable="notes"/>
 
 </resources>

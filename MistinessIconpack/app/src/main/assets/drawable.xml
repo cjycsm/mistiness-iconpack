@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>41</version>
+    <version>42</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -213,6 +213,7 @@
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guokr"/>
+    <item drawable="handshaker"/>
     <item drawable="haodf"/>
     <item drawable="haodou"/>
     <item drawable="happyelements"/>
@@ -228,6 +229,16 @@
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
     <item drawable="hlddz"/>
+    <item drawable="huawei_assistant"/>
+    <item drawable="huawei_find_my_phone"/>
+    <item drawable="huawei_health"/>
+    <item drawable="huawei_mw"/>
+    <item drawable="huawei_notes"/>
+    <item drawable="huawei_remote_assistant"/>
+    <item drawable="huawei_service"/>
+    <item drawable="huawei_theme_manager"/>
+    <item drawable="huawei_trustspace"/>
+    <item drawable="huawei_voice_assistant"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
     <item drawable="huoying"/>
@@ -279,6 +290,7 @@
     <item drawable="ledongli"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
+    <item drawable="light"/>
     <item drawable="light_beauty"/>
     <item drawable="linkedin"/>
     <item drawable="list"/>
@@ -302,18 +314,15 @@
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
     <item drawable="meizu_compaign"/>
-    <item drawable="meizu_customizecenter"/>
     <item drawable="meizu_ebook"/>
     <item drawable="meizu_life"/>
     <item drawable="meizu_mznfcpay"/>
     <item drawable="meizu_mzroottools"/>
-    <item drawable="meizu_note"/>
     <item drawable="meizu_pedometer"/>
     <item drawable="meizu_reader"/>
     <item drawable="meizu_store"/>
     <item drawable="meizu_toolbox"/>
     <item drawable="meizu_voiceassistant"/>
-    <item drawable="meizu_wallet"/>
     <item drawable="memento"/>
     <item drawable="mfw"/>
     <item drawable="microsoft_cartana"/>
@@ -332,8 +341,6 @@
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
     <item drawable="miui_calculator"/>
-    <item drawable="miui_notes"/>
-    <item drawable="miui_theme_manager"/>
     <item drawable="miui_virtual_sim"/>
     <item drawable="miui_voice_assistant"/>
     <item drawable="miuibbs"/>
@@ -363,7 +370,9 @@
     <item drawable="netease_yanxuan"/>
     <item drawable="nga"/>
     <item drawable="ninegame"/>
+    <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
+    <item drawable="notes"/>
     <item drawable="nova_launcher"/>
     <item drawable="nowcasting"/>
     <item drawable="oblatum"/>
@@ -502,6 +511,8 @@
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wifimanager"/>
+    <item drawable="theme"/>
+    <item drawable="theme_alt"/>
     <item drawable="thestore"/>
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
@@ -539,12 +550,14 @@
     <item drawable="vz"/>
     <item drawable="wacai"/>
     <item drawable="wakeup_schedule"/>
+    <item drawable="wallet"/>
     <item drawable="walli"/>
     <item drawable="wallpaper"/>
     <item drawable="wangxin"/>
     <item drawable="waw"/>
     <item drawable="weather"/>
     <item drawable="wechat"/>
+    <item drawable="wechat_alt"/>
     <item drawable="weibo"/>
     <item drawable="weibo_intl"/>
     <item drawable="weibo_lite"/>

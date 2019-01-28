@@ -21,7 +21,7 @@
 
     <!-- Mail subjects for simple e-mail and requests e-mail -->
     <string name="email_subject">Mistiness</string>
-    <string name="request_title">Mistiness弥影 图标申请</string>
+    <string name="request_title">Mistiness弥散图标申请</string>
 
     <!-- Strings for Wallpapers and Requests -->
     <string name="request_save_location">%1$s/Blueprint/Requests/</string>
@@ -82,7 +82,7 @@
     If the time limit is set to 0 or less, users will be able to request as many times they want,
     with the max apps limit.
     -->
-    <integer name="max_apps_to_request">20</integer>
+    <integer name="max_apps_to_request">15</integer>
     <integer name="time_limit_in_minutes">10080</integer>
 
     <!-- Leave empty to disable. A URL to an Arctic Request Manager server, e.g. https://arcticmanager.com -->

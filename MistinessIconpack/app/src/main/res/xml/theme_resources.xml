@@ -53,7 +53,7 @@
 
     <AppIcon
         name="com.meizu.notepaper/com.meizu.flyme.notepaper.app.NotePaperActivity"
-        image="meizu_note"/>
+        image="notes"/>
 
     <AppIcon
         name="com.meizu.net.pedometer/com.meizu.net.pedometer.ui.PedometerMainActivitys"
@@ -73,7 +73,7 @@
 
     <AppIcon
         name="com.meizu.customizecenter/com.meizu.customizecenter.frame.activity.CustomizeCenterActivity"
-        image="meizu_customizecenter"/>
+        image="theme"/>
 
     <AppIcon
         name="com.meizu.flyme.toolbox/com.meizu.flyme.toolbox.activity.ToolBoxActivity"
@@ -121,7 +121,7 @@
 
     <AppIcon
         name="com.meizu.flyme.wallet/com.meizu.flyme.wallet.activity.WalletTabActivity"
-        image="meizu_wallet"/>
+        image="wallet"/>
 
     <AppIcon
         name="com.oneplus.calendar/com.android.calendar.AllInOneActivity"
@@ -2097,11 +2097,7 @@
 
     <AppIcon
         name="com.miui.notes/com.miui.notes.ui.NotesListActivity"
-        image="miui_notes"/>
-
-    <AppIcon
-        name="com.android.stk.StkMain/com.android.stk.StkMain"
-        image="stk"/>
+        image="notes"/>
 
     <AppIcon
         name="com.miui.bugreport/com.miui.bugreport.ui.MainTabActivity"
@@ -2117,7 +2113,7 @@
 
     <AppIcon
         name="com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity"
-        image="miui_theme_manager"/>
+        image="theme"/>
 
     <AppIcon
         name="com.miui.virtualsim/com.miui.virtualsim.ui.MainActivity"
@@ -2592,7 +2588,7 @@
         image="safe"/>
 
     <AppIcon
-        name="com.android.stk/com.android.stk.StkLauncherActivity"
+        name="com.android.stk/com.android.stk.StkLauncherActivity2"
         image="stk"/>
 
     <AppIcon
@@ -2694,5 +2690,173 @@
     <AppIcon
         name="com.coloros.weather/com.coloros.weather.OppoMainActivity"
         image="weather"/>
+
+    <AppIcon
+        name="com.meizu.notes/com.meizu.flyme.notepaper.app.NoteSplashActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="com.qianyan.eudic/com.eusoft.dict.activity.SplashActivity"
+        image="eudic"/>
+
+    <AppIcon
+        name="com.asus.deskclock/com.asus.deskclock.DeskClock"
+        image="clock"/>
+
+    <AppIcon
+        name="org.mokee.audiofx/org.mokee.audiofx.activity.ActivityMusic"
+        image="audiofx"/>
+
+    <AppIcon
+        name="ch.deletescape.lawnchair.ci/ch.deletescape.lawnchair.LawnchairLauncher"
+        image="lawnchair"/>
+
+    <AppIcon
+        name="com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity"
+        image="amazon"/>
+
+    <AppIcon
+        name="com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity"
+        image="camera"/>
+
+    <AppIcon
+        name="com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer"
+        image="clock"/>
+
+    <AppIcon
+        name="com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.sonymobile.email/com.sonymobile.email.activity.Welcome"
+        image="email"/>
+
+    <AppIcon
+        name="com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity"
+        image="mms"/>
+
+    <AppIcon
+        name="com.sonyericsson.music/com.sonyericsson.music.MusicActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity"
+        image="note"/>
+
+    <AppIcon
+        name="com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher"
+        image="help"/>
+
+    <AppIcon
+        name="com.sonymobile.xperiatransfermobile/com.sonymobile.xperiatransfermobile.ui.LaunchActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.android.browser/com.google.android.apps.chrome.Main"
+        image="browser"/>
+
+    <AppIcon
+        name="com.android.systemui/com.android.systemui.flashlight.FlashlightActivity"
+        image="light"/>
+
+    <AppIcon
+        name="com.example.android.notepad/com.example.android.notepad.NotePadActivity"
+        image="huawei_notes"/>
+
+    <AppIcon
+        name="com.huawei.android.thememanager/com.huawei.android.thememanager.PageActivity"
+        image="theme"/>
+
+    <AppIcon
+        name="com.huawei.gameassistant/com.huawei.gameassistant.views.GameassistantMainActivity"
+        image="huawei_assistant"/>
+
+    <AppIcon
+        name="com.huawei.health/com.huawei.health.MainActivity"
+        image="huawei_health"/>
+
+    <AppIcon
+        name="com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity"
+        image="huawei_service"/>
+
+    <AppIcon
+        name="com.huawei.remoteassistant/com.huawei.remoteassistant.view.activity.MainActivity"
+        image="huawei_remote_assistant"/>
+
+    <AppIcon
+        name="com.huawei.trustspace/com.huawei.trustspace.mainscreen.LoadActivity"
+        image="huawei_trustspace"/>
+
+    <AppIcon
+        name="com.huawei.vassistant/com.huawei.vassistant.ui.main.VAssistantActivity"
+        image="huawei_voice_assistant"/>
+
+    <AppIcon
+        name="com.huawei.wallet/com.huawei.wallet.view.MainActivity"
+        image="wallet"/>
+
+    <AppIcon
+        name="com.nbc.voiceassistant/com.nbc.voiceassistant.view.OnePiexlActivity"
+        image="nokia_voice_assistant"/>
+
+    <AppIcon
+        name="com.smartisanos.smartfolder.aoa/com.smartisanos.smartfolder.aoa.MainActivity"
+        image="handshaker"/>
+
+    <AppIcon
+        name="com.teammt.gmanrainy.themestore/com.teammt.gmanrainy.emuithemestore.activity.MainActivity"
+        image="theme_alt"/>
+
+    <AppIcon
+        name="com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.FindMyPhoneActivity"
+        image="huawei_find_my_phone"/>
+
+    <AppIcon
+        name="com.huawei.mw/com.huawei.mw.plugin.guide.activity.IntroduceActivity"
+        image="huawei_mw"/>
+
+    <AppIcon
+        name="com.deishelon.lab.huaweithememanager/com.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+        image="huawei_theme_manager"/>
+
+    <AppIcon
+        name="ru.deishelon.lab.huaweithememanager/ru.deishelon.lab.huaweithememanager.ui.activities.ThemesActivity"
+        image="huawei_theme_manager"/>
+
+    <AppIcon
+        name="com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity"
+        image="theme"/>
+
+    <AppIcon
+        name="com.nearme.note/com.nearme.note.view.AllNoteActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher"
+        image="theme"/>
+
+    <AppIcon
+        name="com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
+        image="notes"/>
 
 </Theme>

@@ -46,14 +46,33 @@
         <item>mi</item>
         <item>meizu</item>
         <item>oneplus</item>
+        <item>huawei</item>
         <item>samsung</item>
         <item>smartisan</item>
+        <item>nokia</item>
     </string-array>
 
     <string-array name="newest">
+        <item>handshaker</item>
+        <item>theme</item>
+        <item>theme_alt</item>
+        <item>huawei_mw</item>
+        <item>huawei_theme_manager</item>
+        <item>light</item>
+        <item>huawei_assistant</item>
+        <item>huawei_health</item>
+        <item>huawei_service</item>
+        <item>huawei_remote_assistant</item>
+        <item>huawei_trustspace</item>
+        <item>huawei_voice_assistant</item>
+        <item>huawei_notes</item>
+        <item>nokia_voice_assistant</item>
+        <item>huawei_find_my_phone</item>
     </string-array>
 
     <string-array name="upgrade">
+        <item>wechat</item>
+        <item>tim</item>
     </string-array>
 
     <string-array name="application">
@@ -113,6 +132,7 @@
         <item>via</item>
         <item>videoshow</item>
         <item>wechat</item>
+        <item>wechat_alt</item>
         <item>weibo</item>
         <item>weread</item>
         <item>wooden_letter</item>
@@ -540,6 +560,8 @@
         <item>chinabus_lieche</item>
         <item>chinabus_metor</item>
         <item>audiofx</item>
+        <item>huawei_mw</item>
+        <item>huawei_theme_manager</item>
     </string-array>
 
     <string-array name="game">
@@ -615,14 +637,16 @@
         <item>help</item>
         <item>help_alt</item>
         <item>list</item>
+        <item>notes</item>
+        <item>wallet</item>
+        <item>theme</item>
+        <item>theme_alt</item>
+        <item>light</item>
     </string-array>
 
     <string-array name="meizu">
-        <item>meizu_note</item>
         <item>meizu_pedometer</item>
-        <item>meizu_customizecenter</item>
         <item>meizu_toolbox</item>
-        <item>meizu_wallet</item>
         <item>meizu_compaign</item>
         <item>meizu_ebook</item>
         <item>gamecenter</item>
@@ -645,8 +669,6 @@
 
     <string-array name="mi">
         <item>miui_calculator</item>
-        <item>miui_notes</item>
-        <item>miui_theme_manager</item>
         <item>miui_virtual_sim</item>
         <item>miui_voice_assistant</item>
         <item>mipay</item>
@@ -654,10 +676,26 @@
 
     <string-array name="smartisan">
         <item>smartisan_notes</item>
+        <item>handshaker</item>
     </string-array>
 
     <string-array name="samsung">
         <item>samsung_shealth</item>
+    </string-array>
+
+    <string-array name="huawei">
+        <item>huawei_assistant</item>
+        <item>huawei_health</item>
+        <item>huawei_service</item>
+        <item>huawei_remote_assistant</item>
+        <item>huawei_trustspace</item>
+        <item>huawei_voice_assistant</item>
+        <item>huawei_notes</item>
+        <item>huawei_find_my_phone</item>
+    </string-array>
+
+    <string-array name="nokia">
+        <item>nokia_voice_assistant</item>
     </string-array>
 
 </resources>
