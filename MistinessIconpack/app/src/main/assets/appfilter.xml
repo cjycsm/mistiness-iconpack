@@ -2855,4 +2855,92 @@
         component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}"
         drawable="notes"/>
 
+    <item
+        component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activitys.ActivityMain}"
+        drawable="vtools"/>
+
+    <item
+        component="ComponentInfo{com.coloros.bbs/com.coloros.bbs.modules.main.WelcomeActivity}"
+        drawable="coloros_bbs"/>
+
+    <item
+        component="ComponentInfo{com.coloros.yoli/com.coloros.yoli.maintab.ui.SplashActivity}"
+        drawable="coloros_yoli"/>
+
+    <item
+        component="ComponentInfo{com.oppo.usercenter/com.oppo.usercenter.vip.UCVIPMainActivity}"
+        drawable="oppo_usercenter"/>
+
+    <item
+        component="ComponentInfo{com.redteamobile.roaming/com.redteamobile.roaming.MainActivity}"
+        drawable="oppo_roaming"/>
+
+    <item
+        component="ComponentInfo{com.oppo.store/com.oppo.store.InitActivity}"
+        drawable="oppo_store"/>
+
+    <item
+        component="ComponentInfo{com.oppo.community/com.oppo.community.InitActivity}"
+        drawable="oppo_community"/>
+
+    <item
+        component="ComponentInfo{com.nearme.play/com.nearme.play.module.others.launcher.LauncherActivity}"
+        drawable="coloros_play"/>
+
+    <item
+        component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity}"
+        drawable="coloros_gamespace"/>
+
+    <item
+        component="ComponentInfo{com.coloros.speechassist/com.coloros.speechassist.homepage.SpeechAssistMainActivity}"
+        drawable="coloros_speechassist"/>
+
+    <item
+        component="ComponentInfo{com.coloros.familyguard/com.coloros.familyguard.FakeActivity}"
+        drawable="coloros_familyguard"/>
+
+    <item
+        component="ComponentInfo{com.coloros.findphone.client/com.nearme.gamecenter.ui.activity.SplashActivity}"
+        drawable="coloros_findphone"/>
+
+    <item
+        component="ComponentInfo{com.oppo.ohome/com.oppo.ohome.LaunchActivity}"
+        drawable="oppo_ohome"/>
+
+    <item
+        component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.MainActivity}"
+        drawable="samsung_max"/>
+
+    <item
+        component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity}"
+        drawable="samsung_securefolder"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity}"
+        drawable="samsung_sidegesturepad"/>
+
+    <item
+        component="ComponentInfo{com.samsung.smartcalli/com.samsung.smartcalli.activity.WelcomeActivity}"
+        drawable="samsung_smartcalli"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.gametuner.thin/com.samsung.android.gametuner.thin.activity.SplashActivity}"
+        drawable="samsung_gametuner"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
+        drawable="samsung_soundassistant"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}"
+        drawable="samsung_spay"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity}"
+        drawable="samsung_oneconnect"/>
+
+    <item
+        component="ComponentInfo{com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup}"
+        drawable="brakefield_painter"/>
+
 </resources>

@@ -48,26 +48,33 @@
         <item>oneplus</item>
         <item>huawei</item>
         <item>samsung</item>
+        <item>OPPO</item>
         <item>smartisan</item>
         <item>nokia</item>
     </string-array>
 
     <string-array name="newest">
-        <item>handshaker</item>
-        <item>theme</item>
-        <item>theme_alt</item>
-        <item>huawei_mw</item>
-        <item>huawei_theme_manager</item>
-        <item>light</item>
-        <item>huawei_assistant</item>
-        <item>huawei_health</item>
-        <item>huawei_service</item>
-        <item>huawei_remote_assistant</item>
-        <item>huawei_trustspace</item>
-        <item>huawei_voice_assistant</item>
-        <item>huawei_notes</item>
-        <item>nokia_voice_assistant</item>
-        <item>huawei_find_my_phone</item>
+        <item>coloros_bbs</item>
+        <item>coloros_yoli</item>
+        <item>oppo_usercenter</item>
+        <item>oppo_roaming</item>
+        <item>oppo_store</item>
+        <item>oppo_community</item>
+        <item>coloros_play</item>
+        <item>coloros_gamespace</item>
+        <item>coloros_speechassist</item>
+        <item>coloros_familyguard</item>
+        <item>coloros_findphone</item>
+        <item>oppo_ohome</item>
+        <item>samsung_max</item>
+        <item>samsung_securefolder</item>
+        <item>samsung_sidegesturepad</item>
+        <item>samsung_smartcalli</item>
+        <item>samsung_gametuner</item>
+        <item>samsung_soundassistant</item>
+        <item>samsung_spay</item>
+        <item>samsung_oneconnect</item>
+        <item>brakefield_painter</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -562,6 +569,7 @@
         <item>audiofx</item>
         <item>huawei_mw</item>
         <item>huawei_theme_manager</item>
+        <item>brakefield_painter</item>
     </string-array>
 
     <string-array name="game">
@@ -681,6 +689,14 @@
 
     <string-array name="samsung">
         <item>samsung_shealth</item>
+        <item>samsung_max</item>
+        <item>samsung_securefolder</item>
+        <item>samsung_sidegesturepad</item>
+        <item>samsung_smartcalli</item>
+        <item>samsung_gametuner</item>
+        <item>samsung_soundassistant</item>
+        <item>samsung_spay</item>
+        <item>samsung_oneconnect</item>
     </string-array>
 
     <string-array name="huawei">
@@ -696,6 +712,21 @@
 
     <string-array name="nokia">
         <item>nokia_voice_assistant</item>
+    </string-array>
+
+    <string-array name="OPPO">
+        <item>coloros_bbs</item>
+        <item>coloros_yoli</item>
+        <item>oppo_usercenter</item>
+        <item>oppo_roaming</item>
+        <item>oppo_store</item>
+        <item>oppo_community</item>
+        <item>coloros_play</item>
+        <item>coloros_gamespace</item>
+        <item>coloros_speechassist</item>
+        <item>coloros_familyguard</item>
+        <item>coloros_findphone</item>
+        <item>oppo_ohome</item>
     </string-array>
 
 </resources>

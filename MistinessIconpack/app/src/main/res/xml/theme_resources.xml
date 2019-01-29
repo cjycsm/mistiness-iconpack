@@ -2859,4 +2859,92 @@
         name="com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity"
         image="notes"/>
 
+    <AppIcon
+        name="com.omarea.vtools/com.omarea.vtools.activitys.ActivityMain"
+        image="vtools"/>
+
+    <AppIcon
+        name="com.coloros.bbs/com.coloros.bbs.modules.main.WelcomeActivity"
+        image="coloros_bbs"/>
+
+    <AppIcon
+        name="com.coloros.yoli/com.coloros.yoli.maintab.ui.SplashActivity"
+        image="coloros_yoli"/>
+
+    <AppIcon
+        name="com.oppo.usercenter/com.oppo.usercenter.vip.UCVIPMainActivity"
+        image="oppo_usercenter"/>
+
+    <AppIcon
+        name="com.redteamobile.roaming/com.redteamobile.roaming.MainActivity"
+        image="oppo_roaming"/>
+
+    <AppIcon
+        name="com.oppo.store/com.oppo.store.InitActivity"
+        image="oppo_store"/>
+
+    <AppIcon
+        name="com.oppo.community/com.oppo.community.InitActivity"
+        image="oppo_community"/>
+
+    <AppIcon
+        name="com.nearme.play/com.nearme.play.module.others.launcher.LauncherActivity"
+        image="coloros_play"/>
+
+    <AppIcon
+        name="com.coloros.gamespace/com.coloros.gamespace.activity.MainActivity"
+        image="coloros_gamespace"/>
+
+    <AppIcon
+        name="com.coloros.speechassist/com.coloros.speechassist.homepage.SpeechAssistMainActivity"
+        image="coloros_speechassist"/>
+
+    <AppIcon
+        name="com.coloros.familyguard/com.coloros.familyguard.FakeActivity"
+        image="coloros_familyguard"/>
+
+    <AppIcon
+        name="com.coloros.findphone.client/com.nearme.gamecenter.ui.activity.SplashActivity"
+        image="coloros_findphone"/>
+
+    <AppIcon
+        name="com.oppo.ohome/com.oppo.ohome.LaunchActivity"
+        image="oppo_ohome"/>
+
+    <AppIcon
+        name="com.opera.max.global/com.opera.max.ui.v2.MainActivity"
+        image="samsung_max"/>
+
+    <AppIcon
+        name="com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity"
+        image="samsung_securefolder"/>
+
+    <AppIcon
+        name="com.samsung.android.sidegesturepad/com.samsung.android.sidegesturepad.settings.SGPSettingsActivity"
+        image="samsung_sidegesturepad"/>
+
+    <AppIcon
+        name="com.samsung.smartcalli/com.samsung.smartcalli.activity.WelcomeActivity"
+        image="samsung_smartcalli"/>
+
+    <AppIcon
+        name="com.samsung.android.gametuner.thin/com.samsung.android.gametuner.thin.activity.SplashActivity"
+        image="samsung_gametuner"/>
+
+    <AppIcon
+        name="com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity"
+        image="samsung_soundassistant"/>
+
+    <AppIcon
+        name="com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity"
+        image="samsung_spay"/>
+
+    <AppIcon
+        name="com.samsung.android.oneconnect/com.samsung.android.oneconnect.ui.SCMainActivity"
+        image="samsung_oneconnect"/>
+
+    <AppIcon
+        name="com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup"
+        image="brakefield_painter"/>
+
 </Theme>

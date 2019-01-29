@@ -2853,4 +2853,92 @@
         class="com.samsung.android.app.notes.memolist.MemoListActivity"
         name="notes"/>
 
+    <item
+        class="com.omarea.vtools.activitys.ActivityMain"
+        name="vtools"/>
+
+    <item
+        class="com.coloros.bbs.modules.main.WelcomeActivity"
+        name="coloros_bbs"/>
+
+    <item
+        class="com.coloros.yoli.maintab.ui.SplashActivity"
+        name="coloros_yoli"/>
+
+    <item
+        class="com.oppo.usercenter.vip.UCVIPMainActivity"
+        name="oppo_usercenter"/>
+
+    <item
+        class="com.redteamobile.roaming.MainActivity"
+        name="oppo_roaming"/>
+
+    <item
+        class="com.oppo.store.InitActivity"
+        name="oppo_store"/>
+
+    <item
+        class="com.oppo.community.InitActivity"
+        name="oppo_community"/>
+
+    <item
+        class="com.nearme.play.module.others.launcher.LauncherActivity"
+        name="coloros_play"/>
+
+    <item
+        class="com.coloros.gamespace.activity.MainActivity"
+        name="coloros_gamespace"/>
+
+    <item
+        class="com.coloros.speechassist.homepage.SpeechAssistMainActivity"
+        name="coloros_speechassist"/>
+
+    <item
+        class="com.coloros.familyguard.FakeActivity"
+        name="coloros_familyguard"/>
+
+    <item
+        class="com.nearme.gamecenter.ui.activity.SplashActivity"
+        name="coloros_findphone"/>
+
+    <item
+        class="com.oppo.ohome.LaunchActivity"
+        name="oppo_ohome"/>
+
+    <item
+        class="com.opera.max.ui.v2.MainActivity"
+        name="samsung_max"/>
+
+    <item
+        class="com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity"
+        name="samsung_securefolder"/>
+
+    <item
+        class="com.samsung.android.sidegesturepad.settings.SGPSettingsActivity"
+        name="samsung_sidegesturepad"/>
+
+    <item
+        class="com.samsung.smartcalli.activity.WelcomeActivity"
+        name="samsung_smartcalli"/>
+
+    <item
+        class="com.samsung.android.gametuner.thin.activity.SplashActivity"
+        name="samsung_gametuner"/>
+
+    <item
+        class="com.sec.android.soundassistant.activities.MainActivity"
+        name="samsung_soundassistant"/>
+
+    <item
+        class="com.samsung.android.spay.ui.SpayMainActivity"
+        name="samsung_spay"/>
+
+    <item
+        class="com.samsung.android.oneconnect.ui.SCMainActivity"
+        name="samsung_oneconnect"/>
+
+    <item
+        class="com.brakefield.painter.activities.ActivityStartup"
+        name="brakefield_painter"/>
+
 </appmap>

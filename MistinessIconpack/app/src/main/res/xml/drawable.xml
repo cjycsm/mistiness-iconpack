@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>42</version>
+    <version>43</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -71,6 +71,7 @@
     <item drawable="blued"/>
     <item drawable="boc"/>
     <item drawable="booking"/>
+    <item drawable="brakefield_painter"/>
     <item drawable="brevent"/>
     <item drawable="browser"/>
     <item drawable="browser_alt"/>
@@ -114,6 +115,13 @@
     <item drawable="cms"/>
     <item drawable="cntv"/>
     <item drawable="codoon"/>
+    <item drawable="coloros_bbs"/>
+    <item drawable="coloros_familyguard"/>
+    <item drawable="coloros_findphone"/>
+    <item drawable="coloros_gamespace"/>
+    <item drawable="coloros_play"/>
+    <item drawable="coloros_speechassist"/>
+    <item drawable="coloros_yoli"/>
     <item drawable="comiclover"/>
     <item drawable="comics_island"/>
     <item drawable="compass"/>
@@ -384,6 +392,11 @@
     <item drawable="oneplus_note"/>
     <item drawable="onmyoji"/>
     <item drawable="opera"/>
+    <item drawable="oppo_community"/>
+    <item drawable="oppo_ohome"/>
+    <item drawable="oppo_roaming"/>
+    <item drawable="oppo_store"/>
+    <item drawable="oppo_usercenter"/>
     <item drawable="panda"/>
     <item drawable="panda_alt"/>
     <item drawable="paper"/>
@@ -444,7 +457,15 @@
     <item drawable="retor_music"/>
     <item drawable="root_explore"/>
     <item drawable="safe"/>
+    <item drawable="samsung_gametuner"/>
+    <item drawable="samsung_max"/>
+    <item drawable="samsung_oneconnect"/>
+    <item drawable="samsung_securefolder"/>
     <item drawable="samsung_shealth"/>
+    <item drawable="samsung_sidegesturepad"/>
+    <item drawable="samsung_smartcalli"/>
+    <item drawable="samsung_soundassistant"/>
+    <item drawable="samsung_spay"/>
     <item drawable="sdclear"/>
     <item drawable="sdm"/>
     <item drawable="search"/>
