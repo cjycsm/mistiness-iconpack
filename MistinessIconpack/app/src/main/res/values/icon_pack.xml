@@ -54,32 +54,29 @@
     </string-array>
 
     <string-array name="newest">
-        <item>coloros_bbs</item>
-        <item>coloros_yoli</item>
-        <item>oppo_usercenter</item>
-        <item>oppo_roaming</item>
-        <item>oppo_store</item>
-        <item>oppo_community</item>
-        <item>coloros_play</item>
-        <item>coloros_gamespace</item>
-        <item>coloros_speechassist</item>
-        <item>coloros_familyguard</item>
-        <item>coloros_findphone</item>
-        <item>oppo_ohome</item>
-        <item>samsung_max</item>
-        <item>samsung_securefolder</item>
-        <item>samsung_sidegesturepad</item>
-        <item>samsung_smartcalli</item>
-        <item>samsung_gametuner</item>
-        <item>samsung_soundassistant</item>
-        <item>samsung_spay</item>
-        <item>samsung_oneconnect</item>
-        <item>brakefield_painter</item>
+        <item>magisk</item>
+        <item>magisk_alt</item>
+        <item>gifpaser</item>
+        <item>photo_editor</item>
+        <item>imagestitch</item>
+        <item>cmcc_music</item>
+        <item>busteanew</item>
+        <item>pconline</item>
+        <item>poco_interphoto2</item>
+        <item>lightroom</item>
+        <item>lightroom_alt</item>
+        <item>adsk_sketchbook</item>
+        <item>xuexi</item>
+        <item>alibaba</item>
+        <item>taobao_trip</item>
+        <item>amp</item>
+        <item>google_music</item>
+        <item>apkpure</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>wechat</item>
-        <item>tim</item>
+        <item>youtube</item>
+        <item>camera</item>
     </string-array>
 
     <string-array name="application">
@@ -570,6 +567,22 @@
         <item>huawei_mw</item>
         <item>huawei_theme_manager</item>
         <item>brakefield_painter</item>
+        <item>magisk</item>
+        <item>gifpaser</item>
+        <item>photo_editor</item>
+        <item>imagestitch</item>
+        <item>cmcc_music</item>
+        <item>busteanew</item>
+        <item>pconline</item>
+        <item>poco_interphoto2</item>
+        <item>lightroom</item>
+        <item>adsk_sketchbook</item>
+        <item>xuexi</item>
+        <item>alibaba</item>
+        <item>taobao_trip</item>
+        <item>amp</item>
+        <item>google_music</item>
+        <item>apkpure</item>
     </string-array>
 
     <string-array name="game">
@@ -614,6 +627,7 @@
         <item>weather</item>
         <item>downloads</item>
         <item>camera</item>
+        <item>camera_alt</item>
         <item>calendar</item>
         <item>mms</item>
         <item>music</item>

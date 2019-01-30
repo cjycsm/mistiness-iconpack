@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>43</version>
+    <version>44</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -27,17 +27,21 @@
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
     <item drawable="adobe_reader"/>
+    <item drawable="adsk_sketchbook"/>
     <item drawable="agoda"/>
     <item drawable="airbnb"/>
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
+    <item drawable="alibaba"/>
     <item drawable="alipay"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
     <item drawable="amazon"/>
+    <item drawable="amp"/>
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
+    <item drawable="apkpure"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
@@ -77,6 +81,7 @@
     <item drawable="browser_alt"/>
     <item drawable="buka"/>
     <item drawable="bullet_messenger"/>
+    <item drawable="busteanew"/>
     <item drawable="busybox"/>
     <item drawable="byfen"/>
     <item drawable="cainiao"/>
@@ -86,6 +91,7 @@
     <item drawable="cam_card"/>
     <item drawable="cam_scanner"/>
     <item drawable="camera"/>
+    <item drawable="camera_alt"/>
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
     <item drawable="caocao"/>
@@ -112,6 +118,7 @@
     <item drawable="cloudmusic"/>
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
+    <item drawable="cmcc_music"/>
     <item drawable="cms"/>
     <item drawable="cntv"/>
     <item drawable="codoon"/>
@@ -204,6 +211,7 @@
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="geometric_weather"/>
+    <item drawable="gifpaser"/>
     <item drawable="glass"/>
     <item drawable="gold"/>
     <item drawable="google"/>
@@ -212,6 +220,7 @@
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
     <item drawable="google_maps"/>
+    <item drawable="google_music"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
@@ -260,6 +269,7 @@
     <item drawable="if_sunshine"/>
     <item drawable="ifly_ime"/>
     <item drawable="ifont"/>
+    <item drawable="imagestitch"/>
     <item drawable="imusic"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
@@ -300,6 +310,8 @@
     <item drawable="life_is_strange"/>
     <item drawable="light"/>
     <item drawable="light_beauty"/>
+    <item drawable="lightroom"/>
+    <item drawable="lightroom_alt"/>
     <item drawable="linkedin"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
@@ -310,6 +322,8 @@
     <item drawable="lucky_patcher"/>
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
+    <item drawable="magisk"/>
+    <item drawable="magisk_alt"/>
     <item drawable="maimai"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
@@ -401,8 +415,11 @@
     <item drawable="panda_alt"/>
     <item drawable="paper"/>
     <item drawable="pcamera"/>
+    <item drawable="pconline"/>
+    <item drawable="photo_editor"/>
     <item drawable="pic_folder"/>
     <item drawable="pinduoduo"/>
+    <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="pomotodo"/>
     <item drawable="power_clean"/>
@@ -512,6 +529,7 @@
     <item drawable="tantan"/>
     <item drawable="taobao"/>
     <item drawable="taobao_movie"/>
+    <item drawable="taobao_trip"/>
     <item drawable="taptap"/>
     <item drawable="taqu"/>
     <item drawable="tasker"/>
@@ -610,6 +628,7 @@
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
     <item drawable="xueqiu"/>
+    <item drawable="xuexi"/>
     <item drawable="xunlei"/>
     <item drawable="yahoo_weather"/>
     <item drawable="yandong"/>

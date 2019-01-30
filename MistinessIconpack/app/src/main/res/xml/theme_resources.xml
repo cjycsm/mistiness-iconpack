@@ -2588,6 +2588,10 @@
         image="safe"/>
 
     <AppIcon
+        name="com.android.stk/com.android.stk.StkLauncherActivity"
+        image="stk"/>
+
+    <AppIcon
         name="com.android.stk/com.android.stk.StkLauncherActivity2"
         image="stk"/>
 
@@ -2946,5 +2950,145 @@
     <AppIcon
         name="com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup"
         image="brakefield_painter"/>
+
+    <AppIcon
+        name="com.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.uzero.baimiaog/com.uzero.baimiao.Hello"
+        image="baimiao"/>
+
+    <AppIcon
+        name="com.evenwell.systemdashboard.mobileassistant/com.evenwell.systemdashboard.MainActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.evenwell.weather/com.nbc.willcloud.athenasdk.views.LoadingActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="tv.danmaku.bili/tv.danmaku.bili.MainActivityV2"
+        image="bilibili"/>
+
+    <AppIcon
+        name="com.kingsoft.moffice_pro/cn.wps.moffice.documentmanager.PreStartActivity"
+        image="wps"/>
+
+    <AppIcon
+        name="com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary"
+        image="calendar"/>
+
+    <AppIcon
+        name="org.mokee.snap/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList"
+        image="mx"/>
+
+    <AppIcon
+        name="org.mokee.recorder/org.lineageos.recorder.RecorderActivity"
+        image="recorder"/>
+
+    <AppIcon
+        name="mark.via.gp/mark.via.ui.activity.BrowserActivity"
+        image="via"/>
+
+    <AppIcon
+        name="com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.htcmarket/com.tencent.assistant.activity.SplashActivity"
+        image="appstore"/>
+
+    <AppIcon
+        name="com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.baidu.cloud/com.baidu.netdisk.ui.Navigate"
+        image="baidu_netdisk"/>
+
+    <AppIcon
+        name="com.netease.mobimail.oneplus/com.netease.mobimail.activity.LaunchActivity"
+        image="email"/>
+
+    <AppIcon
+        name="com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity"
+        image="tencent_qqlive"/>
+
+    <AppIcon
+        name="org.adaway/org.adaway.ui.MainActivity"
+        image="adaway"/>
+
+    <AppIcon
+        name="com.topjohnwu.magisk/a.c"
+        image="magisk"/>
+
+    <AppIcon
+        name="com.didikee.gifparser/android.didikee.gif.SplashActivity"
+        image="gifpaser"/>
+
+    <AppIcon
+        name="com.iudesk.android.photo.editor/app.activity.MainActivity"
+        image="photo_editor"/>
+
+    <AppIcon
+        name="bos.consoar.imagestitch/bos.consoar.imagestitch.ui.MainActivity"
+        image="imagestitch"/>
+
+    <AppIcon
+        name="cmccwm.mobilemusic/cmccwm.mobilemusic.ui.base.SplashActivity"
+        image="cmcc_music"/>
+
+    <AppIcon
+        name="cn.com.busteanew/cn.com.busteanew.activity.Splash"
+        image="busteanew"/>
+
+    <AppIcon
+        name="cn.com.pconline.android.browser/cn.com.pconline.android.browser.module.launcher.LauncherActivity"
+        image="pconline"/>
+
+    <AppIcon
+        name="cn.poco.interphoto2/cn.poco.interphoto2.PocoCamera"
+        image="poco_interphoto2"/>
+
+    <AppIcon
+        name="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity"
+        image="lightroom"/>
+
+    <AppIcon
+        name="com.adsk.sketchbook/com.adsk.sketchbook.SketchBook"
+        image="adsk_sketchbook"/>
+
+    <AppIcon
+        name="cn.xuexi.android/com.alibaba.android.rimet.biz.SplashActivity"
+        image="xuexi"/>
+
+    <AppIcon
+        name="com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity"
+        image="alibaba"/>
+
+    <AppIcon
+        name="com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity"
+        image="taobao_trip"/>
+
+    <AppIcon
+        name="com.amp.android/com.amp.android.ui.activity.LaunchActivity"
+        image="amp"/>
+
+    <AppIcon
+        name="com.google.android.music/com.android.music.activitymanagement.TopLevelActivity"
+        image="google_music"/>
+
+    <AppIcon
+        name="com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity"
+        image="apkpure"/>
 
 </Theme>

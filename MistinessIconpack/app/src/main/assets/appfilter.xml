@@ -2584,6 +2584,10 @@
         drawable="safe"/>
 
     <item
+        component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
+        drawable="stk"/>
+
+    <item
         component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity2}"
         drawable="stk"/>
 
@@ -2942,5 +2946,145 @@
     <item
         component="ComponentInfo{com.brakefield.painter/com.brakefield.painter.activities.ActivityStartup}"
         drawable="brakefield_painter"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.fmradio/com.evenwell.fmradio.FMRadioActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.uzero.baimiaog/com.uzero.baimiao.Hello}"
+        drawable="baimiao"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.systemdashboard.mobileassistant/com.evenwell.systemdashboard.MainActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.weather/com.nbc.willcloud.athenasdk.views.LoadingActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}"
+        drawable="bilibili"/>
+
+    <item
+        component="ComponentInfo{com.kingsoft.moffice_pro/cn.wps.moffice.documentmanager.PreStartActivity}"
+        drawable="wps"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.android.calendar/com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{org.mokee.snap/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}"
+        drawable="mx"/>
+
+    <item
+        component="ComponentInfo{org.mokee.recorder/org.lineageos.recorder.RecorderActivity}"
+        drawable="recorder"/>
+
+    <item
+        component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}"
+        drawable="via"/>
+
+    <item
+        component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.htcmarket/com.tencent.assistant.activity.SplashActivity}"
+        drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.baidu.cloud/com.baidu.netdisk.ui.Navigate}"
+        drawable="baidu_netdisk"/>
+
+    <item
+        component="ComponentInfo{com.netease.mobimail.oneplus/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
+        drawable="tencent_qqlive"/>
+
+    <item
+        component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}"
+        drawable="adaway"/>
+
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/a.c}"
+        drawable="magisk"/>
+
+    <item
+        component="ComponentInfo{com.didikee.gifparser/android.didikee.gif.SplashActivity}"
+        drawable="gifpaser"/>
+
+    <item
+        component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}"
+        drawable="photo_editor"/>
+
+    <item
+        component="ComponentInfo{bos.consoar.imagestitch/bos.consoar.imagestitch.ui.MainActivity}"
+        drawable="imagestitch"/>
+
+    <item
+        component="ComponentInfo{cmccwm.mobilemusic/cmccwm.mobilemusic.ui.base.SplashActivity}"
+        drawable="cmcc_music"/>
+
+    <item
+        component="ComponentInfo{cn.com.busteanew/cn.com.busteanew.activity.Splash}"
+        drawable="busteanew"/>
+
+    <item
+        component="ComponentInfo{cn.com.pconline.android.browser/cn.com.pconline.android.browser.module.launcher.LauncherActivity}"
+        drawable="pconline"/>
+
+    <item
+        component="ComponentInfo{cn.poco.interphoto2/cn.poco.interphoto2.PocoCamera}"
+        drawable="poco_interphoto2"/>
+
+    <item
+        component="ComponentInfo{com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity}"
+        drawable="lightroom"/>
+
+    <item
+        component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}"
+        drawable="adsk_sketchbook"/>
+
+    <item
+        component="ComponentInfo{cn.xuexi.android/com.alibaba.android.rimet.biz.SplashActivity}"
+        drawable="xuexi"/>
+
+    <item
+        component="ComponentInfo{com.alibaba.wireless/com.alibaba.wireless.launch.LauncherActivity}"
+        drawable="alibaba"/>
+
+    <item
+        component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="taobao_trip"/>
+
+    <item
+        component="ComponentInfo{com.amp.android/com.amp.android.ui.activity.LaunchActivity}"
+        drawable="amp"/>
+
+    <item
+        component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}"
+        drawable="google_music"/>
+
+    <item
+        component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity}"
+        drawable="apkpure"/>
 
 </resources>

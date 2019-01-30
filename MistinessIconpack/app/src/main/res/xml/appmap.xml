@@ -2582,6 +2582,10 @@
         name="safe"/>
 
     <item
+        class="com.android.stk.StkLauncherActivity"
+        name="stk"/>
+
+    <item
         class="com.android.stk.StkLauncherActivity2"
         name="stk"/>
 
@@ -2940,5 +2944,145 @@
     <item
         class="com.brakefield.painter.activities.ActivityStartup"
         name="brakefield_painter"/>
+
+    <item
+        class="com.evenwell.fmradio.FMRadioActivity"
+        name="radio"/>
+
+    <item
+        class="com.uzero.baimiao.Hello"
+        name="baimiao"/>
+
+    <item
+        class="com.evenwell.systemdashboard.MainActivity"
+        name="safe"/>
+
+    <item
+        class="com.nbc.willcloud.athenasdk.views.LoadingActivity"
+        name="weather"/>
+
+    <item
+        class="tv.danmaku.bili.MainActivityV2"
+        name="bilibili"/>
+
+    <item
+        class="cn.wps.moffice.documentmanager.PreStartActivity"
+        name="wps"/>
+
+    <item
+        class="com.huawei.android.FMRadio.FMRadioMainActivity"
+        name="radio"/>
+
+    <item
+        class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Primary"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.mxtech.videoplayer.ad.ActivityMediaList"
+        name="mx"/>
+
+    <item
+        class="org.lineageos.recorder.RecorderActivity"
+        name="recorder"/>
+
+    <item
+        class="mark.via.ui.activity.BrowserActivity"
+        name="via"/>
+
+    <item
+        class="com.android.fileexplorer.FileExplorerTabActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.tencent.assistant.activity.SplashActivity"
+        name="appstore"/>
+
+    <item
+        class="com.htc.contacts.BrowseLayerCarouselActivity"
+        name="contacts"/>
+
+    <item
+        class="com.baidu.netdisk.ui.Navigate"
+        name="baidu_netdisk"/>
+
+    <item
+        class="com.netease.mobimail.activity.LaunchActivity"
+        name="email"/>
+
+    <item
+        class="com.tencent.qqlive.ona.activity.SplashHomeActivity"
+        name="tencent_qqlive"/>
+
+    <item
+        class="org.adaway.ui.MainActivity"
+        name="adaway"/>
+
+    <item
+        class="a.c"
+        name="magisk"/>
+
+    <item
+        class="android.didikee.gif.SplashActivity"
+        name="gifpaser"/>
+
+    <item
+        class="app.activity.MainActivity"
+        name="photo_editor"/>
+
+    <item
+        class="bos.consoar.imagestitch.ui.MainActivity"
+        name="imagestitch"/>
+
+    <item
+        class="cmccwm.mobilemusic.ui.base.SplashActivity"
+        name="cmcc_music"/>
+
+    <item
+        class="cn.com.busteanew.activity.Splash"
+        name="busteanew"/>
+
+    <item
+        class="cn.com.pconline.android.browser.module.launcher.LauncherActivity"
+        name="pconline"/>
+
+    <item
+        class="cn.poco.interphoto2.PocoCamera"
+        name="poco_interphoto2"/>
+
+    <item
+        class="com.adobe.lrmobile.StorageCheckActivity"
+        name="lightroom"/>
+
+    <item
+        class="com.adsk.sketchbook.SketchBook"
+        name="adsk_sketchbook"/>
+
+    <item
+        class="com.alibaba.android.rimet.biz.SplashActivity"
+        name="xuexi"/>
+
+    <item
+        class="com.alibaba.wireless.launch.LauncherActivity"
+        name="alibaba"/>
+
+    <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="taobao_trip"/>
+
+    <item
+        class="com.amp.android.ui.activity.LaunchActivity"
+        name="amp"/>
+
+    <item
+        class="com.android.music.activitymanagement.TopLevelActivity"
+        name="google_music"/>
+
+    <item
+        class="com.apkpure.aegon.activities.SplashActivity"
+        name="apkpure"/>
 
 </appmap>
