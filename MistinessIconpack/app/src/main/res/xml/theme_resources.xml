@@ -3091,4 +3091,108 @@
         name="com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity"
         image="apkpure"/>
 
+    <AppIcon
+        name="com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="tv.danmaku.bilj/tv.danmaku.bili.ui.splash.SplashActivity"
+        image="bilibili"/>
+
+    <AppIcon
+        name="com.hicloud.android.clone/com.huawei.android.clone.activity.sender.ChooseRecevieSendActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.android.soundrecorder/com.android.soundrecorder.RecordListActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity"
+        image="tencent_translator"/>
+
+    <AppIcon
+        name="com.mokee.audiofx/com.mokee.audiofx.activity.ActivityMusic"
+        image="audiofx"/>
+
+    <AppIcon
+        name="com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Cyan"
+        image="calendar"/>
+
+    <AppIcon
+        name="org.cyanogenmod.snap/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Cyan"
+        image="gallery"/>
+
+    <AppIcon
+        name="mark.via.gp/mark.via.ui.activity.BrowserActivity"
+        image="via"/>
+
+    <AppIcon
+        name="com.ushaqi.zhuishushenqa/com.ushaqi.zhuishushenqi.ui.SplashActivity"
+        image="zhuishushenqi"/>
+
+    <AppIcon
+        name="com.apkupdater/com.apkupdater.activity.MainActivity_"
+        image="apkupdater"/>
+
+    <AppIcon
+        name="com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity"
+        image="apple_music"/>
+
+    <AppIcon
+        name="com.azure.authenticator/com.azure.authenticator.ui.MainActivity"
+        image="microsoft_authenticator"/>
+
+    <AppIcon
+        name="com.baseapp.eyeem/com.baseapp.eyeem.Start"
+        image="eyeem"/>
+
+    <AppIcon
+        name="com.bitstrips.imoji/com.bitstrips.imoji.ui.LandingActivity"
+        image="imoji"/>
+
+    <AppIcon
+        name="com.blink.academy.onetake/com.blink.academy.onetake.ui.activity.main.EmptySplashActivity"
+        image="onetake"/>
+
+    <AppIcon
+        name="com.blogspot.aeioulabs.barcode/com.blogspot.aeioulabs.barcode.ui.list.CodeListActivity_"
+        image="barcode"/>
+
+    <AppIcon
+        name="com.bridge.iconpack.concision/com.bridge.iconpack.concision.activities.SplashActivity"
+        image="bridge_iconpack"/>
+
+    <AppIcon
+        name="com.brixd.niceapp/com.brixd.niceapp.activity.SplashActivity"
+        image="niceapp"/>
+
+    <AppIcon
+        name="com.markusslugia.iconpack.aeroblast/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="aeroblast_iconpack"/>
+
+    <AppIcon
+        name="com.bar.iconpack/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="bar_iconpack"/>
+
+    <AppIcon
+        name="com.ltopro.circlemi/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="circlemi_iconpack"/>
+
+    <AppIcon
+        name="com.crazypig321.lineicons2/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="lineicons2_iconpack"/>
+
+    <AppIcon
+        name="com.caiyuninterpreter.activity/com.caiyuninterpreter.activity.activity.SplashActivity"
+        image="caiyun_interpreter"/>
+
+    <AppIcon
+        name="com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity"
+        image="cwallpaper"/>
+
 </Theme>

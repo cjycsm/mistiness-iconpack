@@ -54,29 +54,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>magisk</item>
-        <item>magisk_alt</item>
-        <item>gifpaser</item>
-        <item>photo_editor</item>
-        <item>imagestitch</item>
-        <item>cmcc_music</item>
-        <item>busteanew</item>
-        <item>pconline</item>
-        <item>poco_interphoto2</item>
-        <item>lightroom</item>
-        <item>lightroom_alt</item>
-        <item>adsk_sketchbook</item>
-        <item>xuexi</item>
-        <item>alibaba</item>
-        <item>taobao_trip</item>
-        <item>amp</item>
-        <item>google_music</item>
-        <item>apkpure</item>
+        <item>apkupdater</item>
+        <item>apple_music</item>
+        <item>microsoft_authenticator</item>
+        <item>eyeem</item>
+        <item>imoji</item>
+        <item>imoji_alt</item>
+        <item>onetake</item>
+        <item>onetake_alt</item>
+        <item>barcode</item>
+        <item>barcode_alt</item>
+        <item>bridge_iconpack</item>
+        <item>niceapp</item>
+        <item>aeroblast_iconpack</item>
+        <item>bar_iconpack</item>
+        <item>circlemi_iconpack</item>
+        <item>lineicons2_iconpack</item>
+        <item>caiyun_interpreter</item>
+        <item>cwallpaper</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>youtube</item>
-        <item>camera</item>
+
     </string-array>
 
     <string-array name="application">
@@ -583,6 +582,24 @@
         <item>amp</item>
         <item>google_music</item>
         <item>apkpure</item>
+        <item>apkupdater</item>
+        <item>apple_music</item>
+        <item>microsoft_authenticator</item>
+        <item>eyeem</item>
+        <item>imoji</item>
+        <item>imoji_alt</item>
+        <item>onetake</item>
+        <item>onetake_alt</item>
+        <item>barcode</item>
+        <item>barcode_alt</item>
+        <item>bridge_iconpack</item>
+        <item>niceapp</item>
+        <item>aeroblast_iconpack</item>
+        <item>bar_iconpack</item>
+        <item>circlemi_iconpack</item>
+        <item>lineicons2_iconpack</item>
+        <item>caiyun_interpreter</item>
+        <item>cwallpaper</item>
     </string-array>
 
     <string-array name="game">

@@ -3087,4 +3087,108 @@
         component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity}"
         drawable="apkpure"/>
 
+    <item
+        component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{tv.danmaku.bilj/tv.danmaku.bili.ui.splash.SplashActivity}"
+        drawable="bilibili"/>
+
+    <item
+        component="ComponentInfo{com.hicloud.android.clone/com.huawei.android.clone.activity.sender.ChooseRecevieSendActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.RecordListActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.qb.qtranslator/com.qb.qtranslator.qactivity.SplashActivity}"
+        drawable="tencent_translator"/>
+
+    <item
+        component="ComponentInfo{com.mokee.audiofx/com.mokee.audiofx.activity.ActivityMusic}"
+        drawable="audiofx"/>
+
+    <item
+        component="ComponentInfo{com.simplemobiletools.calendar.pro/com.simplemobiletools.calendar.pro.activities.SplashActivity.Cyan}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Cyan}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}"
+        drawable="via"/>
+
+    <item
+        component="ComponentInfo{com.ushaqi.zhuishushenqa/com.ushaqi.zhuishushenqi.ui.SplashActivity}"
+        drawable="zhuishushenqi"/>
+
+    <item
+        component="ComponentInfo{com.apkupdater/com.apkupdater.activity.MainActivity_}"
+        drawable="apkupdater"/>
+
+    <item
+        component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}"
+        drawable="apple_music"/>
+
+    <item
+        component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}"
+        drawable="microsoft_authenticator"/>
+
+    <item
+        component="ComponentInfo{com.baseapp.eyeem/com.baseapp.eyeem.Start}"
+        drawable="eyeem"/>
+
+    <item
+        component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LandingActivity}"
+        drawable="imoji"/>
+
+    <item
+        component="ComponentInfo{com.blink.academy.onetake/com.blink.academy.onetake.ui.activity.main.EmptySplashActivity}"
+        drawable="onetake"/>
+
+    <item
+        component="ComponentInfo{com.blogspot.aeioulabs.barcode/com.blogspot.aeioulabs.barcode.ui.list.CodeListActivity_}"
+        drawable="barcode"/>
+
+    <item
+        component="ComponentInfo{com.bridge.iconpack.concision/com.bridge.iconpack.concision.activities.SplashActivity}"
+        drawable="bridge_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.brixd.niceapp/com.brixd.niceapp.activity.SplashActivity}"
+        drawable="niceapp"/>
+
+    <item
+        component="ComponentInfo{com.markusslugia.iconpack.aeroblast/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="aeroblast_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.bar.iconpack/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="bar_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.ltopro.circlemi/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="circlemi_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.crazypig321.lineicons2/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="lineicons2_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.caiyuninterpreter.activity/com.caiyuninterpreter.activity.activity.SplashActivity}"
+        drawable="caiyun_interpreter"/>
+
+    <item
+        component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}"
+        drawable="cwallpaper"/>
+
 </resources>

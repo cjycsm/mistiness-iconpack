@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>44</version>
+    <version>45</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -28,6 +28,7 @@
     <item drawable="adm_pro"/>
     <item drawable="adobe_reader"/>
     <item drawable="adsk_sketchbook"/>
+    <item drawable="aeroblast_iconpack"/>
     <item drawable="agoda"/>
     <item drawable="airbnb"/>
     <item drawable="airdroid"/>
@@ -42,6 +43,8 @@
     <item drawable="anjian"/>
     <item drawable="antutu"/>
     <item drawable="apkpure"/>
+    <item drawable="apkupdater"/>
+    <item drawable="apple_music"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
@@ -65,6 +68,9 @@
     <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
+    <item drawable="bar_iconpack"/>
+    <item drawable="barcode"/>
+    <item drawable="barcode_alt"/>
     <item drawable="bh3"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
@@ -77,6 +83,7 @@
     <item drawable="booking"/>
     <item drawable="brakefield_painter"/>
     <item drawable="brevent"/>
+    <item drawable="bridge_iconpack"/>
     <item drawable="browser"/>
     <item drawable="browser_alt"/>
     <item drawable="buka"/>
@@ -85,6 +92,7 @@
     <item drawable="busybox"/>
     <item drawable="byfen"/>
     <item drawable="cainiao"/>
+    <item drawable="caiyun_interpreter"/>
     <item drawable="calculator"/>
     <item drawable="calendar"/>
     <item drawable="calendar_ii"/>
@@ -109,6 +117,7 @@
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="chunyu_doctor"/>
+    <item drawable="circlemi_iconpack"/>
     <item drawable="citic"/>
     <item drawable="cjkcb"/>
     <item drawable="clash_of_clans"/>
@@ -140,6 +149,7 @@
     <item drawable="ctfile"/>
     <item drawable="ctrip"/>
     <item drawable="cuto"/>
+    <item drawable="cwallpaper"/>
     <item drawable="dan_the_man"/>
     <item drawable="dangdang"/>
     <item drawable="day_day_cook"/>
@@ -185,6 +195,7 @@
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_vpn"/>
+    <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
@@ -270,6 +281,8 @@
     <item drawable="ifly_ime"/>
     <item drawable="ifont"/>
     <item drawable="imagestitch"/>
+    <item drawable="imoji"/>
+    <item drawable="imoji_alt"/>
     <item drawable="imusic"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
@@ -312,6 +325,7 @@
     <item drawable="light_beauty"/>
     <item drawable="lightroom"/>
     <item drawable="lightroom_alt"/>
+    <item drawable="lineicons2_iconpack"/>
     <item drawable="linkedin"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
@@ -347,6 +361,7 @@
     <item drawable="meizu_voiceassistant"/>
     <item drawable="memento"/>
     <item drawable="mfw"/>
+    <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_excel"/>
     <item drawable="microsoft_launcher"/>
@@ -391,6 +406,7 @@
     <item drawable="netease_ucmooc"/>
     <item drawable="netease_yanxuan"/>
     <item drawable="nga"/>
+    <item drawable="niceapp"/>
     <item drawable="ninegame"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
@@ -404,6 +420,8 @@
     <item drawable="oneplus_bbs"/>
     <item drawable="oneplus_card"/>
     <item drawable="oneplus_note"/>
+    <item drawable="onetake"/>
+    <item drawable="onetake_alt"/>
     <item drawable="onmyoji"/>
     <item drawable="opera"/>
     <item drawable="oppo_community"/>

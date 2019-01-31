@@ -3085,4 +3085,108 @@
         class="com.apkpure.aegon.activities.SplashActivity"
         name="apkpure"/>
 
+    <item
+        class="com.android.dialer.app.DialtactsActivity"
+        name="dialer"/>
+
+    <item
+        class="tv.danmaku.bili.ui.splash.SplashActivity"
+        name="bilibili"/>
+
+    <item
+        class="com.huawei.android.clone.activity.sender.ChooseRecevieSendActivity"
+        name="backup"/>
+
+    <item
+        class="com.android.soundrecorder.RecordListActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.qb.qtranslator.qactivity.SplashActivity"
+        name="tencent_translator"/>
+
+    <item
+        class="com.mokee.audiofx.activity.ActivityMusic"
+        name="audiofx"/>
+
+    <item
+        class="com.simplemobiletools.calendar.pro.activities.SplashActivity.Cyan"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Cyan"
+        name="gallery"/>
+
+    <item
+        class="mark.via.ui.activity.BrowserActivity"
+        name="via"/>
+
+    <item
+        class="com.ushaqi.zhuishushenqi.ui.SplashActivity"
+        name="zhuishushenqi"/>
+
+    <item
+        class="com.apkupdater.activity.MainActivity_"
+        name="apkupdater"/>
+
+    <item
+        class="com.apple.android.music.onboarding.activities.SplashActivity"
+        name="apple_music"/>
+
+    <item
+        class="com.azure.authenticator.ui.MainActivity"
+        name="microsoft_authenticator"/>
+
+    <item
+        class="com.baseapp.eyeem.Start"
+        name="eyeem"/>
+
+    <item
+        class="com.bitstrips.imoji.ui.LandingActivity"
+        name="imoji"/>
+
+    <item
+        class="com.blink.academy.onetake.ui.activity.main.EmptySplashActivity"
+        name="onetake"/>
+
+    <item
+        class="com.blogspot.aeioulabs.barcode.ui.list.CodeListActivity_"
+        name="barcode"/>
+
+    <item
+        class="com.bridge.iconpack.concision.activities.SplashActivity"
+        name="bridge_iconpack"/>
+
+    <item
+        class="com.brixd.niceapp.activity.SplashActivity"
+        name="niceapp"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="aeroblast_iconpack"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="bar_iconpack"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="circlemi_iconpack"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="lineicons2_iconpack"/>
+
+    <item
+        class="com.caiyuninterpreter.activity.activity.SplashActivity"
+        name="caiyun_interpreter"/>
+
+    <item
+        class="com.chan.cwallpaper.module.launch.LaunchActivity"
+        name="cwallpaper"/>
+
 </appmap>
