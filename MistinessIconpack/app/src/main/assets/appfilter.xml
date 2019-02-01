@@ -1025,7 +1025,7 @@
 
     <item
         component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}"
-        drawable="tiptap"/>
+        drawable="tiktok"/>
 
     <item
         component="ComponentInfo{com.ss.android.article.video/com.ss.android.article.video.activity.SplashActivity}"
@@ -3190,5 +3190,181 @@
     <item
         component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}"
         drawable="cwallpaper"/>
+
+    <item
+        component="ComponentInfo{com.huya.kiwi/com.duowan.kiwi.simpleactivity.SplashActivity}"
+        drawable="huya"/>
+
+    <item
+        component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="tiktok"/>
+
+    <item
+        component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.NewMapActivity}"
+        drawable="gaode_map"/>
+
+    <item
+        component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}"
+        drawable="estrongs"/>
+
+    <item
+        component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.android.platform.oppo.ads.SplashActivity}"
+        drawable="happyelements"/>
+
+    <item
+        component="ComponentInfo{com.iflytek.inputmethod.google/com.iflytek.inputmethod.LauncherActivity}"
+        drawable="ifly_ime"/>
+
+    <item
+        component="ComponentInfo{com.intsig.lic.camscanner/com.intsig.lic.camscanner.CamScannerLicense}"
+        drawable="cam_scanner"/>
+
+    <item
+        component="ComponentInfo{org.autojs.autojs/org.autojs.autojs.ui.splash.SplashActivity_}"
+        drawable="auto_js"/>
+
+    <item
+        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}"
+        drawable="sdm"/>
+
+    <item
+        component="ComponentInfo{yuanqiqishi.game.huawei/com.chillyroomsdk.huaweihms.MainActivity}"
+        drawable="knight"/>
+
+    <item
+        component="ComponentInfo{com.ChillyRoom.DungeonShooter/ccplay.cc.a.InitActivity}"
+        drawable="knight"/>
+
+    <item
+        component="ComponentInfo{com.github.shadowsocksd/com.github.shadowsocks.MainActivity}"
+        drawable="shadowsocks"/>
+
+    <item
+        component="ComponentInfo{com.sankuai.meituan/com.sankuai.meituan.activity.PreloadedWelcome}"
+        drawable="meituan"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.speedmobileEx/com.tencent.tmgp.speedmobileEx.speedmobileEx}"
+        drawable="speedmobile"/>
+
+    <item
+        component="ComponentInfo{com.android.bbkcalculator/com.android.bbkcalculator.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.android.camera/com.android.camera.CameraActivity}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.android.BBKClock/com.android.BBKClock.Timer}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.vivo.browser/com.vivo.browser.BrowserActivity}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.vivo.gallery/com.android.gallery3d.vivo.GalleryTabActivity}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.vivo.compass/com.vivo.compass.CalibrationActivity}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManagerActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraNext/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}"
+        drawable="xuexitong"/>
+
+    <item
+        component="ComponentInfo{com.chinatelecom.bestpayclient/com.chinatelecom.bestpayclient.ui.activity.SplashActivity}"
+        drawable="bestpay"/>
+
+    <item
+        component="ComponentInfo{com.clover.myweather/com.clover.myweather.ui.activity.MainActivity}"
+        drawable="myweather"/>
+
+    <item
+        component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.ui.MainActivity}"
+        drawable="pkg"/>
+
+    <item
+        component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}"
+        drawable="accubattery"/>
+
+    <item
+        component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}"
+        drawable="dongqiudi"/>
+
+    <item
+        component="ComponentInfo{com.enjoymeet.aloapp/com.enjoymeet.live.liveshow.ui.startup.activity.LaunchRouterActivity}"
+        drawable="aloha"/>
+
+    <item
+        component="ComponentInfo{com.everimaging.photoeffectstudio/com.everimaging.fotor.SplashActivity}"
+        drawable="fotor"/>
+
+    <item
+        component="ComponentInfo{com.excean.gspace/com.excelliance.kxqp.ui.HelloActivity}"
+        drawable="gspace"/>
+
+    <item
+        component="ComponentInfo{com.fb.fluid/com.fb.fluid.ActivityMain}"
+        drawable="fluid"/>
+
+    <item
+        component="ComponentInfo{com.fivehundredpx.viewer.main/com.fivehundredpx.viewer.main.RootActivity}"
+        drawable="fivehundredpx"/>
+
+    <item
+        component="ComponentInfo{com.foundao.bjnews/com.foundao.bjnews.SplashActivity}"
+        drawable="bjnews"/>
+
+    <item
+        component="ComponentInfo{com.foundao.bjnews/com.bjnews.cn.Welcome}"
+        drawable="bjnews"/>
+
+    <item
+        component="ComponentInfo{com.gombosdev.ampere/com.gombosdev.ampere.MainActivity}"
+        drawable="ampere"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}"
+        drawable="google_authenticator"/>
+
+    <item
+        component="ComponentInfo{com.yyw.fastbrowser/com.google.android.apps.chrome.Main}"
+        drawable="yyw_browser"/>
 
 </resources>

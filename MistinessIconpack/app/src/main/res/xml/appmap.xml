@@ -1023,7 +1023,7 @@
 
     <item
         class="com.ss.android.ugc.aweme.splash.SplashActivity"
-        name="tiptap"/>
+        name="tiktok"/>
 
     <item
         class="com.ss.android.article.video.activity.SplashActivity"
@@ -3188,5 +3188,181 @@
     <item
         class="com.chan.cwallpaper.module.launch.LaunchActivity"
         name="cwallpaper"/>
+
+    <item
+        class="com.duowan.kiwi.simpleactivity.SplashActivity"
+        name="huya"/>
+
+    <item
+        class="com.miui.fmradio.FmActivity"
+        name="radio"/>
+
+    <item
+        class="com.ss.android.ugc.aweme.splash.SplashActivity"
+        name="tiktok"/>
+
+    <item
+        class="com.autonavi.map.activity.NewMapActivity"
+        name="gaode_map"/>
+
+    <item
+        class="com.estrongs.android.pop.view.FileExplorerActivity"
+        name="estrongs"/>
+
+    <item
+        class="com.happyelements.android.platform.oppo.ads.SplashActivity"
+        name="happyelements"/>
+
+    <item
+        class="com.iflytek.inputmethod.LauncherActivity"
+        name="ifly_ime"/>
+
+    <item
+        class="com.intsig.lic.camscanner.CamScannerLicense"
+        name="cam_scanner"/>
+
+    <item
+        class="org.autojs.autojs.ui.splash.SplashActivity_"
+        name="auto_js"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft"/>
+
+    <item
+        class="com.android.dialer.DialtactsActivity"
+        name="contacts"/>
+
+    <item
+        class="eu.thedarken.sdm.unlocker.MainActivity"
+        name="sdm"/>
+
+    <item
+        class="com.chillyroomsdk.huaweihms.MainActivity"
+        name="knight"/>
+
+    <item
+        class="ccplay.cc.a.InitActivity"
+        name="knight"/>
+
+    <item
+        class="com.github.shadowsocks.MainActivity"
+        name="shadowsocks"/>
+
+    <item
+        class="com.sankuai.meituan.activity.PreloadedWelcome"
+        name="meituan"/>
+
+    <item
+        class="com.tencent.tmgp.speedmobileEx.speedmobileEx"
+        name="speedmobile"/>
+
+    <item
+        class="com.android.bbkcalculator.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.bbk.calendar.MainActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraActivity"
+        name="camera"/>
+
+    <item
+        class="com.android.BBKClock.Timer"
+        name="clock"/>
+
+    <item
+        class="com.vivo.browser.BrowserActivity"
+        name="browser"/>
+
+    <item
+        class="com.android.gallery3d.vivo.GalleryTabActivity"
+        name="gallery"/>
+
+    <item
+        class="com.vivo.compass.CalibrationActivity"
+        name="compass"/>
+
+    <item
+        class="com.android.contacts.DialtactsContactsEntryActivity"
+        name="contacts"/>
+
+    <item
+        class="com.vivo.email.activity.Welcome"
+        name="email"/>
+
+    <item
+        class="com.android.filemanager.FileManagerActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="com.chaoxing.mobile.activity.SplashActivity"
+        name="xuexitong"/>
+
+    <item
+        class="com.chinatelecom.bestpayclient.ui.activity.SplashActivity"
+        name="bestpay"/>
+
+    <item
+        class="com.clover.myweather.ui.activity.MainActivity"
+        name="myweather"/>
+
+    <item
+        class="com.csdroid.pkg.ui.MainActivity"
+        name="pkg"/>
+
+    <item
+        class="com.digibites.abatterysaver.BatterySaverActivity"
+        name="accubattery"/>
+
+    <item
+        class="com.dongqiudi.news.BaseSplashActivity"
+        name="dongqiudi"/>
+
+    <item
+        class="com.enjoymeet.live.liveshow.ui.startup.activity.LaunchRouterActivity"
+        name="aloha"/>
+
+    <item
+        class="com.everimaging.fotor.SplashActivity"
+        name="fotor"/>
+
+    <item
+        class="com.excelliance.kxqp.ui.HelloActivity"
+        name="gspace"/>
+
+    <item
+        class="com.fb.fluid.ActivityMain"
+        name="fluid"/>
+
+    <item
+        class="com.fivehundredpx.viewer.main.RootActivity"
+        name="fivehundredpx"/>
+
+    <item
+        class="com.foundao.bjnews.SplashActivity"
+        name="bjnews"/>
+
+    <item
+        class="com.bjnews.cn.Welcome"
+        name="bjnews"/>
+
+    <item
+        class="com.gombosdev.ampere.MainActivity"
+        name="ampere"/>
+
+    <item
+        class="com.google.android.apps.authenticator.AuthenticatorActivity"
+        name="google_authenticator"/>
+
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="yyw_browser"/>
 
 </appmap>

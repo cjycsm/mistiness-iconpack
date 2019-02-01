@@ -42,7 +42,7 @@
         <item>upgrade</item>
         <item>application</item>
         <item>game</item>
-        <item>universal</item>
+        <item>basic</item>
         <item>mi</item>
         <item>meizu</item>
         <item>oneplus</item>
@@ -54,28 +54,33 @@
     </string-array>
 
     <string-array name="newest">
-        <item>apkupdater</item>
-        <item>apple_music</item>
-        <item>microsoft_authenticator</item>
-        <item>eyeem</item>
-        <item>imoji</item>
-        <item>imoji_alt</item>
-        <item>onetake</item>
-        <item>onetake_alt</item>
-        <item>barcode</item>
-        <item>barcode_alt</item>
-        <item>bridge_iconpack</item>
-        <item>niceapp</item>
-        <item>aeroblast_iconpack</item>
-        <item>bar_iconpack</item>
-        <item>circlemi_iconpack</item>
-        <item>lineicons2_iconpack</item>
-        <item>caiyun_interpreter</item>
-        <item>cwallpaper</item>
+        <item>xuexitong</item>
+        <item>bestpay</item>
+        <item>myweather</item>
+        <item>pkg</item>
+        <item>accubattery</item>
+        <item>dongqiudi</item>
+        <item>aloha</item>
+        <item>fotor</item>
+        <item>fotor_alt1</item>
+        <item>fotor_alt2</item>
+        <item>gspace</item>
+        <item>fluid</item>
+        <item>fivehundredpx</item>
+        <item>bjnews</item>
+        <item>ampere</item>
+        <item>google_authenticator</item>
+        <item>google_authenticator_alt</item>
+        <item>yyw_browser</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>share</item>
+        <item>share_alt1</item>
+        <item>share_alt2</item>
+        <item>share_alt3</item>
+        <item>contacts</item>
+        <item>contacts_alt</item>
     </string-array>
 
     <string-array name="application">
@@ -263,6 +268,9 @@
         <item>wangxin</item>
         <item>yixin</item>
         <item>share</item>
+        <item>share_alt1</item>
+        <item>share_alt2</item>
+        <item>share_alt3</item>
         <item>weico</item>
         <item>emore</item>
         <item>welike</item>
@@ -291,7 +299,7 @@
         <item>zhuishushenqi</item>
         <item>qq_mail</item>
         <item>wifi_locating</item>
-        <item>tiptap</item>
+        <item>tiktok</item>
         <item>article_video</item>
         <item>huoshan</item>
         <item>acfun</item>
@@ -600,6 +608,24 @@
         <item>lineicons2_iconpack</item>
         <item>caiyun_interpreter</item>
         <item>cwallpaper</item>
+        <item>xuexitong</item>
+        <item>bestpay</item>
+        <item>myweather</item>
+        <item>pkg</item>
+        <item>accubattery</item>
+        <item>dongqiudi</item>
+        <item>aloha</item>
+        <item>fotor</item>
+        <item>fotor_alt1</item>
+        <item>fotor_alt2</item>
+        <item>gspace</item>
+        <item>fluid</item>
+        <item>fivehundredpx</item>
+        <item>bjnews</item>
+        <item>ampere</item>
+        <item>google_authenticator</item>
+        <item>google_authenticator_alt</item>
+        <item>yyw_browser</item>
     </string-array>
 
     <string-array name="game">
@@ -629,7 +655,7 @@
         <item>realracing3</item>
     </string-array>
 
-    <string-array name="universal">
+    <string-array name="basic">
         <item>calculator</item>
         <item>clock</item>
         <item>backup</item>
@@ -673,6 +699,7 @@
         <item>remote_control_alt</item>
         <item>wallpaper</item>
         <item>contacts</item>
+        <item>contacts_alt</item>
         <item>help</item>
         <item>help_alt</item>
         <item>list</item>

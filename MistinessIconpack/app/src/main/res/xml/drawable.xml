@@ -19,10 +19,11 @@
   -->
 
 <resources>
-    <version>45</version>
+    <version>46</version>
 
     <category title="All"/>
     <item drawable="abc"/>
+    <item drawable="accubattery"/>
     <item drawable="acfun"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
@@ -35,10 +36,12 @@
     <item drawable="airfrozen"/>
     <item drawable="alibaba"/>
     <item drawable="alipay"/>
+    <item drawable="aloha"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
     <item drawable="amazon"/>
     <item drawable="amp"/>
+    <item drawable="ampere"/>
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
@@ -71,12 +74,14 @@
     <item drawable="bar_iconpack"/>
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
+    <item drawable="bestpay"/>
     <item drawable="bh3"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bingdic"/>
+    <item drawable="bjnews"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
     <item drawable="boc"/>
@@ -143,6 +148,7 @@
     <item drawable="compass"/>
     <item drawable="compass_alt"/>
     <item drawable="contacts"/>
+    <item drawable="contacts_alt"/>
     <item drawable="coolapk"/>
     <item drawable="cpu_z"/>
     <item drawable="credit_card_manager"/>
@@ -162,6 +168,7 @@
     <item drawable="dir"/>
     <item drawable="dkplat"/>
     <item drawable="dmzj"/>
+    <item drawable="dongqiudi"/>
     <item drawable="douban"/>
     <item drawable="douban_movie"/>
     <item drawable="douban_radio"/>
@@ -207,14 +214,19 @@
     <item drawable="feng_news"/>
     <item drawable="file_manager"/>
     <item drawable="firefox"/>
+    <item drawable="fivehundredpx"/>
     <item drawable="flight_manager"/>
     <item drawable="flipboard"/>
     <item drawable="floating"/>
+    <item drawable="fluid"/>
     <item drawable="flyme_roamingpay"/>
     <item drawable="flyme_videoclips"/>
     <item drawable="font"/>
     <item drawable="fooview"/>
     <item drawable="forest"/>
+    <item drawable="fotor"/>
+    <item drawable="fotor_alt1"/>
+    <item drawable="fotor_alt2"/>
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecenter_alt"/>
@@ -226,6 +238,8 @@
     <item drawable="glass"/>
     <item drawable="gold"/>
     <item drawable="google"/>
+    <item drawable="google_authenticator"/>
+    <item drawable="google_authenticator_alt"/>
     <item drawable="google_camera"/>
     <item drawable="google_earth"/>
     <item drawable="google_keep"/>
@@ -238,6 +252,7 @@
     <item drawable="google_translate"/>
     <item drawable="google_voice"/>
     <item drawable="greenify"/>
+    <item drawable="gspace"/>
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guokr"/>
@@ -396,6 +411,7 @@
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
     <item drawable="mybus"/>
+    <item drawable="myweather"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
     <item drawable="netease_kaola"/>
@@ -437,6 +453,7 @@
     <item drawable="photo_editor"/>
     <item drawable="pic_folder"/>
     <item drawable="pinduoduo"/>
+    <item drawable="pkg"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="pomotodo"/>
@@ -516,6 +533,9 @@
     <item drawable="shanbay_news"/>
     <item drawable="shanbay_words"/>
     <item drawable="share"/>
+    <item drawable="share_alt1"/>
+    <item drawable="share_alt2"/>
+    <item drawable="share_alt3"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
     <item drawable="shuangkai"/>
@@ -575,11 +595,11 @@
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
     <item drawable="tieyou"/>
+    <item drawable="tiktok"/>
     <item drawable="tim"/>
     <item drawable="timetable"/>
     <item drawable="timi"/>
     <item drawable="tingshu"/>
-    <item drawable="tiptap"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="tomato_time"/>
@@ -647,6 +667,7 @@
     <item drawable="xingkong_alt"/>
     <item drawable="xueqiu"/>
     <item drawable="xuexi"/>
+    <item drawable="xuexitong"/>
     <item drawable="xunlei"/>
     <item drawable="yahoo_weather"/>
     <item drawable="yandong"/>
@@ -663,6 +684,7 @@
     <item drawable="youtube"/>
     <item drawable="yuedong_sport"/>
     <item drawable="yyets"/>
+    <item drawable="yyw_browser"/>
     <item drawable="z_launcher"/>
     <item drawable="zaker"/>
     <item drawable="zhibo8"/>
