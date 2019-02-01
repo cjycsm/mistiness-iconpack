@@ -965,7 +965,7 @@
 
     <item
         component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}"
-        drawable="moonread"/>
+        drawable="moonreader"/>
 
     <item
         component="ComponentInfo{flipboard.cn/flipboard.activities.LaunchActivityAlias}"

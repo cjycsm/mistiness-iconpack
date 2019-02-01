@@ -969,7 +969,7 @@
 
     <AppIcon
         name="com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain"
-        image="moonread"/>
+        image="moonreader"/>
 
     <AppIcon
         name="flipboard.cn/flipboard.activities.LaunchActivityAlias"

@@ -963,7 +963,7 @@
 
     <item
         class="com.flyersoft.moonreaderp.ActivityMain"
-        name="moonread"/>
+        name="moonreader"/>
 
     <item
         class="flipboard.activities.LaunchActivityAlias"
