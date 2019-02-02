@@ -15,11 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.1.5" />
-    <item text="新增图标18枚" />
-    <item text="重绘图标6枚" />
-    <item text="新增适配vivo内置应用10款" />
-    <item text="新增适配三星内置应用1款" />
-    <item text="新增适配小米内置应用1款" />
+    <version title="v1.1.6" />
+    <item text="新增图标20枚" />
     <item text="其他修复和改进" />
 </resources>

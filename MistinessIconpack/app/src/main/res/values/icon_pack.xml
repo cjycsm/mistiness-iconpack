@@ -54,24 +54,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>xuexitong</item>
-        <item>bestpay</item>
-        <item>myweather</item>
-        <item>pkg</item>
-        <item>accubattery</item>
-        <item>dongqiudi</item>
-        <item>aloha</item>
-        <item>fotor</item>
-        <item>fotor_alt1</item>
-        <item>fotor_alt2</item>
-        <item>gspace</item>
-        <item>fluid</item>
-        <item>fivehundredpx</item>
-        <item>bjnews</item>
-        <item>ampere</item>
-        <item>google_authenticator</item>
-        <item>google_authenticator_alt</item>
-        <item>yyw_browser</item>
+        <item>xiaomi_mico</item>
+        <item>xiaomi_bbs</item>
+        <item>xiaomi_live</item>
+        <item>xiaomi_vipaccount</item>
+        <item>google_fitness</item>
+        <item>google_files</item>
+        <item>bigidea</item>
+        <item>tenten</item>
+        <item>clockwork</item>
+        <item>ehviewer</item>
+        <item>morefan</item>
+        <item>iflytek_readassistant</item>
+        <item>cutisan</item>
+        <item>cutisan_alt</item>
+        <item>instagram</item>
+        <item>installer_plus</item>
+        <item>jeejen</item>
+        <item>dida</item>
+        <item>dida_alt</item>
+        <item>holi</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -626,6 +628,21 @@
         <item>google_authenticator</item>
         <item>google_authenticator_alt</item>
         <item>yyw_browser</item>
+        <item>google_fitness</item>
+        <item>google_files</item>
+        <item>bigidea</item>
+        <item>clockwork</item>
+        <item>ehviewer</item>
+        <item>morefan</item>
+        <item>iflytek_readassistant</item>
+        <item>cutisan</item>
+        <item>cutisan_alt</item>
+        <item>instagram</item>
+        <item>installer_plus</item>
+        <item>jeejen</item>
+        <item>dida</item>
+        <item>dida_alt</item>
+        <item>holi</item>
     </string-array>
 
     <string-array name="game">
@@ -653,6 +670,7 @@
         <item>asphalt8</item>
         <item>bh3</item>
         <item>realracing3</item>
+        <item>tenten</item>
     </string-array>
 
     <string-array name="basic">
@@ -708,6 +726,8 @@
         <item>theme</item>
         <item>theme_alt</item>
         <item>light</item>
+        <item>gamecenter</item>
+        <item>gamecenter_alt</item>
     </string-array>
 
     <string-array name="meizu">
@@ -715,8 +735,6 @@
         <item>meizu_toolbox</item>
         <item>meizu_compaign</item>
         <item>meizu_ebook</item>
-        <item>gamecenter</item>
-        <item>gamecenter_alt</item>
         <item>meizu_life</item>
         <item>meizu_mznfcpay</item>
         <item>meizu_reader</item>
@@ -738,6 +756,10 @@
         <item>miui_virtual_sim</item>
         <item>miui_voice_assistant</item>
         <item>mipay</item>
+        <item>xiaomi_mico</item>
+        <item>xiaomi_bbs</item>
+        <item>xiaomi_live</item>
+        <item>xiaomi_vipaccount</item>
     </string-array>
 
     <string-array name="smartisan">

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>46</version>
+    <version>47</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -76,6 +76,7 @@
     <item drawable="barcode_alt"/>
     <item drawable="bestpay"/>
     <item drawable="bh3"/>
+    <item drawable="bigidea"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
@@ -128,6 +129,7 @@
     <item drawable="clash_of_clans"/>
     <item drawable="clashroyale"/>
     <item drawable="clock"/>
+    <item drawable="clockwork"/>
     <item drawable="cloud_115"/>
     <item drawable="cloudmusic"/>
     <item drawable="cmb"/>
@@ -154,6 +156,8 @@
     <item drawable="credit_card_manager"/>
     <item drawable="ctfile"/>
     <item drawable="ctrip"/>
+    <item drawable="cutisan"/>
+    <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
     <item drawable="cwallpaper"/>
     <item drawable="dan_the_man"/>
@@ -161,6 +165,8 @@
     <item drawable="day_day_cook"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
+    <item drawable="dida"/>
+    <item drawable="dida_alt"/>
     <item drawable="didapinche"/>
     <item drawable="didi"/>
     <item drawable="digit"/>
@@ -188,6 +194,7 @@
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
     <item drawable="edge_lighting"/>
+    <item drawable="ehviewer"/>
     <item drawable="ele"/>
     <item drawable="elong"/>
     <item drawable="email"/>
@@ -242,6 +249,8 @@
     <item drawable="google_authenticator_alt"/>
     <item drawable="google_camera"/>
     <item drawable="google_earth"/>
+    <item drawable="google_files"/>
+    <item drawable="google_fitness"/>
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
     <item drawable="google_maps"/>
@@ -272,6 +281,7 @@
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
     <item drawable="hlddz"/>
+    <item drawable="holi"/>
     <item drawable="huawei_assistant"/>
     <item drawable="huawei_find_my_phone"/>
     <item drawable="huawei_health"/>
@@ -294,16 +304,20 @@
     <item drawable="idlefish"/>
     <item drawable="if_sunshine"/>
     <item drawable="ifly_ime"/>
+    <item drawable="iflytek_readassistant"/>
     <item drawable="ifont"/>
     <item drawable="imagestitch"/>
     <item drawable="imoji"/>
     <item drawable="imoji_alt"/>
     <item drawable="imusic"/>
+    <item drawable="instagram"/>
+    <item drawable="installer_plus"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
     <item drawable="jd_jr"/>
+    <item drawable="jeejen"/>
     <item drawable="jianshu"/>
     <item drawable="jiemian"/>
     <item drawable="jike"/>
@@ -402,6 +416,7 @@
     <item drawable="moji_weather"/>
     <item drawable="momo"/>
     <item drawable="moonreader"/>
+    <item drawable="morefan"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
     <item drawable="mtxx"/>
@@ -588,6 +603,7 @@
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wifimanager"/>
+    <item drawable="tenten"/>
     <item drawable="theme"/>
     <item drawable="theme_alt"/>
     <item drawable="thestore"/>
@@ -656,10 +672,14 @@
     <item drawable="xiachufang"/>
     <item drawable="xiami"/>
     <item drawable="xiaoji_emulator"/>
+    <item drawable="xiaomi_bbs"/>
     <item drawable="xiaomi_channel"/>
     <item drawable="xiaomi_health"/>
     <item drawable="xiaomi_jr"/>
+    <item drawable="xiaomi_live"/>
+    <item drawable="xiaomi_mico"/>
     <item drawable="xiaomi_shop"/>
+    <item drawable="xiaomi_vipaccount"/>
     <item drawable="xiaomi_youpin"/>
     <item drawable="xiaozhu"/>
     <item drawable="ximalaya"/>

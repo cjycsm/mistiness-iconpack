@@ -3371,4 +3371,128 @@
         name="com.yyw.fastbrowser/com.google.android.apps.chrome.Main"
         image="yyw_browser"/>
 
+    <AppIcon
+        name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
+        image="read"/>
+
+    <AppIcon
+        name="com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity"
+        image="fivehundredpx"/>
+
+    <AppIcon
+        name="xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity"
+        image="la_systemtoolbox"/>
+
+    <AppIcon
+        name="com.ushaqi.zhuishushenqi.adfree/com.ushaqi.zhuishushenqi.ui.SplashActivity"
+        image="zhuishushenqi"/>
+
+    <AppIcon
+        name="com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport"
+        image="feedback"/>
+
+    <AppIcon
+        name="com.miHoYo.bh3.nearme.gamecenter/com.miHoYo.bh3.nearme.gamecenter.OppoSDKUtils"
+        image="bh3"/>
+
+    <AppIcon
+        name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary"
+        image="gallery"/>
+
+    <AppIcon
+        name="org.mokee.lawnchair/ch.deletescape.lawnchair.Launcher"
+        image="lawnchair"/>
+
+    <AppIcon
+        name="com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.dv.adm.pay/com.dv.get.Main"
+        image="adm_pro"/>
+
+    <AppIcon
+        name="com.miHoYo.bh3.mi/com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        image="bh3"/>
+
+    <AppIcon
+        name="com.miHoYo.enterprise.NGHSoD/com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        image="bh3"/>
+
+    <AppIcon
+        name="com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity"
+        image="google_fitness"/>
+
+    <AppIcon
+        name="com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity"
+        image="google_files"/>
+
+    <AppIcon
+        name="com.goyourfly.bigidea/com.goyourfly.bigidea.SplashActivity"
+        image="bigidea"/>
+
+    <AppIcon
+        name="com.gramgames.tenten/com.gramgames.activity.UnityPlayerActivity"
+        image="tenten"/>
+
+    <AppIcon
+        name="com.guowan.clockwork/com.guowan.clockwork.splash.SplashActivity"
+        image="clockwork"/>
+
+    <AppIcon
+        name="com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity"
+        image="ehviewer"/>
+
+    <AppIcon
+        name="com.hxcx.morefun/com.hxcx.morefun.splash_guide.WelcomeActivity"
+        image="morefan"/>
+
+    <AppIcon
+        name="com.iflytek.readassistant/com.iflytek.readassistant.ui.JumpActivity"
+        image="iflytek_readassistant"/>
+
+    <AppIcon
+        name="com.iflytek.readassistant/com.iflytek.readassistant.biz.home.JumpActivity"
+        image="iflytek_readassistant"/>
+
+    <AppIcon
+        name="com.imuuzi.cutisan/com.imuuzi.cutisan.activity.FirstActivity"
+        image="cutisan"/>
+
+    <AppIcon
+        name="com.instagram.android/com.instagram.android.activity.MainTabActivity"
+        image="instagram"/>
+
+    <AppIcon
+        name="com.installer.plus/com.installer.plus.activity.MainActivity"
+        image="installer_plus"/>
+
+    <AppIcon
+        name="com.jeejen.family/com.jeejen.home.launcher.Launcher"
+        image="jeejen"/>
+
+    <AppIcon
+        name="com.joe.dida/com.joe.dida.activity.LoginActivity"
+        image="dida"/>
+
+    <AppIcon
+        name="com.joe.holi/com.joe.holi.ui.MainActivity"
+        image="holi"/>
+
+    <AppIcon
+        name="com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity"
+        image="xiaomi_mico"/>
+
+    <AppIcon
+        name="com.xiaomi.bbs/com.xiaomi.bbs.activity.SplashActivity"
+        image="xiaomi_bbs"/>
+
+    <AppIcon
+        name="com.wali.live/com.wali.live.main.LiveMainActivity"
+        image="xiaomi_live"/>
+
+    <AppIcon
+        name="com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity"
+        image="xiaomi_vipaccount"/>
+
 </Theme>

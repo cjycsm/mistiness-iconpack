@@ -3367,4 +3367,128 @@
         component="ComponentInfo{com.yyw.fastbrowser/com.google.android.apps.chrome.Main}"
         drawable="yyw_browser"/>
 
+    <item
+        component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity}"
+        drawable="read"/>
+
+    <item
+        component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}"
+        drawable="fivehundredpx"/>
+
+    <item
+        component="ComponentInfo{xzr.La.systemtoolbox/xzr.La.systemtoolbox.ui.activities.StartActivity}"
+        drawable="la_systemtoolbox"/>
+
+    <item
+        component="ComponentInfo{com.ushaqi.zhuishushenqi.adfree/com.ushaqi.zhuishushenqi.ui.SplashActivity}"
+        drawable="zhuishushenqi"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.opbugreport/com.oneplus.opbugreport.OPUploadReport}"
+        drawable="feedback"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.bh3.nearme.gamecenter/com.miHoYo.bh3.nearme.gamecenter.OppoSDKUtils}"
+        drawable="bh3"/>
+
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{org.mokee.lawnchair/ch.deletescape.lawnchair.Launcher}"
+        drawable="lawnchair"/>
+
+    <item
+        component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}"
+        drawable="adm_pro"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.bh3.mi/com.miHoYo.overridenativeactivity.OverrideNativeActivity}"
+        drawable="bh3"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.enterprise.NGHSoD/com.miHoYo.overridenativeactivity.OverrideNativeActivity}"
+        drawable="bh3"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.fitness/com.google.android.apps.fitness.welcome.WelcomeActivity}"
+        drawable="google_fitness"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}"
+        drawable="google_files"/>
+
+    <item
+        component="ComponentInfo{com.goyourfly.bigidea/com.goyourfly.bigidea.SplashActivity}"
+        drawable="bigidea"/>
+
+    <item
+        component="ComponentInfo{com.gramgames.tenten/com.gramgames.activity.UnityPlayerActivity}"
+        drawable="tenten"/>
+
+    <item
+        component="ComponentInfo{com.guowan.clockwork/com.guowan.clockwork.splash.SplashActivity}"
+        drawable="clockwork"/>
+
+    <item
+        component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}"
+        drawable="ehviewer"/>
+
+    <item
+        component="ComponentInfo{com.hxcx.morefun/com.hxcx.morefun.splash_guide.WelcomeActivity}"
+        drawable="morefan"/>
+
+    <item
+        component="ComponentInfo{com.iflytek.readassistant/com.iflytek.readassistant.ui.JumpActivity}"
+        drawable="iflytek_readassistant"/>
+
+    <item
+        component="ComponentInfo{com.iflytek.readassistant/com.iflytek.readassistant.biz.home.JumpActivity}"
+        drawable="iflytek_readassistant"/>
+
+    <item
+        component="ComponentInfo{com.imuuzi.cutisan/com.imuuzi.cutisan.activity.FirstActivity}"
+        drawable="cutisan"/>
+
+    <item
+        component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}"
+        drawable="instagram"/>
+
+    <item
+        component="ComponentInfo{com.installer.plus/com.installer.plus.activity.MainActivity}"
+        drawable="installer_plus"/>
+
+    <item
+        component="ComponentInfo{com.jeejen.family/com.jeejen.home.launcher.Launcher}"
+        drawable="jeejen"/>
+
+    <item
+        component="ComponentInfo{com.joe.dida/com.joe.dida.activity.LoginActivity}"
+        drawable="dida"/>
+
+    <item
+        component="ComponentInfo{com.joe.holi/com.joe.holi.ui.MainActivity}"
+        drawable="holi"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}"
+        drawable="xiaomi_mico"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.bbs/com.xiaomi.bbs.activity.SplashActivity}"
+        drawable="xiaomi_bbs"/>
+
+    <item
+        component="ComponentInfo{com.wali.live/com.wali.live.main.LiveMainActivity}"
+        drawable="xiaomi_live"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity}"
+        drawable="xiaomi_vipaccount"/>
+
 </resources>

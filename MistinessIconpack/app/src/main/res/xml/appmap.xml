@@ -3365,4 +3365,128 @@
         class="com.google.android.apps.chrome.Main"
         name="yyw_browser"/>
 
+    <item
+        class="com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
+        name="read"/>
+
+    <item
+        class="com.fivehundredpx.viewer.main.RootActivity"
+        name="fivehundredpx"/>
+
+    <item
+        class="xzr.La.systemtoolbox.ui.activities.StartActivity"
+        name="la_systemtoolbox"/>
+
+    <item
+        class="com.ushaqi.zhuishushenqi.ui.SplashActivity"
+        name="zhuishushenqi"/>
+
+    <item
+        class="com.oneplus.opbugreport.OPUploadReport"
+        name="feedback"/>
+
+    <item
+        class="com.miHoYo.bh3.nearme.gamecenter.OppoSDKUtils"
+        name="bh3"/>
+
+    <item
+        class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Primary"
+        name="gallery"/>
+
+    <item
+        class="ch.deletescape.lawnchair.Launcher"
+        name="lawnchair"/>
+
+    <item
+        class="com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange"
+        name="gallery"/>
+
+    <item
+        class="com.dv.get.Main"
+        name="adm_pro"/>
+
+    <item
+        class="com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        name="bh3"/>
+
+    <item
+        class="com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        name="bh3"/>
+
+    <item
+        class="com.google.android.apps.fitness.welcome.WelcomeActivity"
+        name="google_fitness"/>
+
+    <item
+        class="com.google.android.apps.nbu.files.home.HomeActivity"
+        name="google_files"/>
+
+    <item
+        class="com.goyourfly.bigidea.SplashActivity"
+        name="bigidea"/>
+
+    <item
+        class="com.gramgames.activity.UnityPlayerActivity"
+        name="tenten"/>
+
+    <item
+        class="com.guowan.clockwork.splash.SplashActivity"
+        name="clockwork"/>
+
+    <item
+        class="com.hippo.ehviewer.ui.MainActivity"
+        name="ehviewer"/>
+
+    <item
+        class="com.hxcx.morefun.splash_guide.WelcomeActivity"
+        name="morefan"/>
+
+    <item
+        class="com.iflytek.readassistant.ui.JumpActivity"
+        name="iflytek_readassistant"/>
+
+    <item
+        class="com.iflytek.readassistant.biz.home.JumpActivity"
+        name="iflytek_readassistant"/>
+
+    <item
+        class="com.imuuzi.cutisan.activity.FirstActivity"
+        name="cutisan"/>
+
+    <item
+        class="com.instagram.android.activity.MainTabActivity"
+        name="instagram"/>
+
+    <item
+        class="com.installer.plus.activity.MainActivity"
+        name="installer_plus"/>
+
+    <item
+        class="com.jeejen.home.launcher.Launcher"
+        name="jeejen"/>
+
+    <item
+        class="com.joe.dida.activity.LoginActivity"
+        name="dida"/>
+
+    <item
+        class="com.joe.holi.ui.MainActivity"
+        name="holi"/>
+
+    <item
+        class="com.xiaomi.mico.splash.SplashActivity"
+        name="xiaomi_mico"/>
+
+    <item
+        class="com.xiaomi.bbs.activity.SplashActivity"
+        name="xiaomi_bbs"/>
+
+    <item
+        class="com.wali.live.main.LiveMainActivity"
+        name="xiaomi_live"/>
+
+    <item
+        class="com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity"
+        name="xiaomi_vipaccount"/>
+
 </appmap>
