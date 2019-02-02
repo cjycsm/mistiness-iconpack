@@ -15,7 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.1.6" />
+    <version title="v1.1.7" />
     <item text="新增图标20枚" />
     <item text="其他修复和改进" />
 </resources>
