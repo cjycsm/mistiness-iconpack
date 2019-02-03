@@ -54,35 +54,76 @@
     </string-array>
 
     <string-array name="newest">
-        <item>xiaomi_mico</item>
-        <item>xiaomi_bbs</item>
-        <item>xiaomi_live</item>
-        <item>xiaomi_vipaccount</item>
-        <item>google_fitness</item>
-        <item>google_files</item>
-        <item>bigidea</item>
-        <item>tenten</item>
-        <item>clockwork</item>
-        <item>ehviewer</item>
-        <item>morefan</item>
-        <item>iflytek_readassistant</item>
-        <item>cutisan</item>
-        <item>cutisan_alt</item>
-        <item>instagram</item>
-        <item>installer_plus</item>
-        <item>jeejen</item>
-        <item>dida</item>
-        <item>dida_alt</item>
-        <item>holi</item>
+        <item>tencent_nntg</item>
+        <item>netease_moba</item>
+        <item>bit</item>
+        <item>bit_alt</item>
+        <item>subwaysurf</item>
+        <item>fui</item>
+        <item>fui_alt</item>
+        <item>zlive</item>
+        <item>media17</item>
+        <item>media17_alt</item>
+        <item>nature_iconpack</item>
+        <item>power_amp</item>
+        <item>pieplus</item>
+        <item>geely</item>
+        <item>snkrs</item>
+        <item>panda_usecar</item>
+        <item>shazam</item>
+        <item>sing_client</item>
+        <item>picsart</item>
+        <item>spotify</item>
+        <item>spotify_alt</item>
+        <item>tencent_blackkey</item>
+        <item>tencent_blackkey_alt</item>
+        <item>tencent_gamehelper_smoba</item>
+        <item>tencent_gamehelper_smoba_alt</item>
+        <item>tuicool</item>
+        <item>twitter</item>
+        <item>poly</item>
+        <item>poly_alt</item>
+        <item>account</item>
+        <item>filmorago</item>
+        <item>filmorago_alt</item>
+        <item>shortcut_creater</item>
+        <item>surfvpn</item>
+        <item>xiaoyi_carcamera</item>
+        <item>xingse</item>
+        <item>xingse_alt1</item>
+        <item>xingse_alt2</item>
+        <item>xingse_alt3</item>
+        <item>music_tag_editor</item>
+        <item>gansu_bank</item>
+        <item>zhiyoo</item>
+        <item>homeinn</item>
+        <item>xposed_installer</item>
+        <item>xposed_installer_alt1</item>
+        <item>xposed_installer_alt2</item>
+        <item>xposed_installer_alt3</item>
+        <item>idm</item>
+        <item>pixiv</item>
+        <item>copas</item>
+        <item>copas_alt</item>
+        <item>mbestyle</item>
+        <item>mixaiba_browser</item>
+        <item>mixaiba_browser_alt</item>
+        <item>lrcjaeger</item>
+        <item>lrcjaeger_alt</item>
+        <item>beauty_camera</item>
+        <item>imeihua</item>
+        <item>xianchangyun</item>
+        <item>xianchangyun_alt</item>
+        <item>leaf_vpn</item>
+        <item>telegreat</item>
+        <item>telegreat_x</item>
+        <item>telegram_x</item>
+        <item>pinguo_april</item>
+        <item>pinguo_mix</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>share</item>
-        <item>share_alt1</item>
-        <item>share_alt2</item>
-        <item>share_alt3</item>
-        <item>contacts</item>
-        <item>contacts_alt</item>
+        <item>telegram</item>
     </string-array>
 
     <string-array name="application">
@@ -577,6 +618,7 @@
         <item>huawei_theme_manager</item>
         <item>brakefield_painter</item>
         <item>magisk</item>
+        <item>magisk_alt</item>
         <item>gifpaser</item>
         <item>photo_editor</item>
         <item>imagestitch</item>
@@ -585,6 +627,7 @@
         <item>pconline</item>
         <item>poco_interphoto2</item>
         <item>lightroom</item>
+        <item>lightroom_alt</item>
         <item>adsk_sketchbook</item>
         <item>xuexi</item>
         <item>alibaba</item>
@@ -643,6 +686,67 @@
         <item>dida</item>
         <item>dida_alt</item>
         <item>holi</item>
+        <item>fui</item>
+        <item>fui_alt</item>
+        <item>zlive</item>
+        <item>media17</item>
+        <item>media17_alt</item>
+        <item>nature_iconpack</item>
+        <item>power_amp</item>
+        <item>pieplus</item>
+        <item>geely</item>
+        <item>snkrs</item>
+        <item>panda_usecar</item>
+        <item>shazam</item>
+        <item>sing_client</item>
+        <item>picsart</item>
+        <item>spotify</item>
+        <item>spotify_alt</item>
+        <item>tencent_blackkey</item>
+        <item>tencent_blackkey_alt</item>
+        <item>tencent_gamehelper_smoba</item>
+        <item>tencent_gamehelper_smoba_alt</item>
+        <item>tuicool</item>
+        <item>twitter</item>
+        <item>poly</item>
+        <item>poly_alt</item>
+        <item>account</item>
+        <item>filmorago</item>
+        <item>filmorago_alt</item>
+        <item>shortcut_creater</item>
+        <item>surfvpn</item>
+        <item>xiaoyi_carcamera</item>
+        <item>xingse</item>
+        <item>xingse_alt1</item>
+        <item>xingse_alt2</item>
+        <item>xingse_alt3</item>
+        <item>music_tag_editor</item>
+        <item>gansu_bank</item>
+        <item>zhiyoo</item>
+        <item>homeinn</item>
+        <item>xposed_installer</item>
+        <item>xposed_installer_alt1</item>
+        <item>xposed_installer_alt2</item>
+        <item>xposed_installer_alt3</item>
+        <item>idm</item>
+        <item>pixiv</item>
+        <item>copas</item>
+        <item>copas_alt</item>
+        <item>mbestyle</item>
+        <item>mixaiba_browser</item>
+        <item>mixaiba_browser_alt</item>
+        <item>lrcjaeger</item>
+        <item>lrcjaeger_alt</item>
+        <item>beauty_camera</item>
+        <item>imeihua</item>
+        <item>xianchangyun</item>
+        <item>xianchangyun_alt</item>
+        <item>leaf_vpn</item>
+        <item>telegreat</item>
+        <item>telegreat_x</item>
+        <item>telegram_x</item>
+        <item>pinguo_april</item>
+        <item>pinguo_mix</item>
     </string-array>
 
     <string-array name="game">
@@ -671,6 +775,11 @@
         <item>bh3</item>
         <item>realracing3</item>
         <item>tenten</item>
+        <item>tencent_nntg</item>
+        <item>netease_moba</item>
+        <item>bit</item>
+        <item>bit_alt</item>
+        <item>subwaysurf</item>
     </string-array>
 
     <string-array name="basic">

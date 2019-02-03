@@ -959,7 +959,7 @@
 
     <item
         class="com.mdroid.application.ui.welcome.WelcomeActivity"
-        name="lovereader"/>
+        name="loveread"/>
 
     <item
         class="com.flyersoft.moonreaderp.ActivityMain"
@@ -3488,5 +3488,293 @@
     <item
         class="com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity"
         name="xiaomi_vipaccount"/>
+
+    <item
+        class="com.sec.android.app.fm.MainActivity"
+        name="radio"/>
+
+    <item
+        class="com.samsung.android.dialer.DialtactsActivity"
+        name="dialer"/>
+
+    <item
+        class="com.sec.android.app.myfiles.external.ui.MainActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.samsung.android.contacts.contactslist.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.samsung.android.app.calendar.activity.MainActivity"
+        name="calendar"/>
+
+    <item
+        class="com.motorola.camera.Camera"
+        name="camera"/>
+
+    <item
+        class="com.lenovo.gallery.app.GalleryActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.browser.MainActivity"
+        name="browser"/>
+
+    <item
+        class="com.android.calendar.SplashActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.letv.android.compass.MainActivity"
+        name="compass"/>
+
+    <item
+        class="com.android.dialer.allContactsActivity"
+        name="dialer"/>
+
+    <item
+        class="com.letv.android.filemanager.activities.FileManagerActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.android.gallery3d.app.MainActivity"
+        name="gallery"/>
+
+    <item
+        class="com.android.music.ui.MusicBrowserActivity"
+        name="music"/>
+
+    <item
+        class="com.letv.android.note.NoteListActivity"
+        name="notes"/>
+
+    <item
+        class="com.letv.android.supermanager.activity.SplashActivity"
+        name="safe"/>
+
+    <item
+        class="com.android.videoplayer.PlayerPermissionActivity"
+        name="video"/>
+
+    <item
+        class="com.letv.android.recorder.mvp.recorder.view.RecorderActivity"
+        name="recorder"/>
+
+    <item
+        class="com.letv.android.remotecontrol.LaunchActivity"
+        name="remote_control"/>
+
+    <item
+        class="com.letv.android.themestore.base.activity.SplashActivity"
+        name="theme"/>
+
+    <item
+        class="com.letv.android.wallpaper.SplashActivity"
+        name="wallpaper"/>
+
+    <item
+        class="com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
+        name="read"/>
+
+    <item
+        class="com.opera.max.ui.v2.UltraLauncherActivity"
+        name="samsung_max"/>
+
+    <item
+        class="com.joey.fui.welcome.WelcomeActivity"
+        name="fui"/>
+
+    <item
+        class="com.linroid.zlive.screen.host.HostActivityThird"
+        name="zlive"/>
+
+    <item
+        class="com.lknntg.MainActivity"
+        name="tencent_nntg"/>
+
+    <item
+        class="com.machipopo.media17.StartActivity"
+        name="media17"/>
+
+    <item
+        class="com.material.dashboard.candybar.sample.activities.SplashActivity"
+        name="nature_iconpack"/>
+
+    <item
+        class="com.maxmpz.audioplayer.StartupActivity"
+        name="power_amp"/>
+
+    <item
+        class="com.modetime.pieplus.activities.SplashActivity"
+        name="pieplus"/>
+
+    <item
+        class="com.netease.g78.Launcher"
+        name="netease_moba"/>
+
+    <item
+        class="com.neusoft.ssp.botai.assistant.WelcomeActivity"
+        name="geely"/>
+
+    <item
+        class="com.nike.snkrs.feed.activities.TheWallActivity"
+        name="snkrs"/>
+
+    <item
+        class="com.panda.usecar.mvp.ui.main.MainActivity"
+        name="panda_usecar"/>
+
+    <item
+        class="com.shazam.android.activities.SplashActivity"
+        name="shazam"/>
+
+    <item
+        class="com.sing.client.activity.DummyActivity"
+        name="sing_client"/>
+
+    <item
+        class="com.socialin.android.photo.picsinphoto.MainPagerActivity"
+        name="picsart"/>
+
+    <item
+        class="com.spotify.music.MainActivity"
+        name="spotify"/>
+
+    <item
+        class="com.tencent.blackkey.frontend.adapters.sap.ApplicationActivity"
+        name="tencent_blackkey"/>
+
+    <item
+        class="com.tencent.gamehelper.ui.main.WelcomeActivity"
+        name="tencent_gamehelper_smoba"/>
+
+    <item
+        class="com.tuicool.activity.StartActivity"
+        name="tuicool"/>
+
+    <item
+        class="com.twitter.android.StartActivity"
+        name="twitter"/>
+
+    <item
+        class="com.wecut.anycam.WelcomeActivity"
+        name="poly"/>
+
+    <item
+        class="com.wei.account.activity.PasswordVerifyActivity"
+        name="account"/>
+
+    <item
+        class="com.wondershare.filmorago.activity.WelcomeActivity"
+        name="filmorago"/>
+
+    <item
+        class="com.x7890.shortcutcreator.AppListActivity"
+        name="shortcut_creater"/>
+
+    <item
+        class="com.xfx.surfvpn.LoadingActivity"
+        name="surfvpn"/>
+
+    <item
+        class="com.xiaoyi.car.camera.activity.SplashActivity"
+        name="xiaoyi_carcamera"/>
+
+    <item
+        class="com.xingse.app.pages.startup.SplashScreenActivity"
+        name="xingse"/>
+
+    <item
+        class="com.xjcheng.musictageditor.MainActivity"
+        name="music_tag_editor"/>
+
+    <item
+        class="com.yitong.gansu.mobilebank.android.activity.SplashActivity"
+        name="gansu_bank"/>
+
+    <item
+        class="com.zhiyoo.ui.MainActivity"
+        name="zhiyoo"/>
+
+    <item
+        class="com.ziipin.homeinn.activity.SplashActivity"
+        name="homeinn"/>
+
+    <item
+        class="de.robv.android.xposed.installer.WelcomeActivity"
+        name="xposed_installer"/>
+
+    <item
+        class="idm.internet.download.manager.MainActivity"
+        name="idm"/>
+
+    <item
+        class="jp.pxv.android.activity.RoutingActivity"
+        name="pixiv"/>
+
+    <item
+        class="mark.compass.CompassActivity"
+        name="copas"/>
+
+    <item
+        class="me.iacn.mbestyle.ui.activity.MainActivity"
+        name="mbestyle"/>
+
+    <item
+        class="mixiaba.com.Browser.ui.activities.splashScreen"
+        name="mixaiba_browser"/>
+
+    <item
+        class="moe.guo.lrcjaeger.LrcJaeger"
+        name="lrcjaeger"/>
+
+    <item
+        class="my.beautyCamera.PocoCamera"
+        name="beauty_camera"/>
+
+    <item
+        class="net.imeihua.anmei.MainActivity"
+        name="imeihua"/>
+
+    <item
+        class="net.xinhuamm.xianchangyun.mvp.ui.activity.WelcomeActivity"
+        name="xianchangyun"/>
+
+    <item
+        class="org.amalgam.laboratory.activity.SplashActivity"
+        name="leaf_vpn"/>
+
+    <item
+        class="org.cocos2dx.lua.AppActivity"
+        name="bit"/>
+
+    <item
+        class="org.telegram.ui.LaunchActivity"
+        name="telegreat"/>
+
+    <item
+        class="org.thunderdog.challegram.MainActivity"
+        name="telegreat_x"/>
+
+    <item
+        class="org.thunderdog.challegram.MainActivity"
+        name="telegram_x"/>
+
+    <item
+        class="us.pinguo.april.MainActivity"
+        name="pinguo_april"/>
+
+    <item
+        class="us.pinguo.mix.modules.splash.SplashActivity"
+        name="pinguo_mix"/>
+
+    <item
+        class="com.idsky.android.impl.ui.IdskySplashActivity"
+        name="subwaysurf"/>
 
 </appmap>

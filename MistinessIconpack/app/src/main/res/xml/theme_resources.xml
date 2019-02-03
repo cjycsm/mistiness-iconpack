@@ -965,7 +965,7 @@
 
     <AppIcon
         name="com.mdroid.read/com.mdroid.application.ui.welcome.WelcomeActivity"
-        image="lovereader"/>
+        image="loveread"/>
 
     <AppIcon
         name="com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain"
@@ -3494,5 +3494,293 @@
     <AppIcon
         name="com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.home.dynamic.HomeFrameActivity"
         image="xiaomi_vipaccount"/>
+
+    <AppIcon
+        name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.samsung.android.contacts/com.samsung.android.contacts.contactslist.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.motorola.camera2/com.motorola.camera.Camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.android.browser/com.android.browser.MainActivity"
+        image="browser"/>
+
+    <AppIcon
+        name="com.android.calendar/com.android.calendar.SplashActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.android.camera2/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.letv.android.compass/com.letv.android.compass.MainActivity"
+        image="compass"/>
+
+    <AppIcon
+        name="com.android.dialer/com.android.dialer.allContactsActivity"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.letv.android.filemanager/com.letv.android.filemanager.activities.FileManagerActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.MainActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.android.music/com.android.music.ui.MusicBrowserActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.letv.android.note/com.letv.android.note.NoteListActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="com.letv.android.supermanager/com.letv.android.supermanager.activity.SplashActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.letv.android.videoplayer/com.android.videoplayer.PlayerPermissionActivity"
+        image="video"/>
+
+    <AppIcon
+        name="com.letv.android.recorder/com.letv.android.recorder.mvp.recorder.view.RecorderActivity"
+        image="recorder"/>
+
+    <AppIcon
+        name="com.letv.android.remotecontrol/com.letv.android.remotecontrol.LaunchActivity"
+        image="remote_control"/>
+
+    <AppIcon
+        name="com.letv.android.themestore/com.letv.android.themestore.base.activity.SplashActivity"
+        image="theme"/>
+
+    <AppIcon
+        name="com.letv.android.wallpaperonline/com.letv.android.wallpaper.SplashActivity"
+        image="wallpaper"/>
+
+    <AppIcon
+        name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
+        image="read"/>
+
+    <AppIcon
+        name="com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity"
+        image="samsung_max"/>
+
+    <AppIcon
+        name="com.joey.fui/com.joey.fui.welcome.WelcomeActivity"
+        image="fui"/>
+
+    <AppIcon
+        name="com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird"
+        image="zlive"/>
+
+    <AppIcon
+        name="com.tencent.nntg.linekong/com.lknntg.MainActivity"
+        image="tencent_nntg"/>
+
+    <AppIcon
+        name="com.machipopo.media17/com.machipopo.media17.StartActivity"
+        image="media17"/>
+
+    <AppIcon
+        name="com.nature.iconpack/com.material.dashboard.candybar.sample.activities.SplashActivity"
+        image="nature_iconpack"/>
+
+    <AppIcon
+        name="com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity"
+        image="power_amp"/>
+
+    <AppIcon
+        name="com.modetime.pieplus/com.modetime.pieplus.activities.SplashActivity"
+        image="pieplus"/>
+
+    <AppIcon
+        name="com.netease.moba/com.netease.g78.Launcher"
+        image="netease_moba"/>
+
+    <AppIcon
+        name="com.neusoft.ssp.botai.assistant/com.neusoft.ssp.botai.assistant.WelcomeActivity"
+        image="geely"/>
+
+    <AppIcon
+        name="com.nike.snkrs/com.nike.snkrs.feed.activities.TheWallActivity"
+        image="snkrs"/>
+
+    <AppIcon
+        name="com.panda.usecar/com.panda.usecar.mvp.ui.main.MainActivity"
+        image="panda_usecar"/>
+
+    <AppIcon
+        name="com.shazam.android/com.shazam.android.activities.SplashActivity"
+        image="shazam"/>
+
+    <AppIcon
+        name="com.sing.client/com.sing.client.activity.DummyActivity"
+        image="sing_client"/>
+
+    <AppIcon
+        name="com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity"
+        image="picsart"/>
+
+    <AppIcon
+        name="com.spotify.music/com.spotify.music.MainActivity"
+        image="spotify"/>
+
+    <AppIcon
+        name="com.tencent.blackkey/com.tencent.blackkey.frontend.adapters.sap.ApplicationActivity"
+        image="tencent_blackkey"/>
+
+    <AppIcon
+        name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.WelcomeActivity"
+        image="tencent_gamehelper_smoba"/>
+
+    <AppIcon
+        name="com.tuicool.activity/com.tuicool.activity.StartActivity"
+        image="tuicool"/>
+
+    <AppIcon
+        name="com.twitter.android/com.twitter.android.StartActivity"
+        image="twitter"/>
+
+    <AppIcon
+        name="com.wecut.poly/com.wecut.anycam.WelcomeActivity"
+        image="poly"/>
+
+    <AppIcon
+        name="com.wei.account/com.wei.account.activity.PasswordVerifyActivity"
+        image="account"/>
+
+    <AppIcon
+        name="com.wondershare.filmorago/com.wondershare.filmorago.activity.WelcomeActivity"
+        image="filmorago"/>
+
+    <AppIcon
+        name="com.x7890.shortcutcreator/com.x7890.shortcutcreator.AppListActivity"
+        image="shortcut_creater"/>
+
+    <AppIcon
+        name="com.xfx.surfvpn/com.xfx.surfvpn.LoadingActivity"
+        image="surfvpn"/>
+
+    <AppIcon
+        name="com.xiaoyi.car.camera/com.xiaoyi.car.camera.activity.SplashActivity"
+        image="xiaoyi_carcamera"/>
+
+    <AppIcon
+        name="cn.danatech.xingseapp/com.xingse.app.pages.startup.SplashScreenActivity"
+        image="xingse"/>
+
+    <AppIcon
+        name="com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity"
+        image="music_tag_editor"/>
+
+    <AppIcon
+        name="com.yitong.gansu.mobilebank/com.yitong.gansu.mobilebank.android.activity.SplashActivity"
+        image="gansu_bank"/>
+
+    <AppIcon
+        name="com.zhiyoo/com.zhiyoo.ui.MainActivity"
+        image="zhiyoo"/>
+
+    <AppIcon
+        name="com.ziipin.homeinn/com.ziipin.homeinn.activity.SplashActivity"
+        image="homeinn"/>
+
+    <AppIcon
+        name="de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity"
+        image="xposed_installer"/>
+
+    <AppIcon
+        name="idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity"
+        image="idm"/>
+
+    <AppIcon
+        name="jp.pxv.android/jp.pxv.android.activity.RoutingActivity"
+        image="pixiv"/>
+
+    <AppIcon
+        name="mark.compass/mark.compass.CompassActivity"
+        image="copas"/>
+
+    <AppIcon
+        name="me.iacn.mbestyle/me.iacn.mbestyle.ui.activity.MainActivity"
+        image="mbestyle"/>
+
+    <AppIcon
+        name="mixiaba.com.Browser/mixiaba.com.Browser.ui.activities.splashScreen"
+        image="mixaiba_browser"/>
+
+    <AppIcon
+        name="moe.guo.lrcjaeger/moe.guo.lrcjaeger.LrcJaeger"
+        image="lrcjaeger"/>
+
+    <AppIcon
+        name="my.beautyCamera/my.beautyCamera.PocoCamera"
+        image="beauty_camera"/>
+
+    <AppIcon
+        name="net.imeihua.anmei/net.imeihua.anmei.MainActivity"
+        image="imeihua"/>
+
+    <AppIcon
+        name="com.xinhuamm.xianchangyun/net.xinhuamm.xianchangyun.mvp.ui.activity.WelcomeActivity"
+        image="xianchangyun"/>
+
+    <AppIcon
+        name="org.amalgam.laboratory/org.amalgam.laboratory.activity.SplashActivity"
+        image="leaf_vpn"/>
+
+    <AppIcon
+        name="com.kunpo.bit/org.cocos2dx.lua.AppActivity"
+        image="bit"/>
+
+    <AppIcon
+        name="taipei.sean.telegram.messenger.beta/org.telegram.ui.LaunchActivity"
+        image="telegreat"/>
+
+    <AppIcon
+        name="taipei.sean.challegram/org.thunderdog.challegram.MainActivity"
+        image="telegreat_x"/>
+
+    <AppIcon
+        name="org.thunderdog.challegram/org.thunderdog.challegram.MainActivity"
+        image="telegram_x"/>
+
+    <AppIcon
+        name="us.pinguo.april_collage/us.pinguo.april.MainActivity"
+        image="pinguo_april"/>
+
+    <AppIcon
+        name="com.pinguo.edit.sdk/us.pinguo.mix.modules.splash.SplashActivity"
+        image="pinguo_mix"/>
+
+    <AppIcon
+        name="com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity"
+        image="subwaysurf"/>
 
 </Theme>
