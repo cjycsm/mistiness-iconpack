@@ -2559,7 +2559,7 @@
 
     <item
         class="com.android.contacts.activities.DialtactsActivity"
-        name="contacts"/>
+        name="dialer"/>
 
     <item
         class="com.huawei.hidisk.filemanager.FileManager"
@@ -2627,7 +2627,7 @@
 
     <item
         class="com.android.contacts.activities.DialtactsActivity"
-        name="contacts"/>
+        name="dialer"/>
 
     <item
         class="com.fihtdc.filemanager.FileManager"
@@ -3231,7 +3231,7 @@
 
     <item
         class="com.android.dialer.DialtactsActivity"
-        name="contacts"/>
+        name="dialer"/>
 
     <item
         class="eu.thedarken.sdm.unlocker.MainActivity"
@@ -3287,7 +3287,7 @@
 
     <item
         class="com.android.contacts.DialtactsContactsEntryActivity"
-        name="contacts"/>
+        name="dialer"/>
 
     <item
         class="com.vivo.email.activity.Welcome"

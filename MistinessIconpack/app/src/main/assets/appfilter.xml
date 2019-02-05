@@ -2561,7 +2561,7 @@
 
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="contacts"/>
+        drawable="dialer"/>
 
     <item
         component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}"
@@ -2629,7 +2629,7 @@
 
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="contacts"/>
+        drawable="dialer"/>
 
     <item
         component="ComponentInfo{com.nbc.filemanager/com.fihtdc.filemanager.FileManager}"
@@ -3233,7 +3233,7 @@
 
     <item
         component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
-        drawable="contacts"/>
+        drawable="dialer"/>
 
     <item
         component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}"
@@ -3289,7 +3289,7 @@
 
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="contacts"/>
+        drawable="dialer"/>
 
     <item
         component="ComponentInfo{com.vivo.email/com.vivo.email.activity.Welcome}"

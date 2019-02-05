@@ -2565,7 +2565,7 @@
 
     <AppIcon
         name="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
-        image="contacts"/>
+        image="dialer"/>
 
     <AppIcon
         name="com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager"
@@ -2633,7 +2633,7 @@
 
     <AppIcon
         name="com.android.contacts/com.android.contacts.activities.DialtactsActivity"
-        image="contacts"/>
+        image="dialer"/>
 
     <AppIcon
         name="com.nbc.filemanager/com.fihtdc.filemanager.FileManager"
@@ -3237,7 +3237,7 @@
 
     <AppIcon
         name="com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
-        image="contacts"/>
+        image="dialer"/>
 
     <AppIcon
         name="eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity"
@@ -3293,7 +3293,7 @@
 
     <AppIcon
         name="com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity"
-        image="contacts"/>
+        image="dialer"/>
 
     <AppIcon
         name="com.vivo.email/com.vivo.email.activity.Welcome"
