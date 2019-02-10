@@ -20,6 +20,20 @@
 
 <resources>
 
+    <iconback img1="icon_back1"/>
+    <iconback img2="icon_back2"/>
+    <iconback img3="icon_back3"/>
+    <iconback img4="icon_back4"/>
+    <iconback img5="icon_back5"/>
+    <iconback img6="icon_back6"/>
+    <iconback img7="icon_back7"/>
+    <iconback img8="icon_back8"/>
+    <iconback img9="icon_back9"/>
+    <iconback img10="icon_back10"/>
+    <iconmask img1="icon_mask"/>
+
+    <scale factor="1.0"/>
+
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings"/>

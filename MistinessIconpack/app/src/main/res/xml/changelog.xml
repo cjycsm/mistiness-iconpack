@@ -15,8 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.1.8" />
-    <item text="新增图标66枚" />
-    <item text="重绘图标1枚" />
+    <version title="v1.1.9" />
+    <item text="增加未适配图标统一遮罩" />
+    <item text="修复部分ROM中<电话>应用显示<通讯录>图标的问题" />
     <item text="其他修复和改进" />
 </resources>
