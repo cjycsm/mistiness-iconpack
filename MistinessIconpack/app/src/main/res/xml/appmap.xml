@@ -3777,4 +3777,140 @@
         class="com.idsky.android.impl.ui.IdskySplashActivity"
         name="subwaysurf"/>
 
+    <item
+        class="com.smartisan.reader.activities.MainActivity_"
+        name="smartisan_reader"/>
+
+    <item
+        class="com.smartisan.flashim.main.activity.BulletMainActivity"
+        name="bullet_messenger_new"/>
+
+    <item
+        class="com.smartisan.bbs.activity.MainActivity_"
+        name="smartisan_bbs"/>
+
+    <item
+        class="com.smartisanos.appstore.AppStoreActivity"
+        name="appstore"/>
+
+    <item
+        class="com.smartisan.filemanager.MainActivity"
+        name="file_manager"/>
+
+    <item
+        class="om.smartisanos.gamestore.GameStoreActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.smartisanos.perspective.settings.SettingActivity"
+        name="smartisanos_perspective"/>
+
+    <item
+        class="com.smartisanos.weather.CityWeather"
+        name="weather"/>
+
+    <item
+        class="com.smartisanos.notes.NotesActivity"
+        name="smartisan_notes"/>
+
+    <item
+        class=" com.smartisanos.sidebar.setting.SettingActivity"
+        name="smartisanos_sidebar"/>
+
+    <item
+        class="com.smartisanos.sara.bubble.SettingActivity"
+        name="smartisanos_bubble"/>
+
+    <item
+        class="com.smartisanos.music.activities.MusicMain"
+        name="music"/>
+
+    <item
+        class="com.smartisanos.calculator.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.smartisanos.recorder.activity.RecorderRecordActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.smartisanos.cloudsync.AccountsActivityLauncher"
+        name="smartisanos_cloudsync"/>
+
+    <item
+        class="com.smartisan.accounts.MoverActivity"
+        name="smartisanos_cloudsync"/>
+
+    <item
+        class="com.coloros.flowmarket.MainActivity"
+        name="coloros_flowmarket"/>
+
+    <item
+        class="com.android.contacts.DialtactsActivityAlias"
+        name="contacts"/>
+
+    <item
+        class="com.kingsoft.email.activity.Welcome"
+        name="email"/>
+
+    <item
+        class="com.coloros.filemanager.Main"
+        name="file_manager"/>
+
+    <item
+        class="com.coloros.findphone.client.LoginActivity"
+        name="coloros_findphone"/>
+
+    <item
+        class="com.coloros.gamespace.activity.GameBoxActivity"
+        name="coloros_gamespace"/>
+
+    <item
+        class="com.coloros.onekeylockscreen.OppoLockScreen"
+        name="coloros_lockscreen"/>
+
+    <item
+        class="oppo.multimedia.soundrecorder.RecorderActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.coloros.ocrscanner.camera.CameraActivity"
+        name="qrcode_scanner"/>
+
+    <item
+        class="com.coloros.operationtips.activities.WelcomeActivity"
+        name="coloros_tips"/>
+
+    <item
+        class="com.coloros.speechassist.MainAccessActivity"
+        name="coloros_speechassist"/>
+
+    <item
+        class="com.yidian.news.ui.guide.UserGuideActivity"
+        name="yidian_news"/>
+
+    <item
+        class="com.yidian.xiaomi.ui.guide.UserGuideActivity"
+        name="yidian_news"/>
+
+    <item
+        class="com.yidian.news.ui.guide.UserGuideActivity"
+        name="yidian_news"/>
+
+    <item
+        class="com.qq.reader.activity.SplashActivity"
+        name="oppo_book"/>
+
+    <item
+        class="com.tencent.qqlive.ona.activity.WelcomeActivity"
+        name="video"/>
+
+    <item
+        class="com.chaozh.iReader.ui.activity.WelcomeActivity"
+        name="oppo_reader"/>
+
+    <item
+        class="com.sohu.sohuvideo.FirstNavigationActivityGroup"
+        name="souhu_video"/>
+
 </appmap>

@@ -15,8 +15,11 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.1.9" />
-    <item text="增加未适配图标统一遮罩" />
-    <item text="修复部分ROM中【电话】应用显示【通讯录】图标的问题" />
+    <version title="v1.2.0" />
+    <item text="新增图标16枚" />
+    <item text="重绘图标3枚" />
+    <item text="新增适配OPPO内置应用若干" />
+    <item text="新增适配锤子内置应用若干" />
+    <item text="移除未适配图标统一遮罩" />
     <item text="其他修复和改进" />
 </resources>

@@ -54,76 +54,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>tencent_nntg</item>
-        <item>netease_moba</item>
-        <item>bit</item>
-        <item>bit_alt</item>
-        <item>subwaysurf</item>
-        <item>fui</item>
-        <item>fui_alt</item>
-        <item>zlive</item>
-        <item>media17</item>
-        <item>media17_alt</item>
-        <item>nature_iconpack</item>
-        <item>power_amp</item>
-        <item>pieplus</item>
-        <item>geely</item>
-        <item>snkrs</item>
-        <item>panda_usecar</item>
-        <item>shazam</item>
-        <item>sing_client</item>
-        <item>picsart</item>
-        <item>spotify</item>
-        <item>spotify_alt</item>
-        <item>tencent_blackkey</item>
-        <item>tencent_blackkey_alt</item>
-        <item>tencent_gamehelper_smoba</item>
-        <item>tencent_gamehelper_smoba_alt</item>
-        <item>tuicool</item>
-        <item>twitter</item>
-        <item>poly</item>
-        <item>poly_alt</item>
-        <item>account</item>
-        <item>filmorago</item>
-        <item>filmorago_alt</item>
-        <item>shortcut_creater</item>
-        <item>surfvpn</item>
-        <item>xiaoyi_carcamera</item>
-        <item>xingse</item>
-        <item>xingse_alt1</item>
-        <item>xingse_alt2</item>
-        <item>xingse_alt3</item>
-        <item>music_tag_editor</item>
-        <item>gansu_bank</item>
-        <item>zhiyoo</item>
-        <item>homeinn</item>
-        <item>xposed_installer</item>
-        <item>xposed_installer_alt1</item>
-        <item>xposed_installer_alt2</item>
-        <item>xposed_installer_alt3</item>
-        <item>idm</item>
-        <item>pixiv</item>
-        <item>copas</item>
-        <item>copas_alt</item>
-        <item>mbestyle</item>
-        <item>mixaiba_browser</item>
-        <item>mixaiba_browser_alt</item>
-        <item>lrcjaeger</item>
-        <item>lrcjaeger_alt</item>
-        <item>beauty_camera</item>
-        <item>imeihua</item>
-        <item>xianchangyun</item>
-        <item>xianchangyun_alt</item>
-        <item>leaf_vpn</item>
-        <item>telegreat</item>
-        <item>telegreat_x</item>
-        <item>telegram_x</item>
-        <item>pinguo_april</item>
-        <item>pinguo_mix</item>
+        <item>smartisan_reader</item>
+        <item>smartisan_reader_alt</item>
+        <item>smartisan_bbs</item>
+        <item>smartisanos_perspective</item>
+        <item>smartisanos_sidebar</item>
+        <item>smartisanos_bubble</item>
+        <item>smartisanos_bubble_alt</item>
+        <item>smartisanos_cloudsync</item>
+        <item>coloros_flowmarket</item>
+        <item>coloros_lockscreen</item>
+        <item>coloros_tips</item>
+        <item>oppo_book</item>
+        <item>oppo_reader</item>
+        <item>bullet_messenger_new</item>
+        <item>yidian_news</item>
+        <item>souhu_video</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>telegram</item>
+        <item>file_manager</item>
+        <item>coloros_gamespace</item>
+        <item>qrcode_scanner</item>
     </string-array>
 
     <string-array name="application">
@@ -747,6 +699,9 @@
         <item>telegram_x</item>
         <item>pinguo_april</item>
         <item>pinguo_mix</item>
+        <item>bullet_messenger_new</item>
+        <item>yidian_news</item>
+        <item>souhu_video</item>
     </string-array>
 
     <string-array name="game">
@@ -802,6 +757,7 @@
         <item>mms</item>
         <item>music</item>
         <item>file_manager</item>
+        <item>file_manager_alt</item>
         <item>gallery</item>
         <item>appstore</item>
         <item>appstore_alt1</item>
@@ -874,6 +830,14 @@
     <string-array name="smartisan">
         <item>smartisan_notes</item>
         <item>handshaker</item>
+        <item>smartisan_reader</item>
+        <item>smartisan_reader_alt</item>
+        <item>smartisan_bbs</item>
+        <item>smartisanos_perspective</item>
+        <item>smartisanos_sidebar</item>
+        <item>smartisanos_bubble</item>
+        <item>smartisanos_bubble_alt</item>
+        <item>smartisanos_cloudsync</item>
     </string-array>
 
     <string-array name="samsung">
@@ -916,6 +880,11 @@
         <item>coloros_familyguard</item>
         <item>coloros_findphone</item>
         <item>oppo_ohome</item>
+        <item>coloros_flowmarket</item>
+        <item>coloros_lockscreen</item>
+        <item>coloros_tips</item>
+        <item>oppo_book</item>
+        <item>oppo_reader</item>
     </string-array>
 
 </resources>

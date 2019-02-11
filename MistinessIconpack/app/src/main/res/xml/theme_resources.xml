@@ -3783,4 +3783,140 @@
         name="com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity"
         image="subwaysurf"/>
 
+    <AppIcon
+        name="com.smartisan.reader/com.smartisan.reader.activities.MainActivity_"
+        image="smartisan_reader"/>
+
+    <AppIcon
+        name="com.bullet.messenger/com.smartisan.flashim.main.activity.BulletMainActivity"
+        image="bullet_messenger_new"/>
+
+    <AppIcon
+        name="com.smartisan.bbs/com.smartisan.bbs.activity.MainActivity_"
+        image="smartisan_bbs"/>
+
+    <AppIcon
+        name="com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity"
+        image="appstore"/>
+
+    <AppIcon
+        name="com.smartisanos.filemanager/com.smartisan.filemanager.MainActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.smartisanos.gamestore/om.smartisanos.gamestore.GameStoreActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.smartisanos.perspective/com.smartisanos.perspective.settings.SettingActivity"
+        image="smartisanos_perspective"/>
+
+    <AppIcon
+        name="com.smartisanos.weather/com.smartisanos.weather.CityWeather"
+        image="weather"/>
+
+    <AppIcon
+        name="com.smartisanos.notes/com.smartisanos.notes.NotesActivity"
+        image="smartisan_notes"/>
+
+    <AppIcon
+        name="com.smartisanos.sidebar/ com.smartisanos.sidebar.setting.SettingActivity"
+        image="smartisanos_sidebar"/>
+
+    <AppIcon
+        name="com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity"
+        image="smartisanos_bubble"/>
+
+    <AppIcon
+        name="com.smartisanos.music/com.smartisanos.music.activities.MusicMain"
+        image="music"/>
+
+    <AppIcon
+        name="com.smartisanos.calculator/com.smartisanos.calculator.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="com.smartisanos.recorder/com.smartisanos.recorder.activity.RecorderRecordActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.smartisanos.cloudsync/com.smartisanos.cloudsync.AccountsActivityLauncher"
+        image="smartisanos_cloudsync"/>
+
+    <AppIcon
+        name="com.smartisan.mover/com.smartisan.accounts.MoverActivity"
+        image="smartisanos_cloudsync"/>
+
+    <AppIcon
+        name="com.coloros.flowmarket/com.coloros.flowmarket.MainActivity"
+        image="coloros_flowmarket"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.DialtactsActivityAlias"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.android.email/com.kingsoft.email.activity.Welcome"
+        image="email"/>
+
+    <AppIcon
+        name="com.coloros.filemanager/com.coloros.filemanager.Main"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity"
+        image="coloros_findphone"/>
+
+    <AppIcon
+        name="com.coloros.gamespace/com.coloros.gamespace.activity.GameBoxActivity"
+        image="coloros_gamespace"/>
+
+    <AppIcon
+        name="com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen"
+        image="coloros_lockscreen"/>
+
+    <AppIcon
+        name="com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.coloros.ocrscanner/com.coloros.ocrscanner.camera.CameraActivity"
+        image="qrcode_scanner"/>
+
+    <AppIcon
+        name="com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity"
+        image="coloros_tips"/>
+
+    <AppIcon
+        name="com.coloros.speechassist/com.coloros.speechassist.MainAccessActivity"
+        image="coloros_speechassist"/>
+
+    <AppIcon
+        name="com.oppo.news/com.yidian.news.ui.guide.UserGuideActivity"
+        image="yidian_news"/>
+
+    <AppIcon
+        name="com.yidian.xiaomi/com.yidian.xiaomi.ui.guide.UserGuideActivity"
+        image="yidian_news"/>
+
+    <AppIcon
+        name="com.hipu.yidian/com.yidian.news.ui.guide.UserGuideActivity"
+        image="yidian_news"/>
+
+    <AppIcon
+        name="com.oppo.book/com.qq.reader.activity.SplashActivity"
+        image="oppo_book"/>
+
+    <AppIcon
+        name="com.tencent.tvoem/com.tencent.qqlive.ona.activity.WelcomeActivity"
+        image="video"/>
+
+    <AppIcon
+        name="com.oppo.reader/com.chaozh.iReader.ui.activity.WelcomeActivity"
+        image="oppo_reader"/>
+
+    <AppIcon
+        name="com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup"
+        image="souhu_video"/>
+
 </Theme>

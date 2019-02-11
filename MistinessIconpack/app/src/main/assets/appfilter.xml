@@ -20,18 +20,6 @@
 
 <resources>
 
-    <iconback img1="icon_back1"/>
-    <iconback img2="icon_back2"/>
-    <iconback img3="icon_back3"/>
-    <iconback img4="icon_back4"/>
-    <iconback img5="icon_back5"/>
-    <iconback img6="icon_back6"/>
-    <iconback img7="icon_back7"/>
-    <iconback img8="icon_back8"/>
-    <iconback img9="icon_back9"/>
-    <iconback img10="icon_back10"/>
-    <iconmask img1="icon_mask"/>
-
     <scale factor="1.0"/>
 
     <item
@@ -3764,5 +3752,141 @@
     <item
         component="ComponentInfo{com.kiloo.subwaysurf/com.idsky.android.impl.ui.IdskySplashActivity}"
         drawable="subwaysurf"/>
+
+    <item
+        component="ComponentInfo{com.smartisan.reader/com.smartisan.reader.activities.MainActivity_}"
+        drawable="smartisan_reader"/>
+
+    <item
+        component="ComponentInfo{com.bullet.messenger/com.smartisan.flashim.main.activity.BulletMainActivity}"
+        drawable="bullet_messenger_new"/>
+
+    <item
+        component="ComponentInfo{com.smartisan.bbs/com.smartisan.bbs.activity.MainActivity_}"
+        drawable="smartisan_bbs"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.appstore/com.smartisanos.appstore.AppStoreActivity}"
+        drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.filemanager/com.smartisan.filemanager.MainActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.gamestore/om.smartisanos.gamestore.GameStoreActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.perspective/com.smartisanos.perspective.settings.SettingActivity}"
+        drawable="smartisanos_perspective"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.weather/com.smartisanos.weather.CityWeather}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.notes/com.smartisanos.notes.NotesActivity}"
+        drawable="smartisan_notes"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.sidebar/ com.smartisanos.sidebar.setting.SettingActivity}"
+        drawable="smartisanos_sidebar"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.sara/com.smartisanos.sara.bubble.SettingActivity}"
+        drawable="smartisanos_bubble"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.music/com.smartisanos.music.activities.MusicMain}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.calculator/com.smartisanos.calculator.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.recorder/com.smartisanos.recorder.activity.RecorderRecordActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.cloudsync/com.smartisanos.cloudsync.AccountsActivityLauncher}"
+        drawable="smartisanos_cloudsync"/>
+
+    <item
+        component="ComponentInfo{com.smartisan.mover/com.smartisan.accounts.MoverActivity}"
+        drawable="smartisanos_cloudsync"/>
+
+    <item
+        component="ComponentInfo{com.coloros.flowmarket/com.coloros.flowmarket.MainActivity}"
+        drawable="coloros_flowmarket"/>
+
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.coloros.findphone.client/com.coloros.findphone.client.LoginActivity}"
+        drawable="coloros_findphone"/>
+
+    <item
+        component="ComponentInfo{com.coloros.gamespace/com.coloros.gamespace.activity.GameBoxActivity}"
+        drawable="coloros_gamespace"/>
+
+    <item
+        component="ComponentInfo{com.coloros.onekeylockscreen/com.coloros.onekeylockscreen.OppoLockScreen}"
+        drawable="coloros_lockscreen"/>
+
+    <item
+        component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.coloros.ocrscanner/com.coloros.ocrscanner.camera.CameraActivity}"
+        drawable="qrcode_scanner"/>
+
+    <item
+        component="ComponentInfo{com.coloros.operationtips/com.coloros.operationtips.activities.WelcomeActivity}"
+        drawable="coloros_tips"/>
+
+    <item
+        component="ComponentInfo{com.coloros.speechassist/com.coloros.speechassist.MainAccessActivity}"
+        drawable="coloros_speechassist"/>
+
+    <item
+        component="ComponentInfo{com.oppo.news/com.yidian.news.ui.guide.UserGuideActivity}"
+        drawable="yidian_news"/>
+
+    <item
+        component="ComponentInfo{com.yidian.xiaomi/com.yidian.xiaomi.ui.guide.UserGuideActivity}"
+        drawable="yidian_news"/>
+
+    <item
+        component="ComponentInfo{com.hipu.yidian/com.yidian.news.ui.guide.UserGuideActivity}"
+        drawable="yidian_news"/>
+
+    <item
+        component="ComponentInfo{com.oppo.book/com.qq.reader.activity.SplashActivity}"
+        drawable="oppo_book"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tvoem/com.tencent.qqlive.ona.activity.WelcomeActivity}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.oppo.reader/com.chaozh.iReader.ui.activity.WelcomeActivity}"
+        drawable="oppo_reader"/>
+
+    <item
+        component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup}"
+        drawable="souhu_video"/>
 
 </resources>
