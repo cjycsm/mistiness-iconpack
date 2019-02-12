@@ -3913,4 +3913,120 @@
         class="com.sohu.sohuvideo.FirstNavigationActivityGroup"
         name="souhu_video"/>
 
+    <item
+        class="com.android.calendar.LaunchTasksActivity"
+        name="calendar"/>
+
+    <item
+        class="com.lge.camera.CameraAppLauncher"
+        name="camera"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="com.lge.clock.AlarmClockActivity"
+        name="clock"/>
+
+    <item
+        class="com.android.gallery3d.app.Gallery"
+        name="gallery"/>
+
+    <item
+        class="com.lge.hifirecorder.LaunchHifiRecorder"
+        name="sound_recorder"/>
+
+    <item
+        class="com.lge.bnr.launcher.BNRLauncherActivity"
+        name="backup"/>
+
+    <item
+        class="com.lge.music.MusicBrowserActivity"
+        name="music"/>
+
+    <item
+        class="com.lge.qmemoplus.ui.main.MainActivity"
+        name="notes"/>
+
+    <item
+        class="com.lge.phonemanagement.ui.MainActivity"
+        name="safe"/>
+
+    <item
+        class="com.lge.updatecenter.UpdateCenterPrfActivity"
+        name="update"/>
+
+    <item
+        class="com.agilebits.onepassword.activity.LoginActivity"
+        name="onepassword"/>
+
+    <item
+        class="com.qihoo.cloudisk.base.SplashActivity"
+        name="qihoo_cloudisk"/>
+
+    <item
+        class="com.qihoo.browser.launcher.LauncherActivity"
+        name="qihu_browser"/>
+
+    <item
+        class="com.eve.habit.acty.SplashActivity"
+        name="eve_habit"/>
+
+    <item
+        class="com.unity3d.player.UnityPlayerActivity"
+        name="abi"/>
+
+    <item
+        class="com.mokee.aegis.activities.ManagePermissionsActivity"
+        name="aegis"/>
+
+    <item
+        class="com.formagrid.airtable.activity.HomescreenActivity"
+        name="airtable"/>
+
+    <item
+        class="com.immusician.unity.UnityPlayerActivity"
+        name="ai_musician"/>
+
+    <item
+        class="com.huami.watch.companion.ui.MainActivity"
+        name="amazfit"/>
+
+    <item
+        class="remix.myplayer.ui.activity.MainActivity"
+        name="aplayer"/>
+
+    <item
+        class="com.aloggers.atimeloggerapp.ui.MainActivity"
+        name="atimelogger"/>
+
+    <item
+        class="com.videoapp.avgo.MainActivity"
+        name="avgo"/>
+
+    <item
+        class="com.avnight.LandingActivity"
+        name="avnight"/>
+
+    <item
+        class="com.backdrops.wallpapers.WelcomeActivity"
+        name="backdrops"/>
+
+    <item
+        class="com.njh.ping.core.business.LauncherActivity"
+        name="biubiu"/>
+
+    <item
+        class="com.facebook.katana.LoginActivity"
+        name="facebook"/>
+
+    <item
+        class="com.moviemmapp.MainActivity"
+        name="avbobo"/>
+
+    <item
+        class="cmb.pb.mainframe.PBEntryActivity"
+        name="cmb"/>
+
 </appmap>

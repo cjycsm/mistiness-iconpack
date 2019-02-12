@@ -3889,4 +3889,120 @@
         component="ComponentInfo{com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup}"
         drawable="souhu_video"/>
 
+    <item
+        component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCamerb/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.lge.bnr.launcher/com.lge.bnr.launcher.BNRLauncherActivity}"
+        drawable="backup"/>
+
+    <item
+        component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{com.lge.phonemanagement/com.lge.phonemanagement.ui.MainActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.lge.updatecenter/com.lge.updatecenter.UpdateCenterPrfActivity}"
+        drawable="update"/>
+
+    <item
+        component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}"
+        drawable="onepassword"/>
+
+    <item
+        component="ComponentInfo{com.qihoo.cloudisk/com.qihoo.cloudisk.base.SplashActivity}"
+        drawable="qihoo_cloudisk"/>
+
+    <item
+        component="ComponentInfo{com.qihoo.browser/com.qihoo.browser.launcher.LauncherActivity}"
+        drawable="qihu_browser"/>
+
+    <item
+        component="ComponentInfo{com.eve.habit/com.eve.habit.acty.SplashActivity}"
+        drawable="eve_habit"/>
+
+    <item
+        component="ComponentInfo{com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity}"
+        drawable="abi"/>
+
+    <item
+        component="ComponentInfo{com.mokee.aegis/com.mokee.aegis.activities.ManagePermissionsActivity}"
+        drawable="aegis"/>
+
+    <item
+        component="ComponentInfo{com.formagrid.airtable/com.formagrid.airtable.activity.HomescreenActivity}"
+        drawable="airtable"/>
+
+    <item
+        component="ComponentInfo{com.immusician.music/com.immusician.unity.UnityPlayerActivity}"
+        drawable="ai_musician"/>
+
+    <item
+        component="ComponentInfo{com.huami.watch.hmwatchmanager/com.huami.watch.companion.ui.MainActivity}"
+        drawable="amazfit"/>
+
+    <item
+        component="ComponentInfo{remix.myplayer/remix.myplayer.ui.activity.MainActivity}"
+        drawable="aplayer"/>
+
+    <item
+        component="ComponentInfo{com.aloggers.atimeloggerapp/com.aloggers.atimeloggerapp.ui.MainActivity}"
+        drawable="atimelogger"/>
+
+    <item
+        component="ComponentInfo{com.videoapp.avgo/com.videoapp.avgo.MainActivity}"
+        drawable="avgo"/>
+
+    <item
+        component="ComponentInfo{com.avnight/com.avnight.LandingActivity}"
+        drawable="avnight"/>
+
+    <item
+        component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}"
+        drawable="backdrops"/>
+
+    <item
+        component="ComponentInfo{com.njh.biubiu/com.njh.ping.core.business.LauncherActivity}"
+        drawable="biubiu"/>
+
+    <item
+        component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}"
+        drawable="facebook"/>
+
+    <item
+        component="ComponentInfo{com.moviemmapp/com.moviemmapp.MainActivity}"
+        drawable="avbobo"/>
+
+    <item
+        component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}"
+        drawable="cmb"/>
+
 </resources>

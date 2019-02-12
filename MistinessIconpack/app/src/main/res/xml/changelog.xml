@@ -15,11 +15,8 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.2.0" />
-    <item text="新增图标16枚" />
-    <item text="重绘图标3枚" />
-    <item text="新增适配OPPO内置应用若干" />
-    <item text="新增适配锤子内置应用若干" />
-    <item text="移除未适配图标统一遮罩" />
+    <version title="v1.2.1" />
+    <item text="新增图标20枚" />
+    <item text="新增适配LG内置应用若干" />
     <item text="其他修复和改进" />
 </resources>

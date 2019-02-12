@@ -54,28 +54,30 @@
     </string-array>
 
     <string-array name="newest">
-        <item>smartisan_reader</item>
-        <item>smartisan_reader_alt</item>
-        <item>smartisan_bbs</item>
-        <item>smartisanos_perspective</item>
-        <item>smartisanos_sidebar</item>
-        <item>smartisanos_bubble</item>
-        <item>smartisanos_bubble_alt</item>
-        <item>smartisanos_cloudsync</item>
-        <item>coloros_flowmarket</item>
-        <item>coloros_lockscreen</item>
-        <item>coloros_tips</item>
-        <item>oppo_book</item>
-        <item>oppo_reader</item>
-        <item>bullet_messenger_new</item>
-        <item>yidian_news</item>
-        <item>souhu_video</item>
+        <item>abi</item>
+        <item>onepassword</item>
+        <item>onepassword_alt</item>
+        <item>qihoo_cloudisk</item>
+        <item>qihu_browser</item>
+        <item>eve_habit</item>
+        <item>aegis</item>
+        <item>airtable</item>
+        <item>ai_musician</item>
+        <item>amazfit</item>
+        <item>amazfit_alt</item>
+        <item>aplayer</item>
+        <item>atimelogger</item>
+        <item>avgo</item>
+        <item>avnight</item>
+        <item>backdrops</item>
+        <item>biubiu</item>
+        <item>facebook</item>
+        <item>facebook_alt</item>
+        <item>avbobo</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>file_manager</item>
-        <item>coloros_gamespace</item>
-        <item>qrcode_scanner</item>
+
     </string-array>
 
     <string-array name="application">
@@ -702,6 +704,25 @@
         <item>bullet_messenger_new</item>
         <item>yidian_news</item>
         <item>souhu_video</item>
+        <item>onepassword</item>
+        <item>onepassword_alt</item>
+        <item>qihoo_cloudisk</item>
+        <item>qihu_browser</item>
+        <item>eve_habit</item>
+        <item>aegis</item>
+        <item>airtable</item>
+        <item>ai_musician</item>
+        <item>amazfit</item>
+        <item>amazfit_alt</item>
+        <item>aplayer</item>
+        <item>atimelogger</item>
+        <item>avgo</item>
+        <item>avnight</item>
+        <item>backdrops</item>
+        <item>biubiu</item>
+        <item>facebook</item>
+        <item>facebook_alt</item>
+        <item>avbobo</item>
     </string-array>
 
     <string-array name="game">
@@ -735,6 +756,7 @@
         <item>bit</item>
         <item>bit_alt</item>
         <item>subwaysurf</item>
+        <item>abi</item>
     </string-array>
 
     <string-array name="basic">

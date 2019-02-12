@@ -19,10 +19,11 @@
   -->
 
 <resources>
-    <version>51</version>
+    <version>52</version>
 
     <category title="All"/>
     <item drawable="abc"/>
+    <item drawable="abi"/>
     <item drawable="account"/>
     <item drawable="accubattery"/>
     <item drawable="acfun"/>
@@ -30,16 +31,21 @@
     <item drawable="adm_pro"/>
     <item drawable="adobe_reader"/>
     <item drawable="adsk_sketchbook"/>
+    <item drawable="aegis"/>
     <item drawable="aeroblast_iconpack"/>
     <item drawable="agoda"/>
+    <item drawable="ai_musician"/>
     <item drawable="airbnb"/>
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
+    <item drawable="airtable"/>
     <item drawable="alibaba"/>
     <item drawable="alipay"/>
     <item drawable="aloha"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
+    <item drawable="amazfit"/>
+    <item drawable="amazfit_alt"/>
     <item drawable="amazon"/>
     <item drawable="amp"/>
     <item drawable="ampere"/>
@@ -48,6 +54,7 @@
     <item drawable="antutu"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
+    <item drawable="aplayer"/>
     <item drawable="apple_music"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
@@ -56,11 +63,16 @@
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
+    <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
     <item drawable="auto_js"/>
     <item drawable="autohome"/>
+    <item drawable="avbobo"/>
+    <item drawable="avgo"/>
+    <item drawable="avnight"/>
     <item drawable="away_from_mobile"/>
     <item drawable="b612"/>
+    <item drawable="backdrops"/>
     <item drawable="backup"/>
     <item drawable="baicizhan"/>
     <item drawable="baidu"/>
@@ -86,6 +98,7 @@
     <item drawable="bingdic"/>
     <item drawable="bit"/>
     <item drawable="bit_alt"/>
+    <item drawable="biubiu"/>
     <item drawable="bjnews"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
@@ -211,16 +224,20 @@
     <item drawable="email"/>
     <item drawable="email_alt"/>
     <item drawable="emore"/>
+    <item drawable="emoticon_creater"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
     <item drawable="etao"/>
     <item drawable="eudic"/>
+    <item drawable="eve_habit"/>
     <item drawable="evernote"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_vpn"/>
     <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
+    <item drawable="facebook"/>
+    <item drawable="facebook_alt"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
     <item drawable="feedback"/>
@@ -478,6 +495,8 @@
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="one_diary"/>
+    <item drawable="onepassword"/>
+    <item drawable="onepassword_alt"/>
     <item drawable="oneplus_backuprestore"/>
     <item drawable="oneplus_bbs"/>
     <item drawable="oneplus_card"/>
@@ -530,7 +549,9 @@
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
     <item drawable="qihoo_antivirus"/>
+    <item drawable="qihoo_cloudisk"/>
     <item drawable="qihoo_mobile_safe"/>
+    <item drawable="qihu_browser"/>
     <item drawable="qq"/>
     <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>

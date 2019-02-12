@@ -3919,4 +3919,120 @@
         name="com.sohu.sohuvideo/com.sohu.sohuvideo.FirstNavigationActivityGroup"
         image="souhu_video"/>
 
+    <AppIcon
+        name="com.android.calendar/com.android.calendar.LaunchTasksActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.lge.camera/com.lge.camera.CameraAppLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.google.android.GoogleCamerb/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+
+    <AppIcon
+        name="com.lge.clock/com.lge.clock.AlarmClockActivity"
+        image="clock"/>
+
+    <AppIcon
+        name="com.android.gallery3d/com.android.gallery3d.app.Gallery"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.lge.bnr.launcher/com.lge.bnr.launcher.BNRLauncherActivity"
+        image="backup"/>
+
+    <AppIcon
+        name="com.lge.music/com.lge.music.MusicBrowserActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="com.lge.phonemanagement/com.lge.phonemanagement.ui.MainActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.lge.updatecenter/com.lge.updatecenter.UpdateCenterPrfActivity"
+        image="update"/>
+
+    <AppIcon
+        name="com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity"
+        image="onepassword"/>
+
+    <AppIcon
+        name="com.qihoo.cloudisk/com.qihoo.cloudisk.base.SplashActivity"
+        image="qihoo_cloudisk"/>
+
+    <AppIcon
+        name="com.qihoo.browser/com.qihoo.browser.launcher.LauncherActivity"
+        image="qihu_browser"/>
+
+    <AppIcon
+        name="com.eve.habit/com.eve.habit.acty.SplashActivity"
+        image="eve_habit"/>
+
+    <AppIcon
+        name="com.Lilith.Abi/com.unity3d.player.UnityPlayerActivity"
+        image="abi"/>
+
+    <AppIcon
+        name="com.mokee.aegis/com.mokee.aegis.activities.ManagePermissionsActivity"
+        image="aegis"/>
+
+    <AppIcon
+        name="com.formagrid.airtable/com.formagrid.airtable.activity.HomescreenActivity"
+        image="airtable"/>
+
+    <AppIcon
+        name="com.immusician.music/com.immusician.unity.UnityPlayerActivity"
+        image="ai_musician"/>
+
+    <AppIcon
+        name="com.huami.watch.hmwatchmanager/com.huami.watch.companion.ui.MainActivity"
+        image="amazfit"/>
+
+    <AppIcon
+        name="remix.myplayer/remix.myplayer.ui.activity.MainActivity"
+        image="aplayer"/>
+
+    <AppIcon
+        name="com.aloggers.atimeloggerapp/com.aloggers.atimeloggerapp.ui.MainActivity"
+        image="atimelogger"/>
+
+    <AppIcon
+        name="com.videoapp.avgo/com.videoapp.avgo.MainActivity"
+        image="avgo"/>
+
+    <AppIcon
+        name="com.avnight/com.avnight.LandingActivity"
+        image="avnight"/>
+
+    <AppIcon
+        name="com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity"
+        image="backdrops"/>
+
+    <AppIcon
+        name="com.njh.biubiu/com.njh.ping.core.business.LauncherActivity"
+        image="biubiu"/>
+
+    <AppIcon
+        name="com.facebook.katana/com.facebook.katana.LoginActivity"
+        image="facebook"/>
+
+    <AppIcon
+        name="com.moviemmapp/com.moviemmapp.MainActivity"
+        image="avbobo"/>
+
+    <AppIcon
+        name="cmb.pb/cmb.pb.mainframe.PBEntryActivity"
+        image="cmb"/>
+
 </Theme>

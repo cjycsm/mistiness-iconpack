@@ -4,7 +4,7 @@ path=./MistinessIconpack/app/src/main/res/drawable-nodpi
 files=$(ls $path)
 for filename in $files
 do
-	if [ $filename == "header_image.png" ] || [ $filename == "app_logo.png" ] || [[ $filename =~ "dynamic_" ]] || [[ $filename =~ "clock_" ]] || [[ $filename =~ "icon_" ]] ; then
+	if [ $filename == "header_image.png" ] || [ $filename == "app_logo.png" ] || [[ $filename =~ "dynamic_" ]] || [[ $filename =~ "clock_" ]]; then
 		continue
 	fi
 	echo "<item drawable=\"${filename%.*}\"/>" >> drawable.txt
