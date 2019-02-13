@@ -54,26 +54,24 @@
     </string-array>
 
     <string-array name="newest">
-        <item>abi</item>
-        <item>onepassword</item>
-        <item>onepassword_alt</item>
-        <item>qihoo_cloudisk</item>
-        <item>qihu_browser</item>
-        <item>eve_habit</item>
-        <item>aegis</item>
-        <item>airtable</item>
-        <item>ai_musician</item>
-        <item>amazfit</item>
-        <item>amazfit_alt</item>
-        <item>aplayer</item>
-        <item>atimelogger</item>
-        <item>avgo</item>
-        <item>avnight</item>
-        <item>backdrops</item>
-        <item>biubiu</item>
-        <item>facebook</item>
-        <item>facebook_alt</item>
-        <item>avbobo</item>
+        <item>bosszhipin</item>
+        <item>cimoc</item>
+        <item>csdn</item>
+        <item>dropbox</item>
+        <item>microsoft_emmx</item>
+        <item>edgeaction</item>
+        <item>emui_themeeditor</item>
+        <item>fasthub</item>
+        <item>fasthub_alt</item>
+        <item>feendly</item>
+        <item>flamingo</item>
+        <item>floatify</item>
+        <item>fusionapp</item>
+        <item>fx</item>
+        <item>fx_alt</item>
+        <item>gemini_iconpack</item>
+        <item>gsv</item>
+        <item>gsv_alt</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -723,6 +721,24 @@
         <item>facebook</item>
         <item>facebook_alt</item>
         <item>avbobo</item>
+        <item>bosszhipin</item>
+        <item>cimoc</item>
+        <item>csdn</item>
+        <item>dropbox</item>
+        <item>microsoft_emmx</item>
+        <item>edgeaction</item>
+        <item>emui_themeeditor</item>
+        <item>fasthub</item>
+        <item>fasthub_alt</item>
+        <item>feendly</item>
+        <item>flamingo</item>
+        <item>floatify</item>
+        <item>fusionapp</item>
+        <item>fx</item>
+        <item>fx_alt</item>
+        <item>gemini_iconpack</item>
+        <item>gsv</item>
+        <item>gsv_alt</item>
     </string-array>
 
     <string-array name="game">

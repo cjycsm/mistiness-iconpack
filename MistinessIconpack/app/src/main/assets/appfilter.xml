@@ -4005,4 +4005,72 @@
         component="ComponentInfo{cmb.pb/cmb.pb.mainframe.PBEntryActivity}"
         drawable="cmb"/>
 
+    <item
+        component="ComponentInfo{com.hpbr.bosszhipin/com.hpbr.bosszhipin.module.launcher.WelcomeActivity}"
+        drawable="bosszhipin"/>
+
+    <item
+        component="ComponentInfo{com.hiroshi.cimoc/com.hiroshi.cimoc.ui.activity.MainActivity}"
+        drawable="cimoc"/>
+
+    <item
+        component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.MainActivity}"
+        drawable="csdn"/>
+
+    <item
+        component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}"
+        drawable="dropbox"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.emmx/com.microsoft.ruby.Main}"
+        drawable="microsoft_emmx"/>
+
+    <item
+        component="ComponentInfo{com.edgescreen.edgeaction/com.edgescreen.edgeaction.ui.splash.SplashScene}"
+        drawable="edgeaction"/>
+
+    <item
+        component="ComponentInfo{com.mixapplications.themeeditor/com.mixapplications.themeeditor.MainActivity}"
+        drawable="emui_themeeditor"/>
+
+    <item
+        component="ComponentInfo{com.fastaccess.github/com.fastaccess.ui.modules.main.MainActivity}"
+        drawable="fasthub"/>
+
+    <item
+        component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}"
+        drawable="feendly"/>
+
+    <item
+        component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}"
+        drawable="flamingo"/>
+
+    <item
+        component="ComponentInfo{com.jamworks.floatify/com.jamworks.floatify.SettingsHome}"
+        drawable="floatify"/>
+
+    <item
+        component="ComponentInfo{cn.coldsong.fusionapp/com.androlua.Welcome}"
+        drawable="fusionapp"/>
+
+    <item
+        component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}"
+        drawable="fx"/>
+
+    <item
+        component="ComponentInfo{com.clydeshenry.iconpack.gemini.s/com.clydeshenry.iconpack.gemini.s.activities.SplashActivity}"
+        drawable="gemini_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.clydeshenry.iconpack.gemini/com.clydeshenry.iconpack.gemini.activities.SplashActivity}"
+        drawable="gemini_iconpack"/>
+
+    <item
+        component="ComponentInfo{cn.gen.gsv2/cn.gen.gsv2.SplashActivity}"
+        drawable="gsv"/>
+
+    <item
+        component="ComponentInfo{com.moviemmapp/com.moviemmapp.SplashActivity}"
+        drawable="avbobo"/>
+
 </resources>

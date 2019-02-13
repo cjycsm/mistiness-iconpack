@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>52</version>
+    <version>53</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -104,6 +104,7 @@
     <item drawable="blued"/>
     <item drawable="boc"/>
     <item drawable="booking"/>
+    <item drawable="bosszhipin"/>
     <item drawable="brakefield_painter"/>
     <item drawable="brevent"/>
     <item drawable="bridge_iconpack"/>
@@ -141,6 +142,7 @@
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="chunyu_doctor"/>
+    <item drawable="cimoc"/>
     <item drawable="circlemi_iconpack"/>
     <item drawable="citic"/>
     <item drawable="cjkcb"/>
@@ -177,6 +179,7 @@
     <item drawable="copas_alt"/>
     <item drawable="cpu_z"/>
     <item drawable="credit_card_manager"/>
+    <item drawable="csdn"/>
     <item drawable="ctfile"/>
     <item drawable="ctrip"/>
     <item drawable="cutisan"/>
@@ -207,6 +210,7 @@
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
     <item drawable="drawer_header"/>
+    <item drawable="dropbox"/>
     <item drawable="du"/>
     <item drawable="duokan"/>
     <item drawable="duolinguo"/>
@@ -218,6 +222,7 @@
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
     <item drawable="edge_lighting"/>
+    <item drawable="edgeaction"/>
     <item drawable="ehviewer"/>
     <item drawable="ele"/>
     <item drawable="elong"/>
@@ -225,6 +230,7 @@
     <item drawable="email_alt"/>
     <item drawable="emore"/>
     <item drawable="emoticon_creater"/>
+    <item drawable="emui_themeeditor"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
     <item drawable="etao"/>
@@ -240,8 +246,11 @@
     <item drawable="facebook_alt"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
+    <item drawable="fasthub"/>
+    <item drawable="fasthub_alt"/>
     <item drawable="feedback"/>
     <item drawable="feedback_alt"/>
+    <item drawable="feendly"/>
     <item drawable="fenbi_gaozhong"/>
     <item drawable="fenbi_servant"/>
     <item drawable="fenbi_solar"/>
@@ -252,8 +261,10 @@
     <item drawable="filmorago_alt"/>
     <item drawable="firefox"/>
     <item drawable="fivehundredpx"/>
+    <item drawable="flamingo"/>
     <item drawable="flight_manager"/>
     <item drawable="flipboard"/>
+    <item drawable="floatify"/>
     <item drawable="floating"/>
     <item drawable="fluid"/>
     <item drawable="flyme_roamingpay"/>
@@ -266,6 +277,9 @@
     <item drawable="fotor_alt2"/>
     <item drawable="fui"/>
     <item drawable="fui_alt"/>
+    <item drawable="fusionapp"/>
+    <item drawable="fx"/>
+    <item drawable="fx_alt"/>
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecenter_alt"/>
@@ -274,6 +288,7 @@
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="geely"/>
+    <item drawable="gemini_iconpack"/>
     <item drawable="geometric_weather"/>
     <item drawable="gifpaser"/>
     <item drawable="glass"/>
@@ -296,6 +311,8 @@
     <item drawable="google_voice"/>
     <item drawable="greenify"/>
     <item drawable="gspace"/>
+    <item drawable="gsv"/>
+    <item drawable="gsv_alt"/>
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guokr"/>
@@ -435,6 +452,7 @@
     <item drawable="mfw"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
+    <item drawable="microsoft_emmx"/>
     <item drawable="microsoft_excel"/>
     <item drawable="microsoft_launcher"/>
     <item drawable="microsoft_lens"/>

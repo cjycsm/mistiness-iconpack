@@ -4029,4 +4029,72 @@
         class="cmb.pb.mainframe.PBEntryActivity"
         name="cmb"/>
 
+    <item
+        class="com.hpbr.bosszhipin.module.launcher.WelcomeActivity"
+        name="bosszhipin"/>
+
+    <item
+        class="com.hiroshi.cimoc.ui.activity.MainActivity"
+        name="cimoc"/>
+
+    <item
+        class="net.csdn.csdnplus.activity.MainActivity"
+        name="csdn"/>
+
+    <item
+        class="com.dropbox.android.activity.DropboxBrowser"
+        name="dropbox"/>
+
+    <item
+        class="com.microsoft.ruby.Main"
+        name="microsoft_emmx"/>
+
+    <item
+        class="com.edgescreen.edgeaction.ui.splash.SplashScene"
+        name="edgeaction"/>
+
+    <item
+        class="com.mixapplications.themeeditor.MainActivity"
+        name="emui_themeeditor"/>
+
+    <item
+        class="com.fastaccess.ui.modules.main.MainActivity"
+        name="fasthub"/>
+
+    <item
+        class="com.devhd.feedly.Main"
+        name="feendly"/>
+
+    <item
+        class="com.samruston.twitter.Launcher1"
+        name="flamingo"/>
+
+    <item
+        class="com.jamworks.floatify.SettingsHome"
+        name="floatify"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="fusionapp"/>
+
+    <item
+        class="nextapp.fx.ui.ExplorerActivity"
+        name="fx"/>
+
+    <item
+        class="com.clydeshenry.iconpack.gemini.s.activities.SplashActivity"
+        name="gemini_iconpack"/>
+
+    <item
+        class="com.clydeshenry.iconpack.gemini.activities.SplashActivity"
+        name="gemini_iconpack"/>
+
+    <item
+        class="cn.gen.gsv2.SplashActivity"
+        name="gsv"/>
+
+    <item
+        class="com.moviemmapp.SplashActivity"
+        name="avbobo"/>
+
 </appmap>

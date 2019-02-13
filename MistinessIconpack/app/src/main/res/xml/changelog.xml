@@ -15,8 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.2.1" />
-    <item text="新增图标20枚" />
-    <item text="新增适配LG内置应用若干" />
+    <version title="v1.2.2" />
+    <item text="新增图标18枚" />
     <item text="其他修复和改进" />
 </resources>

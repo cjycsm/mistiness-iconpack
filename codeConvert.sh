@@ -1,7 +1,7 @@
 #!/bin/bash
 
 IFS=","
-while read name icon group activity type
+while read name icon group activity type action
 do
 	echo "<item
 	component=\"ComponentInfo{$group/$activity}\"
@@ -17,6 +17,10 @@ do
 	name=\"$group/$activity\"
 	image=\"$icon\"/>
 	" >> "theme.txt"
+
+	if ! [[ $action =~ "新增" ]]; then
+		continue
+	fi
 
 	echo "<item>$icon</item>" >> "$type.txt"
 	
