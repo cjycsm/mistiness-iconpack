@@ -13,5 +13,7 @@
 - 目前MIUI主题[《弥散 UI》](http://zhuti.xiaomi.com/detail/42f25d76-7dba-4245-90e8-e0c08dc63251)已上架，另一款MIUI主题以及ColorOS主题和nubiaUI主题正在制作中，另外Flyme主题也在计划中，其他定制系统的主题开发者想要制作本图标包的主题，请提前私信联系我们。
 
 图标绘制：@痕继痕迹
+
 打包发布：@cjycsm 
+
 MIUI主题[《弥散 UI》](http://zhuti.xiaomi.com/detail/42f25d76-7dba-4245-90e8-e0c08dc63251)制作：@静守时光一千年聚缘
