@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>53</version>
+    <version>54</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -52,6 +52,7 @@
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
+    <item drawable="anzogame_lol"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
@@ -177,6 +178,7 @@
     <item drawable="coolapk"/>
     <item drawable="copas"/>
     <item drawable="copas_alt"/>
+    <item drawable="countdown"/>
     <item drawable="cpu_z"/>
     <item drawable="credit_card_manager"/>
     <item drawable="csdn"/>
@@ -292,6 +294,7 @@
     <item drawable="geometric_weather"/>
     <item drawable="gifpaser"/>
     <item drawable="glass"/>
+    <item drawable="go_hosts"/>
     <item drawable="gold"/>
     <item drawable="google"/>
     <item drawable="google_authenticator"/>
@@ -300,6 +303,7 @@
     <item drawable="google_earth"/>
     <item drawable="google_files"/>
     <item drawable="google_fitness"/>
+    <item drawable="google_gm"/>
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
     <item drawable="google_maps"/>
@@ -316,6 +320,7 @@
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guokr"/>
+    <item drawable="gyroscope"/>
     <item drawable="handshaker"/>
     <item drawable="haodf"/>
     <item drawable="haodou"/>
@@ -368,6 +373,7 @@
     <item drawable="installer_plus"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
+    <item drawable="ismart"/>
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
     <item drawable="jd_jr"/>
@@ -387,14 +393,17 @@
     <item drawable="kindle"/>
     <item drawable="kingroot"/>
     <item drawable="kingsoft"/>
+    <item drawable="kmplayerpro"/>
     <item drawable="knight"/>
     <item drawable="kuaikan_comic"/>
     <item drawable="kuaishou"/>
     <item drawable="kuaiya"/>
     <item drawable="kugou"/>
+    <item drawable="kustom_widget"/>
     <item drawable="kuwo"/>
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
+    <item drawable="lantern"/>
     <item drawable="lanzou"/>
     <item drawable="lapin"/>
     <item drawable="lastpass"/>
@@ -422,6 +431,7 @@
     <item drawable="lucky_patcher"/>
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
+    <item drawable="lulu"/>
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
     <item drawable="maimai"/>
@@ -449,6 +459,7 @@
     <item drawable="meizu_toolbox"/>
     <item drawable="meizu_voiceassistant"/>
     <item drawable="memento"/>
+    <item drawable="memory_cleaner"/>
     <item drawable="mfw"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
@@ -465,19 +476,24 @@
     <item drawable="mijia"/>
     <item drawable="minecraft"/>
     <item drawable="mipay"/>
+    <item drawable="mipush"/>
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
     <item drawable="miui_calculator"/>
+    <item drawable="miui_hd"/>
     <item drawable="miui_virtual_sim"/>
     <item drawable="miui_voice_assistant"/>
     <item drawable="miuibbs"/>
     <item drawable="mixaiba_browser"/>
     <item drawable="mixaiba_browser_alt"/>
+    <item drawable="mixplorer"/>
+    <item drawable="mmpic"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
     <item drawable="mogujie"/>
     <item drawable="moji_weather"/>
     <item drawable="momo"/>
+    <item drawable="monkeybook"/>
     <item drawable="moonreader"/>
     <item drawable="morefan"/>
     <item drawable="mrzh"/>
@@ -489,7 +505,9 @@
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
+    <item drawable="myandroidtoolspro"/>
     <item drawable="mybus"/>
+    <item drawable="mygesture"/>
     <item drawable="myweather"/>
     <item drawable="nature_iconpack"/>
     <item drawable="netease_cartoonreader"/>
@@ -595,7 +613,6 @@
     <item drawable="qzone"/>
     <item drawable="radio"/>
     <item drawable="railway"/>
-    <item drawable="read"/>
     <item drawable="realracing3"/>
     <item drawable="recorder"/>
     <item drawable="relaxio"/>
@@ -628,6 +645,7 @@
     <item drawable="shadowsocksr"/>
     <item drawable="shanbay_news"/>
     <item drawable="shanbay_words"/>
+    <item drawable="shanghai_metro"/>
     <item drawable="share"/>
     <item drawable="share_alt1"/>
     <item drawable="share_alt2"/>

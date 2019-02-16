@@ -535,7 +535,7 @@
 
     <item
         class="com.monke.monkeybook.view.activity.WelcomeActivity"
-        name="read"/>
+        name="monkeybook"/>
 
     <item
         class="com.shanga.walli.mvp.splash.SplashActivity"
@@ -2527,7 +2527,7 @@
 
     <item
         class="com.kunfei.bookshelf.view.activity.WelcomeActivity"
-        name="read"/>
+        name="monkeybook"/>
 
     <item
         class="com.xiaomi.gamecenter.ui.MainTabActivity"
@@ -3367,7 +3367,7 @@
 
     <item
         class="com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
-        name="read"/>
+        name="monkeybook"/>
 
     <item
         class="com.fivehundredpx.viewer.main.RootActivity"
@@ -3579,7 +3579,7 @@
 
     <item
         class="com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
-        name="read"/>
+        name="monkeybook"/>
 
     <item
         class="com.opera.max.ui.v2.UltraLauncherActivity"
@@ -3847,6 +3847,10 @@
 
     <item
         class="com.android.contacts.DialtactsActivityAlias"
+        name="dialer"/>
+
+    <item
+        class="com.android.contacts.PeopleActivityAlias"
         name="contacts"/>
 
     <item
@@ -4096,5 +4100,77 @@
     <item
         class="com.moviemmapp.SplashActivity"
         name="avbobo"/>
+
+    <item
+        class="com.google.android.gm.ConversationListActivityGmail"
+        name="google_gm"/>
+
+    <item
+        class="com.lerist.gohosts.ui.activity.MainActivity"
+        name="go_hosts"/>
+
+    <item
+        class="com.gyroscope.gyroscope.MainActivity"
+        name="gyroscope"/>
+
+    <item
+        class="com.up366.mobile.SplashActivity"
+        name="ismart"/>
+
+    <item
+        class="com.wisdom.ticker.activity.MainActivity"
+        name="countdown"/>
+
+    <item
+        class="com.kmplayer.activity.SplashActivity"
+        name="kmplayerpro"/>
+
+    <item
+        class="org.kustom.widget.picker.WidgetPicker"
+        name="kustom_widget"/>
+
+    <item
+        class="org.lantern.app.activity.Launcher"
+        name="lantern"/>
+
+    <item
+        class="com.anzogame.lol.core.AppFlashActivity"
+        name="anzogame_lol"/>
+
+    <item
+        class="com.ilulutv.lulu.welcome.WelcomeActivity"
+        name="lulu"/>
+
+    <item
+        class="com.n0n3m4.apkexport.ExportActivity"
+        name="memory_cleaner"/>
+
+    <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="shanghai_metro"/>
+
+    <item
+        class="io.dcloud.PandoraEntry"
+        name="miui_hd"/>
+
+    <item
+        class="top.trumeet.mipushframework.wizard.WelcomeActivity"
+        name="mipush"/>
+
+    <item
+        class="com.mixplorer.activities.BrowseActivity"
+        name="mixplorer"/>
+
+    <item
+        class="com.yr.mmpic.ui.activity.SplashActivity"
+        name="mmpic"/>
+
+    <item
+        class="cn.wq.myandroidtoolspro.MainActivity"
+        name="myandroidtoolspro"/>
+
+    <item
+        class="me.hisn.mygesture.EA"
+        name="mygesture"/>
 
 </appmap>

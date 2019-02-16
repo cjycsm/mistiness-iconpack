@@ -54,28 +54,30 @@
     </string-array>
 
     <string-array name="newest">
-        <item>bosszhipin</item>
-        <item>cimoc</item>
-        <item>csdn</item>
-        <item>dropbox</item>
-        <item>microsoft_emmx</item>
-        <item>edgeaction</item>
-        <item>emui_themeeditor</item>
-        <item>fasthub</item>
-        <item>fasthub_alt</item>
-        <item>feendly</item>
-        <item>flamingo</item>
-        <item>floatify</item>
-        <item>fusionapp</item>
-        <item>fx</item>
-        <item>fx_alt</item>
-        <item>gemini_iconpack</item>
-        <item>gsv</item>
-        <item>gsv_alt</item>
+        <item>google_gm</item>
+        <item>go_hosts</item>
+        <item>gyroscope</item>
+        <item>ismart</item>
+        <item>countdown</item>
+        <item>kmplayerpro</item>
+        <item>kustom_widget</item>
+        <item>lantern</item>
+        <item>anzogame_lol</item>
+        <item>lulu</item>
+        <item>memory_cleaner</item>
+        <item>shanghai_metro</item>
+        <item>miui_hd</item>
+        <item>mipush</item>
+        <item>mixplorer</item>
+        <item>mmpic</item>
+        <item>myandroidtoolspro</item>
+        <item>mygesture</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>meeye</item>
+        <item>monkeybook</item>
+        <item>qrcode_scanner</item>
     </string-array>
 
     <string-array name="application">
@@ -165,7 +167,7 @@
         <item>glass</item>
         <item>shoujimarket</item>
         <item>weibo_intl</item>
-        <item>read</item>
+        <item>monkeybook</item>
         <item>walli</item>
         <item>baidumap</item>
         <item>china_mobile</item>
@@ -739,6 +741,24 @@
         <item>gemini_iconpack</item>
         <item>gsv</item>
         <item>gsv_alt</item>
+        <item>google_gm</item>
+        <item>go_hosts</item>
+        <item>gyroscope</item>
+        <item>ismart</item>
+        <item>countdown</item>
+        <item>kmplayerpro</item>
+        <item>kustom_widget</item>
+        <item>lantern</item>
+        <item>anzogame_lol</item>
+        <item>lulu</item>
+        <item>memory_cleaner</item>
+        <item>shanghai_metro</item>
+        <item>miui_hd</item>
+        <item>mipush</item>
+        <item>mixplorer</item>
+        <item>mmpic</item>
+        <item>myandroidtoolspro</item>
+        <item>mygesture</item>
     </string-array>
 
     <string-array name="game">

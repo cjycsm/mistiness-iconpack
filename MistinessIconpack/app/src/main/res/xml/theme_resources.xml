@@ -541,7 +541,7 @@
 
     <AppIcon
         name="com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeActivity"
-        image="read"/>
+        image="monkeybook"/>
 
     <AppIcon
         name="com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity"
@@ -2533,7 +2533,7 @@
 
     <AppIcon
         name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity"
-        image="read"/>
+        image="monkeybook"/>
 
     <AppIcon
         name="com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity"
@@ -3373,7 +3373,7 @@
 
     <AppIcon
         name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
-        image="read"/>
+        image="monkeybook"/>
 
     <AppIcon
         name="com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity"
@@ -3585,7 +3585,7 @@
 
     <AppIcon
         name="com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity"
-        image="read"/>
+        image="monkeybook"/>
 
     <AppIcon
         name="com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity"
@@ -3853,6 +3853,10 @@
 
     <AppIcon
         name="com.android.contacts/com.android.contacts.DialtactsActivityAlias"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.android.contacts/com.android.contacts.PeopleActivityAlias"
         image="contacts"/>
 
     <AppIcon
@@ -4102,5 +4106,77 @@
     <AppIcon
         name="com.moviemmapp/com.moviemmapp.SplashActivity"
         image="avbobo"/>
+
+    <AppIcon
+        name="com.google.android.gm/com.google.android.gm.ConversationListActivityGmail"
+        image="google_gm"/>
+
+    <AppIcon
+        name="com.lerist.go_hosts/com.lerist.gohosts.ui.activity.MainActivity"
+        image="go_hosts"/>
+
+    <AppIcon
+        name="com.gyroscope.gyroscope/com.gyroscope.gyroscope.MainActivity"
+        image="gyroscope"/>
+
+    <AppIcon
+        name="com.up366.ismart/com.up366.mobile.SplashActivity"
+        image="ismart"/>
+
+    <AppIcon
+        name="com.example.countdown/com.wisdom.ticker.activity.MainActivity"
+        image="countdown"/>
+
+    <AppIcon
+        name="com.kmplayerpro/com.kmplayer.activity.SplashActivity"
+        image="kmplayerpro"/>
+
+    <AppIcon
+        name="org.kustom.widget/org.kustom.widget.picker.WidgetPicker"
+        image="kustom_widget"/>
+
+    <AppIcon
+        name="org.getlantern.lantern/org.lantern.app.activity.Launcher"
+        image="lantern"/>
+
+    <AppIcon
+        name="com.anzogame.lol/com.anzogame.lol.core.AppFlashActivity"
+        image="anzogame_lol"/>
+
+    <AppIcon
+        name="com.ilulutv.lulu/com.ilulutv.lulu.welcome.WelcomeActivity"
+        image="lulu"/>
+
+    <AppIcon
+        name="com.drpe26.MemoryCleaner/com.n0n3m4.apkexport.ExportActivity"
+        image="memory_cleaner"/>
+
+    <AppIcon
+        name="com.app.shanghai.metro/com.alipay.mobile.quinox.LauncherActivity"
+        image="shanghai_metro"/>
+
+    <AppIcon
+        name="com.hch.miuihd/io.dcloud.PandoraEntry"
+        image="miui_hd"/>
+
+    <AppIcon
+        name="top.trumeet.mipush/top.trumeet.mipushframework.wizard.WelcomeActivity"
+        image="mipush"/>
+
+    <AppIcon
+        name="com.mixplorer/com.mixplorer.activities.BrowseActivity"
+        image="mixplorer"/>
+
+    <AppIcon
+        name="com.yr.mmpic/com.yr.mmpic.ui.activity.SplashActivity"
+        image="mmpic"/>
+
+    <AppIcon
+        name="cn.wq.myandroidtoolspro/cn.wq.myandroidtoolspro.MainActivity"
+        image="myandroidtoolspro"/>
+
+    <AppIcon
+        name="me.hisn.mygesture/me.hisn.mygesture.EA"
+        image="mygesture"/>
 
 </Theme>

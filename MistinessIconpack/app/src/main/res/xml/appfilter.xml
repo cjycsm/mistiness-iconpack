@@ -539,7 +539,7 @@
 
     <item
         component="ComponentInfo{com.gedoor.monkeybook/com.monke.monkeybook.view.activity.WelcomeActivity}"
-        drawable="read"/>
+        drawable="monkeybook"/>
 
     <item
         component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}"
@@ -2531,7 +2531,7 @@
 
     <item
         component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeActivity}"
-        drawable="read"/>
+        drawable="monkeybook"/>
 
     <item
         component="ComponentInfo{com.xiaomi.gamecenter/com.xiaomi.gamecenter.ui.MainTabActivity}"
@@ -3371,7 +3371,7 @@
 
     <item
         component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity}"
-        drawable="read"/>
+        drawable="monkeybook"/>
 
     <item
         component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}"
@@ -3555,7 +3555,7 @@
 
     <item
         component="ComponentInfo{com.gedoor.monkeybook/com.kunfei.bookshelf.view.activity.WelcomeBookActivity}"
-        drawable="read"/>
+        drawable="monkeybook"/>
 
     <item
         component="ComponentInfo{com.opera.max.global/com.opera.max.ui.v2.UltraLauncherActivity}"
@@ -3823,6 +3823,10 @@
 
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}"
         drawable="contacts"/>
 
     <item
@@ -4072,5 +4076,77 @@
     <item
         component="ComponentInfo{com.moviemmapp/com.moviemmapp.SplashActivity}"
         drawable="avbobo"/>
+
+    <item
+        component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}"
+        drawable="google_gm"/>
+
+    <item
+        component="ComponentInfo{com.lerist.go_hosts/com.lerist.gohosts.ui.activity.MainActivity}"
+        drawable="go_hosts"/>
+
+    <item
+        component="ComponentInfo{com.gyroscope.gyroscope/com.gyroscope.gyroscope.MainActivity}"
+        drawable="gyroscope"/>
+
+    <item
+        component="ComponentInfo{com.up366.ismart/com.up366.mobile.SplashActivity}"
+        drawable="ismart"/>
+
+    <item
+        component="ComponentInfo{com.example.countdown/com.wisdom.ticker.activity.MainActivity}"
+        drawable="countdown"/>
+
+    <item
+        component="ComponentInfo{com.kmplayerpro/com.kmplayer.activity.SplashActivity}"
+        drawable="kmplayerpro"/>
+
+    <item
+        component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}"
+        drawable="kustom_widget"/>
+
+    <item
+        component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.Launcher}"
+        drawable="lantern"/>
+
+    <item
+        component="ComponentInfo{com.anzogame.lol/com.anzogame.lol.core.AppFlashActivity}"
+        drawable="anzogame_lol"/>
+
+    <item
+        component="ComponentInfo{com.ilulutv.lulu/com.ilulutv.lulu.welcome.WelcomeActivity}"
+        drawable="lulu"/>
+
+    <item
+        component="ComponentInfo{com.drpe26.MemoryCleaner/com.n0n3m4.apkexport.ExportActivity}"
+        drawable="memory_cleaner"/>
+
+    <item
+        component="ComponentInfo{com.app.shanghai.metro/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="shanghai_metro"/>
+
+    <item
+        component="ComponentInfo{com.hch.miuihd/io.dcloud.PandoraEntry}"
+        drawable="miui_hd"/>
+
+    <item
+        component="ComponentInfo{top.trumeet.mipush/top.trumeet.mipushframework.wizard.WelcomeActivity}"
+        drawable="mipush"/>
+
+    <item
+        component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}"
+        drawable="mixplorer"/>
+
+    <item
+        component="ComponentInfo{com.yr.mmpic/com.yr.mmpic.ui.activity.SplashActivity}"
+        drawable="mmpic"/>
+
+    <item
+        component="ComponentInfo{cn.wq.myandroidtoolspro/cn.wq.myandroidtoolspro.MainActivity}"
+        drawable="myandroidtoolspro"/>
+
+    <item
+        component="ComponentInfo{me.hisn.mygesture/me.hisn.mygesture.EA}"
+        drawable="mygesture"/>
 
 </resources>
