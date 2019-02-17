@@ -4149,4 +4149,64 @@
         component="ComponentInfo{me.hisn.mygesture/me.hisn.mygesture.EA}"
         drawable="mygesture"/>
 
+    <item
+        component="ComponentInfo{org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity}"
+        drawable="kustom_wallpaper"/>
+
+    <item
+        component="ComponentInfo{org.kustom.lockscreen/org.kustom.lib.editor.LockAdvancedEditorActivity}"
+        drawable="kustom_lockscreen"/>
+
+    <item
+        component="ComponentInfo{com.t2ksports.nba2k19and/com.t2ksports.nba2k19and.gameactivity}"
+        drawable="nba2k19"/>
+
+    <item
+        component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}"
+        drawable="netflix"/>
+
+    <item
+        component="ComponentInfo{so.ofo.labofo/so.ofo.labofo.activities.EntryActivity}"
+        drawable="ofo"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}"
+        drawable="microsoft_skydrive"/>
+
+    <item
+        component="ComponentInfo{gg.op.lol.android/gg.op.common.activities.SplashActivity}"
+        drawable="op_gg"/>
+
+    <item
+        component="ComponentInfo{com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity}"
+        drawable="openhub"/>
+
+    <item
+        component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}"
+        drawable="paypal"/>
+
+    <item
+        component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}"
+        drawable="phonograph"/>
+
+    <item
+        component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}"
+        drawable="picacomic"/>
+
+    <item
+        component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}"
+        drawable="pixlr"/>
+
+    <item
+        component="ComponentInfo{com.embermitre.pixolor.app/com.embermitre.pixolor.app.StartProjectionManagerActivity}"
+        drawable="pixolor"/>
+
+    <item
+        component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}"
+        drawable="playstation"/>
+
+    <item
+        component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}"
+        drawable="pornhub"/>
+
 </resources>

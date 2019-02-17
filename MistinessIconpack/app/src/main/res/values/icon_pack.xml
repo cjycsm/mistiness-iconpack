@@ -54,30 +54,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>google_gm</item>
-        <item>go_hosts</item>
-        <item>gyroscope</item>
-        <item>ismart</item>
-        <item>countdown</item>
-        <item>kmplayerpro</item>
-        <item>kustom_widget</item>
-        <item>lantern</item>
-        <item>anzogame_lol</item>
-        <item>lulu</item>
-        <item>memory_cleaner</item>
-        <item>shanghai_metro</item>
-        <item>miui_hd</item>
-        <item>mipush</item>
-        <item>mixplorer</item>
-        <item>mmpic</item>
-        <item>myandroidtoolspro</item>
-        <item>mygesture</item>
+        <item>kustom_wallpaper</item>
+        <item>kustom_lockscreen</item>
+        <item>netflix</item>
+        <item>ofo</item>
+        <item>microsoft_skydrive</item>
+        <item>op_gg</item>
+        <item>openhub</item>
+        <item>paypal</item>
+        <item>phonograph</item>
+        <item>picacomic</item>
+        <item>pixlr</item>
+        <item>pixlr_alt</item>
+        <item>pixolor</item>
+        <item>playstation</item>
+        <item>pornhub</item>
+        <item>pornhub_alt</item>
+        <item>nba2k19</item>
+        <item>nba2k19_alt</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>meeye</item>
-        <item>monkeybook</item>
-        <item>qrcode_scanner</item>
+
     </string-array>
 
     <string-array name="application">
@@ -759,6 +757,22 @@
         <item>mmpic</item>
         <item>myandroidtoolspro</item>
         <item>mygesture</item>
+        <item>kustom_wallpaper</item>
+        <item>kustom_lockscreen</item>
+        <item>netflix</item>
+        <item>ofo</item>
+        <item>microsoft_skydrive</item>
+        <item>op_gg</item>
+        <item>openhub</item>
+        <item>paypal</item>
+        <item>phonograph</item>
+        <item>picacomic</item>
+        <item>pixlr</item>
+        <item>pixlr_alt</item>
+        <item>pixolor</item>
+        <item>playstation</item>
+        <item>pornhub</item>
+        <item>pornhub_alt</item>
     </string-array>
 
     <string-array name="game">
@@ -793,6 +807,8 @@
         <item>bit_alt</item>
         <item>subwaysurf</item>
         <item>abi</item>
+        <item>nba2k19</item>
+        <item>nba2k19_alt</item>
     </string-array>
 
     <string-array name="basic">

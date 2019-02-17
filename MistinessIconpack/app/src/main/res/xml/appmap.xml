@@ -4173,4 +4173,64 @@
         class="me.hisn.mygesture.EA"
         name="mygesture"/>
 
+    <item
+        class="org.kustom.lib.editor.WpAdvancedEditorActivity"
+        name="kustom_wallpaper"/>
+
+    <item
+        class="org.kustom.lib.editor.LockAdvancedEditorActivity"
+        name="kustom_lockscreen"/>
+
+    <item
+        class="com.t2ksports.nba2k19and.gameactivity"
+        name="nba2k19"/>
+
+    <item
+        class="com.netflix.mediaclient.ui.launch.UIWebViewActivity"
+        name="netflix"/>
+
+    <item
+        class="so.ofo.labofo.activities.EntryActivity"
+        name="ofo"/>
+
+    <item
+        class="com.microsoft.skydrive.MainActivity"
+        name="microsoft_skydrive"/>
+
+    <item
+        class="gg.op.common.activities.SplashActivity"
+        name="op_gg"/>
+
+    <item
+        class="com.thirtydegreesray.openhub.ui.activity.SplashActivity"
+        name="openhub"/>
+
+    <item
+        class="com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+        name="paypal"/>
+
+    <item
+        class="com.kabouzeid.gramophone.ui.activities.MainActivity"
+        name="phonograph"/>
+
+    <item
+        class="com.picacomic.fregata.activities.SplashActivity"
+        name="picacomic"/>
+
+    <item
+        class="com.pixlr.express.StartupActivity"
+        name="pixlr"/>
+
+    <item
+        class="com.embermitre.pixolor.app.StartProjectionManagerActivity"
+        name="pixolor"/>
+
+    <item
+        class="com.scee.psxandroid.activity.TopActivity"
+        name="playstation"/>
+
+    <item
+        class="com.app.pornhub.alias.normal"
+        name="pornhub"/>
+
 </appmap>

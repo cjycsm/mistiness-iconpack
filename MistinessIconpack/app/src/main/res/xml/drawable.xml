@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>54</version>
+    <version>55</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -399,6 +399,8 @@
     <item drawable="kuaishou"/>
     <item drawable="kuaiya"/>
     <item drawable="kugou"/>
+    <item drawable="kustom_lockscreen"/>
+    <item drawable="kustom_wallpaper"/>
     <item drawable="kustom_widget"/>
     <item drawable="kuwo"/>
     <item drawable="la_systemtoolbox"/>
@@ -470,6 +472,7 @@
     <item drawable="microsoft_onenote"/>
     <item drawable="microsoft_outlook"/>
     <item drawable="microsoft_powerpoint"/>
+    <item drawable="microsoft_skydrive"/>
     <item drawable="microsoft_todo"/>
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
@@ -510,6 +513,8 @@
     <item drawable="mygesture"/>
     <item drawable="myweather"/>
     <item drawable="nature_iconpack"/>
+    <item drawable="nba2k19"/>
+    <item drawable="nba2k19_alt"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
     <item drawable="netease_kaola"/>
@@ -520,6 +525,7 @@
     <item drawable="netease_snailread"/>
     <item drawable="netease_ucmooc"/>
     <item drawable="netease_yanxuan"/>
+    <item drawable="netflix"/>
     <item drawable="nga"/>
     <item drawable="niceapp"/>
     <item drawable="ninegame"/>
@@ -530,6 +536,7 @@
     <item drawable="nowcasting"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
+    <item drawable="ofo"/>
     <item drawable="one_diary"/>
     <item drawable="onepassword"/>
     <item drawable="onepassword_alt"/>
@@ -540,6 +547,8 @@
     <item drawable="onetake"/>
     <item drawable="onetake_alt"/>
     <item drawable="onmyoji"/>
+    <item drawable="op_gg"/>
+    <item drawable="openhub"/>
     <item drawable="opera"/>
     <item drawable="oppo_book"/>
     <item drawable="oppo_community"/>
@@ -552,22 +561,31 @@
     <item drawable="panda_alt"/>
     <item drawable="panda_usecar"/>
     <item drawable="paper"/>
+    <item drawable="paypal"/>
     <item drawable="pcamera"/>
     <item drawable="pconline"/>
+    <item drawable="phonograph"/>
     <item drawable="photo_editor"/>
     <item drawable="pic_folder"/>
+    <item drawable="picacomic"/>
     <item drawable="picsart"/>
     <item drawable="pieplus"/>
     <item drawable="pinduoduo"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
     <item drawable="pixiv"/>
+    <item drawable="pixlr"/>
+    <item drawable="pixlr_alt"/>
+    <item drawable="pixolor"/>
     <item drawable="pkg"/>
+    <item drawable="playstation"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="poly"/>
     <item drawable="poly_alt"/>
     <item drawable="pomotodo"/>
+    <item drawable="pornhub"/>
+    <item drawable="pornhub_alt"/>
     <item drawable="power_amp"/>
     <item drawable="power_clean"/>
     <item drawable="powerdirector"/>

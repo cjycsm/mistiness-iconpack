@@ -4179,4 +4179,64 @@
         name="me.hisn.mygesture/me.hisn.mygesture.EA"
         image="mygesture"/>
 
+    <AppIcon
+        name="org.kustom.wallpaper/org.kustom.lib.editor.WpAdvancedEditorActivity"
+        image="kustom_wallpaper"/>
+
+    <AppIcon
+        name="org.kustom.lockscreen/org.kustom.lib.editor.LockAdvancedEditorActivity"
+        image="kustom_lockscreen"/>
+
+    <AppIcon
+        name="com.t2ksports.nba2k19and/com.t2ksports.nba2k19and.gameactivity"
+        image="nba2k19"/>
+
+    <AppIcon
+        name="com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity"
+        image="netflix"/>
+
+    <AppIcon
+        name="so.ofo.labofo/so.ofo.labofo.activities.EntryActivity"
+        image="ofo"/>
+
+    <AppIcon
+        name="com.microsoft.skydrive/com.microsoft.skydrive.MainActivity"
+        image="microsoft_skydrive"/>
+
+    <AppIcon
+        name="gg.op.lol.android/gg.op.common.activities.SplashActivity"
+        image="op_gg"/>
+
+    <AppIcon
+        name="com.thirtydegreesray.openhub/com.thirtydegreesray.openhub.ui.activity.SplashActivity"
+        image="openhub"/>
+
+    <AppIcon
+        name="com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity"
+        image="paypal"/>
+
+    <AppIcon
+        name="com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity"
+        image="phonograph"/>
+
+    <AppIcon
+        name="com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity"
+        image="picacomic"/>
+
+    <AppIcon
+        name="com.pixlr.express/com.pixlr.express.StartupActivity"
+        image="pixlr"/>
+
+    <AppIcon
+        name="com.embermitre.pixolor.app/com.embermitre.pixolor.app.StartProjectionManagerActivity"
+        image="pixolor"/>
+
+    <AppIcon
+        name="com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity"
+        image="playstation"/>
+
+    <AppIcon
+        name="com.app.pornhub/com.app.pornhub.alias.normal"
+        image="pornhub"/>
+
 </Theme>
