@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>55</version>
+    <version>56</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -211,7 +211,6 @@
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
     <item drawable="downloads"/>
-    <item drawable="drawer_header"/>
     <item drawable="dropbox"/>
     <item drawable="du"/>
     <item drawable="duokan"/>
@@ -220,6 +219,7 @@
     <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
     <item drawable="eastmoney"/>
+    <item drawable="easy_memory_cleaner"/>
     <item drawable="ecalendar"/>
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
@@ -588,6 +588,7 @@
     <item drawable="pornhub_alt"/>
     <item drawable="power_amp"/>
     <item drawable="power_clean"/>
+    <item drawable="power_shade"/>
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
     <item drawable="prisma"/>
@@ -597,6 +598,7 @@
     <item drawable="pure"/>
     <item drawable="pure_weather"/>
     <item drawable="pure_writer"/>
+    <item drawable="puretie"/>
     <item drawable="qcloud"/>
     <item drawable="qdaily"/>
     <item drawable="qianji"/>
@@ -633,11 +635,13 @@
     <item drawable="railway"/>
     <item drawable="realracing3"/>
     <item drawable="recorder"/>
+    <item drawable="reddit"/>
     <item drawable="relaxio"/>
     <item drawable="remote_control"/>
     <item drawable="remote_control_alt"/>
     <item drawable="remover"/>
     <item drawable="retor_music"/>
+    <item drawable="retouch"/>
     <item drawable="root_explore"/>
     <item drawable="safe"/>
     <item drawable="samsung_gametuner"/>
@@ -669,6 +673,7 @@
     <item drawable="share_alt2"/>
     <item drawable="share_alt3"/>
     <item drawable="shazam"/>
+    <item drawable="shizuku"/>
     <item drawable="shortcut_creater"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
@@ -677,6 +682,7 @@
     <item drawable="signal_master"/>
     <item drawable="sina_news"/>
     <item drawable="sing_client"/>
+    <item drawable="skype"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
     <item drawable="smartisan_reader"/>
@@ -687,6 +693,8 @@
     <item drawable="smartisanos_perspective"/>
     <item drawable="smartisanos_sidebar"/>
     <item drawable="smzdm"/>
+    <item drawable="snapmod"/>
+    <item drawable="snapmod_alt"/>
     <item drawable="snapseed"/>
     <item drawable="snkrs"/>
     <item drawable="sogou_ime"/>
@@ -712,6 +720,8 @@
     <item drawable="super_calculator"/>
     <item drawable="supersu"/>
     <item drawable="surfvpn"/>
+    <item drawable="synology_chat"/>
+    <item drawable="synology_moments"/>
     <item drawable="szzc"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
@@ -732,12 +742,14 @@
     <item drawable="tencent_filemanager"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
+    <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_map"/>
     <item drawable="tencent_news"/>
     <item drawable="tencent_nntg"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqlive"/>
+    <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_secure"/>
     <item drawable="tencent_sports"/>
@@ -752,15 +764,18 @@
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
+    <item drawable="tieba_lite"/>
     <item drawable="tieyou"/>
     <item drawable="tiktok"/>
     <item drawable="tim"/>
     <item drawable="timetable"/>
+    <item drawable="timetree"/>
     <item drawable="timi"/>
     <item drawable="tingshu"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="tomato_time"/>
+    <item drawable="tomvpn"/>
     <item drawable="total_launcher"/>
     <item drawable="trace"/>
     <item drawable="transparent_wallpaper"/>

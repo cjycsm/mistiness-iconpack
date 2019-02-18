@@ -54,24 +54,22 @@
     </string-array>
 
     <string-array name="newest">
-        <item>kustom_wallpaper</item>
-        <item>kustom_lockscreen</item>
-        <item>netflix</item>
-        <item>ofo</item>
-        <item>microsoft_skydrive</item>
-        <item>op_gg</item>
-        <item>openhub</item>
-        <item>paypal</item>
-        <item>phonograph</item>
-        <item>picacomic</item>
-        <item>pixlr</item>
-        <item>pixlr_alt</item>
-        <item>pixolor</item>
-        <item>playstation</item>
-        <item>pornhub</item>
-        <item>pornhub_alt</item>
-        <item>nba2k19</item>
-        <item>nba2k19_alt</item>
+        <item>power_shade</item>
+        <item>puretie</item>
+        <item>tencent_qqpinyin</item>
+        <item>easy_memory_cleaner</item>
+        <item>reddit</item>
+        <item>retouch</item>
+        <item>shizuku</item>
+        <item>skype</item>
+        <item>snapmod</item>
+        <item>snapmod_alt</item>
+        <item>synology_chat</item>
+        <item>synology_moments</item>
+        <item>tieba_lite</item>
+        <item>timetree</item>
+        <item>tomvpn</item>
+        <item>tencent_ig</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -773,6 +771,21 @@
         <item>playstation</item>
         <item>pornhub</item>
         <item>pornhub_alt</item>
+        <item>power_shade</item>
+        <item>puretie</item>
+        <item>tencent_qqpinyin</item>
+        <item>easy_memory_cleaner</item>
+        <item>reddit</item>
+        <item>retouch</item>
+        <item>shizuku</item>
+        <item>skype</item>
+        <item>snapmod</item>
+        <item>snapmod_alt</item>
+        <item>synology_chat</item>
+        <item>synology_moments</item>
+        <item>tieba_lite</item>
+        <item>timetree</item>
+        <item>tomvpn</item>
     </string-array>
 
     <string-array name="game">
@@ -809,6 +822,7 @@
         <item>abi</item>
         <item>nba2k19</item>
         <item>nba2k19_alt</item>
+        <item>tencent_ig</item>
     </string-array>
 
     <string-array name="basic">

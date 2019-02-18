@@ -4239,4 +4239,68 @@
         name="com.app.pornhub/com.app.pornhub.alias.normal"
         image="pornhub"/>
 
+    <AppIcon
+        name="com.treydev.pns/com.treydev.pns.activities.MainActivity"
+        image="power_shade"/>
+
+    <AppIcon
+        name="com.tencent.ig/com.epicgames.ue4.SplashActivity"
+        image="tencent_ig"/>
+
+    <AppIcon
+        name="com.xesygao.puretie/com.xesygao.puretie.ui.activity.MainActivity"
+        image="puretie"/>
+
+    <AppIcon
+        name="com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity"
+        image="tencent_qqpinyin"/>
+
+    <AppIcon
+        name="com.kosajun.easymemorycleaner/com.kosajun.easymemorycleaner.MainActivity"
+        image="easy_memory_cleaner"/>
+
+    <AppIcon
+        name="com.reddit.frontpage/com.reddit.frontpage.StartActivity"
+        image="reddit"/>
+
+    <AppIcon
+        name="com.advasoft.touchretouch/com.advasoft.touchretouch4.MainActivity"
+        image="retouch"/>
+
+    <AppIcon
+        name="moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity"
+        image="shizuku"/>
+
+    <AppIcon
+        name="com.skype.raider/com.skype.raider.Main"
+        image="skype"/>
+
+    <AppIcon
+        name="cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity"
+        image="snapmod"/>
+
+    <AppIcon
+        name="com.synology.dschat/com.synology.dschat.ui.activity.SplashActivity"
+        image="synology_chat"/>
+
+    <AppIcon
+        name="com.synology.moments/com.synology.moments.view.SplashActivity"
+        image="synology_moments"/>
+
+    <AppIcon
+        name="com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity"
+        image="tieba_lite"/>
+
+    <AppIcon
+        name="works.jubilee.timetree/works.jubilee.timetree.ui.SplashActivity"
+        image="timetree"/>
+
+    <AppIcon
+        name="me.xhss.tomvpn/me.xhss.tomvpn.MainActivity"
+        image="tomvpn"/>
+
+    <AppIcon
+        name="com.nbcmusic/com.nbc.music.MusicBrowserActivity"
+        image="music"/>
+
 </Theme>

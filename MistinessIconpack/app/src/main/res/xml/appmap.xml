@@ -4233,4 +4233,68 @@
         class="com.app.pornhub.alias.normal"
         name="pornhub"/>
 
+    <item
+        class="com.treydev.pns.activities.MainActivity"
+        name="power_shade"/>
+
+    <item
+        class="com.epicgames.ue4.SplashActivity"
+        name="tencent_ig"/>
+
+    <item
+        class="com.xesygao.puretie.ui.activity.MainActivity"
+        name="puretie"/>
+
+    <item
+        class="com.tencent.qqpinyin.activity.guide.SplashActivity"
+        name="tencent_qqpinyin"/>
+
+    <item
+        class="com.kosajun.easymemorycleaner.MainActivity"
+        name="easy_memory_cleaner"/>
+
+    <item
+        class="com.reddit.frontpage.StartActivity"
+        name="reddit"/>
+
+    <item
+        class="com.advasoft.touchretouch4.MainActivity"
+        name="retouch"/>
+
+    <item
+        class="moe.shizuku.manager.MainActivity"
+        name="shizuku"/>
+
+    <item
+        class="com.skype.raider.Main"
+        name="skype"/>
+
+    <item
+        class="cn.gavinliu.snapmod.ui.SplashActivity"
+        name="snapmod"/>
+
+    <item
+        class="com.synology.dschat.ui.activity.SplashActivity"
+        name="synology_chat"/>
+
+    <item
+        class="com.synology.moments.view.SplashActivity"
+        name="synology_moments"/>
+
+    <item
+        class="com.huanchengfly.tieba.post.MainActivity"
+        name="tieba_lite"/>
+
+    <item
+        class="works.jubilee.timetree.ui.SplashActivity"
+        name="timetree"/>
+
+    <item
+        class="me.xhss.tomvpn.MainActivity"
+        name="tomvpn"/>
+
+    <item
+        class="com.nbc.music.MusicBrowserActivity"
+        name="music"/>
+
 </appmap>

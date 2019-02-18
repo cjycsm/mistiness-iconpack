@@ -4209,4 +4209,68 @@
         component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}"
         drawable="pornhub"/>
 
+    <item
+        component="ComponentInfo{com.treydev.pns/com.treydev.pns.activities.MainActivity}"
+        drawable="power_shade"/>
+
+    <item
+        component="ComponentInfo{com.tencent.ig/com.epicgames.ue4.SplashActivity}"
+        drawable="tencent_ig"/>
+
+    <item
+        component="ComponentInfo{com.xesygao.puretie/com.xesygao.puretie.ui.activity.MainActivity}"
+        drawable="puretie"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.guide.SplashActivity}"
+        drawable="tencent_qqpinyin"/>
+
+    <item
+        component="ComponentInfo{com.kosajun.easymemorycleaner/com.kosajun.easymemorycleaner.MainActivity}"
+        drawable="easy_memory_cleaner"/>
+
+    <item
+        component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}"
+        drawable="reddit"/>
+
+    <item
+        component="ComponentInfo{com.advasoft.touchretouch/com.advasoft.touchretouch4.MainActivity}"
+        drawable="retouch"/>
+
+    <item
+        component="ComponentInfo{moe.shizuku.privileged.api/moe.shizuku.manager.MainActivity}"
+        drawable="shizuku"/>
+
+    <item
+        component="ComponentInfo{com.skype.raider/com.skype.raider.Main}"
+        drawable="skype"/>
+
+    <item
+        component="ComponentInfo{cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity}"
+        drawable="snapmod"/>
+
+    <item
+        component="ComponentInfo{com.synology.dschat/com.synology.dschat.ui.activity.SplashActivity}"
+        drawable="synology_chat"/>
+
+    <item
+        component="ComponentInfo{com.synology.moments/com.synology.moments.view.SplashActivity}"
+        drawable="synology_moments"/>
+
+    <item
+        component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity}"
+        drawable="tieba_lite"/>
+
+    <item
+        component="ComponentInfo{works.jubilee.timetree/works.jubilee.timetree.ui.SplashActivity}"
+        drawable="timetree"/>
+
+    <item
+        component="ComponentInfo{me.xhss.tomvpn/me.xhss.tomvpn.MainActivity}"
+        drawable="tomvpn"/>
+
+    <item
+        component="ComponentInfo{com.nbcmusic/com.nbc.music.MusicBrowserActivity}"
+        drawable="music"/>
+
 </resources>
