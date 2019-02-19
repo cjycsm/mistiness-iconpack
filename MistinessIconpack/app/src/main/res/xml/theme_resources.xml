@@ -4303,4 +4303,64 @@
         name="com.nbcmusic/com.nbc.music.MusicBrowserActivity"
         image="music"/>
 
+    <AppIcon
+        name="com.tplink.cloudrouter/com.tplink.cloudrouter.activity.basesection.InitAppActivity"
+        image="tplink"/>
+
+    <AppIcon
+        name="free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity"
+        image="turbovpn"/>
+
+    <AppIcon
+        name="com.netease.uu/com.netease.uu.activity.MainActivity"
+        image="netease_uu"/>
+
+    <AppIcon
+        name="com.netease.uurouter/com.netease.uurouter.activity.MainActivity"
+        image="netease_uurouter"/>
+
+    <AppIcon
+        name="com.v2ray.ang/com.v2ray.ang.ui.MainActivity"
+        image="v2ray_ang"/>
+
+    <AppIcon
+        name="io.va.exposed/io.virtualapp.splash.SplashActivity"
+        image="va_exposed"/>
+
+    <AppIcon
+        name="com.rahul.videoderbeta/com.rahul.videoderbeta.appinit.ActivityInitLoader"
+        image="videoder"/>
+
+    <AppIcon
+        name="com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity"
+        image="vivo_easyshare"/>
+
+    <AppIcon
+        name="free.vpn.unblock.proxy.vpnmonster/free.vpn.unblock.proxy.vpnmonster.activity.GodActivity"
+        image="vpnmonster"/>
+
+    <AppIcon
+        name="com.vsco.cam/com.vsco.cam.navigation.LithiumActivity"
+        image="vsco"/>
+
+    <AppIcon
+        name="com.whatsapp/com.whatsapp.Main"
+        image="whatsapp"/>
+
+    <AppIcon
+        name="com.qy.wifi/l.　ۖۘۧۦ"
+        image="wifikey"/>
+
+    <AppIcon
+        name="com.ruijie.wifim/cn.com.ruijie.wifibox.activity.WelcomeActivity"
+        image="wifibox"/>
+
+    <AppIcon
+        name="com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity"
+        image="microsoft_xbox"/>
+
+    <AppIcon
+        name="com.xda.labs/com.xda.labs.LabsLauncher"
+        image="xda_labs"/>
+
 </Theme>

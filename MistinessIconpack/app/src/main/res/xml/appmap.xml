@@ -4297,4 +4297,64 @@
         class="com.nbc.music.MusicBrowserActivity"
         name="music"/>
 
+    <item
+        class="com.tplink.cloudrouter.activity.basesection.InitAppActivity"
+        name="tplink"/>
+
+    <item
+        class="free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity"
+        name="turbovpn"/>
+
+    <item
+        class="com.netease.uu.activity.MainActivity"
+        name="netease_uu"/>
+
+    <item
+        class="com.netease.uurouter.activity.MainActivity"
+        name="netease_uurouter"/>
+
+    <item
+        class="com.v2ray.ang.ui.MainActivity"
+        name="v2ray_ang"/>
+
+    <item
+        class="io.virtualapp.splash.SplashActivity"
+        name="va_exposed"/>
+
+    <item
+        class="com.rahul.videoderbeta.appinit.ActivityInitLoader"
+        name="videoder"/>
+
+    <item
+        class="com.vivo.easyshare.activity.SplashScreenActivity"
+        name="vivo_easyshare"/>
+
+    <item
+        class="free.vpn.unblock.proxy.vpnmonster.activity.GodActivity"
+        name="vpnmonster"/>
+
+    <item
+        class="com.vsco.cam.navigation.LithiumActivity"
+        name="vsco"/>
+
+    <item
+        class="com.whatsapp.Main"
+        name="whatsapp"/>
+
+    <item
+        class="l.　ۖۘۧۦ"
+        name="wifikey"/>
+
+    <item
+        class="cn.com.ruijie.wifibox.activity.WelcomeActivity"
+        name="wifibox"/>
+
+    <item
+        class="com.microsoft.xbox.xle.app.MainActivity"
+        name="microsoft_xbox"/>
+
+    <item
+        class="com.xda.labs.LabsLauncher"
+        name="xda_labs"/>
+
 </appmap>

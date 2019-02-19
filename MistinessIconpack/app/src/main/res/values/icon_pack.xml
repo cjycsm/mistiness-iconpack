@@ -51,25 +51,27 @@
         <item>OPPO</item>
         <item>smartisan</item>
         <item>nokia</item>
+        <item>vivo</item>
     </string-array>
 
     <string-array name="newest">
-        <item>power_shade</item>
-        <item>puretie</item>
-        <item>tencent_qqpinyin</item>
-        <item>easy_memory_cleaner</item>
-        <item>reddit</item>
-        <item>retouch</item>
-        <item>shizuku</item>
-        <item>skype</item>
-        <item>snapmod</item>
-        <item>snapmod_alt</item>
-        <item>synology_chat</item>
-        <item>synology_moments</item>
-        <item>tieba_lite</item>
-        <item>timetree</item>
-        <item>tomvpn</item>
-        <item>tencent_ig</item>
+        <item>tplink</item>
+        <item>turbovpn</item>
+        <item>netease_uu</item>
+        <item>netease_uurouter</item>
+        <item>v2ray_ang</item>
+        <item>v2ray_ang_alt</item>
+        <item>va_exposed</item>
+        <item>videoder</item>
+        <item>vpnmonster</item>
+        <item>vsco</item>
+        <item>vsco_alt</item>
+        <item>whatsapp</item>
+        <item>wifikey</item>
+        <item>wifibox</item>
+        <item>microsoft_xbox</item>
+        <item>xda_labs</item>
+        <item>vivo_easyshare</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -786,6 +788,22 @@
         <item>tieba_lite</item>
         <item>timetree</item>
         <item>tomvpn</item>
+        <item>tplink</item>
+        <item>turbovpn</item>
+        <item>netease_uu</item>
+        <item>netease_uurouter</item>
+        <item>v2ray_ang</item>
+        <item>v2ray_ang_alt</item>
+        <item>va_exposed</item>
+        <item>videoder</item>
+        <item>vpnmonster</item>
+        <item>vsco</item>
+        <item>vsco_alt</item>
+        <item>whatsapp</item>
+        <item>wifikey</item>
+        <item>wifibox</item>
+        <item>microsoft_xbox</item>
+        <item>xda_labs</item>
     </string-array>
 
     <string-array name="game">
@@ -973,6 +991,10 @@
         <item>coloros_tips</item>
         <item>oppo_book</item>
         <item>oppo_reader</item>
+    </string-array>
+
+    <string-array name="vivo">
+        <item>vivo_easyshare</item>
     </string-array>
 
 </resources>

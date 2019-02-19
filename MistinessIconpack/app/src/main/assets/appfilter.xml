@@ -4272,5 +4272,64 @@
     <item
         component="ComponentInfo{com.nbcmusic/com.nbc.music.MusicBrowserActivity}"
         drawable="music"/>
+    <item
+        component="ComponentInfo{com.tplink.cloudrouter/com.tplink.cloudrouter.activity.basesection.InitAppActivity}"
+        drawable="tplink"/>
+
+    <item
+        component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}"
+        drawable="turbovpn"/>
+
+    <item
+        component="ComponentInfo{com.netease.uu/com.netease.uu.activity.MainActivity}"
+        drawable="netease_uu"/>
+
+    <item
+        component="ComponentInfo{com.netease.uurouter/com.netease.uurouter.activity.MainActivity}"
+        drawable="netease_uurouter"/>
+
+    <item
+        component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}"
+        drawable="v2ray_ang"/>
+
+    <item
+        component="ComponentInfo{io.va.exposed/io.virtualapp.splash.SplashActivity}"
+        drawable="va_exposed"/>
+
+    <item
+        component="ComponentInfo{com.rahul.videoderbeta/com.rahul.videoderbeta.appinit.ActivityInitLoader}"
+        drawable="videoder"/>
+
+    <item
+        component="ComponentInfo{com.vivo.easyshare/com.vivo.easyshare.activity.SplashScreenActivity}"
+        drawable="vivo_easyshare"/>
+
+    <item
+        component="ComponentInfo{free.vpn.unblock.proxy.vpnmonster/free.vpn.unblock.proxy.vpnmonster.activity.GodActivity}"
+        drawable="vpnmonster"/>
+
+    <item
+        component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}"
+        drawable="vsco"/>
+
+    <item
+        component="ComponentInfo{com.whatsapp/com.whatsapp.Main}"
+        drawable="whatsapp"/>
+
+    <item
+        component="ComponentInfo{com.qy.wifi/l.　ۖۘۧۦ}"
+        drawable="wifikey"/>
+
+    <item
+        component="ComponentInfo{com.ruijie.wifim/cn.com.ruijie.wifibox.activity.WelcomeActivity}"
+        drawable="wifibox"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}"
+        drawable="microsoft_xbox"/>
+
+    <item
+        component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}"
+        drawable="xda_labs"/>
 
 </resources>
