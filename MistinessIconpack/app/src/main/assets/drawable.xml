@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>56</version>
+    <version>58</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -39,8 +39,14 @@
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
     <item drawable="airtable"/>
+    <item drawable="aiwu"/>
     <item drawable="alibaba"/>
+    <item drawable="alicom"/>
+    <item drawable="alilink"/>
     <item drawable="alipay"/>
+    <item drawable="aliqin"/>
+    <item drawable="aliyun"/>
+    <item drawable="aliyun_alt"/>
     <item drawable="aloha"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
@@ -49,6 +55,7 @@
     <item drawable="amazon"/>
     <item drawable="amp"/>
     <item drawable="ampere"/>
+    <item drawable="android_assistant"/>
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
     <item drawable="antutu"/>
@@ -72,10 +79,12 @@
     <item drawable="avgo"/>
     <item drawable="avnight"/>
     <item drawable="away_from_mobile"/>
+    <item drawable="azurlane"/>
     <item drawable="b612"/>
     <item drawable="backdrops"/>
     <item drawable="backup"/>
     <item drawable="baicizhan"/>
+    <item drawable="baicizhan_dict"/>
     <item drawable="baidu"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
@@ -97,6 +106,7 @@
     <item drawable="bilibili_blue"/>
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bingdic"/>
+    <item drawable="bingo_candy"/>
     <item drawable="bit"/>
     <item drawable="bit_alt"/>
     <item drawable="biubiu"/>
@@ -299,6 +309,7 @@
     <item drawable="google"/>
     <item drawable="google_authenticator"/>
     <item drawable="google_authenticator_alt"/>
+    <item drawable="google_calendar"/>
     <item drawable="google_camera"/>
     <item drawable="google_earth"/>
     <item drawable="google_files"/>
@@ -665,6 +676,7 @@
     <item drawable="settings"/>
     <item drawable="settings_alt"/>
     <item drawable="sf"/>
+    <item drawable="sfacg"/>
     <item drawable="sgame"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
@@ -868,6 +880,7 @@
     <item drawable="xingse_alt1"/>
     <item drawable="xingse_alt2"/>
     <item drawable="xingse_alt3"/>
+    <item drawable="xmind"/>
     <item drawable="xposed_installer"/>
     <item drawable="xposed_installer_alt1"/>
     <item drawable="xposed_installer_alt2"/>
@@ -891,10 +904,12 @@
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="yuedong_sport"/>
+    <item drawable="yy"/>
     <item drawable="yyets"/>
     <item drawable="yyw_browser"/>
     <item drawable="z_launcher"/>
     <item drawable="zaker"/>
+    <item drawable="zarchiver_pro"/>
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
@@ -904,6 +919,8 @@
     <item drawable="zhuishushenqi"/>
     <item drawable="zlive"/>
     <item drawable="zol"/>
+    <item drawable="zone"/>
+    <item drawable="zone_alt"/>
     <item drawable="zuiyou"/>
 
 </resources>

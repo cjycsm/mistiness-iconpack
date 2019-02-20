@@ -1892,10 +1892,6 @@
         image="wallpaper"/>
 
     <AppIcon
-        name="com.google.android.calendar/com.android.calendar.AllInOneActivity"
-        image="calendar"/>
-
-    <AppIcon
         name="com.google.android.deskclock/com.android.deskclock.DeskClock"
         image="clock"/>
 
@@ -4362,5 +4358,65 @@
     <AppIcon
         name="com.xda.labs/com.xda.labs.LabsLauncher"
         image="xda_labs"/>
+
+    <AppIcon
+        name="net.xmind.doughnut/net.xmind.doughnut.MainActivity"
+        image="xmind"/>
+
+    <AppIcon
+        name="com.duowan.mobile/com.yy.mobile.ui.splash.SplashActivity"
+        image="yy"/>
+
+    <AppIcon
+        name="ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver"
+        image="zarchiver_pro"/>
+
+    <AppIcon
+        name="cn.mixiaoxiao.myappscreenmask/cn.mixiaoxiao.myappscreenmask.MainActivity"
+        image="zone"/>
+
+    <AppIcon
+        name="com.aliqin.mytel/com.aliqin.mytel.SplashActivity"
+        image="aliqin"/>
+
+    <AppIcon
+        name="com.alicom.smartdail/com.alicom.smartdail.view.enter.SplashActivity"
+        image="alicom"/>
+
+    <AppIcon
+        name="com.alibaba.aliyun/com.alibaba.aliyun.biz.login.WelcomeActivity"
+        image="aliyun"/>
+
+    <AppIcon
+        name="com.aliyun.alink/com.aliyun.alink.page.main.MainActivity"
+        image="alilink"/>
+
+    <AppIcon
+        name="com.aiwu.market/com.aiwu.market.ui.activity.SplashActivity"
+        image="aiwu"/>
+
+    <AppIcon
+        name="com.androidassistant.paid/com.advancedprocessmanager.MainActivity"
+        image="android_assistant"/>
+
+    <AppIcon
+        name="com.baicizhan.dict/com.baicizhan.dict.control.activity.LaunchActivity"
+        image="baicizhan_dict"/>
+
+    <AppIcon
+        name="com.bilibili.azurlane/com.manjuu.azurlane.MainActivity"
+        image="azurlane"/>
+
+    <AppIcon
+        name="com.mfp.jelly.meizu/com.microfun.jelly.AppSplashActivity"
+        image="bingo_candy"/>
+
+    <AppIcon
+        name="com.sfacg/com.sf.ui.launcher.LauncherActivity"
+        image="sfacg"/>
+
+    <AppIcon
+        name="com.google.android.calendar/com.android.calendar.AllInOneActivity"
+        image="google_calendar"/>
 
 </Theme>

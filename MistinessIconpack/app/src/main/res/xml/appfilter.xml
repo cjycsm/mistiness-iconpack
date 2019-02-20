@@ -1890,10 +1890,6 @@
         drawable="wallpaper"/>
 
     <item
-        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="calendar"/>
-
-    <item
         component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}"
         drawable="clock"/>
 
@@ -4331,5 +4327,65 @@
     <item
         component="ComponentInfo{com.xda.labs/com.xda.labs.LabsLauncher}"
         drawable="xda_labs"/>
+
+    <item
+        component="ComponentInfo{net.xmind.doughnut/net.xmind.doughnut.MainActivity}"
+        drawable="xmind"/>
+
+    <item
+        component="ComponentInfo{com.duowan.mobile/com.yy.mobile.ui.splash.SplashActivity}"
+        drawable="yy"/>
+
+    <item
+        component="ComponentInfo{ru.zdevs.zarchiver.pro/ru.zdevs.zarchiver.pro.ZArchiver}"
+        drawable="zarchiver_pro"/>
+
+    <item
+        component="ComponentInfo{cn.mixiaoxiao.myappscreenmask/cn.mixiaoxiao.myappscreenmask.MainActivity}"
+        drawable="zone"/>
+
+    <item
+        component="ComponentInfo{com.aliqin.mytel/com.aliqin.mytel.SplashActivity}"
+        drawable="aliqin"/>
+
+    <item
+        component="ComponentInfo{com.alicom.smartdail/com.alicom.smartdail.view.enter.SplashActivity}"
+        drawable="alicom"/>
+
+    <item
+        component="ComponentInfo{com.alibaba.aliyun/com.alibaba.aliyun.biz.login.WelcomeActivity}"
+        drawable="aliyun"/>
+
+    <item
+        component="ComponentInfo{com.aliyun.alink/com.aliyun.alink.page.main.MainActivity}"
+        drawable="alilink"/>
+
+    <item
+        component="ComponentInfo{com.aiwu.market/com.aiwu.market.ui.activity.SplashActivity}"
+        drawable="aiwu"/>
+
+    <item
+        component="ComponentInfo{com.androidassistant.paid/com.advancedprocessmanager.MainActivity}"
+        drawable="android_assistant"/>
+
+    <item
+        component="ComponentInfo{com.baicizhan.dict/com.baicizhan.dict.control.activity.LaunchActivity}"
+        drawable="baicizhan_dict"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.azurlane/com.manjuu.azurlane.MainActivity}"
+        drawable="azurlane"/>
+
+    <item
+        component="ComponentInfo{com.mfp.jelly.meizu/com.microfun.jelly.AppSplashActivity}"
+        drawable="bingo_candy"/>
+
+    <item
+        component="ComponentInfo{com.sfacg/com.sf.ui.launcher.LauncherActivity}"
+        drawable="sfacg"/>
+
+    <item
+        component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+        drawable="google_calendar"/>
 
 </resources>

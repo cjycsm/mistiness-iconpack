@@ -1886,10 +1886,6 @@
         name="wallpaper"/>
 
     <item
-        class="com.android.calendar.AllInOneActivity"
-        name="calendar"/>
-
-    <item
         class="com.android.deskclock.DeskClock"
         name="clock"/>
 
@@ -4356,5 +4352,65 @@
     <item
         class="com.xda.labs.LabsLauncher"
         name="xda_labs"/>
+
+    <item
+        class="net.xmind.doughnut.MainActivity"
+        name="xmind"/>
+
+    <item
+        class="com.yy.mobile.ui.splash.SplashActivity"
+        name="yy"/>
+
+    <item
+        class="ru.zdevs.zarchiver.pro.ZArchiver"
+        name="zarchiver_pro"/>
+
+    <item
+        class="cn.mixiaoxiao.myappscreenmask.MainActivity"
+        name="zone"/>
+
+    <item
+        class="com.aliqin.mytel.SplashActivity"
+        name="aliqin"/>
+
+    <item
+        class="com.alicom.smartdail.view.enter.SplashActivity"
+        name="alicom"/>
+
+    <item
+        class="com.alibaba.aliyun.biz.login.WelcomeActivity"
+        name="aliyun"/>
+
+    <item
+        class="com.aliyun.alink.page.main.MainActivity"
+        name="alilink"/>
+
+    <item
+        class="com.aiwu.market.ui.activity.SplashActivity"
+        name="aiwu"/>
+
+    <item
+        class="com.advancedprocessmanager.MainActivity"
+        name="android_assistant"/>
+
+    <item
+        class="com.baicizhan.dict.control.activity.LaunchActivity"
+        name="baicizhan_dict"/>
+
+    <item
+        class="com.manjuu.azurlane.MainActivity"
+        name="azurlane"/>
+
+    <item
+        class="com.microfun.jelly.AppSplashActivity"
+        name="bingo_candy"/>
+
+    <item
+        class="com.sf.ui.launcher.LauncherActivity"
+        name="sfacg"/>
+
+    <item
+        class="com.android.calendar.AllInOneActivity"
+        name="google_calendar"/>
 
 </appmap>

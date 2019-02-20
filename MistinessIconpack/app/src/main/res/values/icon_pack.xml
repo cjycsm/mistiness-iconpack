@@ -55,23 +55,23 @@
     </string-array>
 
     <string-array name="newest">
-        <item>tplink</item>
-        <item>turbovpn</item>
-        <item>netease_uu</item>
-        <item>netease_uurouter</item>
-        <item>v2ray_ang</item>
-        <item>v2ray_ang_alt</item>
-        <item>va_exposed</item>
-        <item>videoder</item>
-        <item>vpnmonster</item>
-        <item>vsco</item>
-        <item>vsco_alt</item>
-        <item>whatsapp</item>
-        <item>wifikey</item>
-        <item>wifibox</item>
-        <item>microsoft_xbox</item>
-        <item>xda_labs</item>
-        <item>vivo_easyshare</item>
+        <item>xmind</item>
+        <item>yy</item>
+        <item>zarchiver_pro</item>
+        <item>zone</item>
+        <item>zone_alt</item>
+        <item>aliqin</item>
+        <item>alicom</item>
+        <item>aliyun</item>
+        <item>aliyun_alt</item>
+        <item>alilink</item>
+        <item>aiwu</item>
+        <item>android_assistant</item>
+        <item>baicizhan_dict</item>
+        <item>sfacg</item>
+        <item>google_calendar</item>
+        <item>azurlane</item>
+        <item>bingo_candy</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -804,6 +804,21 @@
         <item>wifibox</item>
         <item>microsoft_xbox</item>
         <item>xda_labs</item>
+        <item>xmind</item>
+        <item>yy</item>
+        <item>zarchiver_pro</item>
+        <item>zone</item>
+        <item>zone_alt</item>
+        <item>aliqin</item>
+        <item>alicom</item>
+        <item>aliyun</item>
+        <item>aliyun_alt</item>
+        <item>alilink</item>
+        <item>aiwu</item>
+        <item>android_assistant</item>
+        <item>baicizhan_dict</item>
+        <item>sfacg</item>
+        <item>google_calendar</item>
     </string-array>
 
     <string-array name="game">
@@ -841,6 +856,8 @@
         <item>nba2k19</item>
         <item>nba2k19_alt</item>
         <item>tencent_ig</item>
+        <item>azurlane</item>
+        <item>bingo_candy</item>
     </string-array>
 
     <string-array name="basic">
