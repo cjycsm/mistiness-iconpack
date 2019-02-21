@@ -4388,4 +4388,64 @@
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
         drawable="google_calendar"/>
 
+    <item
+        component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}"
+        drawable="lang_easy"/>
+
+    <item
+        component="ComponentInfo{com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity}"
+        drawable="kitchen_stories"/>
+
+    <item
+        component="ComponentInfo{sulisong.ShelledPro.Screenshots/com.androlua.Welcome}"
+        drawable="shelled_pro"/>
+
+    <item
+        component="ComponentInfo{com.kuss.rewind/com.kuss.rewind.MainActivity}"
+        drawable="rewind"/>
+
+    <item
+        component="ComponentInfo{com.clover.daysmatter/com.clover.daysmatter.ui.activity.MainActivity}"
+        drawable="days_matter"/>
+
+    <item
+        component="ComponentInfo{com.luojilab.player/com.luojilab.business.welcome.SplashActivity}"
+        drawable="dedao"/>
+
+    <item
+        component="ComponentInfo{com.diyidan/com.diyidan.ui.launcher.LauncherActivity}"
+        drawable="diyidan"/>
+
+    <item
+        component="ComponentInfo{jp.gr.java_conf.soboku.batterymeter/jp.gr.java_conf.soboku.batterymeter.ui.SettingsActivity}"
+        drawable="battery_meter"/>
+
+    <item
+        component="ComponentInfo{tv.tvguo.androidphone/module.home.activity.SplashActivity}"
+        drawable="tvguo"/>
+
+    <item
+        component="ComponentInfo{com.dolby/com.dolby.ds1appUI.MainActivity}"
+        drawable="dolby"/>
+
+    <item
+        component="ComponentInfo{com.duitang.main/com.duitang.main.activity.SplashActivity}"
+        drawable="duitang"/>
+
+    <item
+        component="ComponentInfo{my.maya.android/com.android.maya.activity.SplashActivity}"
+        drawable="duoshan"/>
+
+    <item
+        component="ComponentInfo{com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity}"
+        drawable="fenqile"/>
+
+    <item
+        component="ComponentInfo{com.flijo_sftmi.itf.iconpack/com.material.dashboard.candybar.sample.activities.SplashActivity}"
+        drawable="itf_iconpack"/>
+
+    <item
+        component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}"
+        drawable="tax_its"/>
+
 </resources>

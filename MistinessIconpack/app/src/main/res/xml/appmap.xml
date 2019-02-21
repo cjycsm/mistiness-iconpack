@@ -4413,4 +4413,64 @@
         class="com.android.calendar.AllInOneActivity"
         name="google_calendar"/>
 
+    <item
+        class="cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
+        name="lang_easy"/>
+
+    <item
+        class="com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
+        name="kitchen_stories"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="shelled_pro"/>
+
+    <item
+        class="com.kuss.rewind.MainActivity"
+        name="rewind"/>
+
+    <item
+        class="com.clover.daysmatter.ui.activity.MainActivity"
+        name="days_matter"/>
+
+    <item
+        class="com.luojilab.business.welcome.SplashActivity"
+        name="dedao"/>
+
+    <item
+        class="com.diyidan.ui.launcher.LauncherActivity"
+        name="diyidan"/>
+
+    <item
+        class="jp.gr.java_conf.soboku.batterymeter.ui.SettingsActivity"
+        name="battery_meter"/>
+
+    <item
+        class="module.home.activity.SplashActivity"
+        name="tvguo"/>
+
+    <item
+        class="com.dolby.ds1appUI.MainActivity"
+        name="dolby"/>
+
+    <item
+        class="com.duitang.main.activity.SplashActivity"
+        name="duitang"/>
+
+    <item
+        class="com.android.maya.activity.SplashActivity"
+        name="duoshan"/>
+
+    <item
+        class="com.fenqile.ui.home.HomeActivity"
+        name="fenqile"/>
+
+    <item
+        class="com.material.dashboard.candybar.sample.activities.SplashActivity"
+        name="itf_iconpack"/>
+
+    <item
+        class="cn.gov.tax.its.MainActivity"
+        name="tax_its"/>
+
 </appmap>

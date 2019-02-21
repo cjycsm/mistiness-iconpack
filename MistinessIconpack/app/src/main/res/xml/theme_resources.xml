@@ -4419,4 +4419,64 @@
         name="com.google.android.calendar/com.android.calendar.AllInOneActivity"
         image="google_calendar"/>
 
+    <AppIcon
+        name="cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
+        image="lang_easy"/>
+
+    <AppIcon
+        name="com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
+        image="kitchen_stories"/>
+
+    <AppIcon
+        name="sulisong.ShelledPro.Screenshots/com.androlua.Welcome"
+        image="shelled_pro"/>
+
+    <AppIcon
+        name="com.kuss.rewind/com.kuss.rewind.MainActivity"
+        image="rewind"/>
+
+    <AppIcon
+        name="com.clover.daysmatter/com.clover.daysmatter.ui.activity.MainActivity"
+        image="days_matter"/>
+
+    <AppIcon
+        name="com.luojilab.player/com.luojilab.business.welcome.SplashActivity"
+        image="dedao"/>
+
+    <AppIcon
+        name="com.diyidan/com.diyidan.ui.launcher.LauncherActivity"
+        image="diyidan"/>
+
+    <AppIcon
+        name="jp.gr.java_conf.soboku.batterymeter/jp.gr.java_conf.soboku.batterymeter.ui.SettingsActivity"
+        image="battery_meter"/>
+
+    <AppIcon
+        name="tv.tvguo.androidphone/module.home.activity.SplashActivity"
+        image="tvguo"/>
+
+    <AppIcon
+        name="com.dolby/com.dolby.ds1appUI.MainActivity"
+        image="dolby"/>
+
+    <AppIcon
+        name="com.duitang.main/com.duitang.main.activity.SplashActivity"
+        image="duitang"/>
+
+    <AppIcon
+        name="my.maya.android/com.android.maya.activity.SplashActivity"
+        image="duoshan"/>
+
+    <AppIcon
+        name="com.fenqile.fenqile/com.fenqile.ui.home.HomeActivity"
+        image="fenqile"/>
+
+    <AppIcon
+        name="com.flijo_sftmi.itf.iconpack/com.material.dashboard.candybar.sample.activities.SplashActivity"
+        image="itf_iconpack"/>
+
+    <AppIcon
+        name="cn.gov.tax.its/cn.gov.tax.its.MainActivity"
+        image="tax_its"/>
+
 </Theme>

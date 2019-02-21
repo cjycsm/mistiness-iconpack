@@ -55,27 +55,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>xmind</item>
-        <item>yy</item>
-        <item>zarchiver_pro</item>
-        <item>zone</item>
-        <item>zone_alt</item>
-        <item>aliqin</item>
-        <item>alicom</item>
-        <item>aliyun</item>
-        <item>aliyun_alt</item>
-        <item>alilink</item>
-        <item>aiwu</item>
-        <item>android_assistant</item>
-        <item>baicizhan_dict</item>
-        <item>sfacg</item>
-        <item>google_calendar</item>
-        <item>azurlane</item>
-        <item>bingo_candy</item>
+        <item>lang_easy</item>
+        <item>kitchen_stories</item>
+        <item>kitchen_stories_alt</item>
+        <item>shelled_pro</item>
+        <item>rewind</item>
+        <item>days_matter</item>
+        <item>dedao</item>
+        <item>diyidan</item>
+        <item>battery_meter</item>
+        <item>tvguo</item>
+        <item>dolby</item>
+        <item>duitang</item>
+        <item>duoshan</item>
+        <item>fenqile</item>
+        <item>itf_iconpack</item>
+        <item>tax_its</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>meizu_toolbox</item>
     </string-array>
 
     <string-array name="application">
@@ -819,6 +818,22 @@
         <item>baicizhan_dict</item>
         <item>sfacg</item>
         <item>google_calendar</item>
+        <item>lang_easy</item>
+        <item>kitchen_stories</item>
+        <item>kitchen_stories_alt</item>
+        <item>shelled_pro</item>
+        <item>rewind</item>
+        <item>days_matter</item>
+        <item>dedao</item>
+        <item>diyidan</item>
+        <item>battery_meter</item>
+        <item>tvguo</item>
+        <item>dolby</item>
+        <item>duitang</item>
+        <item>duoshan</item>
+        <item>fenqile</item>
+        <item>itf_iconpack</item>
+        <item>tax_its</item>
     </string-array>
 
     <string-array name="game">
