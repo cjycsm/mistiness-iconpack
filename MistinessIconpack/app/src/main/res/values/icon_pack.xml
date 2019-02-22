@@ -55,22 +55,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>lang_easy</item>
-        <item>kitchen_stories</item>
-        <item>kitchen_stories_alt</item>
-        <item>shelled_pro</item>
-        <item>rewind</item>
-        <item>days_matter</item>
-        <item>dedao</item>
-        <item>diyidan</item>
-        <item>battery_meter</item>
-        <item>tvguo</item>
-        <item>dolby</item>
-        <item>duitang</item>
-        <item>duoshan</item>
-        <item>fenqile</item>
-        <item>itf_iconpack</item>
-        <item>tax_its</item>
+        <item>huawei_fans</item>
+        <item>icbc_im</item>
+        <item>google_gms</item>
+        <item>google_wellbeing</item>
+        <item>google_games</item>
+        <item>google_docs</item>
+        <item>cebbank</item>
+        <item>cebbank_creditcard</item>
+        <item>haval</item>
+        <item>htjsq</item>
+        <item>hanju</item>
+        <item>yunmai_scale</item>
+        <item>huluxia</item>
+        <item>protect_eye</item>
+        <item>hsbb</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -834,6 +833,20 @@
         <item>fenqile</item>
         <item>itf_iconpack</item>
         <item>tax_its</item>
+        <item>icbc_im</item>
+        <item>google_gms</item>
+        <item>google_wellbeing</item>
+        <item>google_games</item>
+        <item>google_docs</item>
+        <item>cebbank</item>
+        <item>cebbank_creditcard</item>
+        <item>haval</item>
+        <item>htjsq</item>
+        <item>hanju</item>
+        <item>yunmai_scale</item>
+        <item>huluxia</item>
+        <item>protect_eye</item>
+        <item>hsbb</item>
     </string-array>
 
     <string-array name="game">
@@ -999,6 +1012,7 @@
         <item>huawei_voice_assistant</item>
         <item>huawei_notes</item>
         <item>huawei_find_my_phone</item>
+        <item>huawei_fans</item>
     </string-array>
 
     <string-array name="nokia">

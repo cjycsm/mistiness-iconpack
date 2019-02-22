@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>59</version>
+    <version>60</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -142,6 +142,8 @@
     <item drawable="caocao"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
+    <item drawable="cebbank"/>
+    <item drawable="cebbank_creditcard"/>
     <item drawable="cf"/>
     <item drawable="changba"/>
     <item drawable="chelaile"/>
@@ -319,10 +321,13 @@
     <item drawable="google_authenticator_alt"/>
     <item drawable="google_calendar"/>
     <item drawable="google_camera"/>
+    <item drawable="google_docs"/>
     <item drawable="google_earth"/>
     <item drawable="google_files"/>
     <item drawable="google_fitness"/>
+    <item drawable="google_games"/>
     <item drawable="google_gm"/>
+    <item drawable="google_gms"/>
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
     <item drawable="google_maps"/>
@@ -332,6 +337,7 @@
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
     <item drawable="google_voice"/>
+    <item drawable="google_wellbeing"/>
     <item drawable="greenify"/>
     <item drawable="gspace"/>
     <item drawable="gsv"/>
@@ -341,9 +347,11 @@
     <item drawable="guokr"/>
     <item drawable="gyroscope"/>
     <item drawable="handshaker"/>
+    <item drawable="hanju"/>
     <item drawable="haodf"/>
     <item drawable="haodou"/>
     <item drawable="happyelements"/>
+    <item drawable="haval"/>
     <item drawable="hearthstone"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
@@ -358,7 +366,10 @@
     <item drawable="hlddz"/>
     <item drawable="holi"/>
     <item drawable="homeinn"/>
+    <item drawable="hsbb"/>
+    <item drawable="htjsq"/>
     <item drawable="huawei_assistant"/>
+    <item drawable="huawei_fans"/>
     <item drawable="huawei_find_my_phone"/>
     <item drawable="huawei_health"/>
     <item drawable="huawei_mw"/>
@@ -368,6 +379,7 @@
     <item drawable="huawei_theme_manager"/>
     <item drawable="huawei_trustspace"/>
     <item drawable="huawei_voice_assistant"/>
+    <item drawable="huluxia"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
     <item drawable="huoying"/>
@@ -375,6 +387,7 @@
     <item drawable="huxiu"/>
     <item drawable="huya"/>
     <item drawable="icbc"/>
+    <item drawable="icbc_im"/>
     <item drawable="icebox"/>
     <item drawable="icontrol"/>
     <item drawable="idlefish"/>
@@ -618,6 +631,7 @@
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
     <item drawable="prisma"/>
+    <item drawable="protect_eye"/>
     <item drawable="ps"/>
     <item drawable="pu"/>
     <item drawable="pubgmhd"/>
@@ -920,6 +934,7 @@
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="yuedong_sport"/>
+    <item drawable="yunmai_scale"/>
     <item drawable="yy"/>
     <item drawable="yyets"/>
     <item drawable="yyw_browser"/>

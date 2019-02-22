@@ -4473,4 +4473,64 @@
         class="cn.gov.tax.its.MainActivity"
         name="tax_its"/>
 
+    <item
+        class="com.icbc.im.SplashActivity"
+        name="icbc_im"/>
+
+    <item
+        class="com.google.android.gms.app.settings.GoogleSettingsActivity"
+        name="google_gms"/>
+
+    <item
+        class="com.google.android.apps.wellbeing.settings.LauncherActivity"
+        name="google_wellbeing"/>
+
+    <item
+        class="com.google.android.gms.games.ui.destination.main.MainActivity"
+        name="google_games"/>
+
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_docs"/>
+
+    <item
+        class="com.cebbank.mobile.cemb.ui.activity.SplashActivity"
+        name="cebbank"/>
+
+    <item
+        class="com.ebank.creditcard.loadingpage.activity.NewLoadingActivity"
+        name="cebbank_creditcard"/>
+
+    <item
+        class="com.navinfo.gw.view.main.HomeActivity"
+        name="haval"/>
+
+    <item
+        class="mobi.htjsq.accelerator.activity.SplashActivity"
+        name="htjsq"/>
+
+    <item
+        class="com.babycloud.hanju.ui.activity.WelcomeActivity"
+        name="hanju"/>
+
+    <item
+        class="com.yunmai.scale.ui.WelcomeActivity"
+        name="yunmai_scale"/>
+
+    <item
+        class="com.huluxia.gametools.ui.MainActivity.AppStart"
+        name="huluxia"/>
+
+    <item
+        class="protect.eye.TabMainActivity"
+        name="protect_eye"/>
+
+    <item
+        class="com.huawei.fans.activity.MainActivity"
+        name="huawei_fans"/>
+
+    <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="hsbb"/>
+
 </appmap>

@@ -4479,4 +4479,64 @@
         name="cn.gov.tax.its/cn.gov.tax.its.MainActivity"
         image="tax_its"/>
 
+    <AppIcon
+        name="com.icbc.im/com.icbc.im.SplashActivity"
+        image="icbc_im"/>
+
+    <AppIcon
+        name="com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity"
+        image="google_gms"/>
+
+    <AppIcon
+        name="com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity"
+        image="google_wellbeing"/>
+
+    <AppIcon
+        name="com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity"
+        image="google_games"/>
+
+    <AppIcon
+        name="com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        image="google_docs"/>
+
+    <AppIcon
+        name="com.cebbank.mobile.cemb/com.cebbank.mobile.cemb.ui.activity.SplashActivity"
+        image="cebbank"/>
+
+    <AppIcon
+        name="com.ebank.creditcard/com.ebank.creditcard.loadingpage.activity.NewLoadingActivity"
+        image="cebbank_creditcard"/>
+
+    <AppIcon
+        name="com.navinfo.gw/com.navinfo.gw.view.main.HomeActivity"
+        image="haval"/>
+
+    <AppIcon
+        name="mobi.htjsq.accelerator/mobi.htjsq.accelerator.activity.SplashActivity"
+        image="htjsq"/>
+
+    <AppIcon
+        name="com.babycloud.hanju/com.babycloud.hanju.ui.activity.WelcomeActivity"
+        image="hanju"/>
+
+    <AppIcon
+        name="com.yunmai.scale/com.yunmai.scale.ui.WelcomeActivity"
+        image="yunmai_scale"/>
+
+    <AppIcon
+        name="com.huluxia.gametools/com.huluxia.gametools.ui.MainActivity.AppStart"
+        image="huluxia"/>
+
+    <AppIcon
+        name="protect.eye/protect.eye.TabMainActivity"
+        image="protect_eye"/>
+
+    <AppIcon
+        name="com.huawei.fans/com.huawei.fans.activity.MainActivity"
+        image="huawei_fans"/>
+
+    <AppIcon
+        name="com.nfyg.hsbb/com.alipay.mobile.quinox.LauncherActivity"
+        image="hsbb"/>
+
 </Theme>

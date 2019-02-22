@@ -4448,4 +4448,64 @@
         component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}"
         drawable="tax_its"/>
 
+    <item
+        component="ComponentInfo{com.icbc.im/com.icbc.im.SplashActivity}"
+        drawable="icbc_im"/>
+
+    <item
+        component="ComponentInfo{com.google.android.gms/com.google.android.gms.app.settings.GoogleSettingsActivity}"
+        drawable="google_gms"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}"
+        drawable="google_wellbeing"/>
+
+    <item
+        component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}"
+        drawable="google_games"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_docs"/>
+
+    <item
+        component="ComponentInfo{com.cebbank.mobile.cemb/com.cebbank.mobile.cemb.ui.activity.SplashActivity}"
+        drawable="cebbank"/>
+
+    <item
+        component="ComponentInfo{com.ebank.creditcard/com.ebank.creditcard.loadingpage.activity.NewLoadingActivity}"
+        drawable="cebbank_creditcard"/>
+
+    <item
+        component="ComponentInfo{com.navinfo.gw/com.navinfo.gw.view.main.HomeActivity}"
+        drawable="haval"/>
+
+    <item
+        component="ComponentInfo{mobi.htjsq.accelerator/mobi.htjsq.accelerator.activity.SplashActivity}"
+        drawable="htjsq"/>
+
+    <item
+        component="ComponentInfo{com.babycloud.hanju/com.babycloud.hanju.ui.activity.WelcomeActivity}"
+        drawable="hanju"/>
+
+    <item
+        component="ComponentInfo{com.yunmai.scale/com.yunmai.scale.ui.WelcomeActivity}"
+        drawable="yunmai_scale"/>
+
+    <item
+        component="ComponentInfo{com.huluxia.gametools/com.huluxia.gametools.ui.MainActivity.AppStart}"
+        drawable="huluxia"/>
+
+    <item
+        component="ComponentInfo{protect.eye/protect.eye.TabMainActivity}"
+        drawable="protect_eye"/>
+
+    <item
+        component="ComponentInfo{com.huawei.fans/com.huawei.fans.activity.MainActivity}"
+        drawable="huawei_fans"/>
+
+    <item
+        component="ComponentInfo{com.nfyg.hsbb/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="hsbb"/>
+
 </resources>
