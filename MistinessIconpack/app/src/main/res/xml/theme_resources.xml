@@ -2396,10 +2396,6 @@
         image="clash_of_clans"/>
 
     <AppIcon
-        name="com.netease.x19/com.mojang.minecraftpe.MainActivity"
-        image="minecraft"/>
-
-    <AppIcon
         name="com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity"
         image="happyelements"/>
 
@@ -3226,10 +3222,6 @@
     <AppIcon
         name="org.autojs.autojs/org.autojs.autojs.ui.splash.SplashActivity_"
         image="auto_js"/>
-
-    <AppIcon
-        name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity"
-        image="minecraft"/>
 
     <AppIcon
         name="com.samsung.android.contacts/com.android.dialer.DialtactsActivity"
@@ -4538,5 +4530,109 @@
     <AppIcon
         name="com.nfyg.hsbb/com.alipay.mobile.quinox.LauncherActivity"
         image="hsbb"/>
+
+    <AppIcon
+        name="com.asus.aihome/com.asus.aihome.MainActivity"
+        image="asus_aihome"/>
+
+    <AppIcon
+        name="com.huawei.hwireader/com.chaozh.iReader.ui.activity.WelcomeActivity"
+        image="huawei_hwireader"/>
+
+    <AppIcon
+        name="com.huawei.android.ds/com.huawei.android.hicloud.hisync.activity.NewHiSyncSettingActivity"
+        image="huawei_ds"/>
+
+    <AppIcon
+        name="com.one.cucumber/com.one.cucumber.ui.StartActivity"
+        image="cucumber_video"/>
+
+    <AppIcon
+        name="org.geekbang.geekTime/org.geekbang.geekTime.project.start.LaunchActivity"
+        image="geek_time"/>
+
+    <AppIcon
+        name="com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity"
+        image="qihoo_contents"/>
+
+    <AppIcon
+        name="com.handsgo.jiakao.android/com.handsgo.jiakao.android.splash.Login"
+        image="jiakao"/>
+
+    <AppIcon
+        name="nutstore.android/nutstore.android.SplashScreen"
+        image="nutstore"/>
+
+    <AppIcon
+        name="com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity"
+        image="tmri"/>
+
+    <AppIcon
+        name="com.bankcomm.Bankcomm/com.bankcomm.config.ConfigActivity"
+        image="bankcomm"/>
+
+    <AppIcon
+        name="com.jjwxc.reader/com.example.jinjiangshucheng.AppStart"
+        image="jjwxc"/>
+
+    <AppIcon
+        name="mei.zhi.whale/me.tvspark.view.activity.SplashActivity"
+        image="whale_movie"/>
+
+    <AppIcon
+        name="net.oschina.app/net.oschina.app.improve.main.splash.SplashActivity"
+        image="oschina"/>
+
+    <AppIcon
+        name="com.taobao.mobile.dipei/com.eg.android.AlipayGphone.AlipayLogin"
+        image="taobao_diepi"/>
+
+    <AppIcon
+        name="com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity"
+        image="minecraft"/>
+
+    <AppIcon
+        name="com.netease.x19/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.m4399/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.wdsj666/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.qihu/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.baidu/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.vivo/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.mi/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.lenovo/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.huawei/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
+
+    <AppIcon
+        name="com.netease.mc.aligames/com.mojang.minecraftpe.MainActivity"
+        image="minecraft_china"/>
 
 </Theme>

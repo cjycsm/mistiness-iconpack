@@ -55,25 +55,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>huawei_fans</item>
-        <item>icbc_im</item>
-        <item>google_gms</item>
-        <item>google_wellbeing</item>
-        <item>google_games</item>
-        <item>google_docs</item>
-        <item>cebbank</item>
-        <item>cebbank_creditcard</item>
-        <item>haval</item>
-        <item>htjsq</item>
-        <item>hanju</item>
-        <item>yunmai_scale</item>
-        <item>huluxia</item>
-        <item>protect_eye</item>
-        <item>hsbb</item>
+        <item>asus_aihome</item>
+        <item>huawei_hwireader</item>
+        <item>huawei_ds</item>
+        <item>cucumber_video</item>
+        <item>geek_time</item>
+        <item>qihoo_contents</item>
+        <item>jiakao</item>
+        <item>nutstore</item>
+        <item>nutstore_alt</item>
+        <item>tmri</item>
+        <item>bankcomm</item>
+        <item>jjwxc</item>
+        <item>whale_movie</item>
+        <item>oschina</item>
+        <item>taobao_dipei</item>
+        <item>minecraft</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>meizu_toolbox</item>
+        <item>mt</item>
     </string-array>
 
     <string-array name="application">
@@ -847,6 +848,19 @@
         <item>huluxia</item>
         <item>protect_eye</item>
         <item>hsbb</item>
+        <item>asus_aihome</item>
+        <item>cucumber_video</item>
+        <item>geek_time</item>
+        <item>qihoo_contents</item>
+        <item>jiakao</item>
+        <item>nutstore</item>
+        <item>nutstore_alt</item>
+        <item>tmri</item>
+        <item>bankcomm</item>
+        <item>jjwxc</item>
+        <item>whale_movie</item>
+        <item>oschina</item>
+        <item>taobao_dipei</item>
     </string-array>
 
     <string-array name="game">
@@ -868,6 +882,7 @@
         <item>cf</item>
         <item>clash_of_clans</item>
         <item>minecraft</item>
+        <item>minecraft_china</item>
         <item>happyelements</item>
         <item>netease_dwrg</item>
         <item>vainglory</item>
@@ -1013,6 +1028,8 @@
         <item>huawei_notes</item>
         <item>huawei_find_my_phone</item>
         <item>huawei_fans</item>
+        <item>huawei_hwireader</item>
+        <item>huawei_ds</item>
     </string-array>
 
     <string-array name="nokia">

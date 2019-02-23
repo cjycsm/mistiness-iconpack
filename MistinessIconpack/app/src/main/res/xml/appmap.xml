@@ -2390,10 +2390,6 @@
         name="clash_of_clans"/>
 
     <item
-        class="com.mojang.minecraftpe.MainActivity"
-        name="minecraft"/>
-
-    <item
         class="com.happyelements.hellolua.MainActivity"
         name="happyelements"/>
 
@@ -3220,10 +3216,6 @@
     <item
         class="org.autojs.autojs.ui.splash.SplashActivity_"
         name="auto_js"/>
-
-    <item
-        class="com.mojang.minecraftpe.MainActivity"
-        name="minecraft"/>
 
     <item
         class="com.android.dialer.DialtactsActivity"
@@ -4532,5 +4524,109 @@
     <item
         class="com.alipay.mobile.quinox.LauncherActivity"
         name="hsbb"/>
+
+    <item
+        class="com.asus.aihome.MainActivity"
+        name="asus_aihome"/>
+
+    <item
+        class="com.chaozh.iReader.ui.activity.WelcomeActivity"
+        name="huawei_hwireader"/>
+
+    <item
+        class="com.huawei.android.hicloud.hisync.activity.NewHiSyncSettingActivity"
+        name="huawei_ds"/>
+
+    <item
+        class="com.one.cucumber.ui.StartActivity"
+        name="cucumber_video"/>
+
+    <item
+        class="org.geekbang.geekTime.project.start.LaunchActivity"
+        name="geek_time"/>
+
+    <item
+        class="com.qihoo.contents.launcher.LauncherActivity"
+        name="qihoo_contents"/>
+
+    <item
+        class="com.handsgo.jiakao.android.splash.Login"
+        name="jiakao"/>
+
+    <item
+        class="nutstore.android.SplashScreen"
+        name="nutstore"/>
+
+    <item
+        class="com.tmri.app.ui.activity.TmriActivity"
+        name="tmri"/>
+
+    <item
+        class="com.bankcomm.config.ConfigActivity"
+        name="bankcomm"/>
+
+    <item
+        class="com.example.jinjiangshucheng.AppStart"
+        name="jjwxc"/>
+
+    <item
+        class="me.tvspark.view.activity.SplashActivity"
+        name="whale_movie"/>
+
+    <item
+        class="net.oschina.app.improve.main.splash.SplashActivity"
+        name="oschina"/>
+
+    <item
+        class="com.eg.android.AlipayGphone.AlipayLogin"
+        name="taobao_dipei"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
+
+    <item
+        class="com.mojang.minecraftpe.MainActivity"
+        name="minecraft_china"/>
 
 </appmap>

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>60</version>
+    <version>61</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -71,6 +71,7 @@
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
+    <item drawable="asus_aihome"/>
     <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
     <item drawable="auto_js"/>
@@ -94,6 +95,7 @@
     <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
+    <item drawable="bankcomm"/>
     <item drawable="bar_iconpack"/>
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
@@ -197,6 +199,7 @@
     <item drawable="csdn"/>
     <item drawable="ctfile"/>
     <item drawable="ctrip"/>
+    <item drawable="cucumber_video"/>
     <item drawable="cutisan"/>
     <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
@@ -309,6 +312,7 @@
     <item drawable="gansu_bank"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
+    <item drawable="geek_time"/>
     <item drawable="geely"/>
     <item drawable="gemini_iconpack"/>
     <item drawable="geometric_weather"/>
@@ -369,9 +373,11 @@
     <item drawable="hsbb"/>
     <item drawable="htjsq"/>
     <item drawable="huawei_assistant"/>
+    <item drawable="huawei_ds"/>
     <item drawable="huawei_fans"/>
     <item drawable="huawei_find_my_phone"/>
     <item drawable="huawei_health"/>
+    <item drawable="huawei_hwireader"/>
     <item drawable="huawei_mw"/>
     <item drawable="huawei_notes"/>
     <item drawable="huawei_remote_assistant"/>
@@ -411,10 +417,12 @@
     <item drawable="javiewer"/>
     <item drawable="jd_jr"/>
     <item drawable="jeejen"/>
+    <item drawable="jiakao"/>
     <item drawable="jianshu"/>
     <item drawable="jiemian"/>
     <item drawable="jike"/>
     <item drawable="jingdong"/>
+    <item drawable="jjwxc"/>
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kaoyan"/>
@@ -515,6 +523,7 @@
     <item drawable="microsoft_xbox"/>
     <item drawable="mijia"/>
     <item drawable="minecraft"/>
+    <item drawable="minecraft_china"/>
     <item drawable="mipay"/>
     <item drawable="mipush"/>
     <item drawable="miracles"/>
@@ -573,6 +582,8 @@
     <item drawable="notes"/>
     <item drawable="nova_launcher"/>
     <item drawable="nowcasting"/>
+    <item drawable="nutstore"/>
+    <item drawable="nutstore_alt"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="ofo"/>
@@ -596,6 +607,7 @@
     <item drawable="oppo_roaming"/>
     <item drawable="oppo_store"/>
     <item drawable="oppo_usercenter"/>
+    <item drawable="oschina"/>
     <item drawable="panda"/>
     <item drawable="panda_alt"/>
     <item drawable="panda_usecar"/>
@@ -646,6 +658,7 @@
     <item drawable="qidian_novel"/>
     <item drawable="qihoo_antivirus"/>
     <item drawable="qihoo_cloudisk"/>
+    <item drawable="qihoo_contents"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qihu_browser"/>
     <item drawable="qq"/>
@@ -768,6 +781,7 @@
     <item drawable="szzc"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
+    <item drawable="taobao_dipei"/>
     <item drawable="taobao_movie"/>
     <item drawable="taobao_trip"/>
     <item drawable="taptap"/>
@@ -818,6 +832,7 @@
     <item drawable="tingshu"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
+    <item drawable="tmri"/>
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
     <item drawable="total_launcher"/>
@@ -871,6 +886,7 @@
     <item drawable="weico"/>
     <item drawable="welike"/>
     <item drawable="weread"/>
+    <item drawable="whale_movie"/>
     <item drawable="whatsapp"/>
     <item drawable="wifi_locating"/>
     <item drawable="wifibox"/>

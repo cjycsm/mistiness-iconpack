@@ -2394,10 +2394,6 @@
         drawable="clash_of_clans"/>
 
     <item
-        component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}"
-        drawable="minecraft"/>
-
-    <item
         component="ComponentInfo{com.happyelements.AndroidAnimal/com.happyelements.hellolua.MainActivity}"
         drawable="happyelements"/>
 
@@ -3224,10 +3220,6 @@
     <item
         component="ComponentInfo{org.autojs.autojs/org.autojs.autojs.ui.splash.SplashActivity_}"
         drawable="auto_js"/>
-
-    <item
-        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
-        drawable="minecraft"/>
 
     <item
         component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}"
@@ -4507,5 +4499,109 @@
     <item
         component="ComponentInfo{com.nfyg.hsbb/com.alipay.mobile.quinox.LauncherActivity}"
         drawable="hsbb"/>
+
+    <item
+        component="ComponentInfo{com.asus.aihome/com.asus.aihome.MainActivity}"
+        drawable="asus_aihome"/>
+
+    <item
+        component="ComponentInfo{com.huawei.hwireader/com.chaozh.iReader.ui.activity.WelcomeActivity}"
+        drawable="huawei_hwireader"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.ds/com.huawei.android.hicloud.hisync.activity.NewHiSyncSettingActivity}"
+        drawable="huawei_ds"/>
+
+    <item
+        component="ComponentInfo{com.one.cucumber/com.one.cucumber.ui.StartActivity}"
+        drawable="cucumber_video"/>
+
+    <item
+        component="ComponentInfo{org.geekbang.geekTime/org.geekbang.geekTime.project.start.LaunchActivity}"
+        drawable="geek_time"/>
+
+    <item
+        component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}"
+        drawable="qihoo_contents"/>
+
+    <item
+        component="ComponentInfo{com.handsgo.jiakao.android/com.handsgo.jiakao.android.splash.Login}"
+        drawable="jiakao"/>
+
+    <item
+        component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}"
+        drawable="nutstore"/>
+
+    <item
+        component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}"
+        drawable="tmri"/>
+
+    <item
+        component="ComponentInfo{com.bankcomm.Bankcomm/com.bankcomm.config.ConfigActivity}"
+        drawable="bankcomm"/>
+
+    <item
+        component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppStart}"
+        drawable="jjwxc"/>
+
+    <item
+        component="ComponentInfo{mei.zhi.whale/me.tvspark.view.activity.SplashActivity}"
+        drawable="whale_movie"/>
+
+    <item
+        component="ComponentInfo{net.oschina.app/net.oschina.app.improve.main.splash.SplashActivity}"
+        drawable="oschina"/>
+
+    <item
+        component="ComponentInfo{com.taobao.mobile.dipei/com.eg.android.AlipayGphone.AlipayLogin}"
+        drawable="taobao_dipei"/>
+
+    <item
+        component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft"/>
+
+    <item
+        component="ComponentInfo{com.netease.x19/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.m4399/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.wdsj666/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.qihu/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.baidu/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.nearme.gamecenter/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.vivo/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.mi/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.lenovo/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.huawei/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
+
+    <item
+        component="ComponentInfo{com.netease.mc.aligames/com.mojang.minecraftpe.MainActivity}"
+        drawable="minecraft_china"/>
 
 </resources>
