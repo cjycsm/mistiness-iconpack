@@ -55,26 +55,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>asus_aihome</item>
-        <item>huawei_hwireader</item>
-        <item>huawei_ds</item>
-        <item>cucumber_video</item>
-        <item>geek_time</item>
-        <item>qihoo_contents</item>
-        <item>jiakao</item>
-        <item>nutstore</item>
-        <item>nutstore_alt</item>
-        <item>tmri</item>
-        <item>bankcomm</item>
-        <item>jjwxc</item>
-        <item>whale_movie</item>
-        <item>oschina</item>
-        <item>taobao_dipei</item>
-        <item>minecraft</item>
+        <item>meizu_flymebbs</item>
+        <item>express_query</item>
+        <item>kf_mark</item>
+        <item>kuaimao_video</item>
+        <item>viperfx1</item>
+        <item>viperfx2</item>
+        <item>lenjoy</item>
+        <item>netease_heartstone</item>
+        <item>iplaymtg</item>
+        <item>mahua_movie</item>
+        <item>doudoubird_calendar</item>
+        <item>doudoubird_calendar_alt</item>
+        <item>lovelycat</item>
+        <item>meituan_qcs</item>
+        <item>asphalt9</item>
+        <item>netease_stzb</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>mt</item>
+
     </string-array>
 
     <string-array name="application">
@@ -861,6 +861,19 @@
         <item>whale_movie</item>
         <item>oschina</item>
         <item>taobao_dipei</item>
+        <item>express_query</item>
+        <item>kf_mark</item>
+        <item>kuaimao_video</item>
+        <item>viperfx1</item>
+        <item>viperfx2</item>
+        <item>lenjoy</item>
+        <item>netease_heartstone</item>
+        <item>iplaymtg</item>
+        <item>mahua_movie</item>
+        <item>doudoubird_calendar</item>
+        <item>doudoubird_calendar_alt</item>
+        <item>lovelycat</item>
+        <item>meituan_qcs</item>
     </string-array>
 
     <string-array name="game">
@@ -901,6 +914,8 @@
         <item>tencent_ig</item>
         <item>azurlane</item>
         <item>bingo_candy</item>
+        <item>asphalt9</item>
+        <item>netease_stzb</item>
     </string-array>
 
     <string-array name="basic">
@@ -974,6 +989,7 @@
         <item>meizu_voiceassistant</item>
         <item>flyme_videoclips</item>
         <item>meizu_store</item>
+        <item>meizu_flymebbs</item>
     </string-array>
 
     <string-array name="oneplus">

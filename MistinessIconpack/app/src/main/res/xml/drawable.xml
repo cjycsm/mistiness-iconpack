@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>61</version>
+    <version>62</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -71,6 +71,7 @@
     <item drawable="artical_news"/>
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
+    <item drawable="asphalt9"/>
     <item drawable="asus_aihome"/>
     <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
@@ -227,6 +228,8 @@
     <item drawable="douban_movie"/>
     <item drawable="douban_radio"/>
     <item drawable="douban_reader"/>
+    <item drawable="doudoubird_calendar"/>
+    <item drawable="doudoubird_calendar_alt"/>
     <item drawable="douguo"/>
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
@@ -263,6 +266,7 @@
     <item drawable="evernote"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
+    <item drawable="express_query"/>
     <item drawable="express_vpn"/>
     <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
@@ -409,6 +413,7 @@
     <item drawable="imusic"/>
     <item drawable="instagram"/>
     <item drawable="installer_plus"/>
+    <item drawable="iplaymtg"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
     <item drawable="ismart"/>
@@ -430,6 +435,7 @@
     <item drawable="kdjz"/>
     <item drawable="kecheng"/>
     <item drawable="keep"/>
+    <item drawable="kf_mark"/>
     <item drawable="kfc"/>
     <item drawable="kindle"/>
     <item drawable="kingroot"/>
@@ -439,6 +445,7 @@
     <item drawable="kmplayerpro"/>
     <item drawable="knight"/>
     <item drawable="kuaikan_comic"/>
+    <item drawable="kuaimao_video"/>
     <item drawable="kuaishou"/>
     <item drawable="kuaiya"/>
     <item drawable="kugou"/>
@@ -458,6 +465,7 @@
     <item drawable="leaf_vpn"/>
     <item drawable="leb_parallel"/>
     <item drawable="ledongli"/>
+    <item drawable="lenjoy"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light"/>
@@ -471,6 +479,7 @@
     <item drawable="lofter"/>
     <item drawable="lonicera"/>
     <item drawable="lovebizhi"/>
+    <item drawable="lovelycat"/>
     <item drawable="loveread"/>
     <item drawable="lrcjaeger"/>
     <item drawable="lrcjaeger_alt"/>
@@ -480,6 +489,7 @@
     <item drawable="lulu"/>
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
+    <item drawable="mahua_movie"/>
     <item drawable="maimai"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
@@ -492,10 +502,12 @@
     <item drawable="meeye"/>
     <item drawable="meipai"/>
     <item drawable="meituan"/>
+    <item drawable="meituan_qcs"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
     <item drawable="meizu_compaign"/>
     <item drawable="meizu_ebook"/>
+    <item drawable="meizu_flymebbs"/>
     <item drawable="meizu_life"/>
     <item drawable="meizu_mznfcpay"/>
     <item drawable="meizu_mzroottools"/>
@@ -563,12 +575,14 @@
     <item drawable="nba2k19_alt"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
+    <item drawable="netease_heartstone"/>
     <item drawable="netease_kaola"/>
     <item drawable="netease_mail"/>
     <item drawable="netease_moba"/>
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
     <item drawable="netease_snailread"/>
+    <item drawable="netease_stzb"/>
     <item drawable="netease_ucmooc"/>
     <item drawable="netease_uu"/>
     <item drawable="netease_uurouter"/>
@@ -861,6 +875,8 @@
     <item drawable="videoder"/>
     <item drawable="videoshow"/>
     <item drawable="village"/>
+    <item drawable="viperfx1"/>
+    <item drawable="viperfx2"/>
     <item drawable="vipshop"/>
     <item drawable="vivo_easyshare"/>
     <item drawable="vlc"/>

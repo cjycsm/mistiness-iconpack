@@ -4604,4 +4604,64 @@
         component="ComponentInfo{com.netease.mc.aligames/com.mojang.minecraftpe.MainActivity}"
         drawable="minecraft_china"/>
 
+    <item
+        component="ComponentInfo{com.kingrealer.expressquery/com.kingrealer.expressquery.MainActivity}"
+        drawable="express_query"/>
+
+    <item
+        component="ComponentInfo{com.af.benchaf/com.af.benchaf.main.MainActivity}"
+        drawable="kf_mark"/>
+
+    <item
+        component="ComponentInfo{com.xxx.svideo/com.applisto.appremium.classes.PasswordActivity}"
+        drawable="kuaimao_video"/>
+
+    <item
+        component="ComponentInfo{com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.StartActivity}"
+        drawable="viperfx1"/>
+
+    <item
+        component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}"
+        drawable="viperfx2"/>
+
+    <item
+        component="ComponentInfo{com.ge.lenjoy/com.ge.lenjoy.main.ui.activity.simple.WelcomeActivity}"
+        drawable="lenjoy"/>
+
+    <item
+        component="ComponentInfo{com.netease.hearthstone/com.netease.hearthstone.module.splash.SplashActivity}"
+        drawable="netease_heartstone"/>
+
+    <item
+        component="ComponentInfo{com.gonlan.iplaymtg/com.gonlan.iplaymtg.common.StartActivity}"
+        drawable="iplaymtg"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.netease/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.amahua.ompimdrt/com.mh.movie.core.mvp.ui.activity.main.MainActivity}"
+        drawable="mahua_movie"/>
+
+    <item
+        component="ComponentInfo{com.doudoubird.calendar/com.doudoubird.calendar.StartActivity}"
+        drawable="doudoubird_calendar"/>
+
+    <item
+        component="ComponentInfo{com.lovelycat/com.lovelycat.activity.SplashActivity}"
+        drawable="lovelycat"/>
+
+    <item
+        component="ComponentInfo{com.meituan.qcs.c.android/com.meituan.qcs.c.android.ui.splash.SplashActivity}"
+        drawable="meituan_qcs"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.flymebbs/com.meizu.flyme.flymebbs.ui.LoadingActivity}"
+        drawable="meizu_flymebbs"/>
+
 </resources>

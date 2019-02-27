@@ -4629,4 +4629,64 @@
         class="com.mojang.minecraftpe.MainActivity"
         name="minecraft_china"/>
 
+    <item
+        class="com.kingrealer.expressquery.MainActivity"
+        name="express_query"/>
+
+    <item
+        class="com.af.benchaf.main.MainActivity"
+        name="kf_mark"/>
+
+    <item
+        class="com.applisto.appremium.classes.PasswordActivity"
+        name="kuaimao_video"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA9HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.pittvandewitt.viperfx.StartActivity"
+        name="viperfx1"/>
+
+    <item
+        class="com.audlabs.viperfx.main.MainActivity"
+        name="viperfx2"/>
+
+    <item
+        class="com.ge.lenjoy.main.ui.activity.simple.WelcomeActivity"
+        name="lenjoy"/>
+
+    <item
+        class="com.netease.hearthstone.module.splash.SplashActivity"
+        name="netease_heartstone"/>
+
+    <item
+        class="com.gonlan.iplaymtg.common.StartActivity"
+        name="iplaymtg"/>
+
+    <item
+        class="com.netease.stzb.Launcher"
+        name="netease_stzb"/>
+
+    <item
+        class="com.mh.movie.core.mvp.ui.activity.main.MainActivity"
+        name="mahua_movie"/>
+
+    <item
+        class="com.doudoubird.calendar.StartActivity"
+        name="doudoubird_calendar"/>
+
+    <item
+        class="com.lovelycat.activity.SplashActivity"
+        name="lovelycat"/>
+
+    <item
+        class="com.meituan.qcs.c.android.ui.splash.SplashActivity"
+        name="meituan_qcs"/>
+
+    <item
+        class="com.meizu.flyme.flymebbs.ui.LoadingActivity"
+        name="meizu_flymebbs"/>
+
 </appmap>

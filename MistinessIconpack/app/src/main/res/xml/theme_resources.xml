@@ -4635,4 +4635,64 @@
         name="com.netease.mc.aligames/com.mojang.minecraftpe.MainActivity"
         image="minecraft_china"/>
 
+    <AppIcon
+        name="com.kingrealer.expressquery/com.kingrealer.expressquery.MainActivity"
+        image="express_query"/>
+
+    <AppIcon
+        name="com.af.benchaf/com.af.benchaf.main.MainActivity"
+        image="kf_mark"/>
+
+    <AppIcon
+        name="com.xxx.svideo/com.applisto.appremium.classes.PasswordActivity"
+        image="kuaimao_video"/>
+
+    <AppIcon
+        name="com.gameloft.android.ANMP.GloftA9HM/com.gameloft.android.ANMP.GloftA9HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.StartActivity"
+        image="viperfx1"/>
+
+    <AppIcon
+        name="com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity"
+        image="viperfx2"/>
+
+    <AppIcon
+        name="com.ge.lenjoy/com.ge.lenjoy.main.ui.activity.simple.WelcomeActivity"
+        image="lenjoy"/>
+
+    <AppIcon
+        name="com.netease.hearthstone/com.netease.hearthstone.module.splash.SplashActivity"
+        image="netease_heartstone"/>
+
+    <AppIcon
+        name="com.gonlan.iplaymtg/com.gonlan.iplaymtg.common.StartActivity"
+        image="iplaymtg"/>
+
+    <AppIcon
+        name="com.netease.stzb.netease/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.amahua.ompimdrt/com.mh.movie.core.mvp.ui.activity.main.MainActivity"
+        image="mahua_movie"/>
+
+    <AppIcon
+        name="com.doudoubird.calendar/com.doudoubird.calendar.StartActivity"
+        image="doudoubird_calendar"/>
+
+    <AppIcon
+        name="com.lovelycat/com.lovelycat.activity.SplashActivity"
+        image="lovelycat"/>
+
+    <AppIcon
+        name="com.meituan.qcs.c.android/com.meituan.qcs.c.android.ui.splash.SplashActivity"
+        image="meituan_qcs"/>
+
+    <AppIcon
+        name="com.meizu.flyme.flymebbs/com.meizu.flyme.flymebbs.ui.LoadingActivity"
+        image="meizu_flymebbs"/>
+
 </Theme>
