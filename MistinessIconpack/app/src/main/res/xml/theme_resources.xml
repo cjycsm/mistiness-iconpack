@@ -4413,7 +4413,7 @@
 
     <AppIcon
         name="cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
-        image="lang_easy"/>
+        image="lang_easy_lexis"/>
 
     <AppIcon
         name="com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
@@ -4694,5 +4694,69 @@
     <AppIcon
         name="com.meizu.flyme.flymebbs/com.meizu.flyme.flymebbs.ui.LoadingActivity"
         image="meizu_flymebbs"/>
+
+    <AppIcon
+        name="com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity"
+        image="cmvideo"/>
+
+    <AppIcon
+        name="com.huami.midong/com.huami.midong.ui.SplashScreenActivity"
+        image="midong"/>
+
+    <AppIcon
+        name="com.migongyi.ricedonate/com.migongyi.ricedonate.welcome.WelcomeActivity"
+        image="migongyi"/>
+
+    <AppIcon
+        name="cn.com.cmbc.newmbank/cn.com.cmbc.newmbank.activity.WelComeActivity"
+        image="cmbc"/>
+
+    <AppIcon
+        name="cn.com.cmbc.mbank/cn.com.cmbc.mbank.MainActivity"
+        image="cmbc"/>
+
+    <AppIcon
+        name="com.motoband/com.motoband.ui.activity.SplashActivity"
+        image="motoband"/>
+
+    <AppIcon
+        name="com.mokee.center/com.mokee.center.activity.MainActivity"
+        image="mokee_center"/>
+
+    <AppIcon
+        name="com.maimemo.android.momo/com.maimemo.android.momo.ui.MainActivity"
+        image="maimomo"/>
+
+    <AppIcon
+        name="com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity"
+        image="scair"/>
+
+    <AppIcon
+        name="com.sup.android.superb/com.sup.android.superb.SplashActivity"
+        image="superb"/>
+
+    <AppIcon
+        name="com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity"
+        image="screen_recorder"/>
+
+    <AppIcon
+        name="com.hp.pt.vod/tech.kedou.video.module.common.WelcomeActivity"
+        image="pt_video"/>
+
+    <AppIcon
+        name="com.tencent.radio/com.tencent.radio.common.ui.LaunchActivity"
+        image="tencent_radio"/>
+
+    <AppIcon
+        name="com.tencent.eim/com.tencent.mobileqq.activity.SplashActivity"
+        image="tencent_eim"/>
+
+    <AppIcon
+        name="com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity"
+        image="tencent_wework"/>
+
+    <AppIcon
+        name="cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity"
+        image="leng_easy_listen"/>
 
 </Theme>

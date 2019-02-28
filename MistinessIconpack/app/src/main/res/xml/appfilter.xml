@@ -4382,7 +4382,7 @@
 
     <item
         component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}"
-        drawable="lang_easy"/>
+        drawable="lang_easy_lexis"/>
 
     <item
         component="ComponentInfo{com.ajnsnewmedia.kitchenstories/com.ajnsnewmedia.kitchenstories.ui.SplashActivity}"
@@ -4663,5 +4663,69 @@
     <item
         component="ComponentInfo{com.meizu.flyme.flymebbs/com.meizu.flyme.flymebbs.ui.LoadingActivity}"
         drawable="meizu_flymebbs"/>
+
+    <item
+        component="ComponentInfo{com.cmcc.cmvideo/com.cmcc.cmvideo.splash.SplashActivity}"
+        drawable="cmvideo"/>
+
+    <item
+        component="ComponentInfo{com.huami.midong/com.huami.midong.ui.SplashScreenActivity}"
+        drawable="midong"/>
+
+    <item
+        component="ComponentInfo{com.migongyi.ricedonate/com.migongyi.ricedonate.welcome.WelcomeActivity}"
+        drawable="migongyi"/>
+
+    <item
+        component="ComponentInfo{cn.com.cmbc.newmbank/cn.com.cmbc.newmbank.activity.WelComeActivity}"
+        drawable="cmbc"/>
+
+    <item
+        component="ComponentInfo{cn.com.cmbc.mbank/cn.com.cmbc.mbank.MainActivity}"
+        drawable="cmbc"/>
+
+    <item
+        component="ComponentInfo{com.motoband/com.motoband.ui.activity.SplashActivity}"
+        drawable="motoband"/>
+
+    <item
+        component="ComponentInfo{com.mokee.center/com.mokee.center.activity.MainActivity}"
+        drawable="mokee_center"/>
+
+    <item
+        component="ComponentInfo{com.maimemo.android.momo/com.maimemo.android.momo.ui.MainActivity}"
+        drawable="maimomo"/>
+
+    <item
+        component="ComponentInfo{com.csair.mbp/com.csair.mbp.launcher.WelcomeActivity}"
+        drawable="scair"/>
+
+    <item
+        component="ComponentInfo{com.sup.android.superb/com.sup.android.superb.SplashActivity}"
+        drawable="superb"/>
+
+    <item
+        component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}"
+        drawable="screen_recorder"/>
+
+    <item
+        component="ComponentInfo{com.hp.pt.vod/tech.kedou.video.module.common.WelcomeActivity}"
+        drawable="pt_video"/>
+
+    <item
+        component="ComponentInfo{com.tencent.radio/com.tencent.radio.common.ui.LaunchActivity}"
+        drawable="tencent_radio"/>
+
+    <item
+        component="ComponentInfo{com.tencent.eim/com.tencent.mobileqq.activity.SplashActivity}"
+        drawable="tencent_eim"/>
+
+    <item
+        component="ComponentInfo{com.tencent.wework/com.tencent.wework.launch.LaunchSplashActivity}"
+        drawable="tencent_wework"/>
+
+    <item
+        component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}"
+        drawable="leng_easy_listen"/>
 
 </resources>

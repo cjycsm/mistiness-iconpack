@@ -55,26 +55,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>meizu_flymebbs</item>
-        <item>express_query</item>
-        <item>kf_mark</item>
-        <item>kuaimao_video</item>
-        <item>viperfx1</item>
-        <item>viperfx2</item>
-        <item>lenjoy</item>
-        <item>netease_heartstone</item>
-        <item>iplaymtg</item>
-        <item>mahua_movie</item>
-        <item>doudoubird_calendar</item>
-        <item>doudoubird_calendar_alt</item>
-        <item>lovelycat</item>
-        <item>meituan_qcs</item>
-        <item>asphalt9</item>
-        <item>netease_stzb</item>
+        <item>cmvideo</item>
+        <item>midong</item>
+        <item>migongyi</item>
+        <item>cmbc</item>
+        <item>motoband</item>
+        <item>motoband_alt</item>
+        <item>mokee_center</item>
+        <item>maimomo</item>
+        <item>scair</item>
+        <item>scair_alt</item>
+        <item>superb</item>
+        <item>screen_recorder</item>
+        <item>pt_video</item>
+        <item>tencent_radio</item>
+        <item>tencent_eim</item>
+        <item>tencent_eim_alt</item>
+        <item>tencent_wework</item>
+        <item>leng_easy_listen</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>browser</item>
     </string-array>
 
     <string-array name="application">
@@ -818,7 +820,7 @@
         <item>baicizhan_dict</item>
         <item>sfacg</item>
         <item>google_calendar</item>
-        <item>lang_easy</item>
+        <item>lang_easy_lexis</item>
         <item>kitchen_stories</item>
         <item>kitchen_stories_alt</item>
         <item>shelled_pro</item>
@@ -874,6 +876,24 @@
         <item>doudoubird_calendar_alt</item>
         <item>lovelycat</item>
         <item>meituan_qcs</item>
+        <item>cmvideo</item>
+        <item>midong</item>
+        <item>migongyi</item>
+        <item>cmbc</item>
+        <item>motoband</item>
+        <item>motoband_alt</item>
+        <item>mokee_center</item>
+        <item>maimomo</item>
+        <item>scair</item>
+        <item>scair_alt</item>
+        <item>superb</item>
+        <item>screen_recorder</item>
+        <item>pt_video</item>
+        <item>tencent_radio</item>
+        <item>tencent_eim</item>
+        <item>tencent_eim_alt</item>
+        <item>tencent_wework</item>
+        <item>leng_easy_listen</item>
     </string-array>
 
     <string-array name="game">
@@ -948,7 +968,6 @@
         <item>email_alt</item>
         <item>video</item>
         <item>browser</item>
-        <item>browser_alt</item>
         <item>update</item>
         <item>update_alt</item>
         <item>feedback</item>

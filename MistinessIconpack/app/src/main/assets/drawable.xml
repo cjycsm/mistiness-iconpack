@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>62</version>
+    <version>63</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -124,7 +124,6 @@
     <item drawable="brevent"/>
     <item drawable="bridge_iconpack"/>
     <item drawable="browser"/>
-    <item drawable="browser_alt"/>
     <item drawable="buka"/>
     <item drawable="bullet_messenger"/>
     <item drawable="bullet_messenger_new"/>
@@ -171,8 +170,10 @@
     <item drawable="cloudmusic"/>
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
+    <item drawable="cmbc"/>
     <item drawable="cmcc_music"/>
     <item drawable="cms"/>
+    <item drawable="cmvideo"/>
     <item drawable="cntv"/>
     <item drawable="codoon"/>
     <item drawable="coloros_bbs"/>
@@ -455,7 +456,7 @@
     <item drawable="kuwo"/>
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
-    <item drawable="lang_easy"/>
+    <item drawable="lang_easy_lexis"/>
     <item drawable="lantern"/>
     <item drawable="lanzou"/>
     <item drawable="lapin"/>
@@ -465,6 +466,7 @@
     <item drawable="leaf_vpn"/>
     <item drawable="leb_parallel"/>
     <item drawable="ledongli"/>
+    <item drawable="leng_easy_listen"/>
     <item drawable="lenjoy"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
@@ -491,6 +493,7 @@
     <item drawable="magisk_alt"/>
     <item drawable="mahua_movie"/>
     <item drawable="maimai"/>
+    <item drawable="maimomo"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
@@ -533,6 +536,8 @@
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
     <item drawable="microsoft_xbox"/>
+    <item drawable="midong"/>
+    <item drawable="migongyi"/>
     <item drawable="mijia"/>
     <item drawable="minecraft"/>
     <item drawable="minecraft_china"/>
@@ -553,10 +558,13 @@
     <item drawable="mobike"/>
     <item drawable="mogujie"/>
     <item drawable="moji_weather"/>
+    <item drawable="mokee_center"/>
     <item drawable="momo"/>
     <item drawable="monkeybook"/>
     <item drawable="moonreader"/>
     <item drawable="morefan"/>
+    <item drawable="motoband"/>
+    <item drawable="motoband_alt"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
     <item drawable="mtxx"/>
@@ -659,6 +667,7 @@
     <item drawable="prisma"/>
     <item drawable="protect_eye"/>
     <item drawable="ps"/>
+    <item drawable="pt_video"/>
     <item drawable="pu"/>
     <item drawable="pubgmhd"/>
     <item drawable="pure"/>
@@ -721,6 +730,9 @@
     <item drawable="samsung_smartcalli"/>
     <item drawable="samsung_soundassistant"/>
     <item drawable="samsung_spay"/>
+    <item drawable="scair"/>
+    <item drawable="scair_alt"/>
+    <item drawable="screen_recorder"/>
     <item drawable="sdclear"/>
     <item drawable="sdm"/>
     <item drawable="search"/>
@@ -788,6 +800,7 @@
     <item drawable="suishouji"/>
     <item drawable="suning_ebuy"/>
     <item drawable="super_calculator"/>
+    <item drawable="superb"/>
     <item drawable="supersu"/>
     <item drawable="surfvpn"/>
     <item drawable="synology_chat"/>
@@ -811,6 +824,8 @@
     <item drawable="tencent_blackkey"/>
     <item drawable="tencent_blackkey_alt"/>
     <item drawable="tencent_docs"/>
+    <item drawable="tencent_eim"/>
+    <item drawable="tencent_eim_alt"/>
     <item drawable="tencent_filemanager"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
@@ -823,11 +838,13 @@
     <item drawable="tencent_qqlive"/>
     <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qtl"/>
+    <item drawable="tencent_radio"/>
     <item drawable="tencent_secure"/>
     <item drawable="tencent_sports"/>
     <item drawable="tencent_transfer"/>
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
+    <item drawable="tencent_wework"/>
     <item drawable="tencent_wifimanager"/>
     <item drawable="tenten"/>
     <item drawable="theme"/>

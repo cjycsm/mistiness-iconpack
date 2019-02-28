@@ -4407,7 +4407,7 @@
 
     <item
         class="cn.com.langeasy.LangEasyLexis.activity.SplashActivity"
-        name="lang_easy"/>
+        name="lang_easy_lexis"/>
 
     <item
         class="com.ajnsnewmedia.kitchenstories.ui.SplashActivity"
@@ -4688,5 +4688,69 @@
     <item
         class="com.meizu.flyme.flymebbs.ui.LoadingActivity"
         name="meizu_flymebbs"/>
+
+    <item
+        class="com.cmcc.cmvideo.splash.SplashActivity"
+        name="cmvideo"/>
+
+    <item
+        class="com.huami.midong.ui.SplashScreenActivity"
+        name="midong"/>
+
+    <item
+        class="com.migongyi.ricedonate.welcome.WelcomeActivity"
+        name="migongyi"/>
+
+    <item
+        class="cn.com.cmbc.newmbank.activity.WelComeActivity"
+        name="cmbc"/>
+
+    <item
+        class="cn.com.cmbc.mbank.MainActivity"
+        name="cmbc"/>
+
+    <item
+        class="com.motoband.ui.activity.SplashActivity"
+        name="motoband"/>
+
+    <item
+        class="com.mokee.center.activity.MainActivity"
+        name="mokee_center"/>
+
+    <item
+        class="com.maimemo.android.momo.ui.MainActivity"
+        name="maimomo"/>
+
+    <item
+        class="com.csair.mbp.launcher.WelcomeActivity"
+        name="scair"/>
+
+    <item
+        class="com.sup.android.superb.SplashActivity"
+        name="superb"/>
+
+    <item
+        class="com.kimcy929.screenrecorder.activity.MainActivity"
+        name="screen_recorder"/>
+
+    <item
+        class="tech.kedou.video.module.common.WelcomeActivity"
+        name="pt_video"/>
+
+    <item
+        class="com.tencent.radio.common.ui.LaunchActivity"
+        name="tencent_radio"/>
+
+    <item
+        class="com.tencent.mobileqq.activity.SplashActivity"
+        name="tencent_eim"/>
+
+    <item
+        class="com.tencent.wework.launch.LaunchSplashActivity"
+        name="tencent_wework"/>
+
+    <item
+        class="cn.com.langeasy.LangEasyLrc.ui.SplashActivity"
+        name="leng_easy_listen"/>
 
 </appmap>
