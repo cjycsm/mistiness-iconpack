@@ -1181,7 +1181,7 @@
 
     <AppIcon
         name="com.tencent.FileManager/com.tencent.mtt.SplashActivity"
-        image="tencent_filemanager"/>
+        image="tencent_filemanager_new"/>
 
     <AppIcon
         name="ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher"
@@ -4758,5 +4758,189 @@
     <AppIcon
         name="cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity"
         image="leng_easy_listen"/>
+
+    <AppIcon
+        name="cn.bitsfun.light/cn.bitsfun.light.activity.MainActivity"
+        image="bitsfun_light"/>
+
+    <AppIcon
+        name="com.qmxsppa.novelreader/com.qmxsppa.novelreader.activity.LoadingActivity"
+        image="novel_reader"/>
+
+    <AppIcon
+        name="com.peopledailychina.activity/com.peopledailychina.activity.activity.WelcomeActivity"
+        image="people_daily_china"/>
+
+    <AppIcon
+        name="com.zhongduomei.rrmj.society/com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity"
+        image="rrmj"/>
+
+    <AppIcon
+        name="com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity"
+        image="lucky"/>
+
+    <AppIcon
+        name="com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.app.DummyActivity"
+        image="samsung_vision_intelligence"/>
+
+    <AppIcon
+        name="com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity"
+        image="samsung_goodlock"/>
+
+    <AppIcon
+        name="com.samsung.android.edgelightingeffectunit/com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity"
+        image="samsung_edge_lighting"/>
+
+    <AppIcon
+        name="com.samsung.android.voc/com.samsung.android.voc.LauncherActivity"
+        image="samsung_voc"/>
+
+    <AppIcon
+        name="cn.com.shbank.mper/cn.com.shbank.mper.android.activity.SplashActivity"
+        image="shbank"/>
+
+    <AppIcon
+        name="com.lanqiudi.news/com.lanqiudi.news.BaseSplashActivity"
+        image="lanqiudi"/>
+
+    <AppIcon
+        name="www.sslyapp.com/com.jdly.activity.App_start"
+        image="ssly"/>
+
+    <AppIcon
+        name="com.z28j.feel/com.z28j.feel.HomeActivity"
+        image="magic_browser"/>
+
+    <AppIcon
+        name="me.javayhu.poetry/me.javayhu.poetry.Launcher"
+        image="poetry"/>
+
+    <AppIcon
+        name="tc.everphoto/everphoto.ui.feature.splash.SplashActivity"
+        image="everphoto"/>
+
+    <AppIcon
+        name="com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity"
+        image="hupu_shihuo"/>
+
+    <AppIcon
+        name="com.cnki.client/com.cnki.client.core.tramp.SplashActivity"
+        image="cnki"/>
+
+    <AppIcon
+        name="com.ichinait.gbpassenger/com.ichinait.gbpassenger.splash.SplashActivity"
+        image="gbpassenger"/>
+
+    <AppIcon
+        name="shuchong.xiaoshuo.yueduqi/shuchong.xiaoshuo.yueduqi.activity.Splash2Activity"
+        image="shuchong"/>
+
+    <AppIcon
+        name="com.jiubang.bookv4/com.jiubang.bookv4.ui.WelcomeActivity"
+        image="shuchong"/>
+
+    <AppIcon
+        name="com.tencent.zebra/com.android.camera.CameraActivity"
+        image="tencent_zabra"/>
+
+    <AppIcon
+        name="com.suning.mobile.epa/com.suning.mobile.epa.ui.init.SplashActivity"
+        image="suning_epa"/>
+
+    <AppIcon
+        name="com.suning.mobile.msd/com.suning.mobile.msd.base.splash.ui.InitialActivity"
+        image="suning_msd"/>
+
+    <AppIcon
+        name="com.sonymobile.scan3d/com.sonymobile.scan3d.storageservice.ui.activity.OnBoardingActivity"
+        image="sony_scan3d"/>
+
+    <AppIcon
+        name="com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity"
+        image="sony_entrance"/>
+
+    <AppIcon
+        name="com.sony.songpal.mdr/com.scee.psxandroid.activity.TopActivity"
+        image="sony_songpal_mdr"/>
+
+    <AppIcon
+        name="com.sonymobile.smartoptimizer/com.sonymobile.smartoptimizer.MainActivity"
+        image="sony_smart_optimizer"/>
+
+    <AppIcon
+        name="com.sonyericsson.playnowchina.android/com.sonyericsson.playnowchina.android.app.LoginActivity"
+        image="sony_playnow_china"/>
+
+    <AppIcon
+        name="com.sony.songpal/com.sony.songpal.app.view.overview.DeviceAndGroupActivity"
+        image="sony_songpal"/>
+
+    <AppIcon
+        name="com.sonymobile.moviecreator.rmm/com.sonyericsson.conversations.ui.ConversationListActivity"
+        image="sony_moive_creator"/>
+
+    <AppIcon
+        name="com.sonyericsson.extras.liveware/com.sonyericsson.extras.liveware.ui.LaunchActivity"
+        image="sony_liveware"/>
+
+    <AppIcon
+        name="com.sony.store.china/com.sony.store.china.ui.activity.init.FirstActivity"
+        image="sony_store_china"/>
+
+    <AppIcon
+        name="me.weishu.exp/me.weishu.exp.ui.MainActivity"
+        image="taichi"/>
+
+    <AppIcon
+        name="com.alimama.moon/com.alimama.moon.ui.WizardActivity"
+        image="alimama_moon"/>
+
+    <AppIcon
+        name="com.tenda.router.app/com.tenda.router.app.activity.Anew.Splash.SplashActivity"
+        image="tenda_router"/>
+
+    <AppIcon
+        name="com.tencent.FileManager/com.fteam.openmaster.SplashActivity"
+        image="tencent_filemanager_old"/>
+
+    <AppIcon
+        name="com.tencent.xiaowei/com.tencent.iot.activities.WelcomeActivity"
+        image="tencent_xiaowei"/>
+
+    <AppIcon
+        name="com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity"
+        image="alibaba_ailabs_tg"/>
+
+    <AppIcon
+        name="com.tencent.reading/com.tencent.reading.activity.SplashActivity"
+        image="tencent_reading"/>
+
+    <AppIcon
+        name="com.tianyancha.skyeye/com.tianyancha.skyeye.activity.SplashActivity"
+        image="skyeye"/>
+
+    <AppIcon
+        name="com.ywwynm.everythingdone/com.ywwynm.everythingdone.activities.ThingsActivity"
+        image="everything_done"/>
+
+    <AppIcon
+        name="com.mybank.android.phone/com.mybank.android.phone.MainActivity"
+        image="mybank"/>
+
+    <AppIcon
+        name="me.zheteng.android.powerstatus/me.zheteng.android.powerstatus.LaunchAppActivity"
+        image="power_status"/>
+
+    <AppIcon
+        name="com.netease.gl/com.netease.gl.ui.activity.WelcomeActivity"
+        image="netease_gl"/>
+
+    <AppIcon
+        name="com.netease.vopen/com.netease.vopen.activity.WelcomeActivity"
+        image="netease_vopen"/>
+
+    <AppIcon
+        name="com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity"
+        image="microsoft_rdc"/>
 
 </Theme>

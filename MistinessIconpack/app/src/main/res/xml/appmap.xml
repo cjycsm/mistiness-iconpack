@@ -1175,7 +1175,7 @@
 
     <item
         class="com.tencent.mtt.SplashActivity"
-        name="tencent_filemanager"/>
+        name="tencent_filemanager_new"/>
 
     <item
         class="ch.deletescape.lawnchair.Launcher"
@@ -4752,5 +4752,189 @@
     <item
         class="cn.com.langeasy.LangEasyLrc.ui.SplashActivity"
         name="leng_easy_listen"/>
+
+    <item
+        class="cn.bitsfun.light.activity.MainActivity"
+        name="bitsfun_light"/>
+
+    <item
+        class="com.qmxsppa.novelreader.activity.LoadingActivity"
+        name="novel_reader"/>
+
+    <item
+        class="com.peopledailychina.activity.activity.WelcomeActivity"
+        name="people_daily_china"/>
+
+    <item
+        class="com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity"
+        name="rrmj"/>
+
+    <item
+        class="com.lucky.luckyclient.splash.splash.SplashActivity"
+        name="lucky"/>
+
+    <item
+        class="com.samsung.android.visionintelligence.app.DummyActivity"
+        name="samsung_vision_intelligence"/>
+
+    <item
+        class="com.samsung.android.goodlock.presentation.view.PluginListActivity"
+        name="samsung_goodlock"/>
+
+    <item
+        class="com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity"
+        name="samsung_edge_lighting"/>
+
+    <item
+        class="com.samsung.android.voc.LauncherActivity"
+        name="samsung_voc"/>
+
+    <item
+        class="cn.com.shbank.mper.android.activity.SplashActivity"
+        name="shbank"/>
+
+    <item
+        class="com.lanqiudi.news.BaseSplashActivity"
+        name="lanqiudi"/>
+
+    <item
+        class="com.jdly.activity.App_start"
+        name="ssly"/>
+
+    <item
+        class="com.z28j.feel.HomeActivity"
+        name="magic_browser"/>
+
+    <item
+        class="me.javayhu.poetry.Launcher"
+        name="poetry"/>
+
+    <item
+        class="everphoto.ui.feature.splash.SplashActivity"
+        name="everphoto"/>
+
+    <item
+        class="com.hupu.shihuo.view.WelcomeActivity"
+        name="hupu_shihuo"/>
+
+    <item
+        class="com.cnki.client.core.tramp.SplashActivity"
+        name="cnki"/>
+
+    <item
+        class="com.ichinait.gbpassenger.splash.SplashActivity"
+        name="gbpassenger"/>
+
+    <item
+        class="shuchong.xiaoshuo.yueduqi.activity.Splash2Activity"
+        name="shuchong"/>
+
+    <item
+        class="com.jiubang.bookv4.ui.WelcomeActivity"
+        name="shuchong"/>
+
+    <item
+        class="com.android.camera.CameraActivity"
+        name="tencent_zabra"/>
+
+    <item
+        class="com.suning.mobile.epa.ui.init.SplashActivity"
+        name="suning_epa"/>
+
+    <item
+        class="com.suning.mobile.msd.base.splash.ui.InitialActivity"
+        name="suning_msd"/>
+
+    <item
+        class="com.sonymobile.scan3d.storageservice.ui.activity.OnBoardingActivity"
+        name="sony_scan3d"/>
+
+    <item
+        class="com.sonymobile.entrance.EntranceActivity"
+        name="sony_entrance"/>
+
+    <item
+        class="com.scee.psxandroid.activity.TopActivity"
+        name="sony_songpal_mdr"/>
+
+    <item
+        class="com.sonymobile.smartoptimizer.MainActivity"
+        name="sony_smart_optimizer"/>
+
+    <item
+        class="com.sonyericsson.playnowchina.android.app.LoginActivity"
+        name="sony_playnow_china"/>
+
+    <item
+        class="com.sony.songpal.app.view.overview.DeviceAndGroupActivity"
+        name="sony_songpal"/>
+
+    <item
+        class="com.sonyericsson.conversations.ui.ConversationListActivity"
+        name="sony_moive_creator"/>
+
+    <item
+        class="com.sonyericsson.extras.liveware.ui.LaunchActivity"
+        name="sony_liveware"/>
+
+    <item
+        class="com.sony.store.china.ui.activity.init.FirstActivity"
+        name="sony_store_china"/>
+
+    <item
+        class="me.weishu.exp.ui.MainActivity"
+        name="taichi"/>
+
+    <item
+        class="com.alimama.moon.ui.WizardActivity"
+        name="alimama_moon"/>
+
+    <item
+        class="com.tenda.router.app.activity.Anew.Splash.SplashActivity"
+        name="tenda_router"/>
+
+    <item
+        class="com.fteam.openmaster.SplashActivity"
+        name="tencent_filemanager_old"/>
+
+    <item
+        class="com.tencent.iot.activities.WelcomeActivity"
+        name="tencent_xiaowei"/>
+
+    <item
+        class="com.alibaba.ailabs.tg.splash.WelcomeActivity"
+        name="alibaba_ailabs_tg"/>
+
+    <item
+        class="com.tencent.reading.activity.SplashActivity"
+        name="tencent_reading"/>
+
+    <item
+        class="com.tianyancha.skyeye.activity.SplashActivity"
+        name="skyeye"/>
+
+    <item
+        class="com.ywwynm.everythingdone.activities.ThingsActivity"
+        name="everything_done"/>
+
+    <item
+        class="com.mybank.android.phone.MainActivity"
+        name="mybank"/>
+
+    <item
+        class="me.zheteng.android.powerstatus.LaunchAppActivity"
+        name="power_status"/>
+
+    <item
+        class="com.netease.gl.ui.activity.WelcomeActivity"
+        name="netease_gl"/>
+
+    <item
+        class="com.netease.vopen.activity.WelcomeActivity"
+        name="netease_vopen"/>
+
+    <item
+        class="com.microsoft.rdc.ui.activities.HomeActivity"
+        name="microsoft_rdc"/>
 
 </appmap>

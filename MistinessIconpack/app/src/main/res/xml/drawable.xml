@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>63</version>
+    <version>64</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -41,8 +41,10 @@
     <item drawable="airtable"/>
     <item drawable="aiwu"/>
     <item drawable="alibaba"/>
+    <item drawable="alibaba_ailabs_tg"/>
     <item drawable="alicom"/>
     <item drawable="alilink"/>
+    <item drawable="alimama_moon"/>
     <item drawable="alipay"/>
     <item drawable="aliqin"/>
     <item drawable="aliyun"/>
@@ -113,6 +115,7 @@
     <item drawable="bingo_candy"/>
     <item drawable="bit"/>
     <item drawable="bit_alt"/>
+    <item drawable="bitsfun_light"/>
     <item drawable="biubiu"/>
     <item drawable="bjnews"/>
     <item drawable="bladeheart_ninja"/>
@@ -174,6 +177,7 @@
     <item drawable="cmcc_music"/>
     <item drawable="cms"/>
     <item drawable="cmvideo"/>
+    <item drawable="cnki"/>
     <item drawable="cntv"/>
     <item drawable="codoon"/>
     <item drawable="coloros_bbs"/>
@@ -265,6 +269,8 @@
     <item drawable="eudic"/>
     <item drawable="eve_habit"/>
     <item drawable="evernote"/>
+    <item drawable="everphoto"/>
+    <item drawable="everything_done"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_query"/>
@@ -317,6 +323,7 @@
     <item drawable="gansu_bank"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
+    <item drawable="gbpassenger"/>
     <item drawable="geek_time"/>
     <item drawable="geely"/>
     <item drawable="gemini_iconpack"/>
@@ -395,6 +402,7 @@
     <item drawable="huoshan"/>
     <item drawable="huoying"/>
     <item drawable="hupu"/>
+    <item drawable="hupu_shihuo"/>
     <item drawable="huxiu"/>
     <item drawable="huya"/>
     <item drawable="icbc"/>
@@ -457,6 +465,7 @@
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
     <item drawable="lang_easy_lexis"/>
+    <item drawable="lanqiudi"/>
     <item drawable="lantern"/>
     <item drawable="lanzou"/>
     <item drawable="lapin"/>
@@ -485,10 +494,12 @@
     <item drawable="loveread"/>
     <item drawable="lrcjaeger"/>
     <item drawable="lrcjaeger_alt"/>
+    <item drawable="lucky"/>
     <item drawable="lucky_patcher"/>
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
     <item drawable="lulu"/>
+    <item drawable="magic_browser"/>
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
     <item drawable="mahua_movie"/>
@@ -531,6 +542,7 @@
     <item drawable="microsoft_onenote"/>
     <item drawable="microsoft_outlook"/>
     <item drawable="microsoft_powerpoint"/>
+    <item drawable="microsoft_rdc"/>
     <item drawable="microsoft_skydrive"/>
     <item drawable="microsoft_todo"/>
     <item drawable="microsoft_translator"/>
@@ -575,6 +587,7 @@
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
     <item drawable="myandroidtoolspro"/>
+    <item drawable="mybank"/>
     <item drawable="mybus"/>
     <item drawable="mygesture"/>
     <item drawable="myweather"/>
@@ -583,6 +596,7 @@
     <item drawable="nba2k19_alt"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
+    <item drawable="netease_gl"/>
     <item drawable="netease_heartstone"/>
     <item drawable="netease_kaola"/>
     <item drawable="netease_mail"/>
@@ -594,6 +608,7 @@
     <item drawable="netease_ucmooc"/>
     <item drawable="netease_uu"/>
     <item drawable="netease_uurouter"/>
+    <item drawable="netease_vopen"/>
     <item drawable="netease_yanxuan"/>
     <item drawable="netflix"/>
     <item drawable="nga"/>
@@ -603,6 +618,7 @@
     <item drawable="nomo"/>
     <item drawable="notes"/>
     <item drawable="nova_launcher"/>
+    <item drawable="novel_reader"/>
     <item drawable="nowcasting"/>
     <item drawable="nutstore"/>
     <item drawable="nutstore_alt"/>
@@ -637,6 +653,7 @@
     <item drawable="paypal"/>
     <item drawable="pcamera"/>
     <item drawable="pconline"/>
+    <item drawable="people_daily_china"/>
     <item drawable="phonograph"/>
     <item drawable="photo_editor"/>
     <item drawable="pic_folder"/>
@@ -654,6 +671,7 @@
     <item drawable="playstation"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
+    <item drawable="poetry"/>
     <item drawable="poly"/>
     <item drawable="poly_alt"/>
     <item drawable="pomotodo"/>
@@ -662,6 +680,7 @@
     <item drawable="power_amp"/>
     <item drawable="power_clean"/>
     <item drawable="power_shade"/>
+    <item drawable="power_status"/>
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
     <item drawable="prisma"/>
@@ -720,8 +739,11 @@
     <item drawable="retouch"/>
     <item drawable="rewind"/>
     <item drawable="root_explore"/>
+    <item drawable="rrmj"/>
     <item drawable="safe"/>
+    <item drawable="samsung_edge_lighting"/>
     <item drawable="samsung_gametuner"/>
+    <item drawable="samsung_goodlock"/>
     <item drawable="samsung_max"/>
     <item drawable="samsung_oneconnect"/>
     <item drawable="samsung_securefolder"/>
@@ -730,6 +752,8 @@
     <item drawable="samsung_smartcalli"/>
     <item drawable="samsung_soundassistant"/>
     <item drawable="samsung_spay"/>
+    <item drawable="samsung_vision_intelligence"/>
+    <item drawable="samsung_voc"/>
     <item drawable="scair"/>
     <item drawable="scair_alt"/>
     <item drawable="screen_recorder"/>
@@ -754,16 +778,19 @@
     <item drawable="share_alt2"/>
     <item drawable="share_alt3"/>
     <item drawable="shazam"/>
+    <item drawable="shbank"/>
     <item drawable="shelled_pro"/>
     <item drawable="shizuku"/>
     <item drawable="shortcut_creater"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
     <item drawable="shuangkai"/>
+    <item drawable="shuchong"/>
     <item drawable="shuqi"/>
     <item drawable="signal_master"/>
     <item drawable="sina_news"/>
     <item drawable="sing_client"/>
+    <item drawable="skyeye"/>
     <item drawable="skype"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
@@ -781,6 +808,16 @@
     <item drawable="snkrs"/>
     <item drawable="sogou_ime"/>
     <item drawable="solid_explorer"/>
+    <item drawable="sony_entrance"/>
+    <item drawable="sony_liveware"/>
+    <item drawable="sony_moive_creator"/>
+    <item drawable="sony_playnow_china"/>
+    <item drawable="sony_scan3d"/>
+    <item drawable="sony_smart_optimizer"/>
+    <item drawable="sony_songpal"/>
+    <item drawable="sony_songpal_mdr"/>
+    <item drawable="sony_store_china"/>
+    <item drawable="sony_store_china_alt"/>
     <item drawable="sorcery"/>
     <item drawable="souhu_video"/>
     <item drawable="soul"/>
@@ -791,6 +828,7 @@
     <item drawable="speedtest"/>
     <item drawable="spotify"/>
     <item drawable="spotify_alt"/>
+    <item drawable="ssly"/>
     <item drawable="steam"/>
     <item drawable="stk"/>
     <item drawable="stk_alt"/>
@@ -799,6 +837,8 @@
     <item drawable="subwaysurf"/>
     <item drawable="suishouji"/>
     <item drawable="suning_ebuy"/>
+    <item drawable="suning_epa"/>
+    <item drawable="suning_msd"/>
     <item drawable="super_calculator"/>
     <item drawable="superb"/>
     <item drawable="supersu"/>
@@ -806,6 +846,8 @@
     <item drawable="synology_chat"/>
     <item drawable="synology_moments"/>
     <item drawable="szzc"/>
+    <item drawable="taichi"/>
+    <item drawable="taichi_alt"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
     <item drawable="taobao_dipei"/>
@@ -826,7 +868,8 @@
     <item drawable="tencent_docs"/>
     <item drawable="tencent_eim"/>
     <item drawable="tencent_eim_alt"/>
-    <item drawable="tencent_filemanager"/>
+    <item drawable="tencent_filemanager_new"/>
+    <item drawable="tencent_filemanager_old"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
     <item drawable="tencent_ig"/>
@@ -839,6 +882,7 @@
     <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_radio"/>
+    <item drawable="tencent_reading"/>
     <item drawable="tencent_secure"/>
     <item drawable="tencent_sports"/>
     <item drawable="tencent_transfer"/>
@@ -846,6 +890,9 @@
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wework"/>
     <item drawable="tencent_wifimanager"/>
+    <item drawable="tencent_xiaowei"/>
+    <item drawable="tencent_zabra"/>
+    <item drawable="tenda_router"/>
     <item drawable="tenten"/>
     <item drawable="theme"/>
     <item drawable="theme_alt"/>

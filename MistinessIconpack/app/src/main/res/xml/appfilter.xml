@@ -1179,7 +1179,7 @@
 
     <item
         component="ComponentInfo{com.tencent.FileManager/com.tencent.mtt.SplashActivity}"
-        drawable="tencent_filemanager"/>
+        drawable="tencent_filemanager_new"/>
 
     <item
         component="ComponentInfo{ch.deletescape.lawnchair/ch.deletescape.lawnchair.Launcher}"
@@ -4727,5 +4727,189 @@
     <item
         component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}"
         drawable="leng_easy_listen"/>
+
+    <item
+        component="ComponentInfo{cn.bitsfun.light/cn.bitsfun.light.activity.MainActivity}"
+        drawable="bitsfun_light"/>
+
+    <item
+        component="ComponentInfo{com.qmxsppa.novelreader/com.qmxsppa.novelreader.activity.LoadingActivity}"
+        drawable="novel_reader"/>
+
+    <item
+        component="ComponentInfo{com.peopledailychina.activity/com.peopledailychina.activity.activity.WelcomeActivity}"
+        drawable="people_daily_china"/>
+
+    <item
+        component="ComponentInfo{com.zhongduomei.rrmj.society/com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity}"
+        drawable="rrmj"/>
+
+    <item
+        component="ComponentInfo{com.lucky.luckyclient/com.lucky.luckyclient.splash.splash.SplashActivity}"
+        drawable="lucky"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.visionintelligence/com.samsung.android.visionintelligence.app.DummyActivity}"
+        drawable="samsung_vision_intelligence"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.goodlock/com.samsung.android.goodlock.presentation.view.PluginListActivity}"
+        drawable="samsung_goodlock"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.edgelightingeffectunit/com.samsung.android.edgelightingeffectunit.activity.EdgeLightingUnitActivity}"
+        drawable="samsung_edge_lighting"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}"
+        drawable="samsung_voc"/>
+
+    <item
+        component="ComponentInfo{cn.com.shbank.mper/cn.com.shbank.mper.android.activity.SplashActivity}"
+        drawable="shbank"/>
+
+    <item
+        component="ComponentInfo{com.lanqiudi.news/com.lanqiudi.news.BaseSplashActivity}"
+        drawable="lanqiudi"/>
+
+    <item
+        component="ComponentInfo{www.sslyapp.com/com.jdly.activity.App_start}"
+        drawable="ssly"/>
+
+    <item
+        component="ComponentInfo{com.z28j.feel/com.z28j.feel.HomeActivity}"
+        drawable="magic_browser"/>
+
+    <item
+        component="ComponentInfo{me.javayhu.poetry/me.javayhu.poetry.Launcher}"
+        drawable="poetry"/>
+
+    <item
+        component="ComponentInfo{tc.everphoto/everphoto.ui.feature.splash.SplashActivity}"
+        drawable="everphoto"/>
+
+    <item
+        component="ComponentInfo{com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity}"
+        drawable="hupu_shihuo"/>
+
+    <item
+        component="ComponentInfo{com.cnki.client/com.cnki.client.core.tramp.SplashActivity}"
+        drawable="cnki"/>
+
+    <item
+        component="ComponentInfo{com.ichinait.gbpassenger/com.ichinait.gbpassenger.splash.SplashActivity}"
+        drawable="gbpassenger"/>
+
+    <item
+        component="ComponentInfo{shuchong.xiaoshuo.yueduqi/shuchong.xiaoshuo.yueduqi.activity.Splash2Activity}"
+        drawable="shuchong"/>
+
+    <item
+        component="ComponentInfo{com.jiubang.bookv4/com.jiubang.bookv4.ui.WelcomeActivity}"
+        drawable="shuchong"/>
+
+    <item
+        component="ComponentInfo{com.tencent.zebra/com.android.camera.CameraActivity}"
+        drawable="tencent_zabra"/>
+
+    <item
+        component="ComponentInfo{com.suning.mobile.epa/com.suning.mobile.epa.ui.init.SplashActivity}"
+        drawable="suning_epa"/>
+
+    <item
+        component="ComponentInfo{com.suning.mobile.msd/com.suning.mobile.msd.base.splash.ui.InitialActivity}"
+        drawable="suning_msd"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.scan3d/com.sonymobile.scan3d.storageservice.ui.activity.OnBoardingActivity}"
+        drawable="sony_scan3d"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity}"
+        drawable="sony_entrance"/>
+
+    <item
+        component="ComponentInfo{com.sony.songpal.mdr/com.scee.psxandroid.activity.TopActivity}"
+        drawable="sony_songpal_mdr"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.smartoptimizer/com.sonymobile.smartoptimizer.MainActivity}"
+        drawable="sony_smart_optimizer"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.playnowchina.android/com.sonyericsson.playnowchina.android.app.LoginActivity}"
+        drawable="sony_playnow_china"/>
+
+    <item
+        component="ComponentInfo{com.sony.songpal/com.sony.songpal.app.view.overview.DeviceAndGroupActivity}"
+        drawable="sony_songpal"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonyericsson.conversations.ui.ConversationListActivity}"
+        drawable="sony_moive_creator"/>
+
+    <item
+        component="ComponentInfo{com.sonyericsson.extras.liveware/com.sonyericsson.extras.liveware.ui.LaunchActivity}"
+        drawable="sony_liveware"/>
+
+    <item
+        component="ComponentInfo{com.sony.store.china/com.sony.store.china.ui.activity.init.FirstActivity}"
+        drawable="sony_store_china"/>
+
+    <item
+        component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}"
+        drawable="taichi"/>
+
+    <item
+        component="ComponentInfo{com.alimama.moon/com.alimama.moon.ui.WizardActivity}"
+        drawable="alimama_moon"/>
+
+    <item
+        component="ComponentInfo{com.tenda.router.app/com.tenda.router.app.activity.Anew.Splash.SplashActivity}"
+        drawable="tenda_router"/>
+
+    <item
+        component="ComponentInfo{com.tencent.FileManager/com.fteam.openmaster.SplashActivity}"
+        drawable="tencent_filemanager_old"/>
+
+    <item
+        component="ComponentInfo{com.tencent.xiaowei/com.tencent.iot.activities.WelcomeActivity}"
+        drawable="tencent_xiaowei"/>
+
+    <item
+        component="ComponentInfo{com.alibaba.ailabs.tg/com.alibaba.ailabs.tg.splash.WelcomeActivity}"
+        drawable="alibaba_ailabs_tg"/>
+
+    <item
+        component="ComponentInfo{com.tencent.reading/com.tencent.reading.activity.SplashActivity}"
+        drawable="tencent_reading"/>
+
+    <item
+        component="ComponentInfo{com.tianyancha.skyeye/com.tianyancha.skyeye.activity.SplashActivity}"
+        drawable="skyeye"/>
+
+    <item
+        component="ComponentInfo{com.ywwynm.everythingdone/com.ywwynm.everythingdone.activities.ThingsActivity}"
+        drawable="everything_done"/>
+
+    <item
+        component="ComponentInfo{com.mybank.android.phone/com.mybank.android.phone.MainActivity}"
+        drawable="mybank"/>
+
+    <item
+        component="ComponentInfo{me.zheteng.android.powerstatus/me.zheteng.android.powerstatus.LaunchAppActivity}"
+        drawable="power_status"/>
+
+    <item
+        component="ComponentInfo{com.netease.gl/com.netease.gl.ui.activity.WelcomeActivity}"
+        drawable="netease_gl"/>
+
+    <item
+        component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}"
+        drawable="netease_vopen"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity}"
+        drawable="microsoft_rdc"/>
 
 </resources>

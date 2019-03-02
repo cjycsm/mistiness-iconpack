@@ -52,31 +52,61 @@
         <item>smartisan</item>
         <item>nokia</item>
         <item>vivo</item>
+        <item>sony</item>
     </string-array>
 
     <string-array name="newest">
-        <item>cmvideo</item>
-        <item>midong</item>
-        <item>migongyi</item>
-        <item>cmbc</item>
-        <item>motoband</item>
-        <item>motoband_alt</item>
-        <item>mokee_center</item>
-        <item>maimomo</item>
-        <item>scair</item>
-        <item>scair_alt</item>
-        <item>superb</item>
-        <item>screen_recorder</item>
-        <item>pt_video</item>
-        <item>tencent_radio</item>
-        <item>tencent_eim</item>
-        <item>tencent_eim_alt</item>
-        <item>tencent_wework</item>
-        <item>leng_easy_listen</item>
+        <item>bitsfun_light</item>
+        <item>novel_reader</item>
+        <item>people_daily_china</item>
+        <item>rrmj</item>
+        <item>lucky</item>
+        <item>shbank</item>
+        <item>lanqiudi</item>
+        <item>ssly</item>
+        <item>magic_browser</item>
+        <item>poetry</item>
+        <item>everphoto</item>
+        <item>hupu_shihuo</item>
+        <item>cnki</item>
+        <item>gbpassenger</item>
+        <item>shuchong</item>
+        <item>tencent_zabra</item>
+        <item>suning_epa</item>
+        <item>suning_msd</item>
+        <item>sony_songpal_mdr</item>
+        <item>taichi</item>
+        <item>taichi_alt</item>
+        <item>alimama_moon</item>
+        <item>tenda_router</item>
+        <item>tencent_filemanager_old</item>
+        <item>tencent_xiaowei</item>
+        <item>alibaba_ailabs_tg</item>
+        <item>tencent_reading</item>
+        <item>skyeye</item>
+        <item>everything_done</item>
+        <item>mybank</item>
+        <item>power_status</item>
+        <item>netease_gl</item>
+        <item>netease_vopen</item>
+        <item>microsoft_rdc</item>
+        <item>samsung_vision_intelligence</item>
+        <item>samsung_goodlock</item>
+        <item>samsung_edge_lighting</item>
+        <item>samsung_voc</item>
+        <item>sony_scan3d</item>
+        <item>sony_entrance</item>
+        <item>sony_smart_optimizer</item>
+        <item>sony_playnow_china</item>
+        <item>sony_songpal</item>
+        <item>sony_moive_creator</item>
+        <item>sony_liveware</item>
+        <item>sony_store_china</item>
+        <item>sony_store_china_alt</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>browser</item>
+
     </string-array>
 
     <string-array name="application">
@@ -337,7 +367,7 @@
         <item>ludashi</item>
         <item>airfrozen</item>
         <item>floating</item>
-        <item>tencent_filemanager</item>
+        <item>tencent_filemanager_new</item>
         <item>lawnchair</item>
         <item>search</item>
         <item>z_launcher</item>
@@ -894,6 +924,40 @@
         <item>tencent_eim_alt</item>
         <item>tencent_wework</item>
         <item>leng_easy_listen</item>
+        <item>bitsfun_light</item>
+        <item>novel_reader</item>
+        <item>people_daily_china</item>
+        <item>rrmj</item>
+        <item>lucky</item>
+        <item>shbank</item>
+        <item>lanqiudi</item>
+        <item>ssly</item>
+        <item>magic_browser</item>
+        <item>poetry</item>
+        <item>everphoto</item>
+        <item>hupu_shihuo</item>
+        <item>cnki</item>
+        <item>gbpassenger</item>
+        <item>shuchong</item>
+        <item>tencent_zabra</item>
+        <item>suning_epa</item>
+        <item>suning_msd</item>
+        <item>sony_songpal_mdr</item>
+        <item>taichi</item>
+        <item>taichi_alt</item>
+        <item>alimama_moon</item>
+        <item>tenda_router</item>
+        <item>tencent_filemanager_old</item>
+        <item>tencent_xiaowei</item>
+        <item>alibaba_ailabs_tg</item>
+        <item>tencent_reading</item>
+        <item>skyeye</item>
+        <item>everything_done</item>
+        <item>mybank</item>
+        <item>power_status</item>
+        <item>netease_gl</item>
+        <item>netease_vopen</item>
+        <item>microsoft_rdc</item>
     </string-array>
 
     <string-array name="game">
@@ -1051,6 +1115,10 @@
         <item>samsung_soundassistant</item>
         <item>samsung_spay</item>
         <item>samsung_oneconnect</item>
+        <item>samsung_vision_intelligence</item>
+        <item>samsung_goodlock</item>
+        <item>samsung_edge_lighting</item>
+        <item>samsung_voc</item>
     </string-array>
 
     <string-array name="huawei">
@@ -1093,6 +1161,18 @@
 
     <string-array name="vivo">
         <item>vivo_easyshare</item>
+    </string-array>
+
+    <string-array name="sony">
+        <item>sony_scan3d</item>
+        <item>sony_entrance</item>
+        <item>sony_smart_optimizer</item>
+        <item>sony_playnow_china</item>
+        <item>sony_songpal</item>
+        <item>sony_moive_creator</item>
+        <item>sony_liveware</item>
+        <item>sony_store_china</item>
+        <item>sony_store_china_alt</item>
     </string-array>
 
 </resources>
