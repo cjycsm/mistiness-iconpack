@@ -56,53 +56,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>bitsfun_light</item>
-        <item>novel_reader</item>
-        <item>people_daily_china</item>
-        <item>rrmj</item>
-        <item>lucky</item>
-        <item>shbank</item>
-        <item>lanqiudi</item>
-        <item>ssly</item>
-        <item>magic_browser</item>
-        <item>poetry</item>
-        <item>everphoto</item>
-        <item>hupu_shihuo</item>
-        <item>cnki</item>
-        <item>gbpassenger</item>
-        <item>shuchong</item>
-        <item>tencent_zabra</item>
-        <item>suning_epa</item>
-        <item>suning_msd</item>
-        <item>sony_songpal_mdr</item>
-        <item>taichi</item>
-        <item>taichi_alt</item>
-        <item>alimama_moon</item>
-        <item>tenda_router</item>
-        <item>tencent_filemanager_old</item>
-        <item>tencent_xiaowei</item>
-        <item>alibaba_ailabs_tg</item>
-        <item>tencent_reading</item>
-        <item>skyeye</item>
-        <item>everything_done</item>
-        <item>mybank</item>
-        <item>power_status</item>
-        <item>netease_gl</item>
-        <item>netease_vopen</item>
-        <item>microsoft_rdc</item>
-        <item>samsung_vision_intelligence</item>
-        <item>samsung_goodlock</item>
-        <item>samsung_edge_lighting</item>
-        <item>samsung_voc</item>
-        <item>sony_scan3d</item>
-        <item>sony_entrance</item>
-        <item>sony_smart_optimizer</item>
-        <item>sony_playnow_china</item>
-        <item>sony_songpal</item>
-        <item>sony_moive_creator</item>
-        <item>sony_liveware</item>
-        <item>sony_store_china</item>
-        <item>sony_store_china_alt</item>
+        <item>xiaomi_health</item>
+        <item>wochacha</item>
+        <item>magent_search</item>
+        <item>magent_search_alt</item>
+        <item>xiaoheihe</item>
+        <item>xiaoheihe_alt</item>
+        <item>stopapp</item>
+        <item>stopapp_alt</item>
+        <item>xiaomi_router</item>
+        <item>xiaomi_loan</item>
+        <item>xiaomi_midrop</item>
+        <item>xiaomi_o2o</item>
+        <item>brain_music</item>
+        <item>firebear</item>
+        <item>round_corner</item>
+        <item>tencent_gtclub</item>
+        <item>dictcn</item>
+        <item>man_camera</item>
+        <item>man_camera_alt</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -526,7 +498,7 @@
         <item>haodf</item>
         <item>yiwang</item>
         <item>seeyou</item>
-        <item>xiaomi_health</item>
+        <item>xiaomi_hm_health</item>
         <item>ledongli</item>
         <item>youdao_dict</item>
         <item>kingsoft</item>
@@ -958,6 +930,24 @@
         <item>netease_gl</item>
         <item>netease_vopen</item>
         <item>microsoft_rdc</item>
+        <item>wochacha</item>
+        <item>magent_search</item>
+        <item>magent_search_alt</item>
+        <item>xiaoheihe</item>
+        <item>xiaoheihe_alt</item>
+        <item>stopapp</item>
+        <item>stopapp_alt</item>
+        <item>xiaomi_router</item>
+        <item>xiaomi_loan</item>
+        <item>xiaomi_midrop</item>
+        <item>xiaomi_o2o</item>
+        <item>brain_music</item>
+        <item>firebear</item>
+        <item>round_corner</item>
+        <item>tencent_gtclub</item>
+        <item>dictcn</item>
+        <item>man_camera</item>
+        <item>man_camera_alt</item>
     </string-array>
 
     <string-array name="game">
@@ -1090,6 +1080,7 @@
         <item>xiaomi_bbs</item>
         <item>xiaomi_live</item>
         <item>xiaomi_vipaccount</item>
+        <item>xiaomi_health</item>
     </string-array>
 
     <string-array name="smartisan">

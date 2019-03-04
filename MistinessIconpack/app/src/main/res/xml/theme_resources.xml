@@ -1813,7 +1813,7 @@
 
     <AppIcon
         name="com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity"
-        image="xiaomi_health"/>
+        image="xiaomi_hm_health"/>
 
     <AppIcon
         name="cn.ledongli.ldl/cn.ledongli.ldl.activity.SplashScreenActivity"
@@ -4942,5 +4942,65 @@
     <AppIcon
         name="com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity"
         image="microsoft_rdc"/>
+
+    <AppIcon
+        name="com.wochacha/com.wochacha.StartupActivity"
+        image="wochacha"/>
+
+    <AppIcon
+        name="io.github.skyhacker2.magnetsearch/io.github.skyhacker2.magnetsearch.SplashActivity"
+        image="magent_search"/>
+
+    <AppIcon
+        name="com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity"
+        image="xiaoheihe"/>
+
+    <AppIcon
+        name="web1n.stopapp/web1n.stopapp.activity.MainActivity"
+        image="stopapp"/>
+
+    <AppIcon
+        name="com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity"
+        image="xiaomi_router"/>
+
+    <AppIcon
+        name="com.xiaomi.loan/com.xiaomi.jr.SplashActivity"
+        image="xiaomi_loan"/>
+
+    <AppIcon
+        name="com.mi.health/com.mi.health.splash.SplashActivity"
+        image="xiaomi_health"/>
+
+    <AppIcon
+        name="com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity"
+        image="xiaomi_midrop"/>
+
+    <AppIcon
+        name="com.xiaomi.o2o/com.xiaomi.o2o.activity.O2OTabActivity"
+        image="xiaomi_o2o"/>
+
+    <AppIcon
+        name="com.psyone.brainmusic/com.psyone.brainmusic.SplashActivity"
+        image="brain_music"/>
+
+    <AppIcon
+        name="com.firebear.androil/com.firebear.androil.app.PreLoadActivity"
+        image="firebear"/>
+
+    <AppIcon
+        name="com.c4x.roundcorner/com.c4x.roundcorner.ui.LauAct"
+        image="round_corner"/>
+
+    <AppIcon
+        name="com.tencent.tgclub/com.tencent.tgclub.ui.WelcomeActivity"
+        image="tencent_gtclub"/>
+
+    <AppIcon
+        name="cn.dictcn.android.digitize.swg_xhzd_21003/cn.dictcn.android.digitize.module.init.view.HaidiiAppInitActivity"
+        image="dictcn"/>
+
+    <AppIcon
+        name="com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme"
+        image="man_camera"/>
 
 </Theme>

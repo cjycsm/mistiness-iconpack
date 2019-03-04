@@ -1807,7 +1807,7 @@
 
     <item
         class="com.xiaomi.hm.health.activity.StartUpActivity"
-        name="xiaomi_health"/>
+        name="xiaomi_hm_health"/>
 
     <item
         class="cn.ledongli.ldl.activity.SplashScreenActivity"
@@ -4936,5 +4936,65 @@
     <item
         class="com.microsoft.rdc.ui.activities.HomeActivity"
         name="microsoft_rdc"/>
+
+    <item
+        class="com.wochacha.StartupActivity"
+        name="wochacha"/>
+
+    <item
+        class="io.github.skyhacker2.magnetsearch.SplashActivity"
+        name="magent_search"/>
+
+    <item
+        class="com.max.xiaoheihe.SplashActivity"
+        name="xiaoheihe"/>
+
+    <item
+        class="web1n.stopapp.activity.MainActivity"
+        name="stopapp"/>
+
+    <item
+        class="com.xiaomi.router.module.splash.SplashActivity"
+        name="xiaomi_router"/>
+
+    <item
+        class="com.xiaomi.jr.SplashActivity"
+        name="xiaomi_loan"/>
+
+    <item
+        class="com.mi.health.splash.SplashActivity"
+        name="xiaomi_health"/>
+
+    <item
+        class="com.xiaomi.midrop.HomeActivity"
+        name="xiaomi_midrop"/>
+
+    <item
+        class="com.xiaomi.o2o.activity.O2OTabActivity"
+        name="xiaomi_o2o"/>
+
+    <item
+        class="com.psyone.brainmusic.SplashActivity"
+        name="brain_music"/>
+
+    <item
+        class="com.firebear.androil.app.PreLoadActivity"
+        name="firebear"/>
+
+    <item
+        class="com.c4x.roundcorner.ui.LauAct"
+        name="round_corner"/>
+
+    <item
+        class="com.tencent.tgclub.ui.WelcomeActivity"
+        name="tencent_gtclub"/>
+
+    <item
+        class="cn.dictcn.android.digitize.module.init.view.HaidiiAppInitActivity"
+        name="dictcn"/>
+
+    <item
+        class="com.adnonstop.mancamera2017.CamHomme"
+        name="man_camera"/>
 
 </appmap>

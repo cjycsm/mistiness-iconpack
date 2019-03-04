@@ -1811,7 +1811,7 @@
 
     <item
         component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}"
-        drawable="xiaomi_health"/>
+        drawable="xiaomi_hm_health"/>
 
     <item
         component="ComponentInfo{cn.ledongli.ldl/cn.ledongli.ldl.activity.SplashScreenActivity}"
@@ -4911,5 +4911,65 @@
     <item
         component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity}"
         drawable="microsoft_rdc"/>
+
+    <item
+        component="ComponentInfo{com.wochacha/com.wochacha.StartupActivity}"
+        drawable="wochacha"/>
+
+    <item
+        component="ComponentInfo{io.github.skyhacker2.magnetsearch/io.github.skyhacker2.magnetsearch.SplashActivity}"
+        drawable="magent_search"/>
+
+    <item
+        component="ComponentInfo{com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity}"
+        drawable="xiaoheihe"/>
+
+    <item
+        component="ComponentInfo{web1n.stopapp/web1n.stopapp.activity.MainActivity}"
+        drawable="stopapp"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}"
+        drawable="xiaomi_router"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.loan/com.xiaomi.jr.SplashActivity}"
+        drawable="xiaomi_loan"/>
+
+    <item
+        component="ComponentInfo{com.mi.health/com.mi.health.splash.SplashActivity}"
+        drawable="xiaomi_health"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.midrop/com.xiaomi.midrop.HomeActivity}"
+        drawable="xiaomi_midrop"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.o2o/com.xiaomi.o2o.activity.O2OTabActivity}"
+        drawable="xiaomi_o2o"/>
+
+    <item
+        component="ComponentInfo{com.psyone.brainmusic/com.psyone.brainmusic.SplashActivity}"
+        drawable="brain_music"/>
+
+    <item
+        component="ComponentInfo{com.firebear.androil/com.firebear.androil.app.PreLoadActivity}"
+        drawable="firebear"/>
+
+    <item
+        component="ComponentInfo{com.c4x.roundcorner/com.c4x.roundcorner.ui.LauAct}"
+        drawable="round_corner"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tgclub/com.tencent.tgclub.ui.WelcomeActivity}"
+        drawable="tencent_gtclub"/>
+
+    <item
+        component="ComponentInfo{cn.dictcn.android.digitize.swg_xhzd_21003/cn.dictcn.android.digitize.module.init.view.HaidiiAppInitActivity}"
+        drawable="dictcn"/>
+
+    <item
+        component="ComponentInfo{com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme}"
+        drawable="man_camera"/>
 
 </resources>

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>64</version>
+    <version>65</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -123,6 +123,7 @@
     <item drawable="boc"/>
     <item drawable="booking"/>
     <item drawable="bosszhipin"/>
+    <item drawable="brain_music"/>
     <item drawable="brakefield_painter"/>
     <item drawable="brevent"/>
     <item drawable="bridge_iconpack"/>
@@ -217,6 +218,7 @@
     <item drawable="dedao"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
+    <item drawable="dictcn"/>
     <item drawable="dida"/>
     <item drawable="dida_alt"/>
     <item drawable="didapinche"/>
@@ -295,6 +297,7 @@
     <item drawable="file_manager_alt"/>
     <item drawable="filmorago"/>
     <item drawable="filmorago_alt"/>
+    <item drawable="firebear"/>
     <item drawable="firefox"/>
     <item drawable="fivehundredpx"/>
     <item drawable="flamingo"/>
@@ -499,12 +502,16 @@
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
     <item drawable="lulu"/>
+    <item drawable="magent_search"/>
+    <item drawable="magent_search_alt"/>
     <item drawable="magic_browser"/>
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
     <item drawable="mahua_movie"/>
     <item drawable="maimai"/>
     <item drawable="maimomo"/>
+    <item drawable="man_camera"/>
+    <item drawable="man_camera_alt"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
@@ -739,6 +746,7 @@
     <item drawable="retouch"/>
     <item drawable="rewind"/>
     <item drawable="root_explore"/>
+    <item drawable="round_corner"/>
     <item drawable="rrmj"/>
     <item drawable="safe"/>
     <item drawable="samsung_edge_lighting"/>
@@ -832,6 +840,8 @@
     <item drawable="steam"/>
     <item drawable="stk"/>
     <item drawable="stk_alt"/>
+    <item drawable="stopapp"/>
+    <item drawable="stopapp_alt"/>
     <item drawable="storm"/>
     <item drawable="substratum"/>
     <item drawable="subwaysurf"/>
@@ -872,6 +882,7 @@
     <item drawable="tencent_filemanager_old"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
+    <item drawable="tencent_gtclub"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_map"/>
@@ -972,6 +983,7 @@
     <item drawable="wifibox"/>
     <item drawable="wifikey"/>
     <item drawable="wiz_note"/>
+    <item drawable="wochacha"/>
     <item drawable="wooden_letter"/>
     <item drawable="word"/>
     <item drawable="wps"/>
@@ -987,13 +999,20 @@
     <item drawable="xiami"/>
     <item drawable="xianchangyun"/>
     <item drawable="xianchangyun_alt"/>
+    <item drawable="xiaoheihe"/>
+    <item drawable="xiaoheihe_alt"/>
     <item drawable="xiaoji_emulator"/>
     <item drawable="xiaomi_bbs"/>
     <item drawable="xiaomi_channel"/>
     <item drawable="xiaomi_health"/>
+    <item drawable="xiaomi_hm_health"/>
     <item drawable="xiaomi_jr"/>
     <item drawable="xiaomi_live"/>
+    <item drawable="xiaomi_loan"/>
     <item drawable="xiaomi_mico"/>
+    <item drawable="xiaomi_midrop"/>
+    <item drawable="xiaomi_o2o"/>
+    <item drawable="xiaomi_router"/>
     <item drawable="xiaomi_shop"/>
     <item drawable="xiaomi_vipaccount"/>
     <item drawable="xiaomi_youpin"/>
