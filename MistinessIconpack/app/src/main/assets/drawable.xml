@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>65</version>
+    <version>66</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -90,6 +90,7 @@
     <item drawable="baicizhan"/>
     <item drawable="baicizhan_dict"/>
     <item drawable="baidu"/>
+    <item drawable="baidu_homework"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
@@ -118,6 +119,7 @@
     <item drawable="bitsfun_light"/>
     <item drawable="biubiu"/>
     <item drawable="bjnews"/>
+    <item drawable="blackblub"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
     <item drawable="boc"/>
@@ -148,6 +150,7 @@
     <item drawable="caocao"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
+    <item drawable="cdel"/>
     <item drawable="cebbank"/>
     <item drawable="cebbank_creditcard"/>
     <item drawable="cf"/>
@@ -162,9 +165,11 @@
     <item drawable="chrome"/>
     <item drawable="chrome_alt"/>
     <item drawable="chunyu_doctor"/>
+    <item drawable="cib"/>
     <item drawable="cimoc"/>
     <item drawable="circlemi_iconpack"/>
     <item drawable="citic"/>
+    <item drawable="citic_card"/>
     <item drawable="cjkcb"/>
     <item drawable="clash_of_clans"/>
     <item drawable="clashroyale"/>
@@ -176,6 +181,7 @@
     <item drawable="cmb_life"/>
     <item drawable="cmbc"/>
     <item drawable="cmcc_music"/>
+    <item drawable="cmcc_trafic"/>
     <item drawable="cms"/>
     <item drawable="cmvideo"/>
     <item drawable="cnki"/>
@@ -202,6 +208,8 @@
     <item drawable="copas_alt"/>
     <item drawable="countdown"/>
     <item drawable="cpu_z"/>
+    <item drawable="cpwxw"/>
+    <item drawable="crazy_music"/>
     <item drawable="credit_card_manager"/>
     <item drawable="csdn"/>
     <item drawable="ctfile"/>
@@ -297,6 +305,7 @@
     <item drawable="file_manager_alt"/>
     <item drawable="filmorago"/>
     <item drawable="filmorago_alt"/>
+    <item drawable="fingerprint_pay"/>
     <item drawable="firebear"/>
     <item drawable="firefox"/>
     <item drawable="fivehundredpx"/>
@@ -320,6 +329,7 @@
     <item drawable="fx"/>
     <item drawable="fx_alt"/>
     <item drawable="gallery"/>
+    <item drawable="gallery_alt"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecenter_alt"/>
     <item drawable="ganji"/>
@@ -440,6 +450,7 @@
     <item drawable="jike"/>
     <item drawable="jingdong"/>
     <item drawable="jjwxc"/>
+    <item drawable="joe_music"/>
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kaoyan"/>
@@ -480,6 +491,9 @@
     <item drawable="ledongli"/>
     <item drawable="leng_easy_listen"/>
     <item drawable="lenjoy"/>
+    <item drawable="lge_lgpay"/>
+    <item drawable="lge_lifetracker"/>
+    <item drawable="lge_tdmb"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light"/>
@@ -491,6 +505,7 @@
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="lofter"/>
+    <item drawable="long_screenshot"/>
     <item drawable="lonicera"/>
     <item drawable="lovebizhi"/>
     <item drawable="lovelycat"/>
@@ -584,11 +599,13 @@
     <item drawable="morefan"/>
     <item drawable="motoband"/>
     <item drawable="motoband_alt"/>
+    <item drawable="moviefans"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
     <item drawable="mtxx"/>
     <item drawable="mtxx_alt"/>
     <item drawable="music"/>
+    <item drawable="music_man"/>
     <item drawable="music_tag_editor"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
@@ -691,6 +708,7 @@
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
     <item drawable="prisma"/>
+    <item drawable="prod_dialer"/>
     <item drawable="protect_eye"/>
     <item drawable="ps"/>
     <item drawable="pt_video"/>
@@ -702,6 +720,7 @@
     <item drawable="puretie"/>
     <item drawable="qcloud"/>
     <item drawable="qdaily"/>
+    <item drawable="qeebo_geek"/>
     <item drawable="qianji"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
@@ -715,6 +734,7 @@
     <item drawable="qq_browser"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
+    <item drawable="qq_music_alt"/>
     <item drawable="qq_music_local"/>
     <item drawable="qq_pim"/>
     <item drawable="qq_reader"/>
@@ -792,6 +812,7 @@
     <item drawable="shortcut_creater"/>
     <item drawable="shoujimarket"/>
     <item drawable="shouxin_ime"/>
+    <item drawable="show_start_fans"/>
     <item drawable="shuangkai"/>
     <item drawable="shuchong"/>
     <item drawable="shuqi"/>
@@ -882,6 +903,7 @@
     <item drawable="tencent_filemanager_old"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
+    <item drawable="tencent_gamehelper_speed"/>
     <item drawable="tencent_gtclub"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
@@ -889,6 +911,7 @@
     <item drawable="tencent_news"/>
     <item drawable="tencent_nntg"/>
     <item drawable="tencent_portfolio"/>
+    <item drawable="tencent_qqdownloader"/>
     <item drawable="tencent_qqlive"/>
     <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qtl"/>
@@ -934,11 +957,13 @@
     <item drawable="turbovpn"/>
     <item drawable="tvguo"/>
     <item drawable="twitter"/>
+    <item drawable="u17_comic"/>
     <item drawable="uber_didi"/>
     <item drawable="uc"/>
     <item drawable="umetrip"/>
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
+    <item drawable="unnoo_quan"/>
     <item drawable="update"/>
     <item drawable="update_alt"/>
     <item drawable="v2ray_ang"/>
@@ -948,6 +973,7 @@
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="videoder"/>
+    <item drawable="videogo"/>
     <item drawable="videoshow"/>
     <item drawable="village"/>
     <item drawable="viperfx1"/>
@@ -955,6 +981,7 @@
     <item drawable="vipshop"/>
     <item drawable="vivo_easyshare"/>
     <item drawable="vlc"/>
+    <item drawable="volume_manager"/>
     <item drawable="vpnmonster"/>
     <item drawable="vsco"/>
     <item drawable="vsco_alt"/>
@@ -1034,14 +1061,19 @@
     <item drawable="xuexi"/>
     <item drawable="xuexitong"/>
     <item drawable="xunlei"/>
+    <item drawable="xunyou"/>
     <item drawable="yahoo_weather"/>
     <item drawable="yandong"/>
     <item drawable="yi_live"/>
     <item drawable="yidaoyongche"/>
     <item drawable="yidian_news"/>
+    <item drawable="yingyonghui"/>
     <item drawable="yipiao"/>
+    <item drawable="yitong_mbank"/>
     <item drawable="yiwang"/>
     <item drawable="yixin"/>
+    <item drawable="ykt"/>
+    <item drawable="youdao_course"/>
     <item drawable="youdao_dict"/>
     <item drawable="youdao_huihui"/>
     <item drawable="youdao_note"/>
@@ -1049,6 +1081,7 @@
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="yuedong_sport"/>
+    <item drawable="yunfan"/>
     <item drawable="yunmai_scale"/>
     <item drawable="yy"/>
     <item drawable="yyets"/>
@@ -1063,10 +1096,12 @@
     <item drawable="zhiyoo"/>
     <item drawable="zhuanzhuan"/>
     <item drawable="zhuishushenqi"/>
+    <item drawable="zjwh_physical_fitness"/>
     <item drawable="zlive"/>
     <item drawable="zol"/>
     <item drawable="zone"/>
     <item drawable="zone_alt"/>
     <item drawable="zuiyou"/>
+    <item drawable="zymk"/>
 
 </resources>

@@ -4997,4 +4997,140 @@
         class="com.adnonstop.mancamera2017.CamHomme"
         name="man_camera"/>
 
+    <item
+        class="com.cib.cibmb.LPSplashScreen"
+        name="cib"/>
+
+    <item
+        class="com.showstartfans.activity.activitys.welcome.WelComeActivity"
+        name="show_start_fans"/>
+
+    <item
+        class="cn.wsds.gamemaster.ui.ActivityStart"
+        name="xunyou"/>
+
+    <item
+        class="info.papdt.blackblub.ui.MainActivity"
+        name="blackblub"/>
+
+    <item
+        class="zz.dela.cmcc.traffic.features.splash.view.SplashActivity"
+        name="cmcc_trafic"/>
+
+    <item
+        class="com.e4a.runtime.android.StartActivity"
+        name="crazy_music"/>
+
+    <item
+        class="com.most.kuan.musicman.MainActivity"
+        name="music_man"/>
+
+    <item
+        class="com.volume.manager.MainActivity"
+        name="volume_manager"/>
+
+    <item
+        class="com.videogo.login.LoadingActivity"
+        name="videogo"/>
+
+    <item
+        class="cn.ikicker.moviefans.ui.activity.MainActivity"
+        name="moviefans"/>
+
+    <item
+        class="com.tencent.pangu.link.SplashActivity"
+        name="tencent_qqdownloader"/>
+
+    <item
+        class="com.yingyonghui.market.ui.SplashActivity"
+        name="yingyonghui"/>
+
+    <item
+        class="com.yitong.mbank.psbc.android.activity.SplashActivity"
+        name="yitong_mbank"/>
+
+    <item
+        class="com.youdao.course.activity.SplashActivity"
+        name="youdao_course"/>
+
+    <item
+        class="com.u17.comic.phone.activitys.FirstActivity"
+        name="u17_comic"/>
+
+    <item
+        class="com.joe.dida.activity.LoginActivity"
+        name="joe_music"/>
+
+    <item
+        class="com.joe.music.activity.LoginActivity"
+        name="joe_music"/>
+
+    <item
+        class="cc.dingnet.yunfangp.view.activity.SplashActivity"
+        name="yunfan"/>
+
+    <item
+        class="com.zjy.ykt.publics.app.WelcomeActivity"
+        name="ykt"/>
+
+    <item
+        class="com.zjwh.android_wh_physicalfitness.activity.SplashActivity"
+        name="zjwh_physical_fitness"/>
+
+    <item
+        class="me.pkhope.longscreenshot.activity.MainActivity"
+        name="long_screenshot"/>
+
+    <item
+        class="com.cpwx.reader.ui.activity.SplashActivity"
+        name="cpwxw"/>
+
+    <item
+        class="com.tencent.gamehelper.ui.main.WelcomeActivity"
+        name="tencent_gamehelper_speed"/>
+
+    <item
+        class="com.unnoo.quan.activities.StartActivity"
+        name="unnoo_quan"/>
+
+    <item
+        class="cn.zymk.comic.ui.CoverActivity"
+        name="zymk"/>
+
+    <item
+        class="com.yyxx.wechatfp.Main"
+        name="fingerprint_pay"/>
+
+    <item
+        class="com.cdel.accmobile.app.ui.logo_default"
+        name="cdel"/>
+
+    <item
+        class="com.citiccard.mobilebankapp.WelcomeActivity"
+        name="citic_card"/>
+
+    <item
+        class="com.baidu.homework.activity.init.InitActivity"
+        name="baidu_homework"/>
+
+    <item
+        class="com.lge.lgpay.view.EntryActivity"
+        name="lge_lgpay"/>
+
+    <item
+        class="com.lge.tdmb.TdmbStartActivity"
+        name="lge_tdmb"/>
+
+    <item
+        class="com.lge.lifetracker.ui.MainActivity"
+        name="lge_lifetracker"/>
+
+    <item
+        class="com.skt.prod.dialer.activities.main.MainActivity"
+        name="prod_dialer"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="qeebo_geek"/>
+
 </appmap>

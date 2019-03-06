@@ -4972,4 +4972,140 @@
         component="ComponentInfo{com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme}"
         drawable="man_camera"/>
 
+    <item
+        component="ComponentInfo{com.cib.cibmb/com.cib.cibmb.LPSplashScreen}"
+        drawable="cib"/>
+
+    <item
+        component="ComponentInfo{com.showstartfans.activity/com.showstartfans.activity.activitys.welcome.WelComeActivity}"
+        drawable="show_start_fans"/>
+
+    <item
+        component="ComponentInfo{cn.wsds.gamemaster/cn.wsds.gamemaster.ui.ActivityStart}"
+        drawable="xunyou"/>
+
+    <item
+        component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.MainActivity}"
+        drawable="blackblub"/>
+
+    <item
+        component="ComponentInfo{zz.dela.cmcc.traffic/zz.dela.cmcc.traffic.features.splash.view.SplashActivity}"
+        drawable="cmcc_trafic"/>
+
+    <item
+        component="ComponentInfo{com.crazymusic/com.e4a.runtime.android.StartActivity}"
+        drawable="crazy_music"/>
+
+    <item
+        component="ComponentInfo{com.most.musicman.new/com.most.kuan.musicman.MainActivity}"
+        drawable="music_man"/>
+
+    <item
+        component="ComponentInfo{com.volume.manager/com.volume.manager.MainActivity}"
+        drawable="volume_manager"/>
+
+    <item
+        component="ComponentInfo{com.videogo/com.videogo.login.LoadingActivity}"
+        drawable="videogo"/>
+
+    <item
+        component="ComponentInfo{cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.MainActivity}"
+        drawable="moviefans"/>
+
+    <item
+        component="ComponentInfo{com.tencent.android.qqdownloader/com.tencent.pangu.link.SplashActivity}"
+        drawable="tencent_qqdownloader"/>
+
+    <item
+        component="ComponentInfo{com.yingyonghui.market/com.yingyonghui.market.ui.SplashActivity}"
+        drawable="yingyonghui"/>
+
+    <item
+        component="ComponentInfo{com.yitong.mbank.psbc/com.yitong.mbank.psbc.android.activity.SplashActivity}"
+        drawable="yitong_mbank"/>
+
+    <item
+        component="ComponentInfo{com.youdao.course/com.youdao.course.activity.SplashActivity}"
+        drawable="youdao_course"/>
+
+    <item
+        component="ComponentInfo{com.u17.comic.phone/com.u17.comic.phone.activitys.FirstActivity}"
+        drawable="u17_comic"/>
+
+    <item
+        component="ComponentInfo{com.joe.music/com.joe.dida.activity.LoginActivity}"
+        drawable="joe_music"/>
+
+    <item
+        component="ComponentInfo{com.joe.music/com.joe.music.activity.LoginActivity}"
+        drawable="joe_music"/>
+
+    <item
+        component="ComponentInfo{cc.dingnet.yunfangp/cc.dingnet.yunfangp.view.activity.SplashActivity}"
+        drawable="yunfan"/>
+
+    <item
+        component="ComponentInfo{com.zjy.ykt/com.zjy.ykt.publics.app.WelcomeActivity}"
+        drawable="ykt"/>
+
+    <item
+        component="ComponentInfo{com.zjwh.android_wh_physicalfitness/com.zjwh.android_wh_physicalfitness.activity.SplashActivity}"
+        drawable="zjwh_physical_fitness"/>
+
+    <item
+        component="ComponentInfo{me.pkhope.longscreenshot/me.pkhope.longscreenshot.activity.MainActivity}"
+        drawable="long_screenshot"/>
+
+    <item
+        component="ComponentInfo{net.cpwxw.cpfiction/com.cpwx.reader.ui.activity.SplashActivity}"
+        drawable="cpwxw"/>
+
+    <item
+        component="ComponentInfo{com.tencent.gamehelper.speed/com.tencent.gamehelper.ui.main.WelcomeActivity}"
+        drawable="tencent_gamehelper_speed"/>
+
+    <item
+        component="ComponentInfo{com.unnoo.quan/com.unnoo.quan.activities.StartActivity}"
+        drawable="unnoo_quan"/>
+
+    <item
+        component="ComponentInfo{cn.zymk.comic/cn.zymk.comic.ui.CoverActivity}"
+        drawable="zymk"/>
+
+    <item
+        component="ComponentInfo{com.surcumference.fingerprintpay/com.yyxx.wechatfp.Main}"
+        drawable="fingerprint_pay"/>
+
+    <item
+        component="ComponentInfo{com.cdel.accmobile/com.cdel.accmobile.app.ui.logo_default}"
+        drawable="cdel"/>
+
+    <item
+        component="ComponentInfo{com.citiccard.mobilebank/com.citiccard.mobilebankapp.WelcomeActivity}"
+        drawable="citic_card"/>
+
+    <item
+        component="ComponentInfo{com.baidu.homework/com.baidu.homework.activity.init.InitActivity}"
+        drawable="baidu_homework"/>
+
+    <item
+        component="ComponentInfo{com.lge.lgpay/com.lge.lgpay.view.EntryActivity}"
+        drawable="lge_lgpay"/>
+
+    <item
+        component="ComponentInfo{com.lge.tdmb/com.lge.tdmb.TdmbStartActivity}"
+        drawable="lge_tdmb"/>
+
+    <item
+        component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}"
+        drawable="lge_lifetracker"/>
+
+    <item
+        component="ComponentInfo{com.skt.prod.dialer/com.skt.prod.dialer.activities.main.MainActivity}"
+        drawable="prod_dialer"/>
+
+    <item
+        component="ComponentInfo{com.DrApp.Qeebogeek/com.androlua.Welcome}"
+        drawable="qeebo_geek"/>
+
 </resources>

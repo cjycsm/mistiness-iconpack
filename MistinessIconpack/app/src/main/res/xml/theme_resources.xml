@@ -5003,4 +5003,140 @@
         name="com.adnonstop.mancamera2017/com.adnonstop.mancamera2017.CamHomme"
         image="man_camera"/>
 
+    <AppIcon
+        name="com.cib.cibmb/com.cib.cibmb.LPSplashScreen"
+        image="cib"/>
+
+    <AppIcon
+        name="com.showstartfans.activity/com.showstartfans.activity.activitys.welcome.WelComeActivity"
+        image="show_start_fans"/>
+
+    <AppIcon
+        name="cn.wsds.gamemaster/cn.wsds.gamemaster.ui.ActivityStart"
+        image="xunyou"/>
+
+    <AppIcon
+        name="info.papdt.blackblub/info.papdt.blackblub.ui.MainActivity"
+        image="blackblub"/>
+
+    <AppIcon
+        name="zz.dela.cmcc.traffic/zz.dela.cmcc.traffic.features.splash.view.SplashActivity"
+        image="cmcc_trafic"/>
+
+    <AppIcon
+        name="com.crazymusic/com.e4a.runtime.android.StartActivity"
+        image="crazy_music"/>
+
+    <AppIcon
+        name="com.most.musicman.new/com.most.kuan.musicman.MainActivity"
+        image="music_man"/>
+
+    <AppIcon
+        name="com.volume.manager/com.volume.manager.MainActivity"
+        image="volume_manager"/>
+
+    <AppIcon
+        name="com.videogo/com.videogo.login.LoadingActivity"
+        image="videogo"/>
+
+    <AppIcon
+        name="cn.ikicker.moviefans/cn.ikicker.moviefans.ui.activity.MainActivity"
+        image="moviefans"/>
+
+    <AppIcon
+        name="com.tencent.android.qqdownloader/com.tencent.pangu.link.SplashActivity"
+        image="tencent_qqdownloader"/>
+
+    <AppIcon
+        name="com.yingyonghui.market/com.yingyonghui.market.ui.SplashActivity"
+        image="yingyonghui"/>
+
+    <AppIcon
+        name="com.yitong.mbank.psbc/com.yitong.mbank.psbc.android.activity.SplashActivity"
+        image="yitong_mbank"/>
+
+    <AppIcon
+        name="com.youdao.course/com.youdao.course.activity.SplashActivity"
+        image="youdao_course"/>
+
+    <AppIcon
+        name="com.u17.comic.phone/com.u17.comic.phone.activitys.FirstActivity"
+        image="u17_comic"/>
+
+    <AppIcon
+        name="com.joe.music/com.joe.dida.activity.LoginActivity"
+        image="joe_music"/>
+
+    <AppIcon
+        name="com.joe.music/com.joe.music.activity.LoginActivity"
+        image="joe_music"/>
+
+    <AppIcon
+        name="cc.dingnet.yunfangp/cc.dingnet.yunfangp.view.activity.SplashActivity"
+        image="yunfan"/>
+
+    <AppIcon
+        name="com.zjy.ykt/com.zjy.ykt.publics.app.WelcomeActivity"
+        image="ykt"/>
+
+    <AppIcon
+        name="com.zjwh.android_wh_physicalfitness/com.zjwh.android_wh_physicalfitness.activity.SplashActivity"
+        image="zjwh_physical_fitness"/>
+
+    <AppIcon
+        name="me.pkhope.longscreenshot/me.pkhope.longscreenshot.activity.MainActivity"
+        image="long_screenshot"/>
+
+    <AppIcon
+        name="net.cpwxw.cpfiction/com.cpwx.reader.ui.activity.SplashActivity"
+        image="cpwxw"/>
+
+    <AppIcon
+        name="com.tencent.gamehelper.speed/com.tencent.gamehelper.ui.main.WelcomeActivity"
+        image="tencent_gamehelper_speed"/>
+
+    <AppIcon
+        name="com.unnoo.quan/com.unnoo.quan.activities.StartActivity"
+        image="unnoo_quan"/>
+
+    <AppIcon
+        name="cn.zymk.comic/cn.zymk.comic.ui.CoverActivity"
+        image="zymk"/>
+
+    <AppIcon
+        name="com.surcumference.fingerprintpay/com.yyxx.wechatfp.Main"
+        image="fingerprint_pay"/>
+
+    <AppIcon
+        name="com.cdel.accmobile/com.cdel.accmobile.app.ui.logo_default"
+        image="cdel"/>
+
+    <AppIcon
+        name="com.citiccard.mobilebank/com.citiccard.mobilebankapp.WelcomeActivity"
+        image="citic_card"/>
+
+    <AppIcon
+        name="com.baidu.homework/com.baidu.homework.activity.init.InitActivity"
+        image="baidu_homework"/>
+
+    <AppIcon
+        name="com.lge.lgpay/com.lge.lgpay.view.EntryActivity"
+        image="lge_lgpay"/>
+
+    <AppIcon
+        name="com.lge.tdmb/com.lge.tdmb.TdmbStartActivity"
+        image="lge_tdmb"/>
+
+    <AppIcon
+        name="com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity"
+        image="lge_lifetracker"/>
+
+    <AppIcon
+        name="com.skt.prod.dialer/com.skt.prod.dialer.activities.main.MainActivity"
+        image="prod_dialer"/>
+
+    <AppIcon
+        name="com.DrApp.Qeebogeek/com.androlua.Welcome"
+        image="qeebo_geek"/>
+
 </Theme>

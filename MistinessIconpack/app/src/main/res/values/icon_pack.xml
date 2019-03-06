@@ -56,29 +56,45 @@
     </string-array>
 
     <string-array name="newest">
-        <item>xiaomi_health</item>
-        <item>wochacha</item>
-        <item>magent_search</item>
-        <item>magent_search_alt</item>
-        <item>xiaoheihe</item>
-        <item>xiaoheihe_alt</item>
-        <item>stopapp</item>
-        <item>stopapp_alt</item>
-        <item>xiaomi_router</item>
-        <item>xiaomi_loan</item>
-        <item>xiaomi_midrop</item>
-        <item>xiaomi_o2o</item>
-        <item>brain_music</item>
-        <item>firebear</item>
-        <item>round_corner</item>
-        <item>tencent_gtclub</item>
-        <item>dictcn</item>
-        <item>man_camera</item>
-        <item>man_camera_alt</item>
+        <item>cib</item>
+        <item>show_start_fans</item>
+        <item>xunyou</item>
+        <item>blackblub</item>
+        <item>cmcc_trafic</item>
+        <item>crazy_music</item>
+        <item>music_man</item>
+        <item>volume_manager</item>
+        <item>videogo</item>
+        <item>moviefans</item>
+        <item>tencent_qqdownloader</item>
+        <item>yingyonghui</item>
+        <item>yitong_mbank</item>
+        <item>youdao_course</item>
+        <item>u17_comic</item>
+        <item>joe_music</item>
+        <item>yunfan</item>
+        <item>ykt</item>
+        <item>zjwh_physical_fitness</item>
+        <item>long_screenshot</item>
+        <item>cpwxw</item>
+        <item>tencent_gamehelper_speed</item>
+        <item>unnoo_quan</item>
+        <item>zymk</item>
+        <item>fingerprint_pay</item>
+        <item>cdel</item>
+        <item>citic_card</item>
+        <item>baidu_homework</item>
+        <item>prod_dialer</item>
+        <item>qeebo_geek</item>
+        <item>lge_lgpay</item>
+        <item>lge_tdmb</item>
+        <item>lge_lifetracker</item>
+        <item>gallery_alt</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>qq_music</item>
+        <item>qq_music_alt</item>
     </string-array>
 
     <string-array name="application">
@@ -118,6 +134,7 @@
         <item>qq_alt</item>
         <item>qq_browser</item>
         <item>qq_music</item>
+        <item>qq_music_alt</item>
         <item>qq_pim</item>
         <item>qq_token</item>
         <item>quark</item>
@@ -948,6 +965,36 @@
         <item>dictcn</item>
         <item>man_camera</item>
         <item>man_camera_alt</item>
+        <item>cib</item>
+        <item>show_start_fans</item>
+        <item>xunyou</item>
+        <item>blackblub</item>
+        <item>cmcc_trafic</item>
+        <item>crazy_music</item>
+        <item>music_man</item>
+        <item>volume_manager</item>
+        <item>videogo</item>
+        <item>moviefans</item>
+        <item>tencent_qqdownloader</item>
+        <item>yingyonghui</item>
+        <item>yitong_mbank</item>
+        <item>youdao_course</item>
+        <item>u17_comic</item>
+        <item>joe_music</item>
+        <item>yunfan</item>
+        <item>ykt</item>
+        <item>zjwh_physical_fitness</item>
+        <item>long_screenshot</item>
+        <item>cpwxw</item>
+        <item>tencent_gamehelper_speed</item>
+        <item>unnoo_quan</item>
+        <item>zymk</item>
+        <item>fingerprint_pay</item>
+        <item>cdel</item>
+        <item>citic_card</item>
+        <item>baidu_homework</item>
+        <item>prod_dialer</item>
+        <item>qeebo_geek</item>
     </string-array>
 
     <string-array name="game">
@@ -1014,6 +1061,7 @@
         <item>file_manager</item>
         <item>file_manager_alt</item>
         <item>gallery</item>
+        <item>gallery_alt</item>
         <item>appstore</item>
         <item>appstore_alt1</item>
         <item>appstore_alt2</item>
@@ -1164,6 +1212,12 @@
         <item>sony_liveware</item>
         <item>sony_store_china</item>
         <item>sony_store_china_alt</item>
+    </string-array>
+
+    <string-array name="LG">
+        <item>lge_lgpay</item>
+        <item>lge_tdmb</item>
+        <item>lge_lifetracker</item>
     </string-array>
 
 </resources>
