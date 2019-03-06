@@ -18,5 +18,6 @@
     <version title="v1.3.8" />
     <item text="新增图标34枚" />
     <item text="重绘图标2枚" />
+    <item text="恢复开启应用内适配申请" />
     <item text="其他修复和改进" />
 </resources>
