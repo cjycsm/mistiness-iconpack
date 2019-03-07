@@ -547,7 +547,7 @@
 
     <item
         class="com.leadeon.cmcc.base.StartPageActivity"
-        name="china_mobile"/>
+        name="cmcc"/>
 
     <item
         class="com.ct.client.SplashActivity"
@@ -5132,5 +5132,101 @@
     <item
         class="com.androlua.Welcome"
         name="qeebo_geek"/>
+
+    <item
+        class="com.lantern.launcher.ui.MainActivity"
+        name="wifikey"/>
+
+    <item
+        class="com.nbc.willcloud.athenasdk.views.LoadingActivity"
+        name="theme"/>
+
+    <item
+        class="com.mh.movie.core.mvp.ui.activity.SplashActivity"
+        name="mahua_movie"/>
+
+    <item
+        class="com.netease.nr.biz.ad.AdActivity"
+        name="netease_news_lite"/>
+
+    <item
+        class="com.yy.yylite.MainActivity"
+        name="yy_lite"/>
+
+    <item
+        class="com.ss.android.article.lite.activity.SplashActivity"
+        name="article_lite"/>
+
+    <item
+        class="com.moji.mjweather.LauncherActivity"
+        name="moji_weather_light"/>
+
+    <item
+        class="com.ss.android.ugc.live.main.MainActivity"
+        name="huoshan_lite"/>
+
+    <item
+        class="com.zhihu.android.lite.app.SplashActivity"
+        name="zhihu_lite"/>
+
+    <item
+        class="com.baidu.tieba.LogoActivity"
+        name="tieba_mini"/>
+
+    <item
+        class="com.baidu.searchbox.SplashActivity"
+        name="baidu_lite"/>
+
+    <item
+        class="com.douyu.rush.splash.launcher.DYLauncherActivity"
+        name="douyu_rush"/>
+
+    <item
+        class="com.richeninfo.cm.busihall.SplashActivity"
+        name="cmcc_shanghai"/>
+
+    <item
+        class="com.bmcc.ms.ui.Entrance2Activity"
+        name="cmcc_beijing"/>
+
+    <item
+        class="com.sinovatech.gxmobile.ui.WelcomeActivity"
+        name="cmcc_guangxi"/>
+
+    <item
+        class="com.xwtec.sd.mobileclient.ui.activity.GuidePagerActivity"
+        name="cmcc_shandong"/>
+
+    <item
+        class="com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity"
+        name="cmcc_guangdong"/>
+
+    <item
+        class="com.jsmcc.ui.WelcomeActivity"
+        name="cmcc_jiangsu"/>
+
+    <item
+        class="com.hbmcc.heshenghuo.ui.welcome.WelcomeActivity"
+        name="cmcc_hebei"/>
+
+    <item
+        class="com.xinhang.mobileclient.ui.activity.LoadingActivity"
+        name="cmcc_henan"/>
+
+    <item
+        class="com.businesshall.activity.NewLogoActivity"
+        name="cmcc_zhejiang"/>
+
+    <item
+        class="com.sunrise.scmbhc.ui.activity.loading.LoadingActivity"
+        name="cmcc_sichuang"/>
+
+    <item
+        class="com.cqmc.client.splashModule.ui.activity.SplashActivity"
+        name="cmcc_chongqing"/>
+
+    <item
+        class="com.nxyd.resource.start.SplashActivity"
+        name="cmcc_ningxia"/>
 
 </appmap>

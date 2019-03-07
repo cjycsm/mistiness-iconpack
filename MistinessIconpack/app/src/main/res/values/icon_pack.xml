@@ -56,45 +56,32 @@
     </string-array>
 
     <string-array name="newest">
-        <item>cib</item>
-        <item>show_start_fans</item>
-        <item>xunyou</item>
-        <item>blackblub</item>
-        <item>cmcc_trafic</item>
-        <item>crazy_music</item>
-        <item>music_man</item>
-        <item>volume_manager</item>
-        <item>videogo</item>
-        <item>moviefans</item>
-        <item>tencent_qqdownloader</item>
-        <item>yingyonghui</item>
-        <item>yitong_mbank</item>
-        <item>youdao_course</item>
-        <item>u17_comic</item>
-        <item>joe_music</item>
-        <item>yunfan</item>
-        <item>ykt</item>
-        <item>zjwh_physical_fitness</item>
-        <item>long_screenshot</item>
-        <item>cpwxw</item>
-        <item>tencent_gamehelper_speed</item>
-        <item>unnoo_quan</item>
-        <item>zymk</item>
-        <item>fingerprint_pay</item>
-        <item>cdel</item>
-        <item>citic_card</item>
-        <item>baidu_homework</item>
-        <item>prod_dialer</item>
-        <item>qeebo_geek</item>
-        <item>lge_lgpay</item>
-        <item>lge_tdmb</item>
-        <item>lge_lifetracker</item>
-        <item>gallery_alt</item>
+        <item>netease_news_lite</item>
+        <item>yy_lite</item>
+        <item>article_lite</item>
+        <item>moji_weather_light</item>
+        <item>huoshan_lite</item>
+        <item>zhihu_lite</item>
+        <item>tieba_mini</item>
+        <item>baidu_lite</item>
+        <item>douyu_rush</item>
+        <item>douyu_rush_alt</item>
+        <item>cmcc_shanghai</item>
+        <item>cmcc_beijing</item>
+        <item>cmcc_guangxi</item>
+        <item>cmcc_shandong</item>
+        <item>cmcc_guangdong</item>
+        <item>cmcc_jiangsu</item>
+        <item>cmcc_hebei</item>
+        <item>cmcc_henan</item>
+        <item>cmcc_zhejiang</item>
+        <item>cmcc_sichuang</item>
+        <item>cmcc_chongqing</item>
+        <item>cmcc_ningxia</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>qq_music</item>
-        <item>qq_music_alt</item>
+        <item>cmcc</item>
     </string-array>
 
     <string-array name="application">
@@ -188,7 +175,7 @@
         <item>monkeybook</item>
         <item>walli</item>
         <item>baidumap</item>
-        <item>china_mobile</item>
+        <item>cmcc</item>
         <item>china_telecom</item>
         <item>cuto</item>
         <item>didi</item>
@@ -995,6 +982,28 @@
         <item>baidu_homework</item>
         <item>prod_dialer</item>
         <item>qeebo_geek</item>
+        <item>netease_news_lite</item>
+        <item>yy_lite</item>
+        <item>article_lite</item>
+        <item>moji_weather_light</item>
+        <item>huoshan_lite</item>
+        <item>zhihu_lite</item>
+        <item>tieba_mini</item>
+        <item>baidu_lite</item>
+        <item>douyu_rush</item>
+        <item>douyu_rush_alt</item>
+        <item>cmcc_shanghai</item>
+        <item>cmcc_beijing</item>
+        <item>cmcc_guangxi</item>
+        <item>cmcc_shandong</item>
+        <item>cmcc_guangdong</item>
+        <item>cmcc_jiangsu</item>
+        <item>cmcc_hebei</item>
+        <item>cmcc_henan</item>
+        <item>cmcc_zhejiang</item>
+        <item>cmcc_sichuang</item>
+        <item>cmcc_chongqing</item>
+        <item>cmcc_ningxia</item>
     </string-array>
 
     <string-array name="game">

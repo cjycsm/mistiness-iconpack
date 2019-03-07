@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>66</version>
+    <version>67</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -71,6 +71,7 @@
     <item drawable="appstore_alt2"/>
     <item drawable="appstore_alt3"/>
     <item drawable="artical_news"/>
+    <item drawable="article_lite"/>
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
     <item drawable="asphalt9"/>
@@ -92,6 +93,7 @@
     <item drawable="baidu"/>
     <item drawable="baidu_homework"/>
     <item drawable="baidu_ime"/>
+    <item drawable="baidu_lite"/>
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidu_nuomi"/>
@@ -157,7 +159,6 @@
     <item drawable="changba"/>
     <item drawable="chelaile"/>
     <item drawable="chengzivr"/>
-    <item drawable="china_mobile"/>
     <item drawable="china_telecom"/>
     <item drawable="chinabus"/>
     <item drawable="chinabus_lieche"/>
@@ -180,8 +181,21 @@
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
     <item drawable="cmbc"/>
+    <item drawable="cmcc"/>
+    <item drawable="cmcc_beijing"/>
+    <item drawable="cmcc_chongqing"/>
+    <item drawable="cmcc_guangdong"/>
+    <item drawable="cmcc_guangxi"/>
+    <item drawable="cmcc_hebei"/>
+    <item drawable="cmcc_henan"/>
+    <item drawable="cmcc_jiangsu"/>
     <item drawable="cmcc_music"/>
+    <item drawable="cmcc_ningxia"/>
+    <item drawable="cmcc_shandong"/>
+    <item drawable="cmcc_shanghai"/>
+    <item drawable="cmcc_sichuang"/>
     <item drawable="cmcc_trafic"/>
+    <item drawable="cmcc_zhejiang"/>
     <item drawable="cms"/>
     <item drawable="cmvideo"/>
     <item drawable="cnki"/>
@@ -248,6 +262,8 @@
     <item drawable="douguo"/>
     <item drawable="douyu"/>
     <item drawable="douyu_alt"/>
+    <item drawable="douyu_rush"/>
+    <item drawable="douyu_rush_alt"/>
     <item drawable="downloads"/>
     <item drawable="dropbox"/>
     <item drawable="du"/>
@@ -413,6 +429,7 @@
     <item drawable="huluxia"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
+    <item drawable="huoshan_lite"/>
     <item drawable="huoying"/>
     <item drawable="hupu"/>
     <item drawable="hupu_shihuo"/>
@@ -592,6 +609,7 @@
     <item drawable="mobike"/>
     <item drawable="mogujie"/>
     <item drawable="moji_weather"/>
+    <item drawable="moji_weather_light"/>
     <item drawable="mokee_center"/>
     <item drawable="momo"/>
     <item drawable="monkeybook"/>
@@ -627,6 +645,7 @@
     <item drawable="netease_moba"/>
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
+    <item drawable="netease_news_lite"/>
     <item drawable="netease_snailread"/>
     <item drawable="netease_stzb"/>
     <item drawable="netease_ucmooc"/>
@@ -935,6 +954,7 @@
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
     <item drawable="tieba_lite"/>
+    <item drawable="tieba_mini"/>
     <item drawable="tieyou"/>
     <item drawable="tiktok"/>
     <item drawable="tim"/>
@@ -1084,6 +1104,7 @@
     <item drawable="yunfan"/>
     <item drawable="yunmai_scale"/>
     <item drawable="yy"/>
+    <item drawable="yy_lite"/>
     <item drawable="yyets"/>
     <item drawable="yyw_browser"/>
     <item drawable="z_launcher"/>
@@ -1092,6 +1113,7 @@
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
+    <item drawable="zhihu_lite"/>
     <item drawable="zhilianzhaopin"/>
     <item drawable="zhiyoo"/>
     <item drawable="zhuanzhuan"/>

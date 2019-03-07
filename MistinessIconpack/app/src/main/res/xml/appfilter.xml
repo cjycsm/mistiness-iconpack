@@ -551,7 +551,7 @@
 
     <item
         component="ComponentInfo{com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity}"
-        drawable="china_mobile"/>
+        drawable="cmcc"/>
 
     <item
         component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}"
@@ -5107,5 +5107,101 @@
     <item
         component="ComponentInfo{com.DrApp.Qeebogeek/com.androlua.Welcome}"
         drawable="qeebo_geek"/>
+
+    <item
+        component="ComponentInfo{com.halo.wifikey.wifilocating/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifikey"/>
+
+    <item
+        component="ComponentInfo{com.nbc.willcloud.themestore/com.nbc.willcloud.athenasdk.views.LoadingActivity}"
+        drawable="theme"/>
+
+    <item
+        component="ComponentInfo{com.amahua.ywofnbfd/com.mh.movie.core.mvp.ui.activity.SplashActivity}"
+        drawable="mahua_movie"/>
+
+    <item
+        component="ComponentInfo{com.netease.news.lite/com.netease.nr.biz.ad.AdActivity}"
+        drawable="netease_news_lite"/>
+
+    <item
+        component="ComponentInfo{com.yy.yylite/com.yy.yylite.MainActivity}"
+        drawable="yy_lite"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.article.lite/com.ss.android.article.lite.activity.SplashActivity}"
+        drawable="article_lite"/>
+
+    <item
+        component="ComponentInfo{com.moji.mjweather.light/com.moji.mjweather.LauncherActivity}"
+        drawable="moji_weather_light"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.ugc.livelite/com.ss.android.ugc.live.main.MainActivity}"
+        drawable="huoshan_lite"/>
+
+    <item
+        component="ComponentInfo{com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity}"
+        drawable="zhihu_lite"/>
+
+    <item
+        component="ComponentInfo{com.baidu.tieba_mini/com.baidu.tieba.LogoActivity}"
+        drawable="tieba_mini"/>
+
+    <item
+        component="ComponentInfo{com.baidu.searchbox.lite/com.baidu.searchbox.SplashActivity}"
+        drawable="baidu_lite"/>
+
+    <item
+        component="ComponentInfo{com.douyu.rush/com.douyu.rush.splash.launcher.DYLauncherActivity}"
+        drawable="douyu_rush"/>
+
+    <item
+        component="ComponentInfo{com.sh.cm.busihall/com.richeninfo.cm.busihall.SplashActivity}"
+        drawable="cmcc_shanghai"/>
+
+    <item
+        component="ComponentInfo{com.bmcc.ms.ui/com.bmcc.ms.ui.Entrance2Activity}"
+        drawable="cmcc_beijing"/>
+
+    <item
+        component="ComponentInfo{com.sinovatech.gxmobile.ui/com.sinovatech.gxmobile.ui.WelcomeActivity}"
+        drawable="cmcc_guangxi"/>
+
+    <item
+        component="ComponentInfo{com.xwtec.sd.mobileclient/com.xwtec.sd.mobileclient.ui.activity.GuidePagerActivity}"
+        drawable="cmcc_shandong"/>
+
+    <item
+        component="ComponentInfo{com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity}"
+        drawable="cmcc_guangdong"/>
+
+    <item
+        component="ComponentInfo{com.jsmcc/com.jsmcc.ui.WelcomeActivity}"
+        drawable="cmcc_jiangsu"/>
+
+    <item
+        component="ComponentInfo{com.hbmcc.heshenghuo/com.hbmcc.heshenghuo.ui.welcome.WelcomeActivity}"
+        drawable="cmcc_hebei"/>
+
+    <item
+        component="ComponentInfo{com.xinhang.mobileclient/com.xinhang.mobileclient.ui.activity.LoadingActivity}"
+        drawable="cmcc_henan"/>
+
+    <item
+        component="ComponentInfo{com.example.businesshall/com.businesshall.activity.NewLogoActivity}"
+        drawable="cmcc_zhejiang"/>
+
+    <item
+        component="ComponentInfo{com.sunrise.scmbhc/com.sunrise.scmbhc.ui.activity.loading.LoadingActivity}"
+        drawable="cmcc_sichuang"/>
+
+    <item
+        component="ComponentInfo{com.cqmc.client/com.cqmc.client.splashModule.ui.activity.SplashActivity}"
+        drawable="cmcc_chongqing"/>
+
+    <item
+        component="ComponentInfo{com.nxyd.resource/com.nxyd.resource.start.SplashActivity}"
+        drawable="cmcc_ningxia"/>
 
 </resources>

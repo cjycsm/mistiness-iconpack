@@ -553,7 +553,7 @@
 
     <AppIcon
         name="com.greenpoint.android.mc10086.activity/com.leadeon.cmcc.base.StartPageActivity"
-        image="china_mobile"/>
+        image="cmcc"/>
 
     <AppIcon
         name="com.ct.client/com.ct.client.SplashActivity"
@@ -5138,5 +5138,101 @@
     <AppIcon
         name="com.DrApp.Qeebogeek/com.androlua.Welcome"
         image="qeebo_geek"/>
+
+    <AppIcon
+        name="com.halo.wifikey.wifilocating/com.lantern.launcher.ui.MainActivity"
+        image="wifikey"/>
+
+    <AppIcon
+        name="com.nbc.willcloud.themestore/com.nbc.willcloud.athenasdk.views.LoadingActivity"
+        image="theme"/>
+
+    <AppIcon
+        name="com.amahua.ywofnbfd/com.mh.movie.core.mvp.ui.activity.SplashActivity"
+        image="mahua_movie"/>
+
+    <AppIcon
+        name="com.netease.news.lite/com.netease.nr.biz.ad.AdActivity"
+        image="netease_news_lite"/>
+
+    <AppIcon
+        name="com.yy.yylite/com.yy.yylite.MainActivity"
+        image="yy_lite"/>
+
+    <AppIcon
+        name="com.ss.android.article.lite/com.ss.android.article.lite.activity.SplashActivity"
+        image="article_lite"/>
+
+    <AppIcon
+        name="com.moji.mjweather.light/com.moji.mjweather.LauncherActivity"
+        image="moji_weather_light"/>
+
+    <AppIcon
+        name="com.ss.android.ugc.livelite/com.ss.android.ugc.live.main.MainActivity"
+        image="huoshan_lite"/>
+
+    <AppIcon
+        name="com.zhihu.android.lite/com.zhihu.android.lite.app.SplashActivity"
+        image="zhihu_lite"/>
+
+    <AppIcon
+        name="com.baidu.tieba_mini/com.baidu.tieba.LogoActivity"
+        image="tieba_mini"/>
+
+    <AppIcon
+        name="com.baidu.searchbox.lite/com.baidu.searchbox.SplashActivity"
+        image="baidu_lite"/>
+
+    <AppIcon
+        name="com.douyu.rush/com.douyu.rush.splash.launcher.DYLauncherActivity"
+        image="douyu_rush"/>
+
+    <AppIcon
+        name="com.sh.cm.busihall/com.richeninfo.cm.busihall.SplashActivity"
+        image="cmcc_shanghai"/>
+
+    <AppIcon
+        name="com.bmcc.ms.ui/com.bmcc.ms.ui.Entrance2Activity"
+        image="cmcc_beijing"/>
+
+    <AppIcon
+        name="com.sinovatech.gxmobile.ui/com.sinovatech.gxmobile.ui.WelcomeActivity"
+        image="cmcc_guangxi"/>
+
+    <AppIcon
+        name="com.xwtec.sd.mobileclient/com.xwtec.sd.mobileclient.ui.activity.GuidePagerActivity"
+        image="cmcc_shandong"/>
+
+    <AppIcon
+        name="com.kingpoint.gmcchh/com.kingpoint.gmcchh.newui.main.skeleton.view.SkeletonActivity"
+        image="cmcc_guangdong"/>
+
+    <AppIcon
+        name="com.jsmcc/com.jsmcc.ui.WelcomeActivity"
+        image="cmcc_jiangsu"/>
+
+    <AppIcon
+        name="com.hbmcc.heshenghuo/com.hbmcc.heshenghuo.ui.welcome.WelcomeActivity"
+        image="cmcc_hebei"/>
+
+    <AppIcon
+        name="com.xinhang.mobileclient/com.xinhang.mobileclient.ui.activity.LoadingActivity"
+        image="cmcc_henan"/>
+
+    <AppIcon
+        name="com.example.businesshall/com.businesshall.activity.NewLogoActivity"
+        image="cmcc_zhejiang"/>
+
+    <AppIcon
+        name="com.sunrise.scmbhc/com.sunrise.scmbhc.ui.activity.loading.LoadingActivity"
+        image="cmcc_sichuang"/>
+
+    <AppIcon
+        name="com.cqmc.client/com.cqmc.client.splashModule.ui.activity.SplashActivity"
+        image="cmcc_chongqing"/>
+
+    <AppIcon
+        name="com.nxyd.resource/com.nxyd.resource.start.SplashActivity"
+        image="cmcc_ningxia"/>
 
 </Theme>
