@@ -381,7 +381,7 @@
 
     <AppIcon
         name="com.tencent.qqlive/com.tencent.qqlive.ona.activity.WelcomeActivity"
-        image="tencent_qqlive"/>
+        image="tencent_live"/>
 
     <AppIcon
         name="com.tencent.qqpimsecure/com.tencent.server.fore.QuickLoadActivity"
@@ -953,7 +953,7 @@
 
     <AppIcon
         name="com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity"
-        image="artical_news"/>
+        image="article_news"/>
 
     <AppIcon
         name="com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity"
@@ -3013,7 +3013,7 @@
 
     <AppIcon
         name="com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity"
-        image="tencent_qqlive"/>
+        image="tencent_live"/>
 
     <AppIcon
         name="org.adaway/org.adaway.ui.MainActivity"
@@ -5234,5 +5234,81 @@
     <AppIcon
         name="com.nxyd.resource/com.nxyd.resource.start.SplashActivity"
         image="cmcc_ningxia"/>
+
+    <AppIcon
+        name="com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity"
+        image="icebox"/>
+
+    <AppIcon
+        name="com.solohsu.android.edxp.manager/de.robv.android.xposed.installer.WelcomeActivitydvdandroid"
+        image="xposed_installer_alt1"/>
+
+    <AppIcon
+        name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="com.miHoYo.bh3.bilibili/com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        image="bh3"/>
+
+    <AppIcon
+        name="com.tencent.news.lite/com.tencent.news.activity.SplashActivity"
+        image="tencent_news_lite"/>
+
+    <AppIcon
+        name="com.tencent.videolite.android/com.tencent.videolite.android.ui.HomeActivity"
+        image="tencent_live_lite"/>
+
+    <AppIcon
+        name="com.kuaishou.nebula/com.yxcorp.gifshow.HomeActivity"
+        image="kuaishou_nebula"/>
+
+    <AppIcon
+        name="com.aimp.player/com.aimp.player.views.MainActivity.MainActivity"
+        image="aimp"/>
+
+    <AppIcon
+        name="rikka.appops/rikka.appops.SplashActivity"
+        image="appops"/>
+
+    <AppIcon
+        name="com.avmovie/com.avmovie.activity.LauncherActivity"
+        image="avmovie"/>
+
+    <AppIcon
+        name="me.gfuil.bmap/me.gfuil.bmap.activity.StartActivity"
+        image="bmap"/>
+
+    <AppIcon
+        name="cn.cyt.clipboardplus/cn.cyt.clipboardplus.activity.GuideActivity"
+        image="clipboard_plus"/>
+
+    <AppIcon
+        name="com.ga.iconpack.color/com.ga.iconpack.color.activities.SplashActivity"
+        image="color_iconpack"/>
+
+    <AppIcon
+        name="com.gentle.exview/com.gentle.exview.MainActivity"
+        image="exview"/>
+
+    <AppIcon
+        name="com.delphicoder.flud/com.delphicoder.flud.MainActivity"
+        image="flud"/>
+
+    <AppIcon
+        name="com.tourbillon.freeappsnow/com.tourbillon.freeappsnow.MainActivity"
+        image="freeappsnow"/>
+
+    <AppIcon
+        name="com.huawei.wings.ota/com.huawei.wings.ota.ui.activity.MainPageActivity"
+        image="huawei_wings_ota"/>
+
+    <AppIcon
+        name="com.leduoworks.gpstoolbox/com.leduoworks.gpstoolbox.SplashActivity"
+        image="gps_toolbox"/>
 
 </Theme>

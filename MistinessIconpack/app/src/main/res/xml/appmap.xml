@@ -375,7 +375,7 @@
 
     <item
         class="com.tencent.qqlive.ona.activity.WelcomeActivity"
-        name="tencent_qqlive"/>
+        name="tencent_live"/>
 
     <item
         class="com.tencent.server.fore.QuickLoadActivity"
@@ -947,7 +947,7 @@
 
     <item
         class="com.ss.android.article.news.activity.SplashBadgeActivity"
-        name="artical_news"/>
+        name="article_news"/>
 
     <item
         class="com.chaozh.iReader.ui.activity.WelcomeActivity"
@@ -3007,7 +3007,7 @@
 
     <item
         class="com.tencent.qqlive.ona.activity.SplashHomeActivity"
-        name="tencent_qqlive"/>
+        name="tencent_live"/>
 
     <item
         class="org.adaway.ui.MainActivity"
@@ -5228,5 +5228,81 @@
     <item
         class="com.nxyd.resource.start.SplashActivity"
         name="cmcc_ningxia"/>
+
+    <item
+        class="com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity"
+        name="icebox"/>
+
+    <item
+        class="de.robv.android.xposed.installer.WelcomeActivitydvdandroid"
+        name="xposed_installer_alt1"/>
+
+    <item
+        class="com.sec.android.app.fm.MainActivity"
+        name="radio"/>
+
+    <item
+        class="com.samsung.android.weather.app.AppLauncherActivity"
+        name="weather"/>
+
+    <item
+        class="com.miHoYo.overridenativeactivity.OverrideNativeActivity"
+        name="bh3"/>
+
+    <item
+        class="com.tencent.news.activity.SplashActivity"
+        name="tencent_news_lite"/>
+
+    <item
+        class="com.tencent.videolite.android.ui.HomeActivity"
+        name="tencent_live_lite"/>
+
+    <item
+        class="com.yxcorp.gifshow.HomeActivity"
+        name="kuaishou_nebula"/>
+
+    <item
+        class="com.aimp.player.views.MainActivity.MainActivity"
+        name="aimp"/>
+
+    <item
+        class="rikka.appops.SplashActivity"
+        name="appops"/>
+
+    <item
+        class="com.avmovie.activity.LauncherActivity"
+        name="avmovie"/>
+
+    <item
+        class="me.gfuil.bmap.activity.StartActivity"
+        name="bmap"/>
+
+    <item
+        class="cn.cyt.clipboardplus.activity.GuideActivity"
+        name="clipboard_plus"/>
+
+    <item
+        class="com.ga.iconpack.color.activities.SplashActivity"
+        name="color_iconpack"/>
+
+    <item
+        class="com.gentle.exview.MainActivity"
+        name="exview"/>
+
+    <item
+        class="com.delphicoder.flud.MainActivity"
+        name="flud"/>
+
+    <item
+        class="com.tourbillon.freeappsnow.MainActivity"
+        name="freeappsnow"/>
+
+    <item
+        class="com.huawei.wings.ota.ui.activity.MainPageActivity"
+        name="huawei_wings_ota"/>
+
+    <item
+        class="com.leduoworks.gpstoolbox.SplashActivity"
+        name="gps_toolbox"/>
 
 </appmap>

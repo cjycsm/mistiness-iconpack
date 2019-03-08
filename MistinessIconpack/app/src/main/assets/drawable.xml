@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>67</version>
+    <version>68</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -35,6 +35,7 @@
     <item drawable="aeroblast_iconpack"/>
     <item drawable="agoda"/>
     <item drawable="ai_musician"/>
+    <item drawable="aimp"/>
     <item drawable="airbnb"/>
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
@@ -66,12 +67,13 @@
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
     <item drawable="apple_music"/>
+    <item drawable="appops"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
     <item drawable="appstore_alt3"/>
-    <item drawable="artical_news"/>
     <item drawable="article_lite"/>
+    <item drawable="article_news"/>
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
     <item drawable="asphalt9"/>
@@ -82,6 +84,7 @@
     <item drawable="autohome"/>
     <item drawable="avbobo"/>
     <item drawable="avgo"/>
+    <item drawable="avmovie"/>
     <item drawable="avnight"/>
     <item drawable="away_from_mobile"/>
     <item drawable="azurlane"/>
@@ -124,6 +127,7 @@
     <item drawable="blackblub"/>
     <item drawable="bladeheart_ninja"/>
     <item drawable="blued"/>
+    <item drawable="bmap"/>
     <item drawable="boc"/>
     <item drawable="booking"/>
     <item drawable="bosszhipin"/>
@@ -174,6 +178,7 @@
     <item drawable="cjkcb"/>
     <item drawable="clash_of_clans"/>
     <item drawable="clashroyale"/>
+    <item drawable="clipboard_plus"/>
     <item drawable="clock"/>
     <item drawable="clockwork"/>
     <item drawable="cloud_115"/>
@@ -201,6 +206,7 @@
     <item drawable="cnki"/>
     <item drawable="cntv"/>
     <item drawable="codoon"/>
+    <item drawable="color_iconpack"/>
     <item drawable="coloros_bbs"/>
     <item drawable="coloros_familyguard"/>
     <item drawable="coloros_findphone"/>
@@ -301,6 +307,7 @@
     <item drawable="express_helper"/>
     <item drawable="express_query"/>
     <item drawable="express_vpn"/>
+    <item drawable="exview"/>
     <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
     <item drawable="facebook"/>
@@ -330,6 +337,7 @@
     <item drawable="flipboard"/>
     <item drawable="floatify"/>
     <item drawable="floating"/>
+    <item drawable="flud"/>
     <item drawable="fluid"/>
     <item drawable="flyme_roamingpay"/>
     <item drawable="flyme_videoclips"/>
@@ -339,6 +347,7 @@
     <item drawable="fotor"/>
     <item drawable="fotor_alt1"/>
     <item drawable="fotor_alt2"/>
+    <item drawable="freeappsnow"/>
     <item drawable="fui"/>
     <item drawable="fui_alt"/>
     <item drawable="fusionapp"/>
@@ -383,6 +392,7 @@
     <item drawable="google_translate"/>
     <item drawable="google_voice"/>
     <item drawable="google_wellbeing"/>
+    <item drawable="gps_toolbox"/>
     <item drawable="greenify"/>
     <item drawable="gspace"/>
     <item drawable="gsv"/>
@@ -426,6 +436,7 @@
     <item drawable="huawei_theme_manager"/>
     <item drawable="huawei_trustspace"/>
     <item drawable="huawei_voice_assistant"/>
+    <item drawable="huawei_wings_ota"/>
     <item drawable="huluxia"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
@@ -487,6 +498,7 @@
     <item drawable="kuaikan_comic"/>
     <item drawable="kuaimao_video"/>
     <item drawable="kuaishou"/>
+    <item drawable="kuaishou_nebula"/>
     <item drawable="kuaiya"/>
     <item drawable="kugou"/>
     <item drawable="kustom_lockscreen"/>
@@ -926,12 +938,14 @@
     <item drawable="tencent_gtclub"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
+    <item drawable="tencent_live"/>
+    <item drawable="tencent_live_lite"/>
     <item drawable="tencent_map"/>
     <item drawable="tencent_news"/>
+    <item drawable="tencent_news_lite"/>
     <item drawable="tencent_nntg"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqdownloader"/>
-    <item drawable="tencent_qqlive"/>
     <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_radio"/>

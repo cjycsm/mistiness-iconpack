@@ -56,32 +56,34 @@
     </string-array>
 
     <string-array name="newest">
-        <item>netease_news_lite</item>
-        <item>yy_lite</item>
-        <item>article_lite</item>
-        <item>moji_weather_light</item>
-        <item>huoshan_lite</item>
-        <item>zhihu_lite</item>
-        <item>tieba_mini</item>
-        <item>baidu_lite</item>
-        <item>douyu_rush</item>
-        <item>douyu_rush_alt</item>
-        <item>cmcc_shanghai</item>
-        <item>cmcc_beijing</item>
-        <item>cmcc_guangxi</item>
-        <item>cmcc_shandong</item>
-        <item>cmcc_guangdong</item>
-        <item>cmcc_jiangsu</item>
-        <item>cmcc_hebei</item>
-        <item>cmcc_henan</item>
-        <item>cmcc_zhejiang</item>
-        <item>cmcc_sichuang</item>
-        <item>cmcc_chongqing</item>
-        <item>cmcc_ningxia</item>
+        <item>tencent_news_lite</item>
+        <item>tencent_live_lite</item>
+        <item>kuaishou_nebula</item>
+        <item>aimp</item>
+        <item>appops</item>
+        <item>avmovie</item>
+        <item>bmap</item>
+        <item>clipboard_plus</item>
+        <item>color_iconpack</item>
+        <item>exview</item>
+        <item>flud</item>
+        <item>freeappsnow</item>
+        <item>huawei_wings_ota</item>
+        <item>gps_toolbox</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>cmcc</item>
+        <item>baidu</item>
+        <item>baidu_tieba</item>
+        <item>huoshan</item>
+        <item>kuaishou</item>
+        <item>netease_news</item>
+        <item>netease_news_lite</item>
+        <item>article_news</item>
+        <item>tencent_live</item>
+        <item>tencent_news</item>
+        <item>yy</item>
+        <item>zhihu</item>
     </string-array>
 
     <string-array name="application">
@@ -134,7 +136,7 @@
         <item>taptap</item>
         <item>tencent_docs</item>
         <item>tencent_ipai</item>
-        <item>tencent_qqlive</item>
+        <item>tencent_live</item>
         <item>tencent_secure</item>
         <item>tencent_translator</item>
         <item>tencent_wifimanager</item>
@@ -282,7 +284,7 @@
         <item>momo</item>
         <item>changba</item>
         <item>tencent_weishi</item>
-        <item>artical_news</item>
+        <item>article_news</item>
         <item>ireader</item>
         <item>duokan</item>
         <item>loveread</item>

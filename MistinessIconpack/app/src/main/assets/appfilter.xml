@@ -379,7 +379,7 @@
 
     <item
         component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.WelcomeActivity}"
-        drawable="tencent_qqlive"/>
+        drawable="tencent_live"/>
 
     <item
         component="ComponentInfo{com.tencent.qqpimsecure/com.tencent.server.fore.QuickLoadActivity}"
@@ -951,7 +951,7 @@
 
     <item
         component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}"
-        drawable="artical_news"/>
+        drawable="article_news"/>
 
     <item
         component="ComponentInfo{com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity}"
@@ -3011,7 +3011,7 @@
 
     <item
         component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
-        drawable="tencent_qqlive"/>
+        drawable="tencent_live"/>
 
     <item
         component="ComponentInfo{org.adaway/org.adaway.ui.MainActivity}"
@@ -5203,5 +5203,81 @@
     <item
         component="ComponentInfo{com.nxyd.resource/com.nxyd.resource.start.SplashActivity}"
         drawable="cmcc_ningxia"/>
+
+    <item
+        component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppHiddenActivity}"
+        drawable="icebox"/>
+
+    <item
+        component="ComponentInfo{com.solohsu.android.edxp.manager/de.robv.android.xposed.installer.WelcomeActivitydvdandroid}"
+        drawable="xposed_installer_alt1"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.bh3.bilibili/com.miHoYo.overridenativeactivity.OverrideNativeActivity}"
+        drawable="bh3"/>
+
+    <item
+        component="ComponentInfo{com.tencent.news.lite/com.tencent.news.activity.SplashActivity}"
+        drawable="tencent_news_lite"/>
+
+    <item
+        component="ComponentInfo{com.tencent.videolite.android/com.tencent.videolite.android.ui.HomeActivity}"
+        drawable="tencent_live_lite"/>
+
+    <item
+        component="ComponentInfo{com.kuaishou.nebula/com.yxcorp.gifshow.HomeActivity}"
+        drawable="kuaishou_nebula"/>
+
+    <item
+        component="ComponentInfo{com.aimp.player/com.aimp.player.views.MainActivity.MainActivity}"
+        drawable="aimp"/>
+
+    <item
+        component="ComponentInfo{rikka.appops/rikka.appops.SplashActivity}"
+        drawable="appops"/>
+
+    <item
+        component="ComponentInfo{com.avmovie/com.avmovie.activity.LauncherActivity}"
+        drawable="avmovie"/>
+
+    <item
+        component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.activity.StartActivity}"
+        drawable="bmap"/>
+
+    <item
+        component="ComponentInfo{cn.cyt.clipboardplus/cn.cyt.clipboardplus.activity.GuideActivity}"
+        drawable="clipboard_plus"/>
+
+    <item
+        component="ComponentInfo{com.ga.iconpack.color/com.ga.iconpack.color.activities.SplashActivity}"
+        drawable="color_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.gentle.exview/com.gentle.exview.MainActivity}"
+        drawable="exview"/>
+
+    <item
+        component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}"
+        drawable="flud"/>
+
+    <item
+        component="ComponentInfo{com.tourbillon.freeappsnow/com.tourbillon.freeappsnow.MainActivity}"
+        drawable="freeappsnow"/>
+
+    <item
+        component="ComponentInfo{com.huawei.wings.ota/com.huawei.wings.ota.ui.activity.MainPageActivity}"
+        drawable="huawei_wings_ota"/>
+
+    <item
+        component="ComponentInfo{com.leduoworks.gpstoolbox/com.leduoworks.gpstoolbox.SplashActivity}"
+        drawable="gps_toolbox"/>
 
 </resources>
