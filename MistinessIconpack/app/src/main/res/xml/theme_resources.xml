@@ -5311,4 +5311,100 @@
         name="com.leduoworks.gpstoolbox/com.leduoworks.gpstoolbox.SplashActivity"
         image="gps_toolbox"/>
 
+    <AppIcon
+        name="com.wswsl.joiplayer/com.wswsl.joiplayer.ui.activity.PlayerActivity"
+        image="joi_player"/>
+
+    <AppIcon
+        name="com.dotamax.app/com.max.app.module.welcome.WelcomeActivity"
+        image="dota_max"/>
+
+    <AppIcon
+        name="androidnews.kiloproject/androidnews.kiloproject.activity.SplashActivity"
+        image="mere_news"/>
+
+    <AppIcon
+        name="net.metaquotes.metatrader4/net.metaquotes.metatrader4.ui.MainActivity"
+        image="metatrader4"/>
+
+    <AppIcon
+        name="balti.migrate/balti.migrate.MainActivity"
+        image="migrate"/>
+
+    <AppIcon
+        name="com.example.jooff.shuyi/com.example.jooff.shuyi.activity.MainActivity"
+        image="mouse"/>
+
+    <AppIcon
+        name="com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity"
+        image="sai"/>
+
+    <AppIcon
+        name="free.vpn.unblock.proxy.vpnpro/com.quickdy.vpn.activity.SplashActivity"
+        image="snap_vpn"/>
+
+    <AppIcon
+        name="com.inklin.stitch/com.inklin.stitch.SplashActivity"
+        image="stitch"/>
+
+    <AppIcon
+        name="video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity"
+        image="x_player"/>
+
+    <AppIcon
+        name="com.xvideos.app/com.xvideos.common.activities.DefaultActivity"
+        image="x_videos"/>
+
+    <AppIcon
+        name="com.baidu.browser.apps/com.baidu.browser.framework.BdBrowserActivity"
+        image="baidu_browser"/>
+
+    <AppIcon
+        name="com.miHoYo.HSoDv2BiliBiliRelease/com.onevcat.uniwebview.AndroidPlugin"
+        image="bhxy2"/>
+
+    <AppIcon
+        name="com.xyznh.makeimageqin/com.xyznh.makeimageqin.MainActivity"
+        image="imageqin"/>
+
+    <AppIcon
+        name="com.iiplayer.sunplayer/com.player.sunplayer.activity.MainActivity"
+        image="sun_player"/>
+
+    <AppIcon
+        name="com.caf.fmradio/com.caf.fmradio.FMRadio"
+        image="radio"/>
+
+    <AppIcon
+        name="com.miui.enbbs/com.miui.miuibbs.activity.WelcomeActivity"
+        image="miuibbs"/>
+
+    <AppIcon
+        name="com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity"
+        image="xiaomi_bbs"/>
+
+    <AppIcon
+        name="com.squareenix.lis.st/com.sthh.StShellActivity"
+        image="life_is_strange"/>
+
+    <AppIcon
+        name="com.xiaoyin.maomi/com.lovelycat.activity.SplashActivity"
+        image="lovelycat"/>
+
+    <AppIcon
+        name="com.xxx.svideo/com.xxx.svideo.activity.SplashActivity"
+        image="kuaimao_video"/>
+
+    <AppIcon
+        name="org.codeaurora.snapcam/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.netease.mobimail/com.netease.mobimail.activity.LaunchActivity"
+        image="netease_mail"/>
+
+    <AppIcon
+        name="com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity"
+        image="nomo"/>
+
 </Theme>

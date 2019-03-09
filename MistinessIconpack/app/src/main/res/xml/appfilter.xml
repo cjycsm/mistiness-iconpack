@@ -5280,4 +5280,100 @@
         component="ComponentInfo{com.leduoworks.gpstoolbox/com.leduoworks.gpstoolbox.SplashActivity}"
         drawable="gps_toolbox"/>
 
+    <item
+        component="ComponentInfo{com.wswsl.joiplayer/com.wswsl.joiplayer.ui.activity.PlayerActivity}"
+        drawable="joi_player"/>
+
+    <item
+        component="ComponentInfo{com.dotamax.app/com.max.app.module.welcome.WelcomeActivity}"
+        drawable="dota_max"/>
+
+    <item
+        component="ComponentInfo{androidnews.kiloproject/androidnews.kiloproject.activity.SplashActivity}"
+        drawable="mere_news"/>
+
+    <item
+        component="ComponentInfo{net.metaquotes.metatrader4/net.metaquotes.metatrader4.ui.MainActivity}"
+        drawable="metatrader4"/>
+
+    <item
+        component="ComponentInfo{balti.migrate/balti.migrate.MainActivity}"
+        drawable="migrate"/>
+
+    <item
+        component="ComponentInfo{com.example.jooff.shuyi/com.example.jooff.shuyi.activity.MainActivity}"
+        drawable="mouse"/>
+
+    <item
+        component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}"
+        drawable="sai"/>
+
+    <item
+        component="ComponentInfo{free.vpn.unblock.proxy.vpnpro/com.quickdy.vpn.activity.SplashActivity}"
+        drawable="snap_vpn"/>
+
+    <item
+        component="ComponentInfo{com.inklin.stitch/com.inklin.stitch.SplashActivity}"
+        drawable="stitch"/>
+
+    <item
+        component="ComponentInfo{video.player.videoplayer/com.inshot.xplayer.activities.SplashActivity}"
+        drawable="x_player"/>
+
+    <item
+        component="ComponentInfo{com.xvideos.app/com.xvideos.common.activities.DefaultActivity}"
+        drawable="x_videos"/>
+
+    <item
+        component="ComponentInfo{com.baidu.browser.apps/com.baidu.browser.framework.BdBrowserActivity}"
+        drawable="baidu_browser"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.HSoDv2BiliBiliRelease/com.onevcat.uniwebview.AndroidPlugin}"
+        drawable="bhxy2"/>
+
+    <item
+        component="ComponentInfo{com.xyznh.makeimageqin/com.xyznh.makeimageqin.MainActivity}"
+        drawable="imageqin"/>
+
+    <item
+        component="ComponentInfo{com.iiplayer.sunplayer/com.player.sunplayer.activity.MainActivity}"
+        drawable="sun_player"/>
+
+    <item
+        component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.miui.enbbs/com.miui.miuibbs.activity.WelcomeActivity}"
+        drawable="miuibbs"/>
+
+    <item
+        component="ComponentInfo{com.mi.global.bbs/com.mi.global.bbs.ui.SplashActivity}"
+        drawable="xiaomi_bbs"/>
+
+    <item
+        component="ComponentInfo{com.squareenix.lis.st/com.sthh.StShellActivity}"
+        drawable="life_is_strange"/>
+
+    <item
+        component="ComponentInfo{com.xiaoyin.maomi/com.lovelycat.activity.SplashActivity}"
+        drawable="lovelycat"/>
+
+    <item
+        component="ComponentInfo{com.xxx.svideo/com.xxx.svideo.activity.SplashActivity}"
+        drawable="kuaimao_video"/>
+
+    <item
+        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.netease.mobimail/com.netease.mobimail.activity.LaunchActivity}"
+        drawable="netease_mail"/>
+
+    <item
+        component="ComponentInfo{com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}"
+        drawable="nomo"/>
+
 </resources>

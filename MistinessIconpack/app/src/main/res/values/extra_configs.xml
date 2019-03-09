@@ -25,15 +25,27 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>去B站关注我</item>
+        <item>使用支付宝捐赠</item>
+        <item>使用微信支付捐赠</item>
+        <item>使用云闪付捐赠</item>
+        <item>使用QQ支付捐赠</item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>去B站关注那个画图标的家伙（痕继痕迹），让他高兴一下</item>
+        <item>请开发者喝奶茶</item>
+        <item>请开发者喝冰阔落</item>
+        <item>请开发者喝维他柠檬茶</item>
+        <item>请开发者喝AD钙奶</item>
     </string-array>
     <string-array name="home_list_icons">
-        <item>bilibili_blue</item>
+        <item>alipay</item>
+        <item>wechat_alt</item>
+        <item>unionpay</item>
+        <item>qq</item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://space.bilibili.com/39337803</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/gathering/alipay.png</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/gathering/wechat.png</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/gathering/unionpay.png</item>
+        <item>https://mistiness-iconpack.oss-cn-hangzhou.aliyuncs.com/gathering/qq.png</item>
     </string-array>
 </resources>

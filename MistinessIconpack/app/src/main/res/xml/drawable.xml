@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>68</version>
+    <version>69</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -94,6 +94,7 @@
     <item drawable="baicizhan"/>
     <item drawable="baicizhan_dict"/>
     <item drawable="baidu"/>
+    <item drawable="baidu_browser"/>
     <item drawable="baidu_homework"/>
     <item drawable="baidu_ime"/>
     <item drawable="baidu_lite"/>
@@ -112,6 +113,7 @@
     <item drawable="beauty_camera"/>
     <item drawable="bestpay"/>
     <item drawable="bh3"/>
+    <item drawable="bhxy2"/>
     <item drawable="bigidea"/>
     <item drawable="bilibili"/>
     <item drawable="bilibili_alt"/>
@@ -259,6 +261,8 @@
     <item drawable="dmzj"/>
     <item drawable="dolby"/>
     <item drawable="dongqiudi"/>
+    <item drawable="dota_max"/>
+    <item drawable="dota_max_alt"/>
     <item drawable="douban"/>
     <item drawable="douban_movie"/>
     <item drawable="douban_radio"/>
@@ -456,6 +460,7 @@
     <item drawable="ifly_ime"/>
     <item drawable="iflytek_readassistant"/>
     <item drawable="ifont"/>
+    <item drawable="imageqin"/>
     <item drawable="imagestitch"/>
     <item drawable="imeihua"/>
     <item drawable="imoji"/>
@@ -479,6 +484,7 @@
     <item drawable="jingdong"/>
     <item drawable="jjwxc"/>
     <item drawable="joe_music"/>
+    <item drawable="joi_player"/>
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kaoyan"/>
@@ -583,6 +589,8 @@
     <item drawable="meizu_voiceassistant"/>
     <item drawable="memento"/>
     <item drawable="memory_cleaner"/>
+    <item drawable="mere_news"/>
+    <item drawable="metatrader4"/>
     <item drawable="mfw"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
@@ -601,6 +609,7 @@
     <item drawable="microsoft_xbox"/>
     <item drawable="midong"/>
     <item drawable="migongyi"/>
+    <item drawable="migrate"/>
     <item drawable="mijia"/>
     <item drawable="minecraft"/>
     <item drawable="minecraft_china"/>
@@ -629,6 +638,7 @@
     <item drawable="morefan"/>
     <item drawable="motoband"/>
     <item drawable="motoband_alt"/>
+    <item drawable="mouse"/>
     <item drawable="moviefans"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
@@ -800,6 +810,7 @@
     <item drawable="round_corner"/>
     <item drawable="rrmj"/>
     <item drawable="safe"/>
+    <item drawable="sai"/>
     <item drawable="samsung_edge_lighting"/>
     <item drawable="samsung_gametuner"/>
     <item drawable="samsung_goodlock"/>
@@ -862,6 +873,7 @@
     <item drawable="smartisanos_perspective"/>
     <item drawable="smartisanos_sidebar"/>
     <item drawable="smzdm"/>
+    <item drawable="snap_vpn"/>
     <item drawable="snapmod"/>
     <item drawable="snapmod_alt"/>
     <item drawable="snapseed"/>
@@ -890,6 +902,7 @@
     <item drawable="spotify_alt"/>
     <item drawable="ssly"/>
     <item drawable="steam"/>
+    <item drawable="stitch"/>
     <item drawable="stk"/>
     <item drawable="stk_alt"/>
     <item drawable="stopapp"/>
@@ -898,6 +911,7 @@
     <item drawable="substratum"/>
     <item drawable="subwaysurf"/>
     <item drawable="suishouji"/>
+    <item drawable="sun_player"/>
     <item drawable="suning_ebuy"/>
     <item drawable="suning_epa"/>
     <item drawable="suning_msd"/>
@@ -1053,6 +1067,8 @@
     <item drawable="wuba"/>
     <item drawable="wunder_list"/>
     <item drawable="wuta_camera"/>
+    <item drawable="x_player"/>
+    <item drawable="x_videos"/>
     <item drawable="xbrowser"/>
     <item drawable="xda_labs"/>
     <item drawable="xhs"/>

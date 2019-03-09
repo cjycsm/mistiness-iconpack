@@ -5305,4 +5305,100 @@
         class="com.leduoworks.gpstoolbox.SplashActivity"
         name="gps_toolbox"/>
 
+    <item
+        class="com.wswsl.joiplayer.ui.activity.PlayerActivity"
+        name="joi_player"/>
+
+    <item
+        class="com.max.app.module.welcome.WelcomeActivity"
+        name="dota_max"/>
+
+    <item
+        class="androidnews.kiloproject.activity.SplashActivity"
+        name="mere_news"/>
+
+    <item
+        class="net.metaquotes.metatrader4.ui.MainActivity"
+        name="metatrader4"/>
+
+    <item
+        class="balti.migrate.MainActivity"
+        name="migrate"/>
+
+    <item
+        class="com.example.jooff.shuyi.activity.MainActivity"
+        name="mouse"/>
+
+    <item
+        class="com.aefyr.sai.ui.activities.MainActivity"
+        name="sai"/>
+
+    <item
+        class="com.quickdy.vpn.activity.SplashActivity"
+        name="snap_vpn"/>
+
+    <item
+        class="com.inklin.stitch.SplashActivity"
+        name="stitch"/>
+
+    <item
+        class="com.inshot.xplayer.activities.SplashActivity"
+        name="x_player"/>
+
+    <item
+        class="com.xvideos.common.activities.DefaultActivity"
+        name="x_videos"/>
+
+    <item
+        class="com.baidu.browser.framework.BdBrowserActivity"
+        name="baidu_browser"/>
+
+    <item
+        class="com.onevcat.uniwebview.AndroidPlugin"
+        name="bhxy2"/>
+
+    <item
+        class="com.xyznh.makeimageqin.MainActivity"
+        name="imageqin"/>
+
+    <item
+        class="com.player.sunplayer.activity.MainActivity"
+        name="sun_player"/>
+
+    <item
+        class="com.caf.fmradio.FMRadio"
+        name="radio"/>
+
+    <item
+        class="com.miui.miuibbs.activity.WelcomeActivity"
+        name="miuibbs"/>
+
+    <item
+        class="com.mi.global.bbs.ui.SplashActivity"
+        name="xiaomi_bbs"/>
+
+    <item
+        class="com.sthh.StShellActivity"
+        name="life_is_strange"/>
+
+    <item
+        class="com.lovelycat.activity.SplashActivity"
+        name="lovelycat"/>
+
+    <item
+        class="com.xxx.svideo.activity.SplashActivity"
+        name="kuaimao_video"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.netease.mobimail.activity.LaunchActivity"
+        name="netease_mail"/>
+
+    <item
+        class="com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity"
+        name="nomo"/>
+
 </appmap>

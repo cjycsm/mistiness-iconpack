@@ -56,34 +56,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>tencent_news_lite</item>
-        <item>tencent_live_lite</item>
-        <item>kuaishou_nebula</item>
-        <item>aimp</item>
-        <item>appops</item>
-        <item>avmovie</item>
-        <item>bmap</item>
-        <item>clipboard_plus</item>
-        <item>color_iconpack</item>
-        <item>exview</item>
-        <item>flud</item>
-        <item>freeappsnow</item>
-        <item>huawei_wings_ota</item>
-        <item>gps_toolbox</item>
+        <item>joi_player</item>
+        <item>dota_max</item>
+        <item>dota_max_alt</item>
+        <item>mere_news</item>
+        <item>metatrader4</item>
+        <item>migrate</item>
+        <item>mouse</item>
+        <item>sai</item>
+        <item>snap_vpn</item>
+        <item>stitch</item>
+        <item>x_player</item>
+        <item>x_videos</item>
+        <item>baidu_browser</item>
+        <item>imageqin</item>
+        <item>sun_player</item>
+        <item>bhxy2</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>baidu</item>
-        <item>baidu_tieba</item>
-        <item>huoshan</item>
-        <item>kuaishou</item>
-        <item>netease_news</item>
-        <item>netease_news_lite</item>
-        <item>article_news</item>
-        <item>tencent_live</item>
-        <item>tencent_news</item>
-        <item>yy</item>
-        <item>zhihu</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1006,6 +998,35 @@
         <item>cmcc_sichuang</item>
         <item>cmcc_chongqing</item>
         <item>cmcc_ningxia</item>
+        <item>tencent_news_lite</item>
+        <item>tencent_live_lite</item>
+        <item>kuaishou_nebula</item>
+        <item>aimp</item>
+        <item>appops</item>
+        <item>avmovie</item>
+        <item>bmap</item>
+        <item>clipboard_plus</item>
+        <item>color_iconpack</item>
+        <item>exview</item>
+        <item>flud</item>
+        <item>freeappsnow</item>
+        <item>huawei_wings_ota</item>
+        <item>gps_toolbox</item>
+        <item>joi_player</item>
+        <item>dota_max</item>
+        <item>dota_max_alt</item>
+        <item>mere_news</item>
+        <item>metatrader4</item>
+        <item>migrate</item>
+        <item>mouse</item>
+        <item>sai</item>
+        <item>snap_vpn</item>
+        <item>stitch</item>
+        <item>x_player</item>
+        <item>x_videos</item>
+        <item>baidu_browser</item>
+        <item>imageqin</item>
+        <item>sun_player</item>
     </string-array>
 
     <string-array name="game">
@@ -1048,6 +1069,7 @@
         <item>bingo_candy</item>
         <item>asphalt9</item>
         <item>netease_stzb</item>
+        <item>bhxy2</item>
     </string-array>
 
     <string-array name="basic">
