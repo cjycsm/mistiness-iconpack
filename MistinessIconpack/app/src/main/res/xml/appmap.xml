@@ -5401,4 +5401,108 @@
         class="com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity"
         name="nomo"/>
 
+    <item
+        class="moe.shizuku.redirectstorage.MainActivity"
+        name="redirect_storage"/>
+
+    <item
+        class="com.caicai.dailuobo.ui.activity.SplashActivity"
+        name="dailuobo"/>
+
+    <item
+        class="com.dianshijia.tvlive.ui.activity.SplashActivity"
+        name="tvlive"/>
+
+    <item
+        class="com.elinkway.tvlive2.activity.SplashActivity"
+        name="tvlive2"/>
+
+    <item
+        class="com.faloo.app.activity.LogoPageActivity"
+        name="faloo"/>
+
+    <item
+        class="com.txbnx.windwing.SplashActivity"
+        name="windwing"/>
+
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_editors_sheets"/>
+
+    <item
+        class="com.google.android.apps.docs.app.NewMainProxyActivity"
+        name="google_editors_docs"/>
+
+    <item
+        class="cn.com.whty.hfcard.ui.SplashActivity"
+        name="hfcard"/>
+
+    <item
+        class="com.ryeex.groot.main.SplashActivity"
+        name="ryeex_groot"/>
+
+    <item
+        class="com.baidu.searchcraft.MainActivity"
+        name="baidu_searchcraft"/>
+
+    <item
+        class="com.jd.jxj.ui.activity.LoadingActivity"
+        name="jd_jxj"/>
+
+    <item
+        class="com.kwai.game.ddz.MainActivity"
+        name="kwai_ddz"/>
+
+    <item
+        class="com.grarak.kerneladiutor.activities.StartActivity"
+        name="kernel_adiutor"/>
+
+    <item
+        class="ui.StartPageActivity"
+        name="qeeyou"/>
+
+    <item
+        class="com.dv.adm.pro.Main"
+        name="adm_pro"/>
+
+    <item
+        class="com.sony.songpal.mdr.vim.activity.MdrMainActivity"
+        name="sony_songpal_mdr"/>
+
+    <item
+        class="com.samsung.android.weather.app.AppLauncherActivity"
+        name="weather"/>
+
+    <item
+        class="com.sec.android.app.fm.MainActivity"
+        name="radio"/>
+
+    <item
+        class="com.android.stk2.StkLauncherActivity"
+        name="stk"/>
+
+    <item
+        class="com.coloros.compass.flat.FlatCompass"
+        name="compass"/>
+
+    <item
+        class="com.lp.MainActivityOriginal"
+        name="lucky_patcher"/>
+
+    <item
+        class="com.audlabs.viperfx.main.StartActivity"
+        name="viperfx1"/>
+
+    <item
+        class="com.zw.lebo.MainActivity"
+        name="mahua_movie"/>
+
+    <item
+        class="com.ss.android.ugc.aweme.splash.SplashActivity"
+        name="tiktok"/>
+
+    <item
+        class="com.evernote.ui.HomeActivity"
+        name="evernote"/>
+
 </appmap>

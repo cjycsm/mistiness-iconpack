@@ -5376,4 +5376,108 @@
         component="ComponentInfo{com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity}"
         drawable="nomo"/>
 
+    <item
+        component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}"
+        drawable="redirect_storage"/>
+
+    <item
+        component="ComponentInfo{com.caicai.dailuobo/com.caicai.dailuobo.ui.activity.SplashActivity}"
+        drawable="dailuobo"/>
+
+    <item
+        component="ComponentInfo{com.dianshijia.tvlive/com.dianshijia.tvlive.ui.activity.SplashActivity}"
+        drawable="tvlive"/>
+
+    <item
+        component="ComponentInfo{com.elinkway.tvlive2/com.elinkway.tvlive2.activity.SplashActivity}"
+        drawable="tvlive2"/>
+
+    <item
+        component="ComponentInfo{com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity}"
+        drawable="faloo"/>
+
+    <item
+        component="ComponentInfo{com.txbnx.windwing/com.txbnx.windwing.SplashActivity}"
+        drawable="windwing"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_editors_sheets"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity}"
+        drawable="google_editors_docs"/>
+
+    <item
+        component="ComponentInfo{cn.com.whty.hfcard/cn.com.whty.hfcard.ui.SplashActivity}"
+        drawable="hfcard"/>
+
+    <item
+        component="ComponentInfo{com.ryeex.groot/com.ryeex.groot.main.SplashActivity}"
+        drawable="ryeex_groot"/>
+
+    <item
+        component="ComponentInfo{com.baidu.searchcraft/com.baidu.searchcraft.MainActivity}"
+        drawable="baidu_searchcraft"/>
+
+    <item
+        component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}"
+        drawable="jd_jxj"/>
+
+    <item
+        component="ComponentInfo{com.kwai.game.ddz/com.kwai.game.ddz.MainActivity}"
+        drawable="kwai_ddz"/>
+
+    <item
+        component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity}"
+        drawable="kernel_adiutor"/>
+
+    <item
+        component="ComponentInfo{com.qeeyou.app.accelerator/ui.StartPageActivity}"
+        drawable="qeeyou"/>
+
+    <item
+        component="ComponentInfo{com.dv.adm.pro/com.dv.adm.pro.Main}"
+        drawable="adm_pro"/>
+
+    <item
+        component="ComponentInfo{com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity}"
+        drawable="sony_songpal_mdr"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}"
+        drawable="radio"/>
+
+    <item
+        component="ComponentInfo{com.android.stk2/com.android.stk2.StkLauncherActivity}"
+        drawable="stk"/>
+
+    <item
+        component="ComponentInfo{com.blackalpha.compass/com.coloros.compass.flat.FlatCompass}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{ru.sxbuIDfx.pFSOyagrF/com.lp.MainActivityOriginal}"
+        drawable="lucky_patcher"/>
+
+    <item
+        component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}"
+        drawable="viperfx1"/>
+
+    <item
+        component="ComponentInfo{com.zw.lebo/com.zw.lebo.MainActivity}"
+        drawable="mahua_movie"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.ugc.trill_clone/com.ss.android.ugc.aweme.splash.SplashActivity}"
+        drawable="tiktok"/>
+
+    <item
+        component="ComponentInfo{com.yinxiang/com.evernote.ui.HomeActivity}"
+        drawable="evernote"/>
+
 </resources>

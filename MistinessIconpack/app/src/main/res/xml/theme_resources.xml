@@ -5407,4 +5407,108 @@
         name="com.blink.academy.nomopro/com.blink.academy.nomo.ui.activity.splash.NomoSplashActivity"
         image="nomo"/>
 
+    <AppIcon
+        name="moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity"
+        image="redirect_storage"/>
+
+    <AppIcon
+        name="com.caicai.dailuobo/com.caicai.dailuobo.ui.activity.SplashActivity"
+        image="dailuobo"/>
+
+    <AppIcon
+        name="com.dianshijia.tvlive/com.dianshijia.tvlive.ui.activity.SplashActivity"
+        image="tvlive"/>
+
+    <AppIcon
+        name="com.elinkway.tvlive2/com.elinkway.tvlive2.activity.SplashActivity"
+        image="tvlive2"/>
+
+    <AppIcon
+        name="com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity"
+        image="faloo"/>
+
+    <AppIcon
+        name="com.txbnx.windwing/com.txbnx.windwing.SplashActivity"
+        image="windwing"/>
+
+    <AppIcon
+        name="com.google.android.apps.docs.editors.sheets/com.google.android.apps.docs.app.NewMainProxyActivity"
+        image="google_editors_sheets"/>
+
+    <AppIcon
+        name="com.google.android.apps.docs.editors.docs/com.google.android.apps.docs.app.NewMainProxyActivity"
+        image="google_editors_docs"/>
+
+    <AppIcon
+        name="cn.com.whty.hfcard/cn.com.whty.hfcard.ui.SplashActivity"
+        image="hfcard"/>
+
+    <AppIcon
+        name="com.ryeex.groot/com.ryeex.groot.main.SplashActivity"
+        image="ryeex_groot"/>
+
+    <AppIcon
+        name="com.baidu.searchcraft/com.baidu.searchcraft.MainActivity"
+        image="baidu_searchcraft"/>
+
+    <AppIcon
+        name="com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity"
+        image="jd_jxj"/>
+
+    <AppIcon
+        name="com.kwai.game.ddz/com.kwai.game.ddz.MainActivity"
+        image="kwai_ddz"/>
+
+    <AppIcon
+        name="com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity"
+        image="kernel_adiutor"/>
+
+    <AppIcon
+        name="com.qeeyou.app.accelerator/ui.StartPageActivity"
+        image="qeeyou"/>
+
+    <AppIcon
+        name="com.dv.adm.pro/com.dv.adm.pro.Main"
+        image="adm_pro"/>
+
+    <AppIcon
+        name="com.sony.songpal.mdr/com.sony.songpal.mdr.vim.activity.MdrMainActivity"
+        image="sony_songpal_mdr"/>
+
+    <AppIcon
+        name="com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="com.sec.android.app.fm/com.sec.android.app.fm.MainActivity"
+        image="radio"/>
+
+    <AppIcon
+        name="com.android.stk2/com.android.stk2.StkLauncherActivity"
+        image="stk"/>
+
+    <AppIcon
+        name="com.blackalpha.compass/com.coloros.compass.flat.FlatCompass"
+        image="compass"/>
+
+    <AppIcon
+        name="ru.sxbuIDfx.pFSOyagrF/com.lp.MainActivityOriginal"
+        image="lucky_patcher"/>
+
+    <AppIcon
+        name="com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity"
+        image="viperfx1"/>
+
+    <AppIcon
+        name="com.zw.lebo/com.zw.lebo.MainActivity"
+        image="mahua_movie"/>
+
+    <AppIcon
+        name="com.ss.android.ugc.trill_clone/com.ss.android.ugc.aweme.splash.SplashActivity"
+        image="tiktok"/>
+
+    <AppIcon
+        name="com.yinxiang/com.evernote.ui.HomeActivity"
+        image="evernote"/>
+
 </Theme>

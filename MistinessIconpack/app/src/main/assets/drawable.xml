@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>69</version>
+    <version>70</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -101,6 +101,7 @@
     <item drawable="baidu_netdisk"/>
     <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidu_nuomi"/>
+    <item drawable="baidu_searchcraft"/>
     <item drawable="baidu_tieba"/>
     <item drawable="baidu_translator"/>
     <item drawable="baidumap"/>
@@ -241,6 +242,7 @@
     <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
     <item drawable="cwallpaper"/>
+    <item drawable="dailuobo"/>
     <item drawable="dan_the_man"/>
     <item drawable="dangdang"/>
     <item drawable="day_day_cook"/>
@@ -318,6 +320,7 @@
     <item drawable="facebook_alt"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
+    <item drawable="faloo"/>
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
     <item drawable="feedback"/>
@@ -381,6 +384,8 @@
     <item drawable="google_camera"/>
     <item drawable="google_docs"/>
     <item drawable="google_earth"/>
+    <item drawable="google_editors_docs"/>
+    <item drawable="google_editors_sheets"/>
     <item drawable="google_files"/>
     <item drawable="google_fitness"/>
     <item drawable="google_games"/>
@@ -418,6 +423,7 @@
     <item drawable="help_alt"/>
     <item drawable="hexin"/>
     <item drawable="hexin_bank"/>
+    <item drawable="hfcard"/>
     <item drawable="hfs_plus"/>
     <item drawable="hi"/>
     <item drawable="hippo"/>
@@ -476,6 +482,7 @@
     <item drawable="ithome"/>
     <item drawable="javiewer"/>
     <item drawable="jd_jr"/>
+    <item drawable="jd_jxj"/>
     <item drawable="jeejen"/>
     <item drawable="jiakao"/>
     <item drawable="jianshu"/>
@@ -492,6 +499,7 @@
     <item drawable="kdjz"/>
     <item drawable="kecheng"/>
     <item drawable="keep"/>
+    <item drawable="kernel_adiutor"/>
     <item drawable="kf_mark"/>
     <item drawable="kfc"/>
     <item drawable="kindle"/>
@@ -511,6 +519,7 @@
     <item drawable="kustom_wallpaper"/>
     <item drawable="kustom_widget"/>
     <item drawable="kuwo"/>
+    <item drawable="kwai_ddz"/>
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
     <item drawable="lang_easy_lexis"/>
@@ -762,6 +771,7 @@
     <item drawable="qcloud"/>
     <item drawable="qdaily"/>
     <item drawable="qeebo_geek"/>
+    <item drawable="qeeyou"/>
     <item drawable="qianji"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
@@ -799,6 +809,7 @@
     <item drawable="realracing3"/>
     <item drawable="recorder"/>
     <item drawable="reddit"/>
+    <item drawable="redirect_storage"/>
     <item drawable="relaxio"/>
     <item drawable="remote_control"/>
     <item drawable="remote_control_alt"/>
@@ -809,6 +820,8 @@
     <item drawable="root_explore"/>
     <item drawable="round_corner"/>
     <item drawable="rrmj"/>
+    <item drawable="ryeex_groot"/>
+    <item drawable="ryeex_groot_alt"/>
     <item drawable="safe"/>
     <item drawable="sai"/>
     <item drawable="samsung_edge_lighting"/>
@@ -1004,6 +1017,8 @@
     <item drawable="tuicool"/>
     <item drawable="turbovpn"/>
     <item drawable="tvguo"/>
+    <item drawable="tvlive"/>
+    <item drawable="tvlive2"/>
     <item drawable="twitter"/>
     <item drawable="u17_comic"/>
     <item drawable="uber_didi"/>
@@ -1057,6 +1072,7 @@
     <item drawable="wifi_locating"/>
     <item drawable="wifibox"/>
     <item drawable="wifikey"/>
+    <item drawable="windwing"/>
     <item drawable="wiz_note"/>
     <item drawable="wochacha"/>
     <item drawable="wooden_letter"/>

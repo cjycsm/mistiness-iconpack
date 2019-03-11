@@ -56,22 +56,22 @@
     </string-array>
 
     <string-array name="newest">
-        <item>joi_player</item>
-        <item>dota_max</item>
-        <item>dota_max_alt</item>
-        <item>mere_news</item>
-        <item>metatrader4</item>
-        <item>migrate</item>
-        <item>mouse</item>
-        <item>sai</item>
-        <item>snap_vpn</item>
-        <item>stitch</item>
-        <item>x_player</item>
-        <item>x_videos</item>
-        <item>baidu_browser</item>
-        <item>imageqin</item>
-        <item>sun_player</item>
-        <item>bhxy2</item>
+        <item>redirect_storage</item>
+        <item>dailuobo</item>
+        <item>tvlive</item>
+        <item>tvlive2</item>
+        <item>faloo</item>
+        <item>windwing</item>
+        <item>google_editors_sheets</item>
+        <item>google_editors_docs</item>
+        <item>hfcard</item>
+        <item>ryeex_groot</item>
+        <item>ryeex_groot_alt</item>
+        <item>baidu_searchcraft</item>
+        <item>jd_jxj</item>
+        <item>kernel_adiutor</item>
+        <item>qeeyou</item>
+        <item>kwai_ddz</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1027,6 +1027,21 @@
         <item>baidu_browser</item>
         <item>imageqin</item>
         <item>sun_player</item>
+        <item>redirect_storage</item>
+        <item>dailuobo</item>
+        <item>tvlive</item>
+        <item>tvlive2</item>
+        <item>faloo</item>
+        <item>windwing</item>
+        <item>google_editors_sheets</item>
+        <item>google_editors_docs</item>
+        <item>hfcard</item>
+        <item>ryeex_groot</item>
+        <item>ryeex_groot_alt</item>
+        <item>baidu_searchcraft</item>
+        <item>jd_jxj</item>
+        <item>kernel_adiutor</item>
+        <item>qeeyou</item>
     </string-array>
 
     <string-array name="game">
@@ -1070,6 +1085,7 @@
         <item>asphalt9</item>
         <item>netease_stzb</item>
         <item>bhxy2</item>
+        <item>kwai_ddz</item>
     </string-array>
 
     <string-array name="basic">
