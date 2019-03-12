@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>70</version>
+    <version>71</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -61,12 +61,14 @@
     <item drawable="android_assistant"/>
     <item drawable="androidesk"/>
     <item drawable="anjian"/>
+    <item drawable="anki"/>
     <item drawable="antutu"/>
     <item drawable="anzogame_lol"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
     <item drawable="apple_music"/>
+    <item drawable="applock"/>
     <item drawable="appops"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
@@ -91,6 +93,7 @@
     <item drawable="b612"/>
     <item drawable="backdrops"/>
     <item drawable="backup"/>
+    <item drawable="bahamut"/>
     <item drawable="baicizhan"/>
     <item drawable="baicizhan_dict"/>
     <item drawable="baidu"/>
@@ -111,6 +114,7 @@
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
     <item drawable="battery_meter"/>
+    <item drawable="bbk_cloud"/>
     <item drawable="beauty_camera"/>
     <item drawable="bestpay"/>
     <item drawable="bh3"/>
@@ -185,6 +189,7 @@
     <item drawable="clock"/>
     <item drawable="clockwork"/>
     <item drawable="cloud_115"/>
+    <item drawable="cloudaccelerator"/>
     <item drawable="cloudmusic"/>
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
@@ -242,6 +247,7 @@
     <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
     <item drawable="cwallpaper"/>
+    <item drawable="cytus2"/>
     <item drawable="dailuobo"/>
     <item drawable="dan_the_man"/>
     <item drawable="dangdang"/>
@@ -361,7 +367,6 @@
     <item drawable="fx"/>
     <item drawable="fx_alt"/>
     <item drawable="gallery"/>
-    <item drawable="gallery_alt"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecenter_alt"/>
     <item drawable="ganji"/>
@@ -375,6 +380,7 @@
     <item drawable="geometric_weather"/>
     <item drawable="gifpaser"/>
     <item drawable="glass"/>
+    <item drawable="glow"/>
     <item drawable="go_hosts"/>
     <item drawable="gold"/>
     <item drawable="google"/>
@@ -419,6 +425,7 @@
     <item drawable="hearthstone"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
+    <item drawable="hellotalk"/>
     <item drawable="help"/>
     <item drawable="help_alt"/>
     <item drawable="hexin"/>
@@ -523,6 +530,7 @@
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
     <item drawable="lang_easy_lexis"/>
+    <item drawable="langenius"/>
     <item drawable="lanqiudi"/>
     <item drawable="lantern"/>
     <item drawable="lanzou"/>
@@ -544,6 +552,7 @@
     <item drawable="light_beauty"/>
     <item drawable="lightroom"/>
     <item drawable="lightroom_alt"/>
+    <item drawable="line"/>
     <item drawable="lineicons2_iconpack"/>
     <item drawable="linkedin"/>
     <item drawable="list"/>
@@ -576,6 +585,7 @@
     <item drawable="map"/>
     <item drawable="mbestyle"/>
     <item drawable="mdschool"/>
+    <item drawable="measure"/>
     <item drawable="media17"/>
     <item drawable="media17_alt"/>
     <item drawable="medicine_helper"/>
@@ -631,6 +641,7 @@
     <item drawable="miui_virtual_sim"/>
     <item drawable="miui_voice_assistant"/>
     <item drawable="miuibbs"/>
+    <item drawable="miuitool_updateurl"/>
     <item drawable="mixaiba_browser"/>
     <item drawable="mixaiba_browser_alt"/>
     <item drawable="mixplorer"/>
@@ -694,6 +705,8 @@
     <item drawable="nova_launcher"/>
     <item drawable="novel_reader"/>
     <item drawable="nowcasting"/>
+    <item drawable="nubia_bbs"/>
+    <item drawable="nubia_neoshare"/>
     <item drawable="nutstore"/>
     <item drawable="nutstore_alt"/>
     <item drawable="oblatum"/>
@@ -724,9 +737,12 @@
     <item drawable="panda_alt"/>
     <item drawable="panda_usecar"/>
     <item drawable="paper"/>
+    <item drawable="paper2"/>
+    <item drawable="passport"/>
     <item drawable="paypal"/>
     <item drawable="pcamera"/>
     <item drawable="pconline"/>
+    <item drawable="pelmix_iconpack"/>
     <item drawable="people_daily_china"/>
     <item drawable="phonograph"/>
     <item drawable="photo_editor"/>
@@ -737,7 +753,9 @@
     <item drawable="pinduoduo"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
+    <item drawable="pixel_launcher_mods"/>
     <item drawable="pixiv"/>
+    <item drawable="pixivez"/>
     <item drawable="pixlr"/>
     <item drawable="pixlr_alt"/>
     <item drawable="pixolor"/>
@@ -746,6 +764,7 @@
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="poetry"/>
+    <item drawable="polarr"/>
     <item drawable="poly"/>
     <item drawable="poly_alt"/>
     <item drawable="pomotodo"/>
@@ -908,6 +927,7 @@
     <item drawable="soul"/>
     <item drawable="sound_recorder"/>
     <item drawable="sound_recorder_alt"/>
+    <item drawable="soundcloud"/>
     <item drawable="spdb"/>
     <item drawable="speedmobile"/>
     <item drawable="speedtest"/>
@@ -915,6 +935,9 @@
     <item drawable="spotify_alt"/>
     <item drawable="ssly"/>
     <item drawable="steam"/>
+    <item drawable="steam_go"/>
+    <item drawable="steam_go_alt"/>
+    <item drawable="stellio_player"/>
     <item drawable="stitch"/>
     <item drawable="stk"/>
     <item drawable="stk_alt"/>
@@ -931,6 +954,7 @@
     <item drawable="super_calculator"/>
     <item drawable="superb"/>
     <item drawable="supersu"/>
+    <item drawable="surfboard"/>
     <item drawable="surfvpn"/>
     <item drawable="synology_chat"/>
     <item drawable="synology_moments"/>
@@ -947,6 +971,7 @@
     <item drawable="tasker"/>
     <item drawable="tax_its"/>
     <item drawable="tc_cleaner"/>
+    <item drawable="ted"/>
     <item drawable="telegram"/>
     <item drawable="telegram_x"/>
     <item drawable="telegreat"/>
@@ -988,6 +1013,8 @@
     <item drawable="tencent_zabra"/>
     <item drawable="tenda_router"/>
     <item drawable="tenten"/>
+    <item drawable="termux"/>
+    <item drawable="termux_alt"/>
     <item drawable="theme"/>
     <item drawable="theme_alt"/>
     <item drawable="thestore"/>
@@ -999,6 +1026,7 @@
     <item drawable="tieyou"/>
     <item drawable="tiktok"/>
     <item drawable="tim"/>
+    <item drawable="time"/>
     <item drawable="timetable"/>
     <item drawable="timetree"/>
     <item drawable="timi"/>
@@ -1072,6 +1100,7 @@
     <item drawable="wifi_locating"/>
     <item drawable="wifibox"/>
     <item drawable="wifikey"/>
+    <item drawable="wimetor"/>
     <item drawable="windwing"/>
     <item drawable="wiz_note"/>
     <item drawable="wochacha"/>
@@ -1146,6 +1175,7 @@
     <item drawable="youdao_translator"/>
     <item drawable="youku"/>
     <item drawable="youtube"/>
+    <item drawable="youtube_vanced"/>
     <item drawable="yuedong_sport"/>
     <item drawable="yunfan"/>
     <item drawable="yunmai_scale"/>

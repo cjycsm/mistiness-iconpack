@@ -5480,4 +5480,124 @@
         component="ComponentInfo{com.yinxiang/com.evernote.ui.HomeActivity}"
         drawable="evernote"/>
 
+    <item
+        component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}"
+        drawable="anki"/>
+
+    <item
+        component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}"
+        drawable="applock"/>
+
+    <item
+        component="ComponentInfo{com.gallopingkylin.cloudaccelerator/com.gallopingkylin.cloudaccelerator.MainActivity}"
+        drawable="cloudaccelerator"/>
+
+    <item
+        component="ComponentInfo{com.rayark.cytus2/com.inca.security.DexProtect.LauncherActivity}"
+        drawable="cytus2"/>
+
+    <item
+        component="ComponentInfo{com.glow.android/com.glow.android.ui.RootActivity}"
+        drawable="glow"/>
+
+    <item
+        component="ComponentInfo{com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity}"
+        drawable="hellotalk"/>
+
+    <item
+        component="ComponentInfo{com.xchat.stevenzack.langenius/com.xchat.stevenzack.langenius.MainActivity}"
+        drawable="langenius"/>
+
+    <item
+        component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}"
+        drawable="line"/>
+
+    <item
+        component="ComponentInfo{com.google.tango.measure/com.google.tango.measure.android.LaunchScreenActivity}"
+        drawable="measure"/>
+
+    <item
+        component="ComponentInfo{com.wimetro.iafc/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="wimetor"/>
+
+    <item
+        component="ComponentInfo{miuitool.xfy9326.getupdateurl/miuitool.xfy9326.getupdateurl.MainActivity}"
+        drawable="miuitool_updateurl"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.neoshare/cn.nubia.neoshare.login.AppStartActivity}"
+        drawable="nubia_neoshare"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.bbs/cn.nubia.bbs.ui.activity.WelcomeActivity}"
+        drawable="nubia_bbs"/>
+
+    <item
+        component="ComponentInfo{com.coloros.wallet/com.coloros.wallet.WalletIndexActivity}"
+        drawable="wallet"/>
+
+    <item
+        component="ComponentInfo{io.voodoo.paper2/io.voodoo.paper2.UnityPlayerActivity}"
+        drawable="paper2"/>
+
+    <item
+        component="ComponentInfo{cn.ifengge.passport/cn.ifengge.passport.VerifyActivityEntry}"
+        drawable="passport"/>
+
+    <item
+        component="ComponentInfo{com.edward.iconpack.pelmix/com.com.edward.iconpack.pelmix.activities.SplashActivity}"
+        drawable="pelmix_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.kieronquinn.app.pixellaunchermods/com.kieronquinn.app.pixellaunchermods.activities.MainActivity}"
+        drawable="pixel_launcher_mods"/>
+
+    <item
+        component="ComponentInfo{com.perol.asdpl.pixivez/com.perol.asdpl.pixivez.normal}"
+        drawable="pixivez"/>
+
+    <item
+        component="ComponentInfo{photo.editor.polarr/co.polarr.polarrphotoeditor.EditorActivity}"
+        drawable="polarr"/>
+
+    <item
+        component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}"
+        drawable="soundcloud"/>
+
+    <item
+        component="ComponentInfo{com.miking.steam/com.androlua.Welcome}"
+        drawable="steam_go"/>
+
+    <item
+        component="ComponentInfo{io.stellio.player/io.stellio.player.MainActivity}"
+        drawable="stellio_player"/>
+
+    <item
+        component="ComponentInfo{com.getsurfboard/com.getsurfboard.activity.MainActivity}"
+        drawable="surfboard"/>
+
+    <item
+        component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity}"
+        drawable="ted"/>
+
+    <item
+        component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}"
+        drawable="termux"/>
+
+    <item
+        component="ComponentInfo{com.geminiwen.app.arrow/com.geminiwen.app.arrow.ui.FrameActivity}"
+        drawable="time"/>
+
+    <item
+        component="ComponentInfo{com.bbk.cloud/com.bbk.cloud.activities.BBKCloudHomeScreen}"
+        drawable="bbk_cloud"/>
+
+    <item
+        component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}"
+        drawable="youtube_vanced"/>
+
+    <item
+        component="ComponentInfo{tw.com.gamer.android.activecenter/tw.com.gamer.android.bahamut.BahamutActivity}"
+        drawable="bahamut"/>
+
 </resources>

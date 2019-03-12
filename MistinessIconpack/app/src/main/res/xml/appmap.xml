@@ -5505,4 +5505,124 @@
         class="com.evernote.ui.HomeActivity"
         name="evernote"/>
 
+    <item
+        class="com.ichi2.anki.IntentHandler"
+        name="anki"/>
+
+    <item
+        class="com.domobile.applock.LauncherActivity"
+        name="applock"/>
+
+    <item
+        class="com.gallopingkylin.cloudaccelerator.MainActivity"
+        name="cloudaccelerator"/>
+
+    <item
+        class="com.inca.security.DexProtect.LauncherActivity"
+        name="cytus2"/>
+
+    <item
+        class="com.glow.android.ui.RootActivity"
+        name="glow"/>
+
+    <item
+        class="com.hellotalkx.modules.sign.ui.LaunchActivity"
+        name="hellotalk"/>
+
+    <item
+        class="com.xchat.stevenzack.langenius.MainActivity"
+        name="langenius"/>
+
+    <item
+        class="jp.naver.line.android.activity.SplashActivity"
+        name="line"/>
+
+    <item
+        class="com.google.tango.measure.android.LaunchScreenActivity"
+        name="measure"/>
+
+    <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="wimetor"/>
+
+    <item
+        class="miuitool.xfy9326.getupdateurl.MainActivity"
+        name="miuitool_updateurl"/>
+
+    <item
+        class="cn.nubia.neoshare.login.AppStartActivity"
+        name="nubia_neoshare"/>
+
+    <item
+        class="cn.nubia.bbs.ui.activity.WelcomeActivity"
+        name="nubia_bbs"/>
+
+    <item
+        class="com.coloros.wallet.WalletIndexActivity"
+        name="wallet"/>
+
+    <item
+        class="io.voodoo.paper2.UnityPlayerActivity"
+        name="paper2"/>
+
+    <item
+        class="cn.ifengge.passport.VerifyActivityEntry"
+        name="passport"/>
+
+    <item
+        class="com.com.edward.iconpack.pelmix.activities.SplashActivity"
+        name="pelmix_iconpack"/>
+
+    <item
+        class="com.kieronquinn.app.pixellaunchermods.activities.MainActivity"
+        name="pixel_launcher_mods"/>
+
+    <item
+        class="com.perol.asdpl.pixivez.normal"
+        name="pixivez"/>
+
+    <item
+        class="co.polarr.polarrphotoeditor.EditorActivity"
+        name="polarr"/>
+
+    <item
+        class="com.soundcloud.android.main.LauncherActivity"
+        name="soundcloud"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="steam_go"/>
+
+    <item
+        class="io.stellio.player.MainActivity"
+        name="stellio_player"/>
+
+    <item
+        class="com.getsurfboard.activity.MainActivity"
+        name="surfboard"/>
+
+    <item
+        class="com.ted.android.view.splash.SplashActivity"
+        name="ted"/>
+
+    <item
+        class="com.termux.app.TermuxActivity"
+        name="termux"/>
+
+    <item
+        class="com.geminiwen.app.arrow.ui.FrameActivity"
+        name="time"/>
+
+    <item
+        class="com.bbk.cloud.activities.BBKCloudHomeScreen"
+        name="bbk_cloud"/>
+
+    <item
+        class="com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        name="youtube_vanced"/>
+
+    <item
+        class="tw.com.gamer.android.bahamut.BahamutActivity"
+        name="bahamut"/>
+
 </appmap>

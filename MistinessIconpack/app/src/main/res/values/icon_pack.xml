@@ -53,29 +53,46 @@
         <item>nokia</item>
         <item>vivo</item>
         <item>sony</item>
+        <item>nubia</item>
     </string-array>
 
     <string-array name="newest">
-        <item>redirect_storage</item>
-        <item>dailuobo</item>
-        <item>tvlive</item>
-        <item>tvlive2</item>
-        <item>faloo</item>
-        <item>windwing</item>
-        <item>google_editors_sheets</item>
-        <item>google_editors_docs</item>
-        <item>hfcard</item>
-        <item>ryeex_groot</item>
-        <item>ryeex_groot_alt</item>
-        <item>baidu_searchcraft</item>
-        <item>jd_jxj</item>
-        <item>kernel_adiutor</item>
-        <item>qeeyou</item>
-        <item>kwai_ddz</item>
+        <item>anki</item>
+        <item>applock</item>
+        <item>cloudaccelerator</item>
+        <item>glow</item>
+        <item>hellotalk</item>
+        <item>langenius</item>
+        <item>line</item>
+        <item>measure</item>
+        <item>wimetor</item>
+        <item>miuitool_updateurl</item>
+        <item>passport</item>
+        <item>pelmix_iconpack</item>
+        <item>pixel_launcher_mods</item>
+        <item>pixivez</item>
+        <item>polarr</item>
+        <item>soundcloud</item>
+        <item>steam_go</item>
+        <item>steam_go_alt</item>
+        <item>stellio_player</item>
+        <item>surfboard</item>
+        <item>ted</item>
+        <item>termux</item>
+        <item>termux_alt</item>
+        <item>time</item>
+        <item>youtube_vanced</item>
+        <item>bahamut</item>
+        <item>cytus2</item>
+        <item>paper2</item>
+        <item>nubia_neoshare</item>
+        <item>nubia_bbs</item>
+        <item>bbk_cloud</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>wallet</item>
+        <item>gallery</item>
     </string-array>
 
     <string-array name="application">
@@ -1042,6 +1059,32 @@
         <item>jd_jxj</item>
         <item>kernel_adiutor</item>
         <item>qeeyou</item>
+        <item>anki</item>
+        <item>applock</item>
+        <item>cloudaccelerator</item>
+        <item>glow</item>
+        <item>hellotalk</item>
+        <item>langenius</item>
+        <item>line</item>
+        <item>measure</item>
+        <item>wimetor</item>
+        <item>miuitool_updateurl</item>
+        <item>passport</item>
+        <item>pelmix_iconpack</item>
+        <item>pixel_launcher_mods</item>
+        <item>pixivez</item>
+        <item>polarr</item>
+        <item>soundcloud</item>
+        <item>steam_go</item>
+        <item>steam_go_alt</item>
+        <item>stellio_player</item>
+        <item>surfboard</item>
+        <item>ted</item>
+        <item>termux</item>
+        <item>termux_alt</item>
+        <item>time</item>
+        <item>youtube_vanced</item>
+        <item>bahamut</item>
     </string-array>
 
     <string-array name="game">
@@ -1086,6 +1129,8 @@
         <item>netease_stzb</item>
         <item>bhxy2</item>
         <item>kwai_ddz</item>
+        <item>cytus2</item>
+        <item>paper2</item>
     </string-array>
 
     <string-array name="basic">
@@ -1110,7 +1155,6 @@
         <item>file_manager</item>
         <item>file_manager_alt</item>
         <item>gallery</item>
-        <item>gallery_alt</item>
         <item>appstore</item>
         <item>appstore_alt1</item>
         <item>appstore_alt2</item>
@@ -1249,6 +1293,7 @@
 
     <string-array name="vivo">
         <item>vivo_easyshare</item>
+        <item>bbk_cloud</item>
     </string-array>
 
     <string-array name="sony">
@@ -1267,6 +1312,11 @@
         <item>lge_lgpay</item>
         <item>lge_tdmb</item>
         <item>lge_lifetracker</item>
+    </string-array>
+
+    <string-array name="nubia">
+        <item>nubia_neoshare</item>
+        <item>nubia_bbs</item>
     </string-array>
 
 </resources>

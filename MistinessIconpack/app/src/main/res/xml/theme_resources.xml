@@ -5511,4 +5511,124 @@
         name="com.yinxiang/com.evernote.ui.HomeActivity"
         image="evernote"/>
 
+    <AppIcon
+        name="com.ichi2.anki/com.ichi2.anki.IntentHandler"
+        image="anki"/>
+
+    <AppIcon
+        name="com.domobile.applock/com.domobile.applock.LauncherActivity"
+        image="applock"/>
+
+    <AppIcon
+        name="com.gallopingkylin.cloudaccelerator/com.gallopingkylin.cloudaccelerator.MainActivity"
+        image="cloudaccelerator"/>
+
+    <AppIcon
+        name="com.rayark.cytus2/com.inca.security.DexProtect.LauncherActivity"
+        image="cytus2"/>
+
+    <AppIcon
+        name="com.glow.android/com.glow.android.ui.RootActivity"
+        image="glow"/>
+
+    <AppIcon
+        name="com.hellotalk/com.hellotalkx.modules.sign.ui.LaunchActivity"
+        image="hellotalk"/>
+
+    <AppIcon
+        name="com.xchat.stevenzack.langenius/com.xchat.stevenzack.langenius.MainActivity"
+        image="langenius"/>
+
+    <AppIcon
+        name="jp.naver.line.android/jp.naver.line.android.activity.SplashActivity"
+        image="line"/>
+
+    <AppIcon
+        name="com.google.tango.measure/com.google.tango.measure.android.LaunchScreenActivity"
+        image="measure"/>
+
+    <AppIcon
+        name="com.wimetro.iafc/com.alipay.mobile.quinox.LauncherActivity"
+        image="wimetor"/>
+
+    <AppIcon
+        name="miuitool.xfy9326.getupdateurl/miuitool.xfy9326.getupdateurl.MainActivity"
+        image="miuitool_updateurl"/>
+
+    <AppIcon
+        name="cn.nubia.neoshare/cn.nubia.neoshare.login.AppStartActivity"
+        image="nubia_neoshare"/>
+
+    <AppIcon
+        name="cn.nubia.bbs/cn.nubia.bbs.ui.activity.WelcomeActivity"
+        image="nubia_bbs"/>
+
+    <AppIcon
+        name="com.coloros.wallet/com.coloros.wallet.WalletIndexActivity"
+        image="wallet"/>
+
+    <AppIcon
+        name="io.voodoo.paper2/io.voodoo.paper2.UnityPlayerActivity"
+        image="paper2"/>
+
+    <AppIcon
+        name="cn.ifengge.passport/cn.ifengge.passport.VerifyActivityEntry"
+        image="passport"/>
+
+    <AppIcon
+        name="com.edward.iconpack.pelmix/com.com.edward.iconpack.pelmix.activities.SplashActivity"
+        image="pelmix_iconpack"/>
+
+    <AppIcon
+        name="com.kieronquinn.app.pixellaunchermods/com.kieronquinn.app.pixellaunchermods.activities.MainActivity"
+        image="pixel_launcher_mods"/>
+
+    <AppIcon
+        name="com.perol.asdpl.pixivez/com.perol.asdpl.pixivez.normal"
+        image="pixivez"/>
+
+    <AppIcon
+        name="photo.editor.polarr/co.polarr.polarrphotoeditor.EditorActivity"
+        image="polarr"/>
+
+    <AppIcon
+        name="com.soundcloud.android/com.soundcloud.android.main.LauncherActivity"
+        image="soundcloud"/>
+
+    <AppIcon
+        name="com.miking.steam/com.androlua.Welcome"
+        image="steam_go"/>
+
+    <AppIcon
+        name="io.stellio.player/io.stellio.player.MainActivity"
+        image="stellio_player"/>
+
+    <AppIcon
+        name="com.getsurfboard/com.getsurfboard.activity.MainActivity"
+        image="surfboard"/>
+
+    <AppIcon
+        name="com.ted.android/com.ted.android.view.splash.SplashActivity"
+        image="ted"/>
+
+    <AppIcon
+        name="com.termux/com.termux.app.TermuxActivity"
+        image="termux"/>
+
+    <AppIcon
+        name="com.geminiwen.app.arrow/com.geminiwen.app.arrow.ui.FrameActivity"
+        image="time"/>
+
+    <AppIcon
+        name="com.bbk.cloud/com.bbk.cloud.activities.BBKCloudHomeScreen"
+        image="bbk_cloud"/>
+
+    <AppIcon
+        name="com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity"
+        image="youtube_vanced"/>
+
+    <AppIcon
+        name="tw.com.gamer.android.activecenter/tw.com.gamer.android.bahamut.BahamutActivity"
+        image="bahamut"/>
+
 </Theme>
