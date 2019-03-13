@@ -5631,4 +5631,116 @@
         name="tw.com.gamer.android.activecenter/tw.com.gamer.android.bahamut.BahamutActivity"
         image="bahamut"/>
 
+    <AppIcon
+        name="com.huawei.browser/com.huawei.browser.Main"
+        image="browser"/>
+
+    <AppIcon
+        name="com.miHoYo.HSoDv2Original/com.onevcat.uniwebview.AndroidPlugin"
+        image="bhyx2"/>
+
+    <AppIcon
+        name="cn.nubia.neostore/cn.nubia.neostore.ui.start.AppStartActivity"
+        image="appstore"/>
+
+    <AppIcon
+        name="cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.android.camera/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="cn.nubia.deskclock.preset/cn.nubia.deskclock.DeskClock"
+        image="clock"/>
+
+    <AppIcon
+        name="cn.nubia.gallery3d/cn.nubia.gallery3d.app.Gallery"
+        image="gallery"/>
+
+    <AppIcon
+        name="cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity"
+        image="mms"/>
+
+    <AppIcon
+        name="ru.Unbzcqyv.tXZmaoaas/com.lp.MainActivityOriginal"
+        image="lucky_patcher"/>
+
+    <AppIcon
+        name="com.downloading.main.baiduyundownloae/com.downloading.main.baiduyundownload.ui.S"
+        image="village"/>
+
+    <AppIcon
+        name="com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity"
+        image="cam_scanner"/>
+
+    <AppIcon
+        name="com.amahua.ompimdrt/com.mh.movie.core.mvp.ui.activity.SplashActivity"
+        image="mahua_movie"/>
+
+    <AppIcon
+        name="com.bilibili.comic/com.bilibili.comic.splash.view.activity.SplashActivity"
+        image="bilibili_comic"/>
+
+    <AppIcon
+        name="com.forms/com.forms.start.ActStart"
+        image="icbc_forms"/>
+
+    <AppIcon
+        name="com.yitong.cd.mbank.android/com.yitong.cd.mbank.android.activity.ManagerActivity"
+        image="cd_mbank"/>
+
+    <AppIcon
+        name="com.ubisoft.accovenant/com.bhvr.listenableUnityPlayerActivity.ListenableUnityPlayerActivity"
+        image="assassins_creed_rebellion"/>
+
+    <AppIcon
+        name="com.kuangxiangciweimao.novel/com.kuangxiangciweimao.novel.activity.WelcomeActivity"
+        image="ciweimao"/>
+
+    <AppIcon
+        name="com.diguayouxi/com.diguayouxi.ui.FirstActivity"
+        image="diguayouxi"/>
+
+    <AppIcon
+        name="com.tencent.mp/com.tencent.mp.feature.launcher.ui.LauncherActivity"
+        image="tencent_mp"/>
+
+    <AppIcon
+        name="com.naver.linewebtoon.cn/com.naver.linewebtoon.splash.SplashActivity"
+        image="linewebtoon"/>
+
+    <AppIcon
+        name="com.shuodao.toxic/com.shuodao.toxic.activity.LaunchActivity"
+        image="toxic"/>
+
+    <AppIcon
+        name="com.theinitium.news/com.theinitium.news.ui.StartActivity"
+        image="theinitium_news"/>
+
+    <AppIcon
+        name="com.soufun.app/com.soufun.app.activity.MainSplashActivity"
+        image="soufun"/>
+
+    <AppIcon
+        name="com.netease.frxy/com.netease.frxy.Launcher"
+        image="netease_frxy"/>
+
+    <AppIcon
+        name="com.eilojiang/com.eilojiang.MainActivity"
+        image="eilojiang"/>
+
+    <AppIcon
+        name="com.icbc.elife/com.icbc.elife.LoadingActivity"
+        image="icbc_elife"/>
+
+    <AppIcon
+        name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+        image="google_magazines"/>
+
 </Theme>

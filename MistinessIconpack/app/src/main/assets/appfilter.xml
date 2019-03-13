@@ -5600,4 +5600,116 @@
         component="ComponentInfo{tw.com.gamer.android.activecenter/tw.com.gamer.android.bahamut.BahamutActivity}"
         drawable="bahamut"/>
 
+    <item
+        component="ComponentInfo{com.huawei.browser/com.huawei.browser.Main}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.HSoDv2Original/com.onevcat.uniwebview.AndroidPlugin}"
+        drawable="bhyx2"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.neostore/cn.nubia.neostore.ui.start.AppStartActivity}"
+        drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.calculator2.preset/cn.nubia.calculator2.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.deskclock.preset/cn.nubia.deskclock.DeskClock}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.gallery3d/cn.nubia.gallery3d.app.Gallery}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.mms/cn.nubia.mms.tab.MmsMainActivity}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{ru.Unbzcqyv.tXZmaoaas/com.lp.MainActivityOriginal}"
+        drawable="lucky_patcher"/>
+
+    <item
+        component="ComponentInfo{com.downloading.main.baiduyundownloae/com.downloading.main.baiduyundownload.ui.S}"
+        drawable="village"/>
+
+    <item
+        component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}"
+        drawable="cam_scanner"/>
+
+    <item
+        component="ComponentInfo{com.amahua.ompimdrt/com.mh.movie.core.mvp.ui.activity.SplashActivity}"
+        drawable="mahua_movie"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.comic/com.bilibili.comic.splash.view.activity.SplashActivity}"
+        drawable="bilibili_comic"/>
+
+    <item
+        component="ComponentInfo{com.forms/com.forms.start.ActStart}"
+        drawable="icbc_forms"/>
+
+    <item
+        component="ComponentInfo{com.yitong.cd.mbank.android/com.yitong.cd.mbank.android.activity.ManagerActivity}"
+        drawable="cd_mbank"/>
+
+    <item
+        component="ComponentInfo{com.ubisoft.accovenant/com.bhvr.listenableUnityPlayerActivity.ListenableUnityPlayerActivity}"
+        drawable="assassins_creed_rebellion"/>
+
+    <item
+        component="ComponentInfo{com.kuangxiangciweimao.novel/com.kuangxiangciweimao.novel.activity.WelcomeActivity}"
+        drawable="ciweimao"/>
+
+    <item
+        component="ComponentInfo{com.diguayouxi/com.diguayouxi.ui.FirstActivity}"
+        drawable="diguayouxi"/>
+
+    <item
+        component="ComponentInfo{com.tencent.mp/com.tencent.mp.feature.launcher.ui.LauncherActivity}"
+        drawable="tencent_mp"/>
+
+    <item
+        component="ComponentInfo{com.naver.linewebtoon.cn/com.naver.linewebtoon.splash.SplashActivity}"
+        drawable="linewebtoon"/>
+
+    <item
+        component="ComponentInfo{com.shuodao.toxic/com.shuodao.toxic.activity.LaunchActivity}"
+        drawable="toxic"/>
+
+    <item
+        component="ComponentInfo{com.theinitium.news/com.theinitium.news.ui.StartActivity}"
+        drawable="theinitium_news"/>
+
+    <item
+        component="ComponentInfo{com.soufun.app/com.soufun.app.activity.MainSplashActivity}"
+        drawable="soufun"/>
+
+    <item
+        component="ComponentInfo{com.netease.frxy/com.netease.frxy.Launcher}"
+        drawable="netease_frxy"/>
+
+    <item
+        component="ComponentInfo{com.eilojiang/com.eilojiang.MainActivity}"
+        drawable="eilojiang"/>
+
+    <item
+        component="ComponentInfo{com.icbc.elife/com.icbc.elife.LoadingActivity}"
+        drawable="icbc_elife"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
+        drawable="google_magazines"/>
+
 </resources>

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>71</version>
+    <version>72</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -79,6 +79,7 @@
     <item drawable="article_video"/>
     <item drawable="asphalt8"/>
     <item drawable="asphalt9"/>
+    <item drawable="assassins_creed_rebellion"/>
     <item drawable="asus_aihome"/>
     <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
@@ -124,6 +125,7 @@
     <item drawable="bilibili_alt"/>
     <item drawable="bilibili_blue"/>
     <item drawable="bilibili_blue_alt"/>
+    <item drawable="bilibili_comic"/>
     <item drawable="bingdic"/>
     <item drawable="bingo_candy"/>
     <item drawable="bit"/>
@@ -163,6 +165,7 @@
     <item drawable="caocao"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
+    <item drawable="cd_mbank"/>
     <item drawable="cdel"/>
     <item drawable="cebbank"/>
     <item drawable="cebbank_creditcard"/>
@@ -182,6 +185,7 @@
     <item drawable="circlemi_iconpack"/>
     <item drawable="citic"/>
     <item drawable="citic_card"/>
+    <item drawable="ciweimao"/>
     <item drawable="cjkcb"/>
     <item drawable="clash_of_clans"/>
     <item drawable="clashroyale"/>
@@ -262,6 +266,7 @@
     <item drawable="didapinche"/>
     <item drawable="didi"/>
     <item drawable="digit"/>
+    <item drawable="diguayouxi"/>
     <item drawable="dingtalk"/>
     <item drawable="dir"/>
     <item drawable="diyidan"/>
@@ -300,6 +305,7 @@
     <item drawable="edge_lighting"/>
     <item drawable="edgeaction"/>
     <item drawable="ehviewer"/>
+    <item drawable="eilojiang"/>
     <item drawable="ele"/>
     <item drawable="elong"/>
     <item drawable="email"/>
@@ -399,6 +405,7 @@
     <item drawable="google_gms"/>
     <item drawable="google_keep"/>
     <item drawable="google_keep_alt"/>
+    <item drawable="google_magazines"/>
     <item drawable="google_maps"/>
     <item drawable="google_music"/>
     <item drawable="google_photos"/>
@@ -464,6 +471,8 @@
     <item drawable="huxiu"/>
     <item drawable="huya"/>
     <item drawable="icbc"/>
+    <item drawable="icbc_elife"/>
+    <item drawable="icbc_forms"/>
     <item drawable="icbc_im"/>
     <item drawable="icebox"/>
     <item drawable="icontrol"/>
@@ -554,6 +563,7 @@
     <item drawable="lightroom_alt"/>
     <item drawable="line"/>
     <item drawable="lineicons2_iconpack"/>
+    <item drawable="linewebtoon"/>
     <item drawable="linkedin"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
@@ -680,6 +690,7 @@
     <item drawable="nba2k19_alt"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
+    <item drawable="netease_frxy"/>
     <item drawable="netease_gl"/>
     <item drawable="netease_heartstone"/>
     <item drawable="netease_kaola"/>
@@ -923,6 +934,7 @@
     <item drawable="sony_store_china"/>
     <item drawable="sony_store_china_alt"/>
     <item drawable="sorcery"/>
+    <item drawable="soufun"/>
     <item drawable="souhu_video"/>
     <item drawable="soul"/>
     <item drawable="sound_recorder"/>
@@ -993,6 +1005,7 @@
     <item drawable="tencent_live"/>
     <item drawable="tencent_live_lite"/>
     <item drawable="tencent_map"/>
+    <item drawable="tencent_mp"/>
     <item drawable="tencent_news"/>
     <item drawable="tencent_news_lite"/>
     <item drawable="tencent_nntg"/>
@@ -1015,6 +1028,7 @@
     <item drawable="tenten"/>
     <item drawable="termux"/>
     <item drawable="termux_alt"/>
+    <item drawable="theinitium_news"/>
     <item drawable="theme"/>
     <item drawable="theme_alt"/>
     <item drawable="thestore"/>
@@ -1037,6 +1051,7 @@
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
     <item drawable="total_launcher"/>
+    <item drawable="toxic"/>
     <item drawable="tplink"/>
     <item drawable="trace"/>
     <item drawable="transparent_wallpaper"/>

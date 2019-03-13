@@ -15,8 +15,7 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.4.4" />
-    <item text="新增图标31枚" />
-    <item text="重绘图标2枚" />
+    <version title="v1.4.5" />
+    <item text="新增图标15枚" />
     <item text="其他修复和改进" />
 </resources>

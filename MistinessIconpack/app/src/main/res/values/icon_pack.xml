@@ -57,37 +57,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>anki</item>
-        <item>applock</item>
-        <item>cloudaccelerator</item>
-        <item>glow</item>
-        <item>hellotalk</item>
-        <item>langenius</item>
-        <item>line</item>
-        <item>measure</item>
-        <item>wimetor</item>
-        <item>miuitool_updateurl</item>
-        <item>passport</item>
-        <item>pelmix_iconpack</item>
-        <item>pixel_launcher_mods</item>
-        <item>pixivez</item>
-        <item>polarr</item>
-        <item>soundcloud</item>
-        <item>steam_go</item>
-        <item>steam_go_alt</item>
-        <item>stellio_player</item>
-        <item>surfboard</item>
-        <item>ted</item>
-        <item>termux</item>
-        <item>termux_alt</item>
-        <item>time</item>
-        <item>youtube_vanced</item>
-        <item>bahamut</item>
-        <item>cytus2</item>
-        <item>paper2</item>
-        <item>nubia_neoshare</item>
-        <item>nubia_bbs</item>
-        <item>bbk_cloud</item>
+        <item>bilibili_comic</item>
+        <item>icbc_forms</item>
+        <item>cd_mbank</item>
+        <item>ciweimao</item>
+        <item>diguayouxi</item>
+        <item>tencent_mp</item>
+        <item>linewebtoon</item>
+        <item>toxic</item>
+        <item>theinitium_news</item>
+        <item>soufun</item>
+        <item>eilojiang</item>
+        <item>icbc_elife</item>
+        <item>google_magazines</item>
+        <item>assassins_creed_rebellion</item>
+        <item>netease_frxy</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1085,6 +1069,19 @@
         <item>time</item>
         <item>youtube_vanced</item>
         <item>bahamut</item>
+        <item>bilibili_comic</item>
+        <item>icbc_forms</item>
+        <item>cd_mbank</item>
+        <item>ciweimao</item>
+        <item>diguayouxi</item>
+        <item>tencent_mp</item>
+        <item>linewebtoon</item>
+        <item>toxic</item>
+        <item>theinitium_news</item>
+        <item>soufun</item>
+        <item>eilojiang</item>
+        <item>icbc_elife</item>
+        <item>google_magazines</item>
     </string-array>
 
     <string-array name="game">
@@ -1131,6 +1128,8 @@
         <item>kwai_ddz</item>
         <item>cytus2</item>
         <item>paper2</item>
+        <item>assassins_creed_rebellion</item>
+        <item>netease_frxy</item>
     </string-array>
 
     <string-array name="basic">

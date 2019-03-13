@@ -5625,4 +5625,116 @@
         class="tw.com.gamer.android.bahamut.BahamutActivity"
         name="bahamut"/>
 
+    <item
+        class="com.huawei.browser.Main"
+        name="browser"/>
+
+    <item
+        class="com.onevcat.uniwebview.AndroidPlugin"
+        name="bhyx2"/>
+
+    <item
+        class="cn.nubia.neostore.ui.start.AppStartActivity"
+        name="appstore"/>
+
+    <item
+        class="cn.nubia.calculator2.Calculator"
+        name="calculator"/>
+
+    <item
+        class="cn.nubia.calendar.AllInOneActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="cn.nubia.deskclock.DeskClock"
+        name="clock"/>
+
+    <item
+        class="cn.nubia.gallery3d.app.Gallery"
+        name="gallery"/>
+
+    <item
+        class="cn.nubia.mms.tab.MmsMainActivity"
+        name="mms"/>
+
+    <item
+        class="com.lp.MainActivityOriginal"
+        name="lucky_patcher"/>
+
+    <item
+        class="com.downloading.main.baiduyundownload.ui.S"
+        name="village"/>
+
+    <item
+        class="com.intsig.camscanner.WelcomeActivity"
+        name="cam_scanner"/>
+
+    <item
+        class="com.mh.movie.core.mvp.ui.activity.SplashActivity"
+        name="mahua_movie"/>
+
+    <item
+        class="com.bilibili.comic.splash.view.activity.SplashActivity"
+        name="bilibili_comic"/>
+
+    <item
+        class="com.forms.start.ActStart"
+        name="icbc_forms"/>
+
+    <item
+        class="com.yitong.cd.mbank.android.activity.ManagerActivity"
+        name="cd_mbank"/>
+
+    <item
+        class="com.bhvr.listenableUnityPlayerActivity.ListenableUnityPlayerActivity"
+        name="assassins_creed_rebellion"/>
+
+    <item
+        class="com.kuangxiangciweimao.novel.activity.WelcomeActivity"
+        name="ciweimao"/>
+
+    <item
+        class="com.diguayouxi.ui.FirstActivity"
+        name="diguayouxi"/>
+
+    <item
+        class="com.tencent.mp.feature.launcher.ui.LauncherActivity"
+        name="tencent_mp"/>
+
+    <item
+        class="com.naver.linewebtoon.splash.SplashActivity"
+        name="linewebtoon"/>
+
+    <item
+        class="com.shuodao.toxic.activity.LaunchActivity"
+        name="toxic"/>
+
+    <item
+        class="com.theinitium.news.ui.StartActivity"
+        name="theinitium_news"/>
+
+    <item
+        class="com.soufun.app.activity.MainSplashActivity"
+        name="soufun"/>
+
+    <item
+        class="com.netease.frxy.Launcher"
+        name="netease_frxy"/>
+
+    <item
+        class="com.eilojiang.MainActivity"
+        name="eilojiang"/>
+
+    <item
+        class="com.icbc.elife.LoadingActivity"
+        name="icbc_elife"/>
+
+    <item
+        class="com.google.apps.dots.android.app.activity.CurrentsStartActivity"
+        name="google_magazines"/>
+
 </appmap>
