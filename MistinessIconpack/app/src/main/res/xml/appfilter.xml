@@ -5712,4 +5712,64 @@
         component="ComponentInfo{com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity}"
         drawable="google_magazines"/>
 
+    <item
+        component="ComponentInfo{com.actiondash.playstore/actiondash.MainActivity}"
+        drawable="actiondash"/>
+
+    <item
+        component="ComponentInfo{com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity}"
+        drawable="drawing_explorer"/>
+
+    <item
+        component="ComponentInfo{com.cgv.cn.movie/com.cgv.cn.movie.main.FlashScreen}"
+        drawable="cgv_movie"/>
+
+    <item
+        component="ComponentInfo{com.lanlan.combiconpack/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="comb_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.fiistudio.fiinote/com.fiistudio.fiinote.editor.FiiNote}"
+        drawable="fiinote"/>
+
+    <item
+        component="ComponentInfo{eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher}"
+        drawable="pokemmo"/>
+
+    <item
+        component="ComponentInfo{com.boohee.one/com.boohee.one.ui.SplashActivity}"
+        drawable="boohee"/>
+
+    <item
+        component="ComponentInfo{com.babytree.apps.pregnancy/com.babytree.apps.pregnancy.MainActivity}"
+        drawable="babytree"/>
+
+    <item
+        component="ComponentInfo{com.cliff/com.cliff.geeboo.core.splash.view.SplashActivity}"
+        drawable="cliff"/>
+
+    <item
+        component="ComponentInfo{cn.damai/cn.damai.launcher.splash.SplashMainActivity}"
+        drawable="damai"/>
+
+    <item
+        component="ComponentInfo{com.ss.android.auto/com.ss.android.auto.activity.SplashActivity}"
+        drawable="dongchedi"/>
+
+    <item
+        component="ComponentInfo{com.dushe.movie/com.dushe.movie.ui.login.SplashActivity}"
+        drawable="dushe_movie"/>
+
+    <item
+        component="ComponentInfo{com.wm.dmall/com.wm.dmall.NORMAL}"
+        drawable="dmall"/>
+
+    <item
+        component="ComponentInfo{com.kk.poem/com.kk.poem.activity.SplashActivity}"
+        drawable="kk_poem"/>
+
+    <item
+        component="ComponentInfo{com.meiriyiwen.app/com.meiriyiwen.app.MainActivity}"
+        drawable="meiriyiwen"/>
+
 </resources>

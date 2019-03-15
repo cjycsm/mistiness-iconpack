@@ -5743,4 +5743,64 @@
         name="com.google.android.apps.magazines/com.google.apps.dots.android.app.activity.CurrentsStartActivity"
         image="google_magazines"/>
 
+    <AppIcon
+        name="com.actiondash.playstore/actiondash.MainActivity"
+        image="actiondash"/>
+
+    <AppIcon
+        name="com.glodon.drawingexplorer/com.glodon.drawingexplorer.activity.GSplashActivity"
+        image="drawing_explorer"/>
+
+    <AppIcon
+        name="com.cgv.cn.movie/com.cgv.cn.movie.main.FlashScreen"
+        image="cgv_movie"/>
+
+    <AppIcon
+        name="com.lanlan.combiconpack/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="comb_iconpack"/>
+
+    <AppIcon
+        name="com.fiistudio.fiinote/com.fiistudio.fiinote.editor.FiiNote"
+        image="fiinote"/>
+
+    <AppIcon
+        name="eu.pokemmo.client/eu.pokemmo.client.AndroidLauncher"
+        image="pokemmo"/>
+
+    <AppIcon
+        name="com.boohee.one/com.boohee.one.ui.SplashActivity"
+        image="boohee"/>
+
+    <AppIcon
+        name="com.babytree.apps.pregnancy/com.babytree.apps.pregnancy.MainActivity"
+        image="babytree"/>
+
+    <AppIcon
+        name="com.cliff/com.cliff.geeboo.core.splash.view.SplashActivity"
+        image="cliff"/>
+
+    <AppIcon
+        name="cn.damai/cn.damai.launcher.splash.SplashMainActivity"
+        image="damai"/>
+
+    <AppIcon
+        name="com.ss.android.auto/com.ss.android.auto.activity.SplashActivity"
+        image="dongchedi"/>
+
+    <AppIcon
+        name="com.dushe.movie/com.dushe.movie.ui.login.SplashActivity"
+        image="dushe_movie"/>
+
+    <AppIcon
+        name="com.wm.dmall/com.wm.dmall.NORMAL"
+        image="dmall"/>
+
+    <AppIcon
+        name="com.kk.poem/com.kk.poem.activity.SplashActivity"
+        image="kk_poem"/>
+
+    <AppIcon
+        name="com.meiriyiwen.app/com.meiriyiwen.app.MainActivity"
+        image="meiriyiwen"/>
+
 </Theme>

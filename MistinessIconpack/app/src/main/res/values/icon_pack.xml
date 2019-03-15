@@ -57,26 +57,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>bilibili_comic</item>
-        <item>icbc_forms</item>
-        <item>cd_mbank</item>
-        <item>ciweimao</item>
-        <item>diguayouxi</item>
-        <item>tencent_mp</item>
-        <item>linewebtoon</item>
-        <item>toxic</item>
-        <item>theinitium_news</item>
-        <item>soufun</item>
-        <item>eilojiang</item>
-        <item>icbc_elife</item>
-        <item>google_magazines</item>
-        <item>assassins_creed_rebellion</item>
-        <item>netease_frxy</item>
+        <item>actiondash</item>
+        <item>drawing_explorer</item>
+        <item>cgv_movie</item>
+        <item>comb_iconpack</item>
+        <item>fiinote</item>
+        <item>pokemmo</item>
+        <item>boohee</item>
+        <item>babytree</item>
+        <item>cliff</item>
+        <item>damai</item>
+        <item>dongchedi</item>
+        <item>dushe_movie</item>
+        <item>dmall</item>
+        <item>kk_poem</item>
+        <item>meiriyiwen</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>wallet</item>
-        <item>gallery</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1082,6 +1081,21 @@
         <item>eilojiang</item>
         <item>icbc_elife</item>
         <item>google_magazines</item>
+        <item>actiondash</item>
+        <item>drawing_explorer</item>
+        <item>cgv_movie</item>
+        <item>comb_iconpack</item>
+        <item>fiinote</item>
+        <item>pokemmo</item>
+        <item>boohee</item>
+        <item>babytree</item>
+        <item>cliff</item>
+        <item>damai</item>
+        <item>dongchedi</item>
+        <item>dushe_movie</item>
+        <item>dmall</item>
+        <item>kk_poem</item>
+        <item>meiriyiwen</item>
     </string-array>
 
     <string-array name="game">

@@ -5737,4 +5737,64 @@
         class="com.google.apps.dots.android.app.activity.CurrentsStartActivity"
         name="google_magazines"/>
 
+    <item
+        class="actiondash.MainActivity"
+        name="actiondash"/>
+
+    <item
+        class="com.glodon.drawingexplorer.activity.GSplashActivity"
+        name="drawing_explorer"/>
+
+    <item
+        class="com.cgv.cn.movie.main.FlashScreen"
+        name="cgv_movie"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="comb_iconpack"/>
+
+    <item
+        class="com.fiistudio.fiinote.editor.FiiNote"
+        name="fiinote"/>
+
+    <item
+        class="eu.pokemmo.client.AndroidLauncher"
+        name="pokemmo"/>
+
+    <item
+        class="com.boohee.one.ui.SplashActivity"
+        name="boohee"/>
+
+    <item
+        class="com.babytree.apps.pregnancy.MainActivity"
+        name="babytree"/>
+
+    <item
+        class="com.cliff.geeboo.core.splash.view.SplashActivity"
+        name="cliff"/>
+
+    <item
+        class="cn.damai.launcher.splash.SplashMainActivity"
+        name="damai"/>
+
+    <item
+        class="com.ss.android.auto.activity.SplashActivity"
+        name="dongchedi"/>
+
+    <item
+        class="com.dushe.movie.ui.login.SplashActivity"
+        name="dushe_movie"/>
+
+    <item
+        class="com.wm.dmall.NORMAL"
+        name="dmall"/>
+
+    <item
+        class="com.kk.poem.activity.SplashActivity"
+        name="kk_poem"/>
+
+    <item
+        class="com.meiriyiwen.app.MainActivity"
+        name="meiriyiwen"/>
+
 </appmap>
