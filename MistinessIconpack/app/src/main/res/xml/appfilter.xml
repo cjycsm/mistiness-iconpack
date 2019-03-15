@@ -5772,4 +5772,64 @@
         component="ComponentInfo{com.meiriyiwen.app/com.meiriyiwen.app.MainActivity}"
         drawable="meiriyiwen"/>
 
+    <item
+        component="ComponentInfo{com.bdatu.geography/com.bdatu.geography.SplashActivity}"
+        drawable="geography"/>
+
+    <item
+        component="ComponentInfo{tw.com.gamer.android.bahamutim/tw.com.gamer.android.bahamutim.UserInitActivity}"
+        drawable="hahamutim"/>
+
+    <item
+        component="ComponentInfo{com.haier.uhome.uplus/com.haier.uhome.uplus.cms.presentation.welcome.presentation.WelcomeActivity}"
+        drawable="haier_uhome"/>
+
+    <item
+        component="ComponentInfo{com.hzhu.m/com.hzhu.m.ui.account.logo.LogoActivity}"
+        drawable="hzhu"/>
+
+    <item
+        component="ComponentInfo{com.xmcy.hykb/com.xmcy.hykb.app.ui.splash.SplashActivity}"
+        drawable="hykb"/>
+
+    <item
+        component="ComponentInfo{com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity}"
+        drawable="butter_camera"/>
+
+    <item
+        component="ComponentInfo{com.klcxkj.quzhixiaoyuan_hx/com.klcxkj.quzhixiaoyuan_hx.ui.SplashActivity}"
+        drawable="huiyou"/>
+
+    <item
+        component="ComponentInfo{com.hiwifi/com.hiwifi.gee.mvp.view.activity.splash.SplashActivity}"
+        drawable="hiwifi"/>
+
+    <item
+        component="ComponentInfo{com.wisedu.cpdaily/com.wisorg.wisedu.campus.activity.WelcomeActivity}"
+        drawable="cpdaily"/>
+
+    <item
+        component="ComponentInfo{com.jd.fanli/com.jd.fanli.login.activity.SplashActivity}"
+        drawable="jd_fanli"/>
+
+    <item
+        component="ComponentInfo{com.tencent.gamehelper.pg/com.tencent.gamehelper.ui.main.WelcomeActivity}"
+        drawable="tencent_gamehelper_pg"/>
+
+    <item
+        component="ComponentInfo{com.guxiaqiubai.jarvis/com.guxiaqiubai.jarvis.MainActivity}"
+        drawable="jarvis"/>
+
+    <item
+        component="ComponentInfo{com.kkptech.kkpsy/com.kkptech.kkpsy.view.activity.SplashActivity}"
+        drawable="kkp"/>
+
+    <item
+        component="ComponentInfo{com.kk.dict/com.kk.dict.activity.SplashActivity}"
+        drawable="kk_dict"/>
+
+    <item
+        component="ComponentInfo{com.kuaixia.download/com.kuaixia.download.activity.LaunchActivity}"
+        drawable="kuaixia"/>
+
 </resources>

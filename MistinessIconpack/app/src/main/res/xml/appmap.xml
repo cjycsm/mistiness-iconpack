@@ -5797,4 +5797,64 @@
         class="com.meiriyiwen.app.MainActivity"
         name="meiriyiwen"/>
 
+    <item
+        class="com.bdatu.geography.SplashActivity"
+        name="geography"/>
+
+    <item
+        class="tw.com.gamer.android.bahamutim.UserInitActivity"
+        name="hahamutim"/>
+
+    <item
+        class="com.haier.uhome.uplus.cms.presentation.welcome.presentation.WelcomeActivity"
+        name="haier_uhome"/>
+
+    <item
+        class="com.hzhu.m.ui.account.logo.LogoActivity"
+        name="hzhu"/>
+
+    <item
+        class="com.xmcy.hykb.app.ui.splash.SplashActivity"
+        name="hykb"/>
+
+    <item
+        class="com.by.butter.camera.splash.LauncherActivity"
+        name="butter_camera"/>
+
+    <item
+        class="com.klcxkj.quzhixiaoyuan_hx.ui.SplashActivity"
+        name="huiyou"/>
+
+    <item
+        class="com.hiwifi.gee.mvp.view.activity.splash.SplashActivity"
+        name="hiwifi"/>
+
+    <item
+        class="com.wisorg.wisedu.campus.activity.WelcomeActivity"
+        name="cpdaily"/>
+
+    <item
+        class="com.jd.fanli.login.activity.SplashActivity"
+        name="jd_fanli"/>
+
+    <item
+        class="com.tencent.gamehelper.ui.main.WelcomeActivity"
+        name="tencent_gamehelper_pg"/>
+
+    <item
+        class="com.guxiaqiubai.jarvis.MainActivity"
+        name="jarvis"/>
+
+    <item
+        class="com.kkptech.kkpsy.view.activity.SplashActivity"
+        name="kkp"/>
+
+    <item
+        class="com.kk.dict.activity.SplashActivity"
+        name="kk_dict"/>
+
+    <item
+        class="com.kuaixia.download.activity.LaunchActivity"
+        name="kuaixia"/>
+
 </appmap>

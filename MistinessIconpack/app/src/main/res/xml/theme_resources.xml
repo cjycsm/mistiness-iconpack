@@ -5803,4 +5803,64 @@
         name="com.meiriyiwen.app/com.meiriyiwen.app.MainActivity"
         image="meiriyiwen"/>
 
+    <AppIcon
+        name="com.bdatu.geography/com.bdatu.geography.SplashActivity"
+        image="geography"/>
+
+    <AppIcon
+        name="tw.com.gamer.android.bahamutim/tw.com.gamer.android.bahamutim.UserInitActivity"
+        image="hahamutim"/>
+
+    <AppIcon
+        name="com.haier.uhome.uplus/com.haier.uhome.uplus.cms.presentation.welcome.presentation.WelcomeActivity"
+        image="haier_uhome"/>
+
+    <AppIcon
+        name="com.hzhu.m/com.hzhu.m.ui.account.logo.LogoActivity"
+        image="hzhu"/>
+
+    <AppIcon
+        name="com.xmcy.hykb/com.xmcy.hykb.app.ui.splash.SplashActivity"
+        image="hykb"/>
+
+    <AppIcon
+        name="com.by.butter.camera/com.by.butter.camera.splash.LauncherActivity"
+        image="butter_camera"/>
+
+    <AppIcon
+        name="com.klcxkj.quzhixiaoyuan_hx/com.klcxkj.quzhixiaoyuan_hx.ui.SplashActivity"
+        image="huiyou"/>
+
+    <AppIcon
+        name="com.hiwifi/com.hiwifi.gee.mvp.view.activity.splash.SplashActivity"
+        image="hiwifi"/>
+
+    <AppIcon
+        name="com.wisedu.cpdaily/com.wisorg.wisedu.campus.activity.WelcomeActivity"
+        image="cpdaily"/>
+
+    <AppIcon
+        name="com.jd.fanli/com.jd.fanli.login.activity.SplashActivity"
+        image="jd_fanli"/>
+
+    <AppIcon
+        name="com.tencent.gamehelper.pg/com.tencent.gamehelper.ui.main.WelcomeActivity"
+        image="tencent_gamehelper_pg"/>
+
+    <AppIcon
+        name="com.guxiaqiubai.jarvis/com.guxiaqiubai.jarvis.MainActivity"
+        image="jarvis"/>
+
+    <AppIcon
+        name="com.kkptech.kkpsy/com.kkptech.kkpsy.view.activity.SplashActivity"
+        image="kkp"/>
+
+    <AppIcon
+        name="com.kk.dict/com.kk.dict.activity.SplashActivity"
+        image="kk_dict"/>
+
+    <AppIcon
+        name="com.kuaixia.download/com.kuaixia.download.activity.LaunchActivity"
+        image="kuaixia"/>
+
 </Theme>

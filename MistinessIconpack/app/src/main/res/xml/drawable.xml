@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>73</version>
+    <version>74</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -153,6 +153,7 @@
     <item drawable="bullet_messenger_new"/>
     <item drawable="busteanew"/>
     <item drawable="busybox"/>
+    <item drawable="butter_camera"/>
     <item drawable="byfen"/>
     <item drawable="cainiao"/>
     <item drawable="caiyun_interpreter"/>
@@ -245,6 +246,7 @@
     <item drawable="copas"/>
     <item drawable="copas_alt"/>
     <item drawable="countdown"/>
+    <item drawable="cpdaily"/>
     <item drawable="cpu_z"/>
     <item drawable="cpwxw"/>
     <item drawable="crazy_music"/>
@@ -395,6 +397,7 @@
     <item drawable="geek_time"/>
     <item drawable="geely"/>
     <item drawable="gemini_iconpack"/>
+    <item drawable="geography"/>
     <item drawable="geometric_weather"/>
     <item drawable="gifpaser"/>
     <item drawable="glass"/>
@@ -435,6 +438,8 @@
     <item drawable="gtja"/>
     <item drawable="guokr"/>
     <item drawable="gyroscope"/>
+    <item drawable="hahamutim"/>
+    <item drawable="haier_uhome"/>
     <item drawable="handshaker"/>
     <item drawable="hanju"/>
     <item drawable="haodf"/>
@@ -454,6 +459,7 @@
     <item drawable="hi"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
+    <item drawable="hiwifi"/>
     <item drawable="hlddz"/>
     <item drawable="holi"/>
     <item drawable="homeinn"/>
@@ -473,6 +479,7 @@
     <item drawable="huawei_trustspace"/>
     <item drawable="huawei_voice_assistant"/>
     <item drawable="huawei_wings_ota"/>
+    <item drawable="huiyou"/>
     <item drawable="huluxia"/>
     <item drawable="hunantv"/>
     <item drawable="huoshan"/>
@@ -482,6 +489,8 @@
     <item drawable="hupu_shihuo"/>
     <item drawable="huxiu"/>
     <item drawable="huya"/>
+    <item drawable="hykb"/>
+    <item drawable="hzhu"/>
     <item drawable="icbc"/>
     <item drawable="icbc_elife"/>
     <item drawable="icbc_forms"/>
@@ -508,7 +517,9 @@
     <item drawable="ismart"/>
     <item drawable="itf_iconpack"/>
     <item drawable="ithome"/>
+    <item drawable="jarvis"/>
     <item drawable="javiewer"/>
+    <item drawable="jd_fanli"/>
     <item drawable="jd_jr"/>
     <item drawable="jd_jxj"/>
     <item drawable="jeejen"/>
@@ -535,13 +546,16 @@
     <item drawable="kingsoft"/>
     <item drawable="kitchen_stories"/>
     <item drawable="kitchen_stories_alt"/>
+    <item drawable="kk_dict"/>
     <item drawable="kk_poem"/>
+    <item drawable="kkp"/>
     <item drawable="kmplayerpro"/>
     <item drawable="knight"/>
     <item drawable="kuaikan_comic"/>
     <item drawable="kuaimao_video"/>
     <item drawable="kuaishou"/>
     <item drawable="kuaishou_nebula"/>
+    <item drawable="kuaixia"/>
     <item drawable="kuaiya"/>
     <item drawable="kugou"/>
     <item drawable="kustom_lockscreen"/>
@@ -1011,6 +1025,7 @@
     <item drawable="tencent_eim_alt"/>
     <item drawable="tencent_filemanager_new"/>
     <item drawable="tencent_filemanager_old"/>
+    <item drawable="tencent_gamehelper_pg"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
     <item drawable="tencent_gamehelper_speed"/>

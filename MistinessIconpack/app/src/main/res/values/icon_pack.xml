@@ -57,21 +57,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>actiondash</item>
-        <item>drawing_explorer</item>
-        <item>cgv_movie</item>
-        <item>comb_iconpack</item>
-        <item>fiinote</item>
-        <item>pokemmo</item>
-        <item>boohee</item>
-        <item>babytree</item>
-        <item>cliff</item>
-        <item>damai</item>
-        <item>dongchedi</item>
-        <item>dushe_movie</item>
-        <item>dmall</item>
-        <item>kk_poem</item>
-        <item>meiriyiwen</item>
+        <item>geography</item>
+        <item>hahamutim</item>
+        <item>haier_uhome</item>
+        <item>hzhu</item>
+        <item>hykb</item>
+        <item>butter_camera</item>
+        <item>huiyou</item>
+        <item>hiwifi</item>
+        <item>cpdaily</item>
+        <item>jd_fanli</item>
+        <item>tencent_gamehelper_pg</item>
+        <item>jarvis</item>
+        <item>kkp</item>
+        <item>kk_dict</item>
+        <item>kuaixia</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1096,6 +1096,21 @@
         <item>dmall</item>
         <item>kk_poem</item>
         <item>meiriyiwen</item>
+        <item>geography</item>
+        <item>hahamutim</item>
+        <item>haier_uhome</item>
+        <item>hzhu</item>
+        <item>hykb</item>
+        <item>butter_camera</item>
+        <item>huiyou</item>
+        <item>hiwifi</item>
+        <item>cpdaily</item>
+        <item>jd_fanli</item>
+        <item>tencent_gamehelper_pg</item>
+        <item>jarvis</item>
+        <item>kkp</item>
+        <item>kk_dict</item>
+        <item>kuaixia</item>
     </string-array>
 
     <string-array name="game">
