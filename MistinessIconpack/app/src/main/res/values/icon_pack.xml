@@ -57,21 +57,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>geography</item>
-        <item>hahamutim</item>
-        <item>haier_uhome</item>
-        <item>hzhu</item>
-        <item>hykb</item>
-        <item>butter_camera</item>
-        <item>huiyou</item>
-        <item>hiwifi</item>
-        <item>cpdaily</item>
-        <item>jd_fanli</item>
-        <item>tencent_gamehelper_pg</item>
-        <item>jarvis</item>
-        <item>kkp</item>
-        <item>kk_dict</item>
-        <item>kuaixia</item>
+        <item>landray_kkplus</item>
+        <item>mosoteach</item>
+        <item>ringtong</item>
+        <item>llss</item>
+        <item>maidanba</item>
+        <item>ting_en</item>
+        <item>jesson_meishi</item>
+        <item>puscene</item>
+        <item>cmbc_cc</item>
+        <item>niagara_launcher</item>
+        <item>nytimes_cn</item>
+        <item>pingan_bank</item>
+        <item>ll_iconpack</item>
+        <item>langrensha</item>
+        <item>fatego</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1111,6 +1111,19 @@
         <item>kkp</item>
         <item>kk_dict</item>
         <item>kuaixia</item>
+        <item>landray_kkplus</item>
+        <item>mosoteach</item>
+        <item>ringtong</item>
+        <item>llss</item>
+        <item>maidanba</item>
+        <item>ting_en</item>
+        <item>jesson_meishi</item>
+        <item>puscene</item>
+        <item>cmbc_cc</item>
+        <item>niagara_launcher</item>
+        <item>nytimes_cn</item>
+        <item>pingan_bank</item>
+        <item>ll_iconpack</item>
     </string-array>
 
     <string-array name="game">
@@ -1159,6 +1172,8 @@
         <item>paper2</item>
         <item>assassins_creed_rebellion</item>
         <item>netease_frxy</item>
+        <item>langrensha</item>
+        <item>fatego</item>
     </string-array>
 
     <string-array name="basic">

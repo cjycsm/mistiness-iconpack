@@ -2743,7 +2743,7 @@
 
     <item
         class="com.sonymobile.notes.dashboard.DashboardActivity"
-        name="note"/>
+        name="notes"/>
 
     <item
         class="com.android.dialer.DialtactsActivity"
@@ -5631,7 +5631,7 @@
 
     <item
         class="com.onevcat.uniwebview.AndroidPlugin"
-        name="bhyx2"/>
+        name="bhxy2"/>
 
     <item
         class="cn.nubia.neostore.ui.start.AppStartActivity"
@@ -5856,5 +5856,89 @@
     <item
         class="com.kuaixia.download.activity.LaunchActivity"
         name="kuaixia"/>
+
+    <item
+        class="com.mibridge.eweixin.commonUI.EntranceActivity"
+        name="landray_kkplus"/>
+
+    <item
+        class="com.mosoink.mosoteach.MainActivity"
+        name="mosoteach"/>
+
+    <item
+        class="com.c2vl.kgamebox.activity.LoadingActivity"
+        name="langrensha"/>
+
+    <item
+        class="com.shoujiduoduo.ringtone.activity.WelcomeActivity"
+        name="ringtong"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="llss"/>
+
+    <item
+        class="com.bankcomm.maidanba.activity.SplashActivity"
+        name="maidanba"/>
+
+    <item
+        class="com.eusoft.ting.ui.TabActivity"
+        name="ting_en"/>
+
+    <item
+        class="com.jesson.meishi.ui.main.SplashActivity"
+        name="jesson_meishi"/>
+
+    <item
+        class="com.puscene.client.activity.WelcomeActivity_"
+        name="puscene"/>
+
+    <item
+        class="com.cmbc.cc.mbank.module.main.MainActivity"
+        name="cmbc_cc"/>
+
+    <item
+        class="com.bilibili.fatego.UnityPlayerNativeActivity"
+        name="fatego"/>
+
+    <item
+        class="bitpit.launcher.ui.HomeActivity"
+        name="niagara_launcher"/>
+
+    <item
+        class="com.nytimes.cn.MainActivity"
+        name="nytimes_cn"/>
+
+    <item
+        class="com.pingan.pocketbank.splash.PALoadingActivity"
+        name="pingan_bank"/>
+
+    <item
+        class="com.by_syk.lib.nanoiconpack.MainActivity"
+        name="ll_iconpack"/>
+
+    <item
+        class="com.vivo.game.ui.LogoActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.android.notes.Notes"
+        name="notes"/>
+
+    <item
+        class="cn.dxy.android.aspirin.startup.StartupActivity"
+        name="dxy_aspirin"/>
+
+    <item
+        class="tv.douyu.control.activity.SplashActivity"
+        name="douyu"/>
+
+    <item
+        class="com.miui.video.global.app.LauncherActivity"
+        name="video"/>
+
+    <item
+        class="com.sonymobile.exactcalculator"
+        name="calculator"/>
 
 </appmap>

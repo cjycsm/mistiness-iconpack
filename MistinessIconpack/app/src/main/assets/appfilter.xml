@@ -2747,7 +2747,7 @@
 
     <item
         component="ComponentInfo{com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity}"
-        drawable="note"/>
+        drawable="notes"/>
 
     <item
         component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}"
@@ -5606,7 +5606,7 @@
 
     <item
         component="ComponentInfo{com.miHoYo.HSoDv2Original/com.onevcat.uniwebview.AndroidPlugin}"
-        drawable="bhyx2"/>
+        drawable="bhxy2"/>
 
     <item
         component="ComponentInfo{cn.nubia.neostore/cn.nubia.neostore.ui.start.AppStartActivity}"
@@ -5831,5 +5831,93 @@
     <item
         component="ComponentInfo{com.kuaixia.download/com.kuaixia.download.activity.LaunchActivity}"
         drawable="kuaixia"/>
+
+    <item
+        component="ComponentInfo{com.landray.kkplus/com.mibridge.eweixin.commonUI.EntranceActivity}"
+        drawable="landray_kkplus"/>
+
+    <item
+        component="ComponentInfo{com.mosoink.mosoteach/com.mosoink.mosoteach.MainActivity}"
+        drawable="mosoteach"/>
+
+    <item
+        component="ComponentInfo{com.c2vl.kgamebox/com.c2vl.kgamebox.activity.LoadingActivity}"
+        drawable="langrensha"/>
+
+    <item
+        component="ComponentInfo{com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.WelcomeActivity}"
+        drawable="ringtong"/>
+
+    <item
+        component="ComponentInfo{llss.fun/com.androlua.Welcome}"
+        drawable="llss"/>
+
+    <item
+        component="ComponentInfo{com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity}"
+        drawable="maidanba"/>
+
+    <item
+        component="ComponentInfo{com.eusoft.ting.en/com.eusoft.ting.ui.TabActivity}"
+        drawable="ting_en"/>
+
+    <item
+        component="ComponentInfo{com.qianyan2.ting.en/com.eusoft.ting.ui.TabActivity}"
+        drawable="ting_en"/>
+
+    <item
+        component="ComponentInfo{com.jesson.meishi/com.jesson.meishi.ui.main.SplashActivity}"
+        drawable="jesson_meishi"/>
+
+    <item
+        component="ComponentInfo{com.puscene.client/com.puscene.client.activity.WelcomeActivity_}"
+        drawable="puscene"/>
+
+    <item
+        component="ComponentInfo{com.cmbc.cc.mbank/com.cmbc.cc.mbank.module.main.MainActivity}"
+        drawable="cmbc_cc"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.fatego/com.bilibili.fatego.UnityPlayerNativeActivity}"
+        drawable="fatego"/>
+
+    <item
+        component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}"
+        drawable="niagara_launcher"/>
+
+    <item
+        component="ComponentInfo{com.nytimes.cn/com.nytimes.cn.MainActivity}"
+        drawable="nytimes_cn"/>
+
+    <item
+        component="ComponentInfo{com.pingan.paces.ccms/com.pingan.pocketbank.splash.PALoadingActivity}"
+        drawable="pingan_bank"/>
+
+    <item
+        component="ComponentInfo{com.mnoodle.lliconpack/com.by_syk.lib.nanoiconpack.MainActivity}"
+        drawable="ll_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.vivo.game/com.vivo.game.ui.LogoActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.android.notes/com.android.notes.Notes}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{cn.dxy.android.aspirin/cn.dxy.android.aspirin.startup.StartupActivity}"
+        drawable="dxy_aspirin"/>
+
+    <item
+        component="ComponentInfo{tv.douyu/tv.douyu.control.activity.SplashActivity}"
+        drawable="douyu"/>
+
+    <item
+        component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator}"
+        drawable="calculator"/>
 
 </resources>

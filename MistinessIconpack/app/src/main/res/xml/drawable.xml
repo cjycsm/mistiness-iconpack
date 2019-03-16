@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>74</version>
+    <version>75</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -204,6 +204,7 @@
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
     <item drawable="cmbc"/>
+    <item drawable="cmbc_cc"/>
     <item drawable="cmcc"/>
     <item drawable="cmcc_beijing"/>
     <item drawable="cmcc_chongqing"/>
@@ -348,6 +349,7 @@
     <item drawable="faloo"/>
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
+    <item drawable="fatego"/>
     <item drawable="feedback"/>
     <item drawable="feedback_alt"/>
     <item drawable="feendly"/>
@@ -523,6 +525,7 @@
     <item drawable="jd_jr"/>
     <item drawable="jd_jxj"/>
     <item drawable="jeejen"/>
+    <item drawable="jesson_meishi"/>
     <item drawable="jiakao"/>
     <item drawable="jianshu"/>
     <item drawable="jiemian"/>
@@ -565,8 +568,10 @@
     <item drawable="kwai_ddz"/>
     <item drawable="la_systemtoolbox"/>
     <item drawable="lagou"/>
+    <item drawable="landray_kkplus"/>
     <item drawable="lang_easy_lexis"/>
     <item drawable="langenius"/>
+    <item drawable="langrensha"/>
     <item drawable="lanqiudi"/>
     <item drawable="lantern"/>
     <item drawable="lanzou"/>
@@ -594,6 +599,8 @@
     <item drawable="linkedin"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
+    <item drawable="ll_iconpack"/>
+    <item drawable="llss"/>
     <item drawable="lofter"/>
     <item drawable="long_screenshot"/>
     <item drawable="lonicera"/>
@@ -613,6 +620,7 @@
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
     <item drawable="mahua_movie"/>
+    <item drawable="maidanba"/>
     <item drawable="maimai"/>
     <item drawable="maimomo"/>
     <item drawable="man_camera"/>
@@ -694,6 +702,7 @@
     <item drawable="monkeybook"/>
     <item drawable="moonreader"/>
     <item drawable="morefan"/>
+    <item drawable="mosoteach"/>
     <item drawable="motoband"/>
     <item drawable="motoband_alt"/>
     <item drawable="mouse"/>
@@ -736,6 +745,7 @@
     <item drawable="netease_yanxuan"/>
     <item drawable="netflix"/>
     <item drawable="nga"/>
+    <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
     <item drawable="ninegame"/>
     <item drawable="nokia_voice_assistant"/>
@@ -748,6 +758,7 @@
     <item drawable="nubia_neoshare"/>
     <item drawable="nutstore"/>
     <item drawable="nutstore_alt"/>
+    <item drawable="nytimes_cn"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="ofo"/>
@@ -790,6 +801,7 @@
     <item drawable="picsart"/>
     <item drawable="pieplus"/>
     <item drawable="pinduoduo"/>
+    <item drawable="pingan_bank"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
     <item drawable="pixel_launcher_mods"/>
@@ -827,6 +839,7 @@
     <item drawable="pure_weather"/>
     <item drawable="pure_writer"/>
     <item drawable="puretie"/>
+    <item drawable="puscene"/>
     <item drawable="qcloud"/>
     <item drawable="qdaily"/>
     <item drawable="qeebo_geek"/>
@@ -876,6 +889,7 @@
     <item drawable="retor_music"/>
     <item drawable="retouch"/>
     <item drawable="rewind"/>
+    <item drawable="ringtong"/>
     <item drawable="root_explore"/>
     <item drawable="round_corner"/>
     <item drawable="rrmj"/>
@@ -1074,6 +1088,7 @@
     <item drawable="timetable"/>
     <item drawable="timetree"/>
     <item drawable="timi"/>
+    <item drawable="ting_en"/>
     <item drawable="tingshu"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>

@@ -2749,7 +2749,7 @@
 
     <AppIcon
         name="com.sonymobile.notes/com.sonymobile.notes.dashboard.DashboardActivity"
-        image="note"/>
+        image="notes"/>
 
     <AppIcon
         name="com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity"
@@ -5637,7 +5637,7 @@
 
     <AppIcon
         name="com.miHoYo.HSoDv2Original/com.onevcat.uniwebview.AndroidPlugin"
-        image="bhyx2"/>
+        image="bhxy2"/>
 
     <AppIcon
         name="cn.nubia.neostore/cn.nubia.neostore.ui.start.AppStartActivity"
@@ -5862,5 +5862,93 @@
     <AppIcon
         name="com.kuaixia.download/com.kuaixia.download.activity.LaunchActivity"
         image="kuaixia"/>
+
+    <AppIcon
+        name="com.landray.kkplus/com.mibridge.eweixin.commonUI.EntranceActivity"
+        image="landray_kkplus"/>
+
+    <AppIcon
+        name="com.mosoink.mosoteach/com.mosoink.mosoteach.MainActivity"
+        image="mosoteach"/>
+
+    <AppIcon
+        name="com.c2vl.kgamebox/com.c2vl.kgamebox.activity.LoadingActivity"
+        image="langrensha"/>
+
+    <AppIcon
+        name="com.shoujiduoduo.ringtone/com.shoujiduoduo.ringtone.activity.WelcomeActivity"
+        image="ringtong"/>
+
+    <AppIcon
+        name="llss.fun/com.androlua.Welcome"
+        image="llss"/>
+
+    <AppIcon
+        name="com.bankcomm.maidanba/com.bankcomm.maidanba.activity.SplashActivity"
+        image="maidanba"/>
+
+    <AppIcon
+        name="com.eusoft.ting.en/com.eusoft.ting.ui.TabActivity"
+        image="ting_en"/>
+
+    <AppIcon
+        name="com.qianyan2.ting.en/com.eusoft.ting.ui.TabActivity"
+        image="ting_en"/>
+
+    <AppIcon
+        name="com.jesson.meishi/com.jesson.meishi.ui.main.SplashActivity"
+        image="jesson_meishi"/>
+
+    <AppIcon
+        name="com.puscene.client/com.puscene.client.activity.WelcomeActivity_"
+        image="puscene"/>
+
+    <AppIcon
+        name="com.cmbc.cc.mbank/com.cmbc.cc.mbank.module.main.MainActivity"
+        image="cmbc_cc"/>
+
+    <AppIcon
+        name="com.bilibili.fatego/com.bilibili.fatego.UnityPlayerNativeActivity"
+        image="fatego"/>
+
+    <AppIcon
+        name="bitpit.launcher/bitpit.launcher.ui.HomeActivity"
+        image="niagara_launcher"/>
+
+    <AppIcon
+        name="com.nytimes.cn/com.nytimes.cn.MainActivity"
+        image="nytimes_cn"/>
+
+    <AppIcon
+        name="com.pingan.paces.ccms/com.pingan.pocketbank.splash.PALoadingActivity"
+        image="pingan_bank"/>
+
+    <AppIcon
+        name="com.mnoodle.lliconpack/com.by_syk.lib.nanoiconpack.MainActivity"
+        image="ll_iconpack"/>
+
+    <AppIcon
+        name="com.vivo.game/com.vivo.game.ui.LogoActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.android.notes/com.android.notes.Notes"
+        image="notes"/>
+
+    <AppIcon
+        name="cn.dxy.android.aspirin/cn.dxy.android.aspirin.startup.StartupActivity"
+        image="dxy_aspirin"/>
+
+    <AppIcon
+        name="tv.douyu/tv.douyu.control.activity.SplashActivity"
+        image="douyu"/>
+
+    <AppIcon
+        name="com.miui.videoplayer/com.miui.video.global.app.LauncherActivity"
+        image="video"/>
+
+    <AppIcon
+        name="com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator"
+        image="calculator"/>
 
 </Theme>
