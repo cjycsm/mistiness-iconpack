@@ -5920,4 +5920,68 @@
         component="ComponentInfo{com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator}"
         drawable="calculator"/>
 
+    <item
+        component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}"
+        drawable="appsales"/>
+
+    <item
+        component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}"
+        drawable="blocker"/>
+
+    <item
+        component="ComponentInfo{com.supercell.brawlstars/com.supercell.brawlstars.GameApp}"
+        drawable="brawl_stars"/>
+
+    <item
+        component="ComponentInfo{com.theotino.chinadaily/com.theotino.chinadaily.CdAt}"
+        drawable="china_daily"/>
+
+    <item
+        component="ComponentInfo{pl.patrykgoworowski.cornieicons/pl.patrykgoworowski.cornieicons.MainActivity}"
+        drawable="cornie_icons"/>
+
+    <item
+        component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}"
+        drawable="evie_launcher"/>
+
+    <item
+        component="ComponentInfo{fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.MainActivity}"
+        drawable="fedilab"/>
+
+    <item
+        component="ComponentInfo{org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}"
+        drawable="firefox_rocket"/>
+
+    <item
+        component="ComponentInfo{cn.mozilla.rocket/org.mozilla.rocket.activity.MainActivity}"
+        drawable="firefox_rocket"/>
+
+    <item
+        component="ComponentInfo{com.linecorp.foodcamcn.android/com.linecorp.foodcam.android.camera.CameraActivity}"
+        drawable="foodie"/>
+
+    <item
+        component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}"
+        drawable="groupme"/>
+
+    <item
+        component="ComponentInfo{com.huawei.hisuite/com.huawei.hisuite.activity.MainActivity}"
+        drawable="huawei_hisuite"/>
+
+    <item
+        component="ComponentInfo{co.iristech.iris_mini/co.iristech.iris_mini.activity.ShadesActivity}"
+        drawable="iris_mini"/>
+
+    <item
+        component="ComponentInfo{com.journey.app/com.journey.app.SplashActivity}"
+        drawable="journey"/>
+
+    <item
+        component="ComponentInfo{com.vivo.agent/com.vivo.agent.view.activities.JoviHomeNewActivity}"
+        drawable="vivo_agent"/>
+
+    <item
+        component="ComponentInfo{com.lingsatuo.thieves/com.lingsatuo.thieves.MainActivity}"
+        drawable="musicone"/>
+
 </resources>

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>75</version>
+    <version>76</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -71,6 +71,7 @@
     <item drawable="apple_music"/>
     <item drawable="applock"/>
     <item drawable="appops"/>
+    <item drawable="appsales"/>
     <item drawable="appstore"/>
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
@@ -137,6 +138,7 @@
     <item drawable="bjnews"/>
     <item drawable="blackblub"/>
     <item drawable="bladeheart_ninja"/>
+    <item drawable="blocker"/>
     <item drawable="blued"/>
     <item drawable="bmap"/>
     <item drawable="boc"/>
@@ -145,6 +147,7 @@
     <item drawable="bosszhipin"/>
     <item drawable="brain_music"/>
     <item drawable="brakefield_painter"/>
+    <item drawable="brawl_stars"/>
     <item drawable="brevent"/>
     <item drawable="bridge_iconpack"/>
     <item drawable="browser"/>
@@ -178,6 +181,7 @@
     <item drawable="changba"/>
     <item drawable="chelaile"/>
     <item drawable="chengzivr"/>
+    <item drawable="china_daily"/>
     <item drawable="china_telecom"/>
     <item drawable="chinabus"/>
     <item drawable="chinabus_lieche"/>
@@ -246,6 +250,7 @@
     <item drawable="coolapk"/>
     <item drawable="copas"/>
     <item drawable="copas_alt"/>
+    <item drawable="cornie_icons"/>
     <item drawable="countdown"/>
     <item drawable="cpdaily"/>
     <item drawable="cpu_z"/>
@@ -335,6 +340,7 @@
     <item drawable="evernote"/>
     <item drawable="everphoto"/>
     <item drawable="everything_done"/>
+    <item drawable="evie_launcher"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_query"/>
@@ -350,6 +356,7 @@
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
     <item drawable="fatego"/>
+    <item drawable="fedilab"/>
     <item drawable="feedback"/>
     <item drawable="feedback_alt"/>
     <item drawable="feendly"/>
@@ -366,6 +373,7 @@
     <item drawable="fingerprint_pay"/>
     <item drawable="firebear"/>
     <item drawable="firefox"/>
+    <item drawable="firefox_rocket"/>
     <item drawable="fivehundredpx"/>
     <item drawable="flamingo"/>
     <item drawable="flight_manager"/>
@@ -377,6 +385,7 @@
     <item drawable="flyme_roamingpay"/>
     <item drawable="flyme_videoclips"/>
     <item drawable="font"/>
+    <item drawable="foodie"/>
     <item drawable="fooview"/>
     <item drawable="forest"/>
     <item drawable="fotor"/>
@@ -433,6 +442,7 @@
     <item drawable="google_wellbeing"/>
     <item drawable="gps_toolbox"/>
     <item drawable="greenify"/>
+    <item drawable="groupme"/>
     <item drawable="gspace"/>
     <item drawable="gsv"/>
     <item drawable="gsv_alt"/>
@@ -472,6 +482,7 @@
     <item drawable="huawei_fans"/>
     <item drawable="huawei_find_my_phone"/>
     <item drawable="huawei_health"/>
+    <item drawable="huawei_hisuite"/>
     <item drawable="huawei_hwireader"/>
     <item drawable="huawei_mw"/>
     <item drawable="huawei_notes"/>
@@ -516,6 +527,7 @@
     <item drawable="iplaymtg"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
+    <item drawable="iris_mini"/>
     <item drawable="ismart"/>
     <item drawable="itf_iconpack"/>
     <item drawable="ithome"/>
@@ -534,6 +546,7 @@
     <item drawable="jjwxc"/>
     <item drawable="joe_music"/>
     <item drawable="joi_player"/>
+    <item drawable="journey"/>
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kaoyan"/>
@@ -714,6 +727,7 @@
     <item drawable="music"/>
     <item drawable="music_man"/>
     <item drawable="music_tag_editor"/>
+    <item drawable="musicone"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
@@ -1130,6 +1144,7 @@
     <item drawable="viperfx1"/>
     <item drawable="viperfx2"/>
     <item drawable="vipshop"/>
+    <item drawable="vivo_agent"/>
     <item drawable="vivo_easyshare"/>
     <item drawable="vlc"/>
     <item drawable="volume_manager"/>

@@ -5951,4 +5951,68 @@
         name="com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator"
         image="calculator"/>
 
+    <AppIcon
+        name="net.tsapps.appsales/net.tsapps.appsales.MainActivity"
+        image="appsales"/>
+
+    <AppIcon
+        name="com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity"
+        image="blocker"/>
+
+    <AppIcon
+        name="com.supercell.brawlstars/com.supercell.brawlstars.GameApp"
+        image="brawl_stars"/>
+
+    <AppIcon
+        name="com.theotino.chinadaily/com.theotino.chinadaily.CdAt"
+        image="china_daily"/>
+
+    <AppIcon
+        name="pl.patrykgoworowski.cornieicons/pl.patrykgoworowski.cornieicons.MainActivity"
+        image="cornie_icons"/>
+
+    <AppIcon
+        name="is.shortcut/com.voxel.launcher3.Launcher"
+        image="evie_launcher"/>
+
+    <AppIcon
+        name="fr.gouv.etalab.mastodon/fr.gouv.etalab.mastodon.activities.MainActivity"
+        image="fedilab"/>
+
+    <AppIcon
+        name="org.mozilla.rocket/org.mozilla.rocket.activity.MainActivity"
+        image="firefox_rocket"/>
+
+    <AppIcon
+        name="cn.mozilla.rocket/org.mozilla.rocket.activity.MainActivity"
+        image="firefox_rocket"/>
+
+    <AppIcon
+        name="com.linecorp.foodcamcn.android/com.linecorp.foodcam.android.camera.CameraActivity"
+        image="foodie"/>
+
+    <AppIcon
+        name="com.groupme.android/com.groupme.android.HomeActivity"
+        image="groupme"/>
+
+    <AppIcon
+        name="com.huawei.hisuite/com.huawei.hisuite.activity.MainActivity"
+        image="huawei_hisuite"/>
+
+    <AppIcon
+        name="co.iristech.iris_mini/co.iristech.iris_mini.activity.ShadesActivity"
+        image="iris_mini"/>
+
+    <AppIcon
+        name="com.journey.app/com.journey.app.SplashActivity"
+        image="journey"/>
+
+    <AppIcon
+        name="com.vivo.agent/com.vivo.agent.view.activities.JoviHomeNewActivity"
+        image="vivo_agent"/>
+
+    <AppIcon
+        name="com.lingsatuo.thieves/com.lingsatuo.thieves.MainActivity"
+        image="musicone"/>
+
 </Theme>

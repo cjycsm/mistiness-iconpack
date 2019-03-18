@@ -57,21 +57,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>landray_kkplus</item>
-        <item>mosoteach</item>
-        <item>ringtong</item>
-        <item>llss</item>
-        <item>maidanba</item>
-        <item>ting_en</item>
-        <item>jesson_meishi</item>
-        <item>puscene</item>
-        <item>cmbc_cc</item>
-        <item>niagara_launcher</item>
-        <item>nytimes_cn</item>
-        <item>pingan_bank</item>
-        <item>ll_iconpack</item>
-        <item>langrensha</item>
-        <item>fatego</item>
+        <item>appsales</item>
+        <item>blocker</item>
+        <item>china_daily</item>
+        <item>cornie_icons</item>
+        <item>evie_launcher</item>
+        <item>fedilab</item>
+        <item>firefox_rocket</item>
+        <item>foodie</item>
+        <item>groupme</item>
+        <item>iris_mini</item>
+        <item>journey</item>
+        <item>musicone</item>
+        <item>brawl_stars</item>
+        <item>huawei_hisuite</item>
+        <item>vivo_agent</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1124,6 +1124,18 @@
         <item>nytimes_cn</item>
         <item>pingan_bank</item>
         <item>ll_iconpack</item>
+        <item>appsales</item>
+        <item>blocker</item>
+        <item>china_daily</item>
+        <item>cornie_icons</item>
+        <item>evie_launcher</item>
+        <item>fedilab</item>
+        <item>firefox_rocket</item>
+        <item>foodie</item>
+        <item>groupme</item>
+        <item>iris_mini</item>
+        <item>journey</item>
+        <item>musicone</item>
     </string-array>
 
     <string-array name="game">
@@ -1174,6 +1186,7 @@
         <item>netease_frxy</item>
         <item>langrensha</item>
         <item>fatego</item>
+        <item>brawl_stars</item>
     </string-array>
 
     <string-array name="basic">
@@ -1308,6 +1321,7 @@
         <item>huawei_fans</item>
         <item>huawei_hwireader</item>
         <item>huawei_ds</item>
+        <item>huawei_hisuite</item>
     </string-array>
 
     <string-array name="nokia">
@@ -1337,6 +1351,7 @@
     <string-array name="vivo">
         <item>vivo_easyshare</item>
         <item>bbk_cloud</item>
+        <item>vivo_agent</item>
     </string-array>
 
     <string-array name="sony">

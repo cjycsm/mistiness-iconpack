@@ -5941,4 +5941,64 @@
         class="com.sonymobile.exactcalculator"
         name="calculator"/>
 
+    <item
+        class="net.tsapps.appsales.MainActivity"
+        name="appsales"/>
+
+    <item
+        class="com.merxury.blocker.ui.home.HomeActivity"
+        name="blocker"/>
+
+    <item
+        class="com.supercell.brawlstars.GameApp"
+        name="brawl_stars"/>
+
+    <item
+        class="com.theotino.chinadaily.CdAt"
+        name="china_daily"/>
+
+    <item
+        class="pl.patrykgoworowski.cornieicons.MainActivity"
+        name="cornie_icons"/>
+
+    <item
+        class="com.voxel.launcher3.Launcher"
+        name="evie_launcher"/>
+
+    <item
+        class="fr.gouv.etalab.mastodon.activities.MainActivity"
+        name="fedilab"/>
+
+    <item
+        class="org.mozilla.rocket.activity.MainActivity"
+        name="firefox_rocket"/>
+
+    <item
+        class="com.linecorp.foodcam.android.camera.CameraActivity"
+        name="foodie"/>
+
+    <item
+        class="com.groupme.android.HomeActivity"
+        name="groupme"/>
+
+    <item
+        class="com.huawei.hisuite.activity.MainActivity"
+        name="huawei_hisuite"/>
+
+    <item
+        class="co.iristech.iris_mini.activity.ShadesActivity"
+        name="iris_mini"/>
+
+    <item
+        class="com.journey.app.SplashActivity"
+        name="journey"/>
+
+    <item
+        class="com.vivo.agent.view.activities.JoviHomeNewActivity"
+        name="vivo_agent"/>
+
+    <item
+        class="com.lingsatuo.thieves.MainActivity"
+        name="musicone"/>
+
 </appmap>
