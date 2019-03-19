@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>76</version>
+    <version>77</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -111,6 +111,7 @@
     <item drawable="baidu_searchcraft"/>
     <item drawable="baidu_tieba"/>
     <item drawable="baidu_translator"/>
+    <item drawable="baidu_wenku"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
     <item drawable="bankcomm"/>
@@ -179,6 +180,7 @@
     <item drawable="cf"/>
     <item drawable="cgv_movie"/>
     <item drawable="changba"/>
+    <item drawable="chaoge"/>
     <item drawable="chelaile"/>
     <item drawable="chengzivr"/>
     <item drawable="china_daily"/>
@@ -612,6 +614,7 @@
     <item drawable="linkedin"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
+    <item drawable="live_visualizer"/>
     <item drawable="ll_iconpack"/>
     <item drawable="llss"/>
     <item drawable="lofter"/>
@@ -768,6 +771,7 @@
     <item drawable="nova_launcher"/>
     <item drawable="novel_reader"/>
     <item drawable="nowcasting"/>
+    <item drawable="nplayer"/>
     <item drawable="nubia_bbs"/>
     <item drawable="nubia_neoshare"/>
     <item drawable="nutstore"/>
@@ -789,6 +793,7 @@
     <item drawable="op_gg"/>
     <item drawable="openhub"/>
     <item drawable="opera"/>
+    <item drawable="opera_touch"/>
     <item drawable="oppo_book"/>
     <item drawable="oppo_community"/>
     <item drawable="oppo_ohome"/>
@@ -797,6 +802,7 @@
     <item drawable="oppo_store"/>
     <item drawable="oppo_usercenter"/>
     <item drawable="oschina"/>
+    <item drawable="overdrop"/>
     <item drawable="panda"/>
     <item drawable="panda_alt"/>
     <item drawable="panda_usecar"/>
@@ -850,6 +856,8 @@
     <item drawable="pu"/>
     <item drawable="pubgmhd"/>
     <item drawable="pure"/>
+    <item drawable="pure_browser"/>
+    <item drawable="pure_mosaic"/>
     <item drawable="pure_weather"/>
     <item drawable="pure_writer"/>
     <item drawable="puretie"/>
@@ -892,6 +900,8 @@
     <item drawable="qzone"/>
     <item drawable="radio"/>
     <item drawable="railway"/>
+    <item drawable="rar"/>
+    <item drawable="readhub_plus"/>
     <item drawable="realracing3"/>
     <item drawable="recorder"/>
     <item drawable="reddit"/>
@@ -933,6 +943,7 @@
     <item drawable="search_picture_tool"/>
     <item drawable="seekbooks"/>
     <item drawable="seeyou"/>
+    <item drawable="send_anywhere"/>
     <item drawable="settings"/>
     <item drawable="settings_alt"/>
     <item drawable="sf"/>
@@ -985,6 +996,7 @@
     <item drawable="sony_moive_creator"/>
     <item drawable="sony_playnow_china"/>
     <item drawable="sony_scan3d"/>
+    <item drawable="sony_sfrc"/>
     <item drawable="sony_smart_optimizer"/>
     <item drawable="sony_songpal"/>
     <item drawable="sony_songpal_mdr"/>
@@ -1042,6 +1054,7 @@
     <item drawable="tc_cleaner"/>
     <item drawable="ted"/>
     <item drawable="telegram"/>
+    <item drawable="telegram_plus"/>
     <item drawable="telegram_x"/>
     <item drawable="telegreat"/>
     <item drawable="telegreat_x"/>
@@ -1122,12 +1135,15 @@
     <item drawable="tvlive"/>
     <item drawable="tvlive2"/>
     <item drawable="twitter"/>
+    <item drawable="twrp"/>
+    <item drawable="twrp_alt"/>
     <item drawable="u17_comic"/>
     <item drawable="uber_didi"/>
     <item drawable="uc"/>
     <item drawable="umetrip"/>
     <item drawable="unicom"/>
     <item drawable="unionpay"/>
+    <item drawable="unity_mod_manager"/>
     <item drawable="unnoo_quan"/>
     <item drawable="update"/>
     <item drawable="update_alt"/>

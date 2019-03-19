@@ -6015,4 +6015,68 @@
         name="com.lingsatuo.thieves/com.lingsatuo.thieves.MainActivity"
         image="musicone"/>
 
+    <AppIcon
+        name="com.newin.nplayer.pro/com.newin.nplayer.activities.SplashActivity"
+        image="nplayer"/>
+
+    <AppIcon
+        name="com.opera.touch/com.opera.touch.MainActivity"
+        image="opera_touch"/>
+
+    <AppIcon
+        name="widget.dd.com.overdrop.free/widget.dd.com.overdrop.activity.SplashScreenActivity"
+        image="overdrop"/>
+
+    <AppIcon
+        name="org.telegram.plus/org.telegram.ui.LaunchActivity"
+        image="telegram_plus"/>
+
+    <AppIcon
+        name="com.pure.lite.browser/com.vs.browser.MainActivity"
+        image="pure_browser"/>
+
+    <AppIcon
+        name="com.rarlab.rar/com.rarlab.rar.MainActivity"
+        image="rar"/>
+
+    <AppIcon
+        name="cn.marno.readhubplus/cn.marno.readhubplus.module.MainActivity"
+        image="readhub_plus"/>
+
+    <AppIcon
+        name="com.estmob.android.sendanywhere/com.estmob.paprika4.activity.SplashActivity"
+        image="send_anywhere"/>
+
+    <AppIcon
+        name="com.sony.nfx.app.sfrc/com.sony.nfx.app.sfrc.npam.InitialActivity"
+        image="sony_sfrc"/>
+
+    <AppIcon
+        name="me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity"
+        image="twrp"/>
+
+    <AppIcon
+        name="io.github.xausky.unitymodmanager/io.github.xausky.unitymodmanager.MainActivity"
+        image="unity_mod_manager"/>
+
+    <AppIcon
+        name="com.baidu.wenku/com.baidu.wenku.splash.view.activity.WelcomeActivity"
+        image="baidu_wenku"/>
+
+    <AppIcon
+        name="com.moe.LiveVisualizer/com.moe.LiveVisualizer.activity.SettingActivity"
+        image="live_visualizer"/>
+
+    <AppIcon
+        name="com.chaoge.athena_android/com.chaoge.athena_android.appmain.MainActivity"
+        image="chaoge"/>
+
+    <AppIcon
+        name="me.drakeet.puremosaic/me.drakeet.puremosaic.MainActivity"
+        image="pure_mosaic"/>
+
+    <AppIcon
+        name="com.lemon.faceu/com.lemon.faceu.business.mainpage.LoadingPageActivity"
+        image="faceu"/>
+
 </Theme>

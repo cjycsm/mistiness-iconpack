@@ -57,21 +57,22 @@
     </string-array>
 
     <string-array name="newest">
-        <item>appsales</item>
-        <item>blocker</item>
-        <item>china_daily</item>
-        <item>cornie_icons</item>
-        <item>evie_launcher</item>
-        <item>fedilab</item>
-        <item>firefox_rocket</item>
-        <item>foodie</item>
-        <item>groupme</item>
-        <item>iris_mini</item>
-        <item>journey</item>
-        <item>musicone</item>
-        <item>brawl_stars</item>
-        <item>huawei_hisuite</item>
-        <item>vivo_agent</item>
+        <item>sony_sfrc</item>
+        <item>nplayer</item>
+        <item>opera_touch</item>
+        <item>overdrop</item>
+        <item>telegram_plus</item>
+        <item>pure_browser</item>
+        <item>rar</item>
+        <item>readhub_plus</item>
+        <item>send_anywhere</item>
+        <item>twrp</item>
+        <item>twrp_alt</item>
+        <item>unity_mod_manager</item>
+        <item>baidu_wenku</item>
+        <item>live_visualizer</item>
+        <item>chaoge</item>
+        <item>pure_mosaic</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1136,6 +1137,21 @@
         <item>iris_mini</item>
         <item>journey</item>
         <item>musicone</item>
+        <item>nplayer</item>
+        <item>opera_touch</item>
+        <item>overdrop</item>
+        <item>telegram_plus</item>
+        <item>pure_browser</item>
+        <item>rar</item>
+        <item>readhub_plus</item>
+        <item>send_anywhere</item>
+        <item>twrp</item>
+        <item>twrp_alt</item>
+        <item>unity_mod_manager</item>
+        <item>baidu_wenku</item>
+        <item>live_visualizer</item>
+        <item>chaoge</item>
+        <item>pure_mosaic</item>
     </string-array>
 
     <string-array name="game">
@@ -1364,6 +1380,7 @@
         <item>sony_liveware</item>
         <item>sony_store_china</item>
         <item>sony_store_china_alt</item>
+        <item>sony_sfrc</item>
     </string-array>
 
     <string-array name="LG">
