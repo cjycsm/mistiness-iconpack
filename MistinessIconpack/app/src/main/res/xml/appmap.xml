@@ -6065,4 +6065,108 @@
         class="com.lemon.faceu.business.mainpage.LoadingPageActivity"
         name="faceu"/>
 
+    <item
+        class="com.laisi.magent.player.ui.SplashActivity"
+        name="magent_player"/>
+
+    <item
+        class="com.qq.vpn.main.LaunchActivity"
+        name="dengta_vpn"/>
+
+    <item
+        class="com.cictec.wisdombus.dongying.activity.LoadingActivity"
+        name="dingying_wisdom_bus"/>
+
+    <item
+        class="com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+        name="google_pay"/>
+
+    <item
+        class="com.tim.app.ui.activity.SplashActivity"
+        name="guangyangyundong"/>
+
+    <item
+        class="com.gov.cn.GovNewsAt"
+        name="gov"/>
+
+    <item
+        class="com.hiby.music.Activity.StartActivity"
+        name="hiby_music"/>
+
+    <item
+        class="com.jjrili.app.MainActivity"
+        name="jjrili"/>
+
+    <item
+        class="com.dmm.dmmlabo.kancolle.AppEntry"
+        name="kancolle"/>
+
+    <item
+        class="com.jingdong.app.reader.logo.JdLogoActivity"
+        name="jd_reader"/>
+
+    <item
+        class="com.android.hwmirror.Mirror"
+        name="huawei_mirror"/>
+
+    <item
+        class="com.examcoo.m.MainActivity"
+        name="examcoo"/>
+
+    <item
+        class="com.kekeclient.activity.InitActivity"
+        name="keke"/>
+
+    <item
+        class="com.leku.ustv.activity.WelcomeActivity"
+        name="ustv"/>
+
+    <item
+        class="com.kongzue.secretinput.activity.FirstActivity"
+        name="secret_input"/>
+
+    <item
+        class="com.tbreader.android.activity.SplashActivity"
+        name="miaodu_reader"/>
+
+    <item
+        class="com.spdbccc.app.activity.SplashActivity"
+        name="spdbccc"/>
+
+    <item
+        class="com.qianniu.launcher.business.splash.InitActivity"
+        name="taobao_qianniu"/>
+
+    <item
+        class="cn.yingmi.qieman.hermione.MainActivity"
+        name="qieman"/>
+
+    <item
+        class="com.dw.btime.Launcher"
+        name="btime"/>
+
+    <item
+        class="com.audlabs.viperfx.main.StartActivity"
+        name="viperfx1"/>
+
+    <item
+        class="com.htc.android.mail.MultipleActivitiesMain"
+        name="email"/>
+
+    <item
+        class="com.htc.sense.mms.ui.ConversationList"
+        name="mms"/>
+
+    <item
+        class="com.android.incallui.DialerLauncher"
+        name="dialer"/>
+
+    <item
+        class="com.linroid.zlive.screen.host.HostActivityZero"
+        name="zlive"/>
+
+    <item
+        class="com.amazon.kindle.UpgradePage"
+        name="kindle"/>
+
 </appmap>

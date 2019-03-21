@@ -6048,4 +6048,108 @@
         component="ComponentInfo{com.lemon.faceu/com.lemon.faceu.business.mainpage.LoadingPageActivity}"
         drawable="faceu"/>
 
+    <item
+        component="ComponentInfo{com.laisi.magent.player/com.laisi.magent.player.ui.SplashActivity}"
+        drawable="magent_player"/>
+
+    <item
+        component="ComponentInfo{com.qq.network/com.qq.vpn.main.LaunchActivity}"
+        drawable="dengta_vpn"/>
+
+    <item
+        component="ComponentInfo{com.cictec.wisdombus.dongying/com.cictec.wisdombus.dongying.activity.LoadingActivity}"
+        drawable="dingying_wisdom_bus"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity}"
+        drawable="google_pay"/>
+
+    <item
+        component="ComponentInfo{com.guangyangyundong.sport/com.tim.app.ui.activity.SplashActivity}"
+        drawable="guangyangyundong"/>
+
+    <item
+        component="ComponentInfo{com.gov.cn/com.gov.cn.GovNewsAt}"
+        drawable="gov"/>
+
+    <item
+        component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}"
+        drawable="hiby_music"/>
+
+    <item
+        component="ComponentInfo{com.jjrili.app/com.jjrili.app.MainActivity}"
+        drawable="jjrili"/>
+
+    <item
+        component="ComponentInfo{com.dmm.dmmlabo.kancolle/com.dmm.dmmlabo.kancolle.AppEntry}"
+        drawable="kancolle"/>
+
+    <item
+        component="ComponentInfo{com.jd.app.reader/com.jingdong.app.reader.logo.JdLogoActivity}"
+        drawable="jd_reader"/>
+
+    <item
+        component="ComponentInfo{com.android.hwmirror/com.android.hwmirror.Mirror}"
+        drawable="huawei_mirror"/>
+
+    <item
+        component="ComponentInfo{com.examcoo.m/com.examcoo.m.MainActivity}"
+        drawable="examcoo"/>
+
+    <item
+        component="ComponentInfo{com.kekeclient_/com.kekeclient.activity.InitActivity}"
+        drawable="keke"/>
+
+    <item
+        component="ComponentInfo{com.leku.ustv/com.leku.ustv.activity.WelcomeActivity}"
+        drawable="ustv"/>
+
+    <item
+        component="ComponentInfo{com.kongzue.secretinput/com.kongzue.secretinput.activity.FirstActivity}"
+        drawable="secret_input"/>
+
+    <item
+        component="ComponentInfo{com.miaodu.reader/com.tbreader.android.activity.SplashActivity}"
+        drawable="miaodu_reader"/>
+
+    <item
+        component="ComponentInfo{com.spdbccc.app/com.spdbccc.app.activity.SplashActivity}"
+        drawable="spdbccc"/>
+
+    <item
+        component="ComponentInfo{com.taobao.qianniu/com.qianniu.launcher.business.splash.InitActivity}"
+        drawable="taobao_qianniu"/>
+
+    <item
+        component="ComponentInfo{cn.yingmi.qieman.hermione/cn.yingmi.qieman.hermione.MainActivity}"
+        drawable="qieman"/>
+
+    <item
+        component="ComponentInfo{com.dw.btime/com.dw.btime.Launcher}"
+        drawable="btime"/>
+
+    <item
+        component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}"
+        drawable="viperfx1"/>
+
+    <item
+        component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}"
+        drawable="email"/>
+
+    <item
+        component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}"
+        drawable="dialer"/>
+
+    <item
+        component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityZero}"
+        drawable="zlive"/>
+
+    <item
+        component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}"
+        drawable="kindle"/>
+
 </resources>

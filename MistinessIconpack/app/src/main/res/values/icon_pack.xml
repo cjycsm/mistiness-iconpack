@@ -57,22 +57,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>sony_sfrc</item>
-        <item>nplayer</item>
-        <item>opera_touch</item>
-        <item>overdrop</item>
-        <item>telegram_plus</item>
-        <item>pure_browser</item>
-        <item>rar</item>
-        <item>readhub_plus</item>
-        <item>send_anywhere</item>
-        <item>twrp</item>
-        <item>twrp_alt</item>
-        <item>unity_mod_manager</item>
-        <item>baidu_wenku</item>
-        <item>live_visualizer</item>
-        <item>chaoge</item>
-        <item>pure_mosaic</item>
+        <item>huawei_mirror</item>
+        <item>magent_player</item>
+        <item>dengta_vpn</item>
+        <item>dingying_wisdom_bus</item>
+        <item>google_pay</item>
+        <item>guangyangyundong</item>
+        <item>gov</item>
+        <item>hiby_music</item>
+        <item>jjrili</item>
+        <item>jd_reader</item>
+        <item>examcoo</item>
+        <item>keke</item>
+        <item>ustv</item>
+        <item>secret_input</item>
+        <item>miaodu_reader</item>
+        <item>spdbccc</item>
+        <item>taobao_qianniu</item>
+        <item>qieman</item>
+        <item>btime</item>
+        <item>kancolle</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1152,6 +1156,24 @@
         <item>live_visualizer</item>
         <item>chaoge</item>
         <item>pure_mosaic</item>
+        <item>magent_player</item>
+        <item>dengta_vpn</item>
+        <item>dingying_wisdom_bus</item>
+        <item>google_pay</item>
+        <item>guangyangyundong</item>
+        <item>gov</item>
+        <item>hiby_music</item>
+        <item>jjrili</item>
+        <item>jd_reader</item>
+        <item>examcoo</item>
+        <item>keke</item>
+        <item>ustv</item>
+        <item>secret_input</item>
+        <item>miaodu_reader</item>
+        <item>spdbccc</item>
+        <item>taobao_qianniu</item>
+        <item>qieman</item>
+        <item>btime</item>
     </string-array>
 
     <string-array name="game">
@@ -1203,6 +1225,7 @@
         <item>langrensha</item>
         <item>fatego</item>
         <item>brawl_stars</item>
+        <item>kancolle</item>
     </string-array>
 
     <string-array name="basic">
@@ -1338,6 +1361,7 @@
         <item>huawei_hwireader</item>
         <item>huawei_ds</item>
         <item>huawei_hisuite</item>
+        <item>huawei_mirror</item>
     </string-array>
 
     <string-array name="nokia">

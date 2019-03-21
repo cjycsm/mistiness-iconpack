@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>77</version>
+    <version>78</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -152,6 +152,7 @@
     <item drawable="brevent"/>
     <item drawable="bridge_iconpack"/>
     <item drawable="browser"/>
+    <item drawable="btime"/>
     <item drawable="buka"/>
     <item drawable="bullet_messenger"/>
     <item drawable="bullet_messenger_new"/>
@@ -275,6 +276,7 @@
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
     <item drawable="dedao"/>
+    <item drawable="dengta_vpn"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
     <item drawable="dictcn"/>
@@ -285,6 +287,7 @@
     <item drawable="digit"/>
     <item drawable="diguayouxi"/>
     <item drawable="dingtalk"/>
+    <item drawable="dingying_wisdom_bus"/>
     <item drawable="dir"/>
     <item drawable="diyidan"/>
     <item drawable="dkplat"/>
@@ -343,6 +346,7 @@
     <item drawable="everphoto"/>
     <item drawable="everything_done"/>
     <item drawable="evie_launcher"/>
+    <item drawable="examcoo"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
     <item drawable="express_query"/>
@@ -436,12 +440,14 @@
     <item drawable="google_magazines"/>
     <item drawable="google_maps"/>
     <item drawable="google_music"/>
+    <item drawable="google_pay"/>
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
     <item drawable="google_translate"/>
     <item drawable="google_voice"/>
     <item drawable="google_wellbeing"/>
+    <item drawable="gov"/>
     <item drawable="gps_toolbox"/>
     <item drawable="greenify"/>
     <item drawable="groupme"/>
@@ -450,6 +456,7 @@
     <item drawable="gsv_alt"/>
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
+    <item drawable="guangyangyundong"/>
     <item drawable="guokr"/>
     <item drawable="gyroscope"/>
     <item drawable="hahamutim"/>
@@ -471,6 +478,7 @@
     <item drawable="hfcard"/>
     <item drawable="hfs_plus"/>
     <item drawable="hi"/>
+    <item drawable="hiby_music"/>
     <item drawable="hippo"/>
     <item drawable="hippo_alt"/>
     <item drawable="hiwifi"/>
@@ -486,6 +494,7 @@
     <item drawable="huawei_health"/>
     <item drawable="huawei_hisuite"/>
     <item drawable="huawei_hwireader"/>
+    <item drawable="huawei_mirror"/>
     <item drawable="huawei_mw"/>
     <item drawable="huawei_notes"/>
     <item drawable="huawei_remote_assistant"/>
@@ -538,6 +547,7 @@
     <item drawable="jd_fanli"/>
     <item drawable="jd_jr"/>
     <item drawable="jd_jxj"/>
+    <item drawable="jd_reader"/>
     <item drawable="jeejen"/>
     <item drawable="jesson_meishi"/>
     <item drawable="jiakao"/>
@@ -545,17 +555,20 @@
     <item drawable="jiemian"/>
     <item drawable="jike"/>
     <item drawable="jingdong"/>
+    <item drawable="jjrili"/>
     <item drawable="jjwxc"/>
     <item drawable="joe_music"/>
     <item drawable="joi_player"/>
     <item drawable="journey"/>
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
+    <item drawable="kancolle"/>
     <item drawable="kaoyan"/>
     <item drawable="karaoke"/>
     <item drawable="kdjz"/>
     <item drawable="kecheng"/>
     <item drawable="keep"/>
+    <item drawable="keke"/>
     <item drawable="kernel_adiutor"/>
     <item drawable="kf_mark"/>
     <item drawable="kfc"/>
@@ -630,6 +643,7 @@
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
     <item drawable="lulu"/>
+    <item drawable="magent_player"/>
     <item drawable="magent_search"/>
     <item drawable="magent_search_alt"/>
     <item drawable="magic_browser"/>
@@ -673,6 +687,7 @@
     <item drawable="mere_news"/>
     <item drawable="metatrader4"/>
     <item drawable="mfw"/>
+    <item drawable="miaodu_reader"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_emmx"/>
@@ -869,6 +884,7 @@
     <item drawable="qianji"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
+    <item drawable="qieman"/>
     <item drawable="qihoo_antivirus"/>
     <item drawable="qihoo_cloudisk"/>
     <item drawable="qihoo_contents"/>
@@ -941,6 +957,7 @@
     <item drawable="sdm"/>
     <item drawable="search"/>
     <item drawable="search_picture_tool"/>
+    <item drawable="secret_input"/>
     <item drawable="seekbooks"/>
     <item drawable="seeyou"/>
     <item drawable="send_anywhere"/>
@@ -1010,6 +1027,7 @@
     <item drawable="sound_recorder_alt"/>
     <item drawable="soundcloud"/>
     <item drawable="spdb"/>
+    <item drawable="spdbccc"/>
     <item drawable="speedmobile"/>
     <item drawable="speedtest"/>
     <item drawable="spotify"/>
@@ -1046,6 +1064,7 @@
     <item drawable="taobao"/>
     <item drawable="taobao_dipei"/>
     <item drawable="taobao_movie"/>
+    <item drawable="taobao_qianniu"/>
     <item drawable="taobao_trip"/>
     <item drawable="taptap"/>
     <item drawable="taqu"/>
@@ -1147,6 +1166,7 @@
     <item drawable="unnoo_quan"/>
     <item drawable="update"/>
     <item drawable="update_alt"/>
+    <item drawable="ustv"/>
     <item drawable="v2ray_ang"/>
     <item drawable="v2ray_ang_alt"/>
     <item drawable="va_exposed"/>

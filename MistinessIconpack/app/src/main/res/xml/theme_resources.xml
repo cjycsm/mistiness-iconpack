@@ -6079,4 +6079,108 @@
         name="com.lemon.faceu/com.lemon.faceu.business.mainpage.LoadingPageActivity"
         image="faceu"/>
 
+    <AppIcon
+        name="com.laisi.magent.player/com.laisi.magent.player.ui.SplashActivity"
+        image="magent_player"/>
+
+    <AppIcon
+        name="com.qq.network/com.qq.vpn.main.LaunchActivity"
+        image="dengta_vpn"/>
+
+    <AppIcon
+        name="com.cictec.wisdombus.dongying/com.cictec.wisdombus.dongying.activity.LoadingActivity"
+        image="dingying_wisdom_bus"/>
+
+    <AppIcon
+        name="com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.cardlist.CardListActivity"
+        image="google_pay"/>
+
+    <AppIcon
+        name="com.guangyangyundong.sport/com.tim.app.ui.activity.SplashActivity"
+        image="guangyangyundong"/>
+
+    <AppIcon
+        name="com.gov.cn/com.gov.cn.GovNewsAt"
+        image="gov"/>
+
+    <AppIcon
+        name="com.hiby.music/com.hiby.music.Activity.StartActivity"
+        image="hiby_music"/>
+
+    <AppIcon
+        name="com.jjrili.app/com.jjrili.app.MainActivity"
+        image="jjrili"/>
+
+    <AppIcon
+        name="com.dmm.dmmlabo.kancolle/com.dmm.dmmlabo.kancolle.AppEntry"
+        image="kancolle"/>
+
+    <AppIcon
+        name="com.jd.app.reader/com.jingdong.app.reader.logo.JdLogoActivity"
+        image="jd_reader"/>
+
+    <AppIcon
+        name="com.android.hwmirror/com.android.hwmirror.Mirror"
+        image="huawei_mirror"/>
+
+    <AppIcon
+        name="com.examcoo.m/com.examcoo.m.MainActivity"
+        image="examcoo"/>
+
+    <AppIcon
+        name="com.kekeclient_/com.kekeclient.activity.InitActivity"
+        image="keke"/>
+
+    <AppIcon
+        name="com.leku.ustv/com.leku.ustv.activity.WelcomeActivity"
+        image="ustv"/>
+
+    <AppIcon
+        name="com.kongzue.secretinput/com.kongzue.secretinput.activity.FirstActivity"
+        image="secret_input"/>
+
+    <AppIcon
+        name="com.miaodu.reader/com.tbreader.android.activity.SplashActivity"
+        image="miaodu_reader"/>
+
+    <AppIcon
+        name="com.spdbccc.app/com.spdbccc.app.activity.SplashActivity"
+        image="spdbccc"/>
+
+    <AppIcon
+        name="com.taobao.qianniu/com.qianniu.launcher.business.splash.InitActivity"
+        image="taobao_qianniu"/>
+
+    <AppIcon
+        name="cn.yingmi.qieman.hermione/cn.yingmi.qieman.hermione.MainActivity"
+        image="qieman"/>
+
+    <AppIcon
+        name="com.dw.btime/com.dw.btime.Launcher"
+        image="btime"/>
+
+    <AppIcon
+        name="com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity"
+        image="viperfx1"/>
+
+    <AppIcon
+        name="com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain"
+        image="email"/>
+
+    <AppIcon
+        name="com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList"
+        image="mms"/>
+
+    <AppIcon
+        name="com.android.incallui/com.android.incallui.DialerLauncher"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityZero"
+        image="zlive"/>
+
+    <AppIcon
+        name="com.amazon.kindle/com.amazon.kindle.UpgradePage"
+        image="kindle"/>
+
 </Theme>
