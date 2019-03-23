@@ -57,26 +57,27 @@
     </string-array>
 
     <string-array name="newest">
-        <item>huawei_mirror</item>
-        <item>magent_player</item>
-        <item>dengta_vpn</item>
-        <item>dingying_wisdom_bus</item>
-        <item>google_pay</item>
-        <item>guangyangyundong</item>
-        <item>gov</item>
-        <item>hiby_music</item>
-        <item>jjrili</item>
-        <item>jd_reader</item>
-        <item>examcoo</item>
-        <item>keke</item>
-        <item>ustv</item>
-        <item>secret_input</item>
-        <item>miaodu_reader</item>
-        <item>spdbccc</item>
-        <item>taobao_qianniu</item>
-        <item>qieman</item>
-        <item>btime</item>
-        <item>kancolle</item>
+        <item>sony_sketch</item>
+        <item>bilibili_live</item>
+        <item>du_recorder</item>
+        <item>focus_lite</item>
+        <item>gfx_tool</item>
+        <item>gif_live_wallpaper</item>
+        <item>gofun</item>
+        <item>guitar_tuna</item>
+        <item>kaomoji</item>
+        <item>mobilism</item>
+        <item>mysplash</item>
+        <item>mysplash_alt</item>
+        <item>patreon</item>
+        <item>pinterest</item>
+        <item>resplash</item>
+        <item>resplash_alt</item>
+        <item>arena_of_valor</item>
+        <item>deemo</item>
+        <item>limbo</item>
+        <item>limbo_alt</item>
+        <item>mini_metro</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1174,6 +1175,21 @@
         <item>taobao_qianniu</item>
         <item>qieman</item>
         <item>btime</item>
+        <item>bilibili_live</item>
+        <item>du_recorder</item>
+        <item>focus_lite</item>
+        <item>gfx_tool</item>
+        <item>gif_live_wallpaper</item>
+        <item>gofun</item>
+        <item>guitar_tuna</item>
+        <item>kaomoji</item>
+        <item>mobilism</item>
+        <item>mysplash</item>
+        <item>mysplash_alt</item>
+        <item>patreon</item>
+        <item>pinterest</item>
+        <item>resplash</item>
+        <item>resplash_alt</item>
     </string-array>
 
     <string-array name="game">
@@ -1226,6 +1242,11 @@
         <item>fatego</item>
         <item>brawl_stars</item>
         <item>kancolle</item>
+        <item>arena_of_valor</item>
+        <item>deemo</item>
+        <item>limbo</item>
+        <item>limbo_alt</item>
+        <item>mini_metro</item>
     </string-array>
 
     <string-array name="basic">
@@ -1405,6 +1426,7 @@
         <item>sony_store_china</item>
         <item>sony_store_china_alt</item>
         <item>sony_sfrc</item>
+        <item>sony_sketch</item>
     </string-array>
 
     <string-array name="LG">

@@ -6183,4 +6183,80 @@
         name="com.amazon.kindle/com.amazon.kindle.UpgradePage"
         image="kindle"/>
 
+    <AppIcon
+        name="com.ngame.allstar.eu/com.ngame.allstar.SGameActivity"
+        image="arena_of_valor"/>
+
+    <AppIcon
+        name="com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity"
+        image="bilibili_live"/>
+
+    <AppIcon
+        name="com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity"
+        image="deemo"/>
+
+    <AppIcon
+        name="com.duapps.recorder/com.duapps.screen.recorder.SplashActivity"
+        image="du_recorder"/>
+
+    <AppIcon
+        name="com.franco.focus.lite/com.franco.focus.lite.activities.Main"
+        image="focus_lite"/>
+
+    <AppIcon
+        name="eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity"
+        image="gfx_tool"/>
+
+    <AppIcon
+        name="com.awesome.giflivewallpaper/com.awesome.giflivewallpaper.MainActivity"
+        image="gif_live_wallpaper"/>
+
+    <AppIcon
+        name="com.gvsoft.gofun/com.gvsoft.gofun.module.splash.activity.SplashActivity"
+        image="gofun"/>
+
+    <AppIcon
+        name="com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity"
+        image="guitar_tuna"/>
+
+    <AppIcon
+        name="com.abbc45255.emojibyabbc45255/com.abbc45255.emojibyabbc45255.activity.Welcome_activity"
+        image="kaomoji"/>
+
+    <AppIcon
+        name="com.playdead.limbo.full/com.playdead.limbo.LimboActivity"
+        image="limbo"/>
+
+    <AppIcon
+        name="nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity"
+        image="mini_metro"/>
+
+    <AppIcon
+        name="demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity"
+        image="mobilism"/>
+
+    <AppIcon
+        name="com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity"
+        image="mysplash"/>
+
+    <AppIcon
+        name="com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity"
+        image="mysplash"/>
+
+    <AppIcon
+        name="com.patreon.android/com.patreon.android.ui.shared.LauncherActivity"
+        image="patreon"/>
+
+    <AppIcon
+        name="com.pinterest/com.pinterest.activity.PinterestActivity"
+        image="pinterest"/>
+
+    <AppIcon
+        name="com.b_lam.resplash/com.b_lam.resplash.activities.SplashActivity"
+        image="resplash"/>
+
+    <AppIcon
+        name="com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity"
+        image="sony_sketch"/>
+
 </Theme>

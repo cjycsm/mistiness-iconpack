@@ -6169,4 +6169,80 @@
         class="com.amazon.kindle.UpgradePage"
         name="kindle"/>
 
+    <item
+        class="com.ngame.allstar.SGameActivity"
+        name="arena_of_valor"/>
+
+    <item
+        class="com.bilibili.bilibililive.splash.SplashActivity"
+        name="bilibili_live"/>
+
+    <item
+        class="com.google.firebase.MessagingUnityPlayerActivity"
+        name="deemo"/>
+
+    <item
+        class="com.duapps.screen.recorder.SplashActivity"
+        name="du_recorder"/>
+
+    <item
+        class="com.franco.focus.lite.activities.Main"
+        name="focus_lite"/>
+
+    <item
+        class="eu.tsoml.graphicssettings.MainActivity"
+        name="gfx_tool"/>
+
+    <item
+        class="com.awesome.giflivewallpaper.MainActivity"
+        name="gif_live_wallpaper"/>
+
+    <item
+        class="com.gvsoft.gofun.module.splash.activity.SplashActivity"
+        name="gofun"/>
+
+    <item
+        class="com.unity3d.player.UnityPlayerActivity"
+        name="guitar_tuna"/>
+
+    <item
+        class="com.abbc45255.emojibyabbc45255.activity.Welcome_activity"
+        name="kaomoji"/>
+
+    <item
+        class="com.playdead.limbo.LimboActivity"
+        name="limbo"/>
+
+    <item
+        class="com.unity3d.player.UnityPlayerActivity"
+        name="mini_metro"/>
+
+    <item
+        class="demigos.com.mobilism.UI.SplashActivity"
+        name="mobilism"/>
+
+    <item
+        class="com.wangdaye.mysplash.main.view.activity.MainActivity"
+        name="mysplash"/>
+
+    <item
+        class="com.wangdaye.mysplash.main.MainActivity"
+        name="mysplash"/>
+
+    <item
+        class="com.patreon.android.ui.shared.LauncherActivity"
+        name="patreon"/>
+
+    <item
+        class="com.pinterest.activity.PinterestActivity"
+        name="pinterest"/>
+
+    <item
+        class="com.b_lam.resplash.activities.SplashActivity"
+        name="resplash"/>
+
+    <item
+        class="com.sonymobile.sketch.dashboard.DashboardActivity"
+        name="sony_sketch"/>
+
 </appmap>

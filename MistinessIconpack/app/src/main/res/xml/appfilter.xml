@@ -6152,4 +6152,80 @@
         component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}"
         drawable="kindle"/>
 
+    <item
+        component="ComponentInfo{com.ngame.allstar.eu/com.ngame.allstar.SGameActivity}"
+        drawable="arena_of_valor"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.bilibililive/com.bilibili.bilibililive.splash.SplashActivity}"
+        drawable="bilibili_live"/>
+
+    <item
+        component="ComponentInfo{com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity}"
+        drawable="deemo"/>
+
+    <item
+        component="ComponentInfo{com.duapps.recorder/com.duapps.screen.recorder.SplashActivity}"
+        drawable="du_recorder"/>
+
+    <item
+        component="ComponentInfo{com.franco.focus.lite/com.franco.focus.lite.activities.Main}"
+        drawable="focus_lite"/>
+
+    <item
+        component="ComponentInfo{eu.tsoml.graphicssettings/eu.tsoml.graphicssettings.MainActivity}"
+        drawable="gfx_tool"/>
+
+    <item
+        component="ComponentInfo{com.awesome.giflivewallpaper/com.awesome.giflivewallpaper.MainActivity}"
+        drawable="gif_live_wallpaper"/>
+
+    <item
+        component="ComponentInfo{com.gvsoft.gofun/com.gvsoft.gofun.module.splash.activity.SplashActivity}"
+        drawable="gofun"/>
+
+    <item
+        component="ComponentInfo{com.ovelin.guitartuna/com.unity3d.player.UnityPlayerActivity}"
+        drawable="guitar_tuna"/>
+
+    <item
+        component="ComponentInfo{com.abbc45255.emojibyabbc45255/com.abbc45255.emojibyabbc45255.activity.Welcome_activity}"
+        drawable="kaomoji"/>
+
+    <item
+        component="ComponentInfo{com.playdead.limbo.full/com.playdead.limbo.LimboActivity}"
+        drawable="limbo"/>
+
+    <item
+        component="ComponentInfo{nz.co.codepoint.minimetro/com.unity3d.player.UnityPlayerActivity}"
+        drawable="mini_metro"/>
+
+    <item
+        component="ComponentInfo{demigos.com.mobilism/demigos.com.mobilism.UI.SplashActivity}"
+        drawable="mobilism"/>
+
+    <item
+        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.view.activity.MainActivity}"
+        drawable="mysplash"/>
+
+    <item
+        component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}"
+        drawable="mysplash"/>
+
+    <item
+        component="ComponentInfo{com.patreon.android/com.patreon.android.ui.shared.LauncherActivity}"
+        drawable="patreon"/>
+
+    <item
+        component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}"
+        drawable="pinterest"/>
+
+    <item
+        component="ComponentInfo{com.b_lam.resplash/com.b_lam.resplash.activities.SplashActivity}"
+        drawable="resplash"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}"
+        drawable="sony_sketch"/>
+
 </resources>

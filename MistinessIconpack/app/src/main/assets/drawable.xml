@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>78</version>
+    <version>79</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -76,6 +76,7 @@
     <item drawable="appstore_alt1"/>
     <item drawable="appstore_alt2"/>
     <item drawable="appstore_alt3"/>
+    <item drawable="arena_of_valor"/>
     <item drawable="article_lite"/>
     <item drawable="article_news"/>
     <item drawable="article_video"/>
@@ -130,6 +131,7 @@
     <item drawable="bilibili_blue"/>
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bilibili_comic"/>
+    <item drawable="bilibili_live"/>
     <item drawable="bingdic"/>
     <item drawable="bingo_candy"/>
     <item drawable="bit"/>
@@ -276,6 +278,7 @@
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
     <item drawable="dedao"/>
+    <item drawable="deemo"/>
     <item drawable="dengta_vpn"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
@@ -313,6 +316,7 @@
     <item drawable="drawing_explorer"/>
     <item drawable="dropbox"/>
     <item drawable="du"/>
+    <item drawable="du_recorder"/>
     <item drawable="duitang"/>
     <item drawable="duokan"/>
     <item drawable="duolinguo"/>
@@ -390,6 +394,7 @@
     <item drawable="fluid"/>
     <item drawable="flyme_roamingpay"/>
     <item drawable="flyme_videoclips"/>
+    <item drawable="focus_lite"/>
     <item drawable="font"/>
     <item drawable="foodie"/>
     <item drawable="fooview"/>
@@ -416,10 +421,13 @@
     <item drawable="gemini_iconpack"/>
     <item drawable="geography"/>
     <item drawable="geometric_weather"/>
+    <item drawable="gfx_tool"/>
+    <item drawable="gif_live_wallpaper"/>
     <item drawable="gifpaser"/>
     <item drawable="glass"/>
     <item drawable="glow"/>
     <item drawable="go_hosts"/>
+    <item drawable="gofun"/>
     <item drawable="gold"/>
     <item drawable="google"/>
     <item drawable="google_authenticator"/>
@@ -457,6 +465,7 @@
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guangyangyundong"/>
+    <item drawable="guitar_tuna"/>
     <item drawable="guokr"/>
     <item drawable="gyroscope"/>
     <item drawable="hahamutim"/>
@@ -563,6 +572,7 @@
     <item drawable="jumei"/>
     <item drawable="jxedt"/>
     <item drawable="kancolle"/>
+    <item drawable="kaomoji"/>
     <item drawable="kaoyan"/>
     <item drawable="karaoke"/>
     <item drawable="kdjz"/>
@@ -621,6 +631,8 @@
     <item drawable="light_beauty"/>
     <item drawable="lightroom"/>
     <item drawable="lightroom_alt"/>
+    <item drawable="limbo"/>
+    <item drawable="limbo_alt"/>
     <item drawable="line"/>
     <item drawable="lineicons2_iconpack"/>
     <item drawable="linewebtoon"/>
@@ -709,6 +721,7 @@
     <item drawable="mijia"/>
     <item drawable="minecraft"/>
     <item drawable="minecraft_china"/>
+    <item drawable="mini_metro"/>
     <item drawable="mipay"/>
     <item drawable="mipush"/>
     <item drawable="miracles"/>
@@ -725,6 +738,7 @@
     <item drawable="mmpic"/>
     <item drawable="mms"/>
     <item drawable="mobike"/>
+    <item drawable="mobilism"/>
     <item drawable="mogujie"/>
     <item drawable="moji_weather"/>
     <item drawable="moji_weather_light"/>
@@ -753,6 +767,8 @@
     <item drawable="mybank"/>
     <item drawable="mybus"/>
     <item drawable="mygesture"/>
+    <item drawable="mysplash"/>
+    <item drawable="mysplash_alt"/>
     <item drawable="myweather"/>
     <item drawable="nature_iconpack"/>
     <item drawable="nba2k19"/>
@@ -824,6 +840,7 @@
     <item drawable="paper"/>
     <item drawable="paper2"/>
     <item drawable="passport"/>
+    <item drawable="patreon"/>
     <item drawable="paypal"/>
     <item drawable="pcamera"/>
     <item drawable="pconline"/>
@@ -839,6 +856,7 @@
     <item drawable="pingan_bank"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
+    <item drawable="pinterest"/>
     <item drawable="pixel_launcher_mods"/>
     <item drawable="pixiv"/>
     <item drawable="pixivez"/>
@@ -926,6 +944,8 @@
     <item drawable="remote_control"/>
     <item drawable="remote_control_alt"/>
     <item drawable="remover"/>
+    <item drawable="resplash"/>
+    <item drawable="resplash_alt"/>
     <item drawable="retor_music"/>
     <item drawable="retouch"/>
     <item drawable="rewind"/>
@@ -1014,6 +1034,7 @@
     <item drawable="sony_playnow_china"/>
     <item drawable="sony_scan3d"/>
     <item drawable="sony_sfrc"/>
+    <item drawable="sony_sketch"/>
     <item drawable="sony_smart_optimizer"/>
     <item drawable="sony_songpal"/>
     <item drawable="sony_songpal_mdr"/>
