@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>79</version>
+    <version>80</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -113,6 +113,7 @@
     <item drawable="baidu_tieba"/>
     <item drawable="baidu_translator"/>
     <item drawable="baidu_wenku"/>
+    <item drawable="baidu_yuedu"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
     <item drawable="bankcomm"/>
@@ -138,6 +139,7 @@
     <item drawable="bit_alt"/>
     <item drawable="bitsfun_light"/>
     <item drawable="biubiu"/>
+    <item drawable="bizranking"/>
     <item drawable="bjnews"/>
     <item drawable="blackblub"/>
     <item drawable="bladeheart_ninja"/>
@@ -174,6 +176,7 @@
     <item drawable="camera360"/>
     <item drawable="camera360_alt"/>
     <item drawable="caocao"/>
+    <item drawable="captive_mgr"/>
     <item drawable="card_emulator"/>
     <item drawable="ccb"/>
     <item drawable="cd_mbank"/>
@@ -275,6 +278,7 @@
     <item drawable="damai"/>
     <item drawable="dan_the_man"/>
     <item drawable="dangdang"/>
+    <item drawable="daniu"/>
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
     <item drawable="dedao"/>
@@ -452,7 +456,9 @@
     <item drawable="google_photos"/>
     <item drawable="google_pinyin_ime"/>
     <item drawable="google_play"/>
+    <item drawable="google_tasks"/>
     <item drawable="google_translate"/>
+    <item drawable="google_tv_remote"/>
     <item drawable="google_voice"/>
     <item drawable="google_wellbeing"/>
     <item drawable="gov"/>
@@ -545,6 +551,7 @@
     <item drawable="instagram"/>
     <item drawable="installer_plus"/>
     <item drawable="iplaymtg"/>
+    <item drawable="iqing"/>
     <item drawable="iqiyi"/>
     <item drawable="ireader"/>
     <item drawable="iris_mini"/>
@@ -637,6 +644,7 @@
     <item drawable="lineicons2_iconpack"/>
     <item drawable="linewebtoon"/>
     <item drawable="linkedin"/>
+    <item drawable="linovel"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="live_visualizer"/>
@@ -695,10 +703,12 @@
     <item drawable="meizu_toolbox"/>
     <item drawable="meizu_voiceassistant"/>
     <item drawable="memento"/>
+    <item drawable="memory"/>
     <item drawable="memory_cleaner"/>
     <item drawable="mere_news"/>
     <item drawable="metatrader4"/>
     <item drawable="mfw"/>
+    <item drawable="mi_globalbrowser_mini"/>
     <item drawable="miaodu_reader"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
@@ -854,6 +864,7 @@
     <item drawable="pieplus"/>
     <item drawable="pinduoduo"/>
     <item drawable="pingan_bank"/>
+    <item drawable="pingan_ff"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
     <item drawable="pinterest"/>
@@ -885,6 +896,7 @@
     <item drawable="prod_dialer"/>
     <item drawable="protect_eye"/>
     <item drawable="ps"/>
+    <item drawable="psiphon3"/>
     <item drawable="pt_video"/>
     <item drawable="pu"/>
     <item drawable="pubgmhd"/>
@@ -908,6 +920,7 @@
     <item drawable="qihoo_contents"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qihu_browser"/>
+    <item drawable="qingting_radio"/>
     <item drawable="qq"/>
     <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>
@@ -1011,6 +1024,7 @@
     <item drawable="sing_client"/>
     <item drawable="skyeye"/>
     <item drawable="skype"/>
+    <item drawable="sleep"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
     <item drawable="smartisan_reader"/>
@@ -1087,17 +1101,21 @@
     <item drawable="taobao_movie"/>
     <item drawable="taobao_qianniu"/>
     <item drawable="taobao_trip"/>
+    <item drawable="taomix2"/>
     <item drawable="taptap"/>
     <item drawable="taqu"/>
     <item drawable="tasker"/>
     <item drawable="tax_its"/>
     <item drawable="tc_cleaner"/>
+    <item drawable="teamviewer"/>
+    <item drawable="teamviewer_alt"/>
     <item drawable="ted"/>
     <item drawable="telegram"/>
     <item drawable="telegram_plus"/>
     <item drawable="telegram_x"/>
     <item drawable="telegreat"/>
     <item drawable="telegreat_x"/>
+    <item drawable="teleplus"/>
     <item drawable="tencent_ac"/>
     <item drawable="tencent_blackkey"/>
     <item drawable="tencent_blackkey_alt"/>
@@ -1174,6 +1192,7 @@
     <item drawable="tvguo"/>
     <item drawable="tvlive"/>
     <item drawable="tvlive2"/>
+    <item drawable="twitch"/>
     <item drawable="twitter"/>
     <item drawable="twrp"/>
     <item drawable="twrp_alt"/>
@@ -1216,6 +1235,8 @@
     <item drawable="wallet"/>
     <item drawable="walli"/>
     <item drawable="wallpaper"/>
+    <item drawable="wandoujia_ripple"/>
+    <item drawable="wandoujia_ripple_alt"/>
     <item drawable="wangxin"/>
     <item drawable="waw"/>
     <item drawable="weather"/>
@@ -1331,6 +1352,7 @@
     <item drawable="zol"/>
     <item drawable="zone"/>
     <item drawable="zone_alt"/>
+    <item drawable="zqxy"/>
     <item drawable="zuiyou"/>
     <item drawable="zymk"/>
 

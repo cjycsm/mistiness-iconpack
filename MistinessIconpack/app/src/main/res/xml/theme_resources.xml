@@ -6259,4 +6259,92 @@
         name="com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity"
         image="sony_sketch"/>
 
+    <AppIcon
+        name="com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock"
+        image="sleep"/>
+
+    <AppIcon
+        name="com.inookta.taomix2/com.inookta.taomix2.MainActivity"
+        image="taomix2"/>
+
+    <AppIcon
+        name="com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity"
+        image="google_tasks"/>
+
+    <AppIcon
+        name="com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity"
+        image="teamviewer"/>
+
+    <AppIcon
+        name="in.teleplus/org.telegram.ui.LaunchActivity"
+        image="teleplus"/>
+
+    <AppIcon
+        name="tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity"
+        image="twitch"/>
+
+    <AppIcon
+        name="com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity"
+        image="google_tv_remote"/>
+
+    <AppIcon
+        name="com.baidu.yuedu/com.baidu.yuedu.splash.SplashActivity"
+        image="baidu_yuedu"/>
+
+    <AppIcon
+        name="com.mi.globalbrowser.mini/com.miui.android.apps.chrome.Main"
+        image="mi_globalbrowser_mini"/>
+
+    <AppIcon
+        name="com.deniu.daniu/com.deniu.daniu.activity.SplashActivity"
+        image="daniu"/>
+
+    <AppIcon
+        name="com.icloudoor.bizranking/com.icloudoor.bizranking.activity.SplashActivity"
+        image="bizranking"/>
+
+    <AppIcon
+        name="com.pingan.ff.yz/com.pingan.ff.activity.SplashActivity"
+        image="pingan_ff"/>
+
+    <AppIcon
+        name="com.wandoujia/com.wandoujia.ripple.activity.HomeActivity"
+        image="wandoujia_ripple"/>
+
+    <AppIcon
+        name="in.iqing.app/in.iqing.view.activity.SplashActivity"
+        image="iqing"/>
+
+    <AppIcon
+        name="net.linovel.keiko/net.linovel.keiko.SplashScreen"
+        image="linovel"/>
+
+    <AppIcon
+        name="tech.evlsoc.captivemgr/tech.evlsoc.captivemgr.MainActivity"
+        image="captive_mgr"/>
+
+    <AppIcon
+        name="fm.qingting.qtradio/fm.qingting.qtradio.WelcomeActivity"
+        image="qingting_radio"/>
+
+    <AppIcon
+        name="com.klcxkj.zqxy/com.klcxkj.zqxy.ui.SplashActivity"
+        image="zqxy"/>
+
+    <AppIcon
+        name="com.chenupt.memory/com.chenupt.memory.launch.SplashActivity"
+        image="memory"/>
+
+    <AppIcon
+        name="com.psiphon3/com.psiphon3.StatusActivity"
+        image="psiphon3"/>
+
+    <AppIcon
+        name="com.evenwell.weather/com.fihtdc.weather.activity.WeatherDetailActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="com.hmdglobal.appstore/com.siui.android.appstore.MainActivity"
+        image="appstore"/>
+
 </Theme>

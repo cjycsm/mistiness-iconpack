@@ -57,27 +57,28 @@
     </string-array>
 
     <string-array name="newest">
-        <item>sony_sketch</item>
-        <item>bilibili_live</item>
-        <item>du_recorder</item>
-        <item>focus_lite</item>
-        <item>gfx_tool</item>
-        <item>gif_live_wallpaper</item>
-        <item>gofun</item>
-        <item>guitar_tuna</item>
-        <item>kaomoji</item>
-        <item>mobilism</item>
-        <item>mysplash</item>
-        <item>mysplash_alt</item>
-        <item>patreon</item>
-        <item>pinterest</item>
-        <item>resplash</item>
-        <item>resplash_alt</item>
-        <item>arena_of_valor</item>
-        <item>deemo</item>
-        <item>limbo</item>
-        <item>limbo_alt</item>
-        <item>mini_metro</item>
+        <item>sleep</item>
+        <item>taomix2</item>
+        <item>google_tasks</item>
+        <item>teamviewer</item>
+        <item>teamviewer_alt</item>
+        <item>teleplus</item>
+        <item>twitch</item>
+        <item>google_tv_remote</item>
+        <item>baidu_yuedu</item>
+        <item>mi_globalbrowser_mini</item>
+        <item>daniu</item>
+        <item>bizranking</item>
+        <item>pingan_ff</item>
+        <item>wandoujia_ripple</item>
+        <item>wandoujia_ripple_alt</item>
+        <item>iqing</item>
+        <item>linovel</item>
+        <item>captive_mgr</item>
+        <item>qingting_radio</item>
+        <item>zqxy</item>
+        <item>memory</item>
+        <item>psiphon3</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1190,6 +1191,28 @@
         <item>pinterest</item>
         <item>resplash</item>
         <item>resplash_alt</item>
+        <item>sleep</item>
+        <item>taomix2</item>
+        <item>tasks</item>
+        <item>teamviewer</item>
+        <item>teamviewer_alt</item>
+        <item>teleplus</item>
+        <item>twitch</item>
+        <item>google_tv_remote</item>
+        <item>baidu_yuedu</item>
+        <item>mi_globalbrowser_mini</item>
+        <item>daniu</item>
+        <item>bizranking</item>
+        <item>pingan_ff</item>
+        <item>wandoujia_ripple</item>
+        <item>wandoujia_ripple_alt</item>
+        <item>iqing</item>
+        <item>linovel</item>
+        <item>captive_mgr</item>
+        <item>qingting_radio</item>
+        <item>zqxy</item>
+        <item>memory</item>
+        <item>psiphon3</item>
     </string-array>
 
     <string-array name="game">

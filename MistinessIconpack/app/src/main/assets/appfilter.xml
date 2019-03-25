@@ -6228,4 +6228,92 @@
         component="ComponentInfo{com.sonymobile.sketch/com.sonymobile.sketch.dashboard.DashboardActivity}"
         drawable="sony_sketch"/>
 
+    <item
+        component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}"
+        drawable="sleep"/>
+
+    <item
+        component="ComponentInfo{com.inookta.taomix2/com.inookta.taomix2.MainActivity}"
+        drawable="taomix2"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.tasks/com.google.android.apps.tasks.ui.TaskListsActivity}"
+        drawable="google_tasks"/>
+
+    <item
+        component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}"
+        drawable="teamviewer"/>
+
+    <item
+        component="ComponentInfo{in.teleplus/org.telegram.ui.LaunchActivity}"
+        drawable="teleplus"/>
+
+    <item
+        component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}"
+        drawable="twitch"/>
+
+    <item
+        component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}"
+        drawable="google_tv_remote"/>
+
+    <item
+        component="ComponentInfo{com.baidu.yuedu/com.baidu.yuedu.splash.SplashActivity}"
+        drawable="baidu_yuedu"/>
+
+    <item
+        component="ComponentInfo{com.mi.globalbrowser.mini/com.miui.android.apps.chrome.Main}"
+        drawable="mi_globalbrowser_mini"/>
+
+    <item
+        component="ComponentInfo{com.deniu.daniu/com.deniu.daniu.activity.SplashActivity}"
+        drawable="daniu"/>
+
+    <item
+        component="ComponentInfo{com.icloudoor.bizranking/com.icloudoor.bizranking.activity.SplashActivity}"
+        drawable="bizranking"/>
+
+    <item
+        component="ComponentInfo{com.pingan.ff.yz/com.pingan.ff.activity.SplashActivity}"
+        drawable="pingan_ff"/>
+
+    <item
+        component="ComponentInfo{com.wandoujia/com.wandoujia.ripple.activity.HomeActivity}"
+        drawable="wandoujia_ripple"/>
+
+    <item
+        component="ComponentInfo{in.iqing.app/in.iqing.view.activity.SplashActivity}"
+        drawable="iqing"/>
+
+    <item
+        component="ComponentInfo{net.linovel.keiko/net.linovel.keiko.SplashScreen}"
+        drawable="linovel"/>
+
+    <item
+        component="ComponentInfo{tech.evlsoc.captivemgr/tech.evlsoc.captivemgr.MainActivity}"
+        drawable="captive_mgr"/>
+
+    <item
+        component="ComponentInfo{fm.qingting.qtradio/fm.qingting.qtradio.WelcomeActivity}"
+        drawable="qingting_radio"/>
+
+    <item
+        component="ComponentInfo{com.klcxkj.zqxy/com.klcxkj.zqxy.ui.SplashActivity}"
+        drawable="zqxy"/>
+
+    <item
+        component="ComponentInfo{com.chenupt.memory/com.chenupt.memory.launch.SplashActivity}"
+        drawable="memory"/>
+
+    <item
+        component="ComponentInfo{com.psiphon3/com.psiphon3.StatusActivity}"
+        drawable="psiphon3"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.weather/com.fihtdc.weather.activity.WeatherDetailActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.hmdglobal.appstore/com.siui.android.appstore.MainActivity}"
+        drawable="appstore"/>
+
 </resources>

@@ -6245,4 +6245,92 @@
         class="com.sonymobile.sketch.dashboard.DashboardActivity"
         name="sony_sketch"/>
 
+    <item
+        class="com.urbandroid.sleep.alarmclock.AlarmClock"
+        name="sleep"/>
+
+    <item
+        class="com.inookta.taomix2.MainActivity"
+        name="taomix2"/>
+
+    <item
+        class="com.google.android.apps.tasks.ui.TaskListsActivity"
+        name="google_tasks"/>
+
+    <item
+        class="com.teamviewer.remotecontrollib.activity.MainActivity"
+        name="teamviewer"/>
+
+    <item
+        class="org.telegram.ui.LaunchActivity"
+        name="teleplus"/>
+
+    <item
+        class="tv.twitch.android.app.core.LandingActivity"
+        name="twitch"/>
+
+    <item
+        class="com.google.android.tv.remote.RemoteActivity"
+        name="google_tv_remote"/>
+
+    <item
+        class="com.baidu.yuedu.splash.SplashActivity"
+        name="baidu_yuedu"/>
+
+    <item
+        class="com.miui.android.apps.chrome.Main"
+        name="mi_globalbrowser_mini"/>
+
+    <item
+        class="com.deniu.daniu.activity.SplashActivity"
+        name="daniu"/>
+
+    <item
+        class="com.icloudoor.bizranking.activity.SplashActivity"
+        name="bizranking"/>
+
+    <item
+        class="com.pingan.ff.activity.SplashActivity"
+        name="pingan_ff"/>
+
+    <item
+        class="com.wandoujia.ripple.activity.HomeActivity"
+        name="wandoujia_ripple"/>
+
+    <item
+        class="in.iqing.view.activity.SplashActivity"
+        name="iqing"/>
+
+    <item
+        class="net.linovel.keiko.SplashScreen"
+        name="linovel"/>
+
+    <item
+        class="tech.evlsoc.captivemgr.MainActivity"
+        name="captive_mgr"/>
+
+    <item
+        class="fm.qingting.qtradio.WelcomeActivity"
+        name="qingting_radio"/>
+
+    <item
+        class="com.klcxkj.zqxy.ui.SplashActivity"
+        name="zqxy"/>
+
+    <item
+        class="com.chenupt.memory.launch.SplashActivity"
+        name="memory"/>
+
+    <item
+        class="com.psiphon3.StatusActivity"
+        name="psiphon3"/>
+
+    <item
+        class="com.fihtdc.weather.activity.WeatherDetailActivity"
+        name="weather"/>
+
+    <item
+        class="com.siui.android.appstore.MainActivity"
+        name="appstore"/>
+
 </appmap>
