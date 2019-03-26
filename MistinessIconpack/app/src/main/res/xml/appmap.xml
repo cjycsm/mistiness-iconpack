@@ -4943,7 +4943,7 @@
 
     <item
         class="io.github.skyhacker2.magnetsearch.SplashActivity"
-        name="magent_search"/>
+        name="magnet_search"/>
 
     <item
         class="com.max.xiaoheihe.SplashActivity"
@@ -6067,7 +6067,7 @@
 
     <item
         class="com.laisi.magent.player.ui.SplashActivity"
-        name="magent_player"/>
+        name="magnet_player"/>
 
     <item
         class="com.qq.vpn.main.LaunchActivity"
@@ -6332,5 +6332,73 @@
     <item
         class="com.siui.android.appstore.MainActivity"
         name="appstore"/>
+
+    <item
+        class="org.cocos2dx.lua.AppActivity"
+        name="sgs"/>
+
+    <item
+        class="com.example.dwd.myapplication.SplashActivity"
+        name="flash_download"/>
+
+    <item
+        class="org.js.oledsaver.activity.MainActivity"
+        name="oled_saver"/>
+
+    <item
+        class="com.shanbay.speak.startup.activity.SplashActivity"
+        name="shanbay_speak"/>
+
+    <item
+        class="com.shanbay.listen.startup.SplashActivity"
+        name="shanbay_listen"/>
+
+    <item
+        class="com.digitalsky.girlsfrontline.cn.UnityPlayerActivity"
+        name="girlsfrontline"/>
+
+    <item
+        class="com.sspai.sspaiandroid.activities.MainTabActivity"
+        name="sspai"/>
+
+    <item
+        class="com.magicmagnet.common.SplashActivity"
+        name="magic_magnet"/>
+
+    <item
+        class="com.mistong.ewt360.ui.activity.SplashActivity"
+        name="ewt360"/>
+
+    <item
+        class="chuxin.shimo.shimowendang.MainActivity"
+        name="shimowendang"/>
+
+    <item
+        class="com.mtime.bussiness.splash.SplashNewActivity"
+        name="mtime"/>
+
+    <item
+        class="com.alipay.mobile.quinox.LauncherActivity"
+        name="sjgjj"/>
+
+    <item
+        class="com.easybrain.sudoku.gui.splash.SplashActivity"
+        name="sudoku"/>
+
+    <item
+        class="com.tplink.mf.ui.base.InitAppActivity"
+        name="mercury_cloudrouter"/>
+
+    <item
+        class="com.nbc.music.MusicBrowserActivity"
+        name="music"/>
+
+    <item
+        class="com.evenwell.android.memo.activity.MainActivity"
+        name="notes"/>
+
+    <item
+        class="io.github.skyhacker2.magnetsearch.SplashActivity"
+        name="magnet_search"/>
 
 </appmap>

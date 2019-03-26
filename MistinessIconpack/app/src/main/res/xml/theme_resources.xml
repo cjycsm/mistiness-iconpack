@@ -4949,7 +4949,7 @@
 
     <AppIcon
         name="io.github.skyhacker2.magnetsearch/io.github.skyhacker2.magnetsearch.SplashActivity"
-        image="magent_search"/>
+        image="magnet_search"/>
 
     <AppIcon
         name="com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity"
@@ -6081,7 +6081,7 @@
 
     <AppIcon
         name="com.laisi.magent.player/com.laisi.magent.player.ui.SplashActivity"
-        image="magent_player"/>
+        image="magnet_player"/>
 
     <AppIcon
         name="com.qq.network/com.qq.vpn.main.LaunchActivity"
@@ -6346,5 +6346,73 @@
     <AppIcon
         name="com.hmdglobal.appstore/com.siui.android.appstore.MainActivity"
         image="appstore"/>
+
+    <AppIcon
+        name="com.bf.sgs.hdexp/org.cocos2dx.lua.AppActivity"
+        image="sgs"/>
+
+    <AppIcon
+        name="com.flash.download/com.example.dwd.myapplication.SplashActivity"
+        image="flash_download"/>
+
+    <AppIcon
+        name="org.js.oledsaver/org.js.oledsaver.activity.MainActivity"
+        image="oled_saver"/>
+
+    <AppIcon
+        name="com.shanbay.speak/com.shanbay.speak.startup.activity.SplashActivity"
+        image="shanbay_speak"/>
+
+    <AppIcon
+        name="com.shanbay.listen/com.shanbay.listen.startup.SplashActivity"
+        image="shanbay_listen"/>
+
+    <AppIcon
+        name="com.digitalsky.girlsfrontline.cn/com.digitalsky.girlsfrontline.cn.UnityPlayerActivity"
+        image="girlsfrontline"/>
+
+    <AppIcon
+        name="com.sspai.sspaiandroid/com.sspai.sspaiandroid.activities.MainTabActivity"
+        image="sspai"/>
+
+    <AppIcon
+        name="com.magicmagnet/com.magicmagnet.common.SplashActivity"
+        image="magic_magnet"/>
+
+    <AppIcon
+        name="com.mistong.ewt360/com.mistong.ewt360.ui.activity.SplashActivity"
+        image="ewt360"/>
+
+    <AppIcon
+        name="chuxin.shimo.shimowendang/chuxin.shimo.shimowendang.MainActivity"
+        image="shimowendang"/>
+
+    <AppIcon
+        name="com.mtime/com.mtime.bussiness.splash.SplashNewActivity"
+        image="mtime"/>
+
+    <AppIcon
+        name="com.shineyue.sjgjj/com.alipay.mobile.quinox.LauncherActivity"
+        image="sjgjj"/>
+
+    <AppIcon
+        name="com.easybrain.sudoku.android/com.easybrain.sudoku.gui.splash.SplashActivity"
+        image="sudoku"/>
+
+    <AppIcon
+        name="com.mercury.cloudrouter/com.tplink.mf.ui.base.InitAppActivity"
+        image="mercury_cloudrouter"/>
+
+    <AppIcon
+        name="com.nbc.music/com.nbc.music.MusicBrowserActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="io.github.skyhacker2.magnetsearchpro/io.github.skyhacker2.magnetsearch.SplashActivity"
+        image="magnet_search"/>
 
 </Theme>

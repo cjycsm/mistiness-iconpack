@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>80</version>
+    <version>81</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -354,6 +354,7 @@
     <item drawable="everphoto"/>
     <item drawable="everything_done"/>
     <item drawable="evie_launcher"/>
+    <item drawable="ewt360"/>
     <item drawable="examcoo"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
@@ -390,6 +391,7 @@
     <item drawable="firefox_rocket"/>
     <item drawable="fivehundredpx"/>
     <item drawable="flamingo"/>
+    <item drawable="flash_download"/>
     <item drawable="flight_manager"/>
     <item drawable="flipboard"/>
     <item drawable="floatify"/>
@@ -428,6 +430,7 @@
     <item drawable="gfx_tool"/>
     <item drawable="gif_live_wallpaper"/>
     <item drawable="gifpaser"/>
+    <item drawable="girlsfrontline"/>
     <item drawable="glass"/>
     <item drawable="glow"/>
     <item drawable="go_hosts"/>
@@ -663,12 +666,13 @@
     <item drawable="ludashi"/>
     <item drawable="lufax"/>
     <item drawable="lulu"/>
-    <item drawable="magent_player"/>
-    <item drawable="magent_search"/>
-    <item drawable="magent_search_alt"/>
     <item drawable="magic_browser"/>
+    <item drawable="magic_magnet"/>
     <item drawable="magisk"/>
     <item drawable="magisk_alt"/>
+    <item drawable="magnet_player"/>
+    <item drawable="magnet_search"/>
+    <item drawable="magnet_search_alt"/>
     <item drawable="mahua_movie"/>
     <item drawable="maidanba"/>
     <item drawable="maimai"/>
@@ -705,6 +709,7 @@
     <item drawable="memento"/>
     <item drawable="memory"/>
     <item drawable="memory_cleaner"/>
+    <item drawable="mercury_cloudrouter"/>
     <item drawable="mere_news"/>
     <item drawable="metatrader4"/>
     <item drawable="mfw"/>
@@ -764,6 +769,7 @@
     <item drawable="moviefans"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
+    <item drawable="mtime"/>
     <item drawable="mtxx"/>
     <item drawable="mtxx_alt"/>
     <item drawable="music"/>
@@ -821,6 +827,7 @@
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="ofo"/>
+    <item drawable="oled_saver"/>
     <item drawable="one_diary"/>
     <item drawable="onepassword"/>
     <item drawable="onepassword_alt"/>
@@ -999,9 +1006,12 @@
     <item drawable="sf"/>
     <item drawable="sfacg"/>
     <item drawable="sgame"/>
+    <item drawable="sgs"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
+    <item drawable="shanbay_listen"/>
     <item drawable="shanbay_news"/>
+    <item drawable="shanbay_speak"/>
     <item drawable="shanbay_words"/>
     <item drawable="shanghai_metro"/>
     <item drawable="share"/>
@@ -1011,6 +1021,8 @@
     <item drawable="shazam"/>
     <item drawable="shbank"/>
     <item drawable="shelled_pro"/>
+    <item drawable="shimowendang"/>
+    <item drawable="shimowendang_alt"/>
     <item drawable="shizuku"/>
     <item drawable="shortcut_creater"/>
     <item drawable="shoujimarket"/>
@@ -1022,6 +1034,7 @@
     <item drawable="signal_master"/>
     <item drawable="sina_news"/>
     <item drawable="sing_client"/>
+    <item drawable="sjgjj"/>
     <item drawable="skyeye"/>
     <item drawable="skype"/>
     <item drawable="sleep"/>
@@ -1068,6 +1081,7 @@
     <item drawable="spotify"/>
     <item drawable="spotify_alt"/>
     <item drawable="ssly"/>
+    <item drawable="sspai"/>
     <item drawable="steam"/>
     <item drawable="steam_go"/>
     <item drawable="steam_go_alt"/>
@@ -1080,6 +1094,7 @@
     <item drawable="storm"/>
     <item drawable="substratum"/>
     <item drawable="subwaysurf"/>
+    <item drawable="sudoku"/>
     <item drawable="suishouji"/>
     <item drawable="sun_player"/>
     <item drawable="suning_ebuy"/>

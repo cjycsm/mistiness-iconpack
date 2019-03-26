@@ -4918,7 +4918,7 @@
 
     <item
         component="ComponentInfo{io.github.skyhacker2.magnetsearch/io.github.skyhacker2.magnetsearch.SplashActivity}"
-        drawable="magent_search"/>
+        drawable="magnet_search"/>
 
     <item
         component="ComponentInfo{com.max.xiaoheihe/com.max.xiaoheihe.SplashActivity}"
@@ -6050,7 +6050,7 @@
 
     <item
         component="ComponentInfo{com.laisi.magent.player/com.laisi.magent.player.ui.SplashActivity}"
-        drawable="magent_player"/>
+        drawable="magnet_player"/>
 
     <item
         component="ComponentInfo{com.qq.network/com.qq.vpn.main.LaunchActivity}"
@@ -6315,5 +6315,73 @@
     <item
         component="ComponentInfo{com.hmdglobal.appstore/com.siui.android.appstore.MainActivity}"
         drawable="appstore"/>
+
+    <item
+        component="ComponentInfo{com.bf.sgs.hdexp/org.cocos2dx.lua.AppActivity}"
+        drawable="sgs"/>
+
+    <item
+        component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.SplashActivity}"
+        drawable="flash_download"/>
+
+    <item
+        component="ComponentInfo{org.js.oledsaver/org.js.oledsaver.activity.MainActivity}"
+        drawable="oled_saver"/>
+
+    <item
+        component="ComponentInfo{com.shanbay.speak/com.shanbay.speak.startup.activity.SplashActivity}"
+        drawable="shanbay_speak"/>
+
+    <item
+        component="ComponentInfo{com.shanbay.listen/com.shanbay.listen.startup.SplashActivity}"
+        drawable="shanbay_listen"/>
+
+    <item
+        component="ComponentInfo{com.digitalsky.girlsfrontline.cn/com.digitalsky.girlsfrontline.cn.UnityPlayerActivity}"
+        drawable="girlsfrontline"/>
+
+    <item
+        component="ComponentInfo{com.sspai.sspaiandroid/com.sspai.sspaiandroid.activities.MainTabActivity}"
+        drawable="sspai"/>
+
+    <item
+        component="ComponentInfo{com.magicmagnet/com.magicmagnet.common.SplashActivity}"
+        drawable="magic_magnet"/>
+
+    <item
+        component="ComponentInfo{com.mistong.ewt360/com.mistong.ewt360.ui.activity.SplashActivity}"
+        drawable="ewt360"/>
+
+    <item
+        component="ComponentInfo{chuxin.shimo.shimowendang/chuxin.shimo.shimowendang.MainActivity}"
+        drawable="shimowendang"/>
+
+    <item
+        component="ComponentInfo{com.mtime/com.mtime.bussiness.splash.SplashNewActivity}"
+        drawable="mtime"/>
+
+    <item
+        component="ComponentInfo{com.shineyue.sjgjj/com.alipay.mobile.quinox.LauncherActivity}"
+        drawable="sjgjj"/>
+
+    <item
+        component="ComponentInfo{com.easybrain.sudoku.android/com.easybrain.sudoku.gui.splash.SplashActivity}"
+        drawable="sudoku"/>
+
+    <item
+        component="ComponentInfo{com.mercury.cloudrouter/com.tplink.mf.ui.base.InitAppActivity}"
+        drawable="mercury_cloudrouter"/>
+
+    <item
+        component="ComponentInfo{com.nbc.music/com.nbc.music.MusicBrowserActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{io.github.skyhacker2.magnetsearchpro/io.github.skyhacker2.magnetsearch.SplashActivity}"
+        drawable="magnet_search"/>
 
 </resources>

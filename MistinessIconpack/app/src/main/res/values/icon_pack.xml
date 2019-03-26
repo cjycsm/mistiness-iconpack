@@ -54,31 +54,25 @@
         <item>vivo</item>
         <item>sony</item>
         <item>nubia</item>
+        <item>LG</item>
     </string-array>
 
     <string-array name="newest">
-        <item>sleep</item>
-        <item>taomix2</item>
-        <item>google_tasks</item>
-        <item>teamviewer</item>
-        <item>teamviewer_alt</item>
-        <item>teleplus</item>
-        <item>twitch</item>
-        <item>google_tv_remote</item>
-        <item>baidu_yuedu</item>
-        <item>mi_globalbrowser_mini</item>
-        <item>daniu</item>
-        <item>bizranking</item>
-        <item>pingan_ff</item>
-        <item>wandoujia_ripple</item>
-        <item>wandoujia_ripple_alt</item>
-        <item>iqing</item>
-        <item>linovel</item>
-        <item>captive_mgr</item>
-        <item>qingting_radio</item>
-        <item>zqxy</item>
-        <item>memory</item>
-        <item>psiphon3</item>
+        <item>flash_download</item>
+        <item>oled_saver</item>
+        <item>shanbay_speak</item>
+        <item>shanbay_listen</item>
+        <item>sspai</item>
+        <item>magic_magnet</item>
+        <item>ewt360</item>
+        <item>shimowendang</item>
+        <item>shimowendang_alt</item>
+        <item>mtime</item>
+        <item>sjgjj</item>
+        <item>mercury_cloudrouter</item>
+        <item>sgs</item>
+        <item>girlsfrontline</item>
+        <item>sudoku</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -936,8 +930,8 @@
         <item>netease_vopen</item>
         <item>microsoft_rdc</item>
         <item>wochacha</item>
-        <item>magent_search</item>
-        <item>magent_search_alt</item>
+        <item>magnet_search</item>
+        <item>magnet_search_alt</item>
         <item>xiaoheihe</item>
         <item>xiaoheihe_alt</item>
         <item>stopapp</item>
@@ -1158,7 +1152,7 @@
         <item>live_visualizer</item>
         <item>chaoge</item>
         <item>pure_mosaic</item>
-        <item>magent_player</item>
+        <item>magnet_player</item>
         <item>dengta_vpn</item>
         <item>dingying_wisdom_bus</item>
         <item>google_pay</item>
@@ -1193,7 +1187,7 @@
         <item>resplash_alt</item>
         <item>sleep</item>
         <item>taomix2</item>
-        <item>tasks</item>
+        <item>google_tasks</item>
         <item>teamviewer</item>
         <item>teamviewer_alt</item>
         <item>teleplus</item>
@@ -1213,6 +1207,18 @@
         <item>zqxy</item>
         <item>memory</item>
         <item>psiphon3</item>
+        <item>flash_download</item>
+        <item>oled_saver</item>
+        <item>shanbay_speak</item>
+        <item>shanbay_listen</item>
+        <item>sspai</item>
+        <item>magic_magnet</item>
+        <item>ewt360</item>
+        <item>shimowendang</item>
+        <item>shimowendang_alt</item>
+        <item>mtime</item>
+        <item>sjgjj</item>
+        <item>mercury_cloudrouter</item>
     </string-array>
 
     <string-array name="game">
@@ -1270,6 +1276,9 @@
         <item>limbo</item>
         <item>limbo_alt</item>
         <item>mini_metro</item>
+        <item>sgs</item>
+        <item>girlsfrontline</item>
+        <item>sudoku</item>
     </string-array>
 
     <string-array name="basic">
