@@ -6401,4 +6401,136 @@
         class="io.github.skyhacker2.magnetsearch.SplashActivity"
         name="magnet_search"/>
 
+    <item
+        class="com.adguard.android.ui.SplashActivity"
+        name="ad_guard"/>
+
+    <item
+        class="com.moyan.dailytask.ui.SplashActivity"
+        name="daily_task"/>
+
+    <item
+        class="dji.pilot.main.activity.DJILauncherActivity"
+        name="dji_go_v4"/>
+
+    <item
+        class="com.languagedrops.drops.international.MainActivity"
+        name="drops"/>
+
+    <item
+        class="com.qq.vpn.ui.main.LaunchActivity"
+        name="free_vpn"/>
+
+    <item
+        class="com.imdb.mobile.HomeActivity"
+        name="imdb"/>
+
+    <item
+        class="org.kde.kdeconnect.UserInterface.MainActivity"
+        name="ked_connect"/>
+
+    <item
+        class="md533b117125e779ee5bd2742126a94a846.MainActivity"
+        name="nintendo_switch"/>
+
+    <item
+        class="top.drawcore.mqme.Activity.MainActivity"
+        name="mqme"/>
+
+    <item
+        class="ru.kuchanov.scpcore.ui.activity.SplashActivity"
+        name="scp_foundation"/>
+
+    <item
+        class="info.free.scp.MainActivity"
+        name="scp_foundation"/>
+
+    <item
+        class="com.teambition.teambition.home.HomeActivity"
+        name="teambition"/>
+
+    <item
+        class="com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity"
+        name="termius"/>
+
+    <item
+        class="com.tumblr.ui.activity.JumpoffActivity"
+        name="tumblr"/>
+
+    <item
+        class="com.realvnc.viewer.android.app.ConnectionChooserActivity"
+        name="vnc_viewer"/>
+
+    <item
+        class="com.chebada.main.vipday.WelcomeActivity"
+        name="chebada"/>
+
+    <item
+        class="com.chebada.main.welcome.WelcomeActivity"
+        name="chebada"/>
+
+    <item
+        class="org.zxq.teleri.activity.SplashActivity"
+        name="banma"/>
+
+    <item
+        class="com.gzqwkj.cshu.ui.activity.LauchActivity"
+        name="bix"/>
+
+    <item
+        class="com.magook.activity.SplashActivity"
+        name="bookan"/>
+
+    <item
+        class="com.cootek.smartinput5.GateActivity"
+        name="cootek_input"/>
+
+    <item
+        class="com.duola.yunprint.ui.splash.SplashActivity"
+        name="duola_yunprint"/>
+
+    <item
+        class="com.diershoubing.erbing.activity.VersionActivity"
+        name="erbing"/>
+
+    <item
+        class="org.gushiwen.gushiwen.WelcomeActivity"
+        name="gushiwen"/>
+
+    <item
+        class="com.google.android.apps.googleassistant.AssistantActivity"
+        name="google_assistant"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="huahuo"/>
+
+    <item
+        class="org.mozilla.firefox_beta.App"
+        name="firefox_beta"/>
+
+    <item
+        class="com.economist.hummingbird.SplashActivity"
+        name="economist"/>
+
+    <item
+        class="com.adsafepro.mvc.activity.WelcomeActivity"
+        name="adsafe_pro"/>
+
+    <item
+        class="com.example.juzimi.MainActivity"
+        name="juzimi"/>
+
+    <item
+        class="yyc.app.bqb.MainActivity"
+        name="coolapk_sticker"/>
+
+    <item
+        class="com.lenovo.leos.cloud.sync.UIv5.V5SplashActivity"
+        name="lenove_cloud_sync"/>
+
+    <item
+        class="com.tencent.gamehelper.ui.main.SplashActivity"
+        name="tencent_gamehelper_smoba"/>
+
 </appmap>

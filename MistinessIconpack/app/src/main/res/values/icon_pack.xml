@@ -58,25 +58,49 @@
     </string-array>
 
     <string-array name="newest">
-        <item>flash_download</item>
-        <item>oled_saver</item>
-        <item>shanbay_speak</item>
-        <item>shanbay_listen</item>
-        <item>sspai</item>
-        <item>magic_magnet</item>
-        <item>ewt360</item>
-        <item>shimowendang</item>
-        <item>shimowendang_alt</item>
-        <item>mtime</item>
-        <item>sjgjj</item>
-        <item>mercury_cloudrouter</item>
-        <item>sgs</item>
-        <item>girlsfrontline</item>
-        <item>sudoku</item>
+        <item>ad_guard</item>
+        <item>daily_task</item>
+        <item>dji_go_v4</item>
+        <item>drops</item>
+        <item>free_vpn</item>
+        <item>imdb</item>
+        <item>ked_connect</item>
+        <item>ked_connect_alt</item>
+        <item>nintendo_switch</item>
+        <item>mqme</item>
+        <item>scp_foundation</item>
+        <item>scp_foundation_alt</item>
+        <item>teambition</item>
+        <item>teambition_alt</item>
+        <item>termius</item>
+        <item>tumblr</item>
+        <item>tumblr_alt</item>
+        <item>vnc_viewer</item>
+        <item>chebada</item>
+        <item>banma</item>
+        <item>bix</item>
+        <item>bookan</item>
+        <item>cootek_input</item>
+        <item>duola_yunprint</item>
+        <item>erbing</item>
+        <item>gushiwen</item>
+        <item>google_assistant</item>
+        <item>huahuo</item>
+        <item>firefox_beta</item>
+        <item>economist</item>
+        <item>adsafe_pro</item>
+        <item>adsafe_pro_alt</item>
+        <item>juzimi</item>
+        <item>coolapk_sticker</item>
+        <item>lenove_cloud_sync</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>firefox</item>
+        <item>firefox_rocket</item>
+        <item>shanbay_speak</item>
+        <item>shanbay_speak_alt</item>
+        <item>shanbay_listen</item>
     </string-array>
 
     <string-array name="application">
@@ -1219,6 +1243,40 @@
         <item>mtime</item>
         <item>sjgjj</item>
         <item>mercury_cloudrouter</item>
+        <item>ad_guard</item>
+        <item>daily_task</item>
+        <item>dji_go_v4</item>
+        <item>drops</item>
+        <item>free_vpn</item>
+        <item>imdb</item>
+        <item>ked_connect</item>
+        <item>ked_connect_alt</item>
+        <item>nintendo_switch</item>
+        <item>mqme</item>
+        <item>scp_foundation</item>
+        <item>scp_foundation_alt</item>
+        <item>teambition</item>
+        <item>teambition_alt</item>
+        <item>termius</item>
+        <item>tumblr</item>
+        <item>tumblr_alt</item>
+        <item>vnc_viewer</item>
+        <item>chebada</item>
+        <item>banma</item>
+        <item>bix</item>
+        <item>bookan</item>
+        <item>cootek_input</item>
+        <item>duola_yunprint</item>
+        <item>erbing</item>
+        <item>gushiwen</item>
+        <item>google_assistant</item>
+        <item>huahuo</item>
+        <item>firefox_beta</item>
+        <item>economist</item>
+        <item>adsafe_pro</item>
+        <item>juzimi</item>
+        <item>coolapk_sticker</item>
+        <item>lenove_cloud_sync</item>
     </string-array>
 
     <string-array name="game">

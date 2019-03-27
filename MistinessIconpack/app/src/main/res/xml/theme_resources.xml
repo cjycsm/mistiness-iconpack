@@ -6415,4 +6415,136 @@
         name="io.github.skyhacker2.magnetsearchpro/io.github.skyhacker2.magnetsearch.SplashActivity"
         image="magnet_search"/>
 
+    <AppIcon
+        name="com.adguard.android/com.adguard.android.ui.SplashActivity"
+        image="ad_guard"/>
+
+    <AppIcon
+        name="com.moyan.dailytask/com.moyan.dailytask.ui.SplashActivity"
+        image="daily_task"/>
+
+    <AppIcon
+        name="dji.go.v4/dji.pilot.main.activity.DJILauncherActivity"
+        image="dji_go_v4"/>
+
+    <AppIcon
+        name="com.languagedrops.drops.international/com.languagedrops.drops.international.MainActivity"
+        image="drops"/>
+
+    <AppIcon
+        name="com.qq.fq2/com.qq.vpn.ui.main.LaunchActivity"
+        image="free_vpn"/>
+
+    <AppIcon
+        name="com.imdb.mobile/com.imdb.mobile.HomeActivity"
+        image="imdb"/>
+
+    <AppIcon
+        name="org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity"
+        image="ked_connect"/>
+
+    <AppIcon
+        name="com.nintendo.znca/md533b117125e779ee5bd2742126a94a846.MainActivity"
+        image="nintendo_switch"/>
+
+    <AppIcon
+        name="top.drawcore.mqme/top.drawcore.mqme.Activity.MainActivity"
+        image="mqme"/>
+
+    <AppIcon
+        name="info.free.scp/info.free.scp.MainActivity"
+        image="scp_foundation"/>
+
+    <AppIcon
+        name="ru.dante.scpfoundation.ch/ru.kuchanov.scpcore.ui.activity.SplashActivity"
+        image="scp_foundation"/>
+
+    <AppIcon
+        name="com.teambition.teambition/com.teambition.teambition.home.HomeActivity"
+        image="teambition"/>
+
+    <AppIcon
+        name="com.server.auditor.ssh.client/com.server.auditor.ssh.client.navigation.SshNavigationDrawerActivity"
+        image="termius"/>
+
+    <AppIcon
+        name="com.tumblr/com.tumblr.ui.activity.JumpoffActivity"
+        image="tumblr"/>
+
+    <AppIcon
+        name="com.realvnc.viewer.android/com.realvnc.viewer.android.app.ConnectionChooserActivity"
+        image="vnc_viewer"/>
+
+    <AppIcon
+        name="com.chebada/com.chebada.main.vipday.WelcomeActivity"
+        image="chebada"/>
+
+    <AppIcon
+        name="com.chebada/com.chebada.main.welcome.WelcomeActivity"
+        image="chebada"/>
+
+    <AppIcon
+        name="org.zxq.teleri/org.zxq.teleri.activity.SplashActivity"
+        image="banma"/>
+
+    <AppIcon
+        name="com.gzqwkj.cshu/com.gzqwkj.cshu.ui.activity.LauchActivity"
+        image="bix"/>
+
+    <AppIcon
+        name="cn.com.bookan/com.magook.activity.SplashActivity"
+        image="bookan"/>
+
+    <AppIcon
+        name="com.cootek.smartinputv5/com.cootek.smartinput5.GateActivity"
+        image="cootek_input"/>
+
+    <AppIcon
+        name="com.duola.yunprint/com.duola.yunprint.ui.splash.SplashActivity"
+        image="duola_yunprint"/>
+
+    <AppIcon
+        name="com.diershoubing.erbing/com.diershoubing.erbing.activity.VersionActivity"
+        image="erbing"/>
+
+    <AppIcon
+        name="org.gushiwen.gushiwen/org.gushiwen.gushiwen.WelcomeActivity"
+        image="gushiwen"/>
+
+    <AppIcon
+        name="com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity"
+        image="google_assistant"/>
+
+    <AppIcon
+        name="com.MMZZApp.huahuo/com.androlua.Welcome"
+        image="huahuo"/>
+
+    <AppIcon
+        name="org.mozilla.firefox_beta/org.mozilla.firefox_beta.App"
+        image="firefox_beta"/>
+
+    <AppIcon
+        name="com.economist.hummingbird/com.economist.hummingbird.SplashActivity"
+        image="economist"/>
+
+    <AppIcon
+        name="com.adsafepro/com.adsafepro.mvc.activity.WelcomeActivity"
+        image="adsafe_pro"/>
+
+    <AppIcon
+        name="com.example.juzimi/com.example.juzimi.MainActivity"
+        image="juzimi"/>
+
+    <AppIcon
+        name="com.pandecheng.coolapk.sticker/yyc.app.bqb.MainActivity"
+        image="coolapk_sticker"/>
+
+    <AppIcon
+        name="com.lenovo.leos.cloud.sync/com.lenovo.leos.cloud.sync.UIv5.V5SplashActivity"
+        image="lenove_cloud_sync"/>
+
+    <AppIcon
+        name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity"
+        image="tencent_gamehelper_smoba"/>
+
 </Theme>

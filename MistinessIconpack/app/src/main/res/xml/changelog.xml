@@ -15,7 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v1.5.4" />
-    <item text="新增图标15枚" />
+    <version title="v1.5.5" />
+    <item text="新增图标35枚" />
+    <item text="重绘图标5枚" />
+    <item text="全面适配动态日历、动态谷歌日历图标" />
     <item text="其他修复和改进" />
 </resources>

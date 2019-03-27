@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <item type="drawable" key="background">
+        <drawable value="" res="dynamic_google_calendar"/>
+    </item>
+
+    <item type="text" key="day" alignX="center" alignY="center" offsetX="0dp" offsetY="0dp" textSize="22dp" font="sans-serif" color="white"/>
+</resources>
