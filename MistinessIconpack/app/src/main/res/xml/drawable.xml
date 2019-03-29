@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>82</version>
+    <version>83</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -328,6 +328,7 @@
     <item drawable="douyu_rush"/>
     <item drawable="douyu_rush_alt"/>
     <item drawable="downloads"/>
+    <item drawable="dragalia_lost"/>
     <item drawable="drawing_explorer"/>
     <item drawable="dropbox"/>
     <item drawable="drops"/>
@@ -815,6 +816,8 @@
     <item drawable="nature_iconpack"/>
     <item drawable="nba2k19"/>
     <item drawable="nba2k19_alt"/>
+    <item drawable="netease_buff"/>
+    <item drawable="netease_buff_alt"/>
     <item drawable="netease_cartoonreader"/>
     <item drawable="netease_dwrg"/>
     <item drawable="netease_frxy"/>
@@ -834,6 +837,7 @@
     <item drawable="netease_vopen"/>
     <item drawable="netease_yanxuan"/>
     <item drawable="netflix"/>
+    <item drawable="newcapec"/>
     <item drawable="nga"/>
     <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
@@ -841,6 +845,7 @@
     <item drawable="nintendo_switch"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
+    <item drawable="nongxin_sc"/>
     <item drawable="notes"/>
     <item drawable="nova_launcher"/>
     <item drawable="novel_reader"/>
@@ -894,6 +899,7 @@
     <item drawable="photo_editor"/>
     <item drawable="pic_folder"/>
     <item drawable="picacomic"/>
+    <item drawable="piccool"/>
     <item drawable="picsart"/>
     <item drawable="pieplus"/>
     <item drawable="pinduoduo"/>
@@ -1084,6 +1090,7 @@
     <item drawable="snapseed"/>
     <item drawable="snkrs"/>
     <item drawable="sogou_ime"/>
+    <item drawable="sogou_novel"/>
     <item drawable="solid_explorer"/>
     <item drawable="sony_entrance"/>
     <item drawable="sony_liveware"/>
@@ -1137,6 +1144,8 @@
     <item drawable="surfvpn"/>
     <item drawable="synology_chat"/>
     <item drawable="synology_moments"/>
+    <item drawable="szbank"/>
+    <item drawable="szfreego"/>
     <item drawable="szzc"/>
     <item drawable="taichi"/>
     <item drawable="taichi_alt"/>
@@ -1146,6 +1155,7 @@
     <item drawable="taobao_movie"/>
     <item drawable="taobao_qianniu"/>
     <item drawable="taobao_trip"/>
+    <item drawable="taomao"/>
     <item drawable="taomix2"/>
     <item drawable="taptap"/>
     <item drawable="taqu"/>
@@ -1175,7 +1185,9 @@
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
     <item drawable="tencent_gamehelper_speed"/>
+    <item drawable="tencent_gdmj"/>
     <item drawable="tencent_gtclub"/>
+    <item drawable="tencent_happymj"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_live"/>
@@ -1201,10 +1213,13 @@
     <item drawable="tencent_xiaowei"/>
     <item drawable="tencent_zabra"/>
     <item drawable="tenda_router"/>
+    <item drawable="tenecnt_peng"/>
     <item drawable="tenten"/>
     <item drawable="termius"/>
     <item drawable="termux"/>
     <item drawable="termux_alt"/>
+    <item drawable="tfb"/>
+    <item drawable="tfb_alt"/>
     <item drawable="theinitium_news"/>
     <item drawable="theme"/>
     <item drawable="theme_alt"/>
@@ -1226,6 +1241,7 @@
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="tmri"/>
+    <item drawable="togic_livevideo"/>
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
     <item drawable="total_launcher"/>
@@ -1297,6 +1313,7 @@
     <item drawable="weibo_intl"/>
     <item drawable="weibo_lite"/>
     <item drawable="weico"/>
+    <item drawable="weihaibus"/>
     <item drawable="welike"/>
     <item drawable="weread"/>
     <item drawable="whale_movie"/>

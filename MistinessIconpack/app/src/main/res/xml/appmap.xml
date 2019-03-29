@@ -6533,4 +6533,72 @@
         class="com.tencent.gamehelper.ui.main.SplashActivity"
         name="tencent_gamehelper_smoba"/>
 
+    <item
+        class="jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar"
+        name="dragalia_lost"/>
+
+    <item
+        class="com.nxy.sc.activity.SplashActivity"
+        name="nongxin_sc"/>
+
+    <item
+        class="com.sogou.novel.home.SplashActivity"
+        name="sogou_novel"/>
+
+    <item
+        class="com.bwton.szfreego.business.LaunchActivity"
+        name="szfreego"/>
+
+    <item
+        class="com.yitong.szbank.bank.splash.activity.Splash"
+        name="szbank"/>
+
+    <item
+        class="com.togic.launcher.SplashActivity"
+        name="togic_livevideo"/>
+
+    <item
+        class="com.mengtaowangluo.ui.SplashActivity"
+        name="taomao"/>
+
+    <item
+        class="com.onevcat.uniwebview.AndroidPlugin"
+        name="tencent_gdmj"/>
+
+    <item
+        class="com.onevcat.uniwebview.AndroidPlugin"
+        name="tencent_happymj"/>
+
+    <item
+        class="com.ionicframework.cgbank122507.module.open.FirstActivity"
+        name="tfb"/>
+
+    <item
+        class="com.tencent.peng.RedGame"
+        name="tenecnt_peng"/>
+
+    <item
+        class="com.augustus.piccool.activity.MainActivity"
+        name="piccool"/>
+
+    <item
+        class="com.wanxiao.basebusiness.activity.SplashActivity"
+        name="newcapec"/>
+
+    <item
+        class="com.netease.buff.entry.SplashActivity"
+        name="netease_buff"/>
+
+    <item
+        class="com.dtchuxing.app.ui.SplashActivity"
+        name="weihaibus"/>
+
+    <item
+        class="com.kabouzeid.gramophone.ui.activities.MainActivity"
+        name="phonograph"/>
+
+    <item
+        class="wangdaye.com.geometricweather.main.MainActivity"
+        name="geometric_weather"/>
+
 </appmap>

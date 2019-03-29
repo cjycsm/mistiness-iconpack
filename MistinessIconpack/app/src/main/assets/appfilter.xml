@@ -6622,4 +6622,72 @@
         component="ComponentInfo{com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity}"
         drawable="tencent_gamehelper_smoba"/>
 
+    <item
+        component="ComponentInfo{com.nintendo.zaga/jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar}"
+        drawable="dragalia_lost"/>
+
+    <item
+        component="ComponentInfo{com.nxy.sc/com.nxy.sc.activity.SplashActivity}"
+        drawable="nongxin_sc"/>
+
+    <item
+        component="ComponentInfo{com.sogou.novel/com.sogou.novel.home.SplashActivity}"
+        drawable="sogou_novel"/>
+
+    <item
+        component="ComponentInfo{com.bwton.szfreego/com.bwton.szfreego.business.LaunchActivity}"
+        drawable="szfreego"/>
+
+    <item
+        component="ComponentInfo{com.yt.sz.szbank/com.yitong.szbank.bank.splash.activity.Splash}"
+        drawable="szbank"/>
+
+    <item
+        component="ComponentInfo{com.togic.livevideo/com.togic.launcher.SplashActivity}"
+        drawable="togic_livevideo"/>
+
+    <item
+        component="ComponentInfo{com.mengtaowangluo/com.mengtaowangluo.ui.SplashActivity}"
+        drawable="taomao"/>
+
+    <item
+        component="ComponentInfo{com.tencent.ggame/com.onevcat.uniwebview.AndroidPlugin}"
+        drawable="tencent_gdmj"/>
+
+    <item
+        component="ComponentInfo{com.qqgame.happymj/com.onevcat.uniwebview.AndroidPlugin}"
+        drawable="tencent_happymj"/>
+
+    <item
+        component="ComponentInfo{com.ionicframework.cgbank122507/com.ionicframework.cgbank122507.module.open.FirstActivity}"
+        drawable="tfb"/>
+
+    <item
+        component="ComponentInfo{com.tencent.peng/com.tencent.peng.RedGame}"
+        drawable="tenecnt_peng"/>
+
+    <item
+        component="ComponentInfo{com.augustus.piccool/com.augustus.piccool.activity.MainActivity}"
+        drawable="piccool"/>
+
+    <item
+        component="ComponentInfo{com.newcapec.mobile.ncp/com.wanxiao.basebusiness.activity.SplashActivity}"
+        drawable="newcapec"/>
+
+    <item
+        component="ComponentInfo{com.netease.buff/com.netease.buff.entry.SplashActivity}"
+        drawable="netease_buff"/>
+
+    <item
+        component="ComponentInfo{com.ibuscloud.weihaibus/com.dtchuxing.app.ui.SplashActivity}"
+        drawable="weihaibus"/>
+
+    <item
+        component="ComponentInfo{com.kabouzeid.gramophone.yc/com.kabouzeid.gramophone.ui.activities.MainActivity}"
+        drawable="phonograph"/>
+
+    <item
+        component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}"
+        drawable="geometric_weather"/>
+
 </resources>

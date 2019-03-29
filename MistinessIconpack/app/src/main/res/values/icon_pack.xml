@@ -58,49 +58,27 @@
     </string-array>
 
     <string-array name="newest">
-        <item>ad_guard</item>
-        <item>daily_task</item>
-        <item>dji_go_v4</item>
-        <item>drops</item>
-        <item>free_vpn</item>
-        <item>imdb</item>
-        <item>ked_connect</item>
-        <item>ked_connect_alt</item>
-        <item>nintendo_switch</item>
-        <item>mqme</item>
-        <item>scp_foundation</item>
-        <item>scp_foundation_alt</item>
-        <item>teambition</item>
-        <item>teambition_alt</item>
-        <item>termius</item>
-        <item>tumblr</item>
-        <item>tumblr_alt</item>
-        <item>vnc_viewer</item>
-        <item>chebada</item>
-        <item>banma</item>
-        <item>bix</item>
-        <item>bookan</item>
-        <item>cootek_input</item>
-        <item>duola_yunprint</item>
-        <item>erbing</item>
-        <item>gushiwen</item>
-        <item>google_assistant</item>
-        <item>huahuo</item>
-        <item>firefox_beta</item>
-        <item>economist</item>
-        <item>adsafe_pro</item>
-        <item>adsafe_pro_alt</item>
-        <item>juzimi</item>
-        <item>coolapk_sticker</item>
-        <item>lenove_cloud_sync</item>
+        <item>dragalia_lost</item>
+        <item>tencent_gdmj</item>
+        <item>tencent_happymj</item>
+        <item>tenecnt_peng</item>
+        <item>nongxin_sc</item>
+        <item>sogou_novel</item>
+        <item>szfreego</item>
+        <item>szbank</item>
+        <item>togic_livevideo</item>
+        <item>taomao</item>
+        <item>tfb</item>
+        <item>tfb_alt</item>
+        <item>piccool</item>
+        <item>newcapec</item>
+        <item>netease_buff</item>
+        <item>netease_buff_alt</item>
+        <item>weihaibus</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>firefox</item>
-        <item>firefox_rocket</item>
-        <item>shanbay_speak</item>
-        <item>shanbay_speak_alt</item>
-        <item>shanbay_listen</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1277,6 +1255,19 @@
         <item>juzimi</item>
         <item>coolapk_sticker</item>
         <item>lenove_cloud_sync</item>
+        <item>nongxin_sc</item>
+        <item>sogou_novel</item>
+        <item>szfreego</item>
+        <item>szbank</item>
+        <item>togic_livevideo</item>
+        <item>taomao</item>
+        <item>tfb</item>
+        <item>tfb_alt</item>
+        <item>piccool</item>
+        <item>newcapec</item>
+        <item>netease_buff</item>
+        <item>netease_buff_alt</item>
+        <item>weihaibus</item>
     </string-array>
 
     <string-array name="game">
@@ -1337,6 +1328,10 @@
         <item>sgs</item>
         <item>girlsfrontline</item>
         <item>sudoku</item>
+        <item>dragalia_lost</item>
+        <item>tencent_gdmj</item>
+        <item>tencent_happymj</item>
+        <item>tenecnt_peng</item>
     </string-array>
 
     <string-array name="basic">

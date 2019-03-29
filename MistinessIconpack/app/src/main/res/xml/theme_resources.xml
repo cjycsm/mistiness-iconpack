@@ -6547,4 +6547,72 @@
         name="com.tencent.gamehelper.smoba/com.tencent.gamehelper.ui.main.SplashActivity"
         image="tencent_gamehelper_smoba"/>
 
+    <AppIcon
+        name="com.nintendo.zaga/jp.co.cygames.nostatusbar.UnityPlayerActivityStatusBar"
+        image="dragalia_lost"/>
+
+    <AppIcon
+        name="com.nxy.sc/com.nxy.sc.activity.SplashActivity"
+        image="nongxin_sc"/>
+
+    <AppIcon
+        name="com.sogou.novel/com.sogou.novel.home.SplashActivity"
+        image="sogou_novel"/>
+
+    <AppIcon
+        name="com.bwton.szfreego/com.bwton.szfreego.business.LaunchActivity"
+        image="szfreego"/>
+
+    <AppIcon
+        name="com.yt.sz.szbank/com.yitong.szbank.bank.splash.activity.Splash"
+        image="szbank"/>
+
+    <AppIcon
+        name="com.togic.livevideo/com.togic.launcher.SplashActivity"
+        image="togic_livevideo"/>
+
+    <AppIcon
+        name="com.mengtaowangluo/com.mengtaowangluo.ui.SplashActivity"
+        image="taomao"/>
+
+    <AppIcon
+        name="com.tencent.ggame/com.onevcat.uniwebview.AndroidPlugin"
+        image="tencent_gdmj"/>
+
+    <AppIcon
+        name="com.qqgame.happymj/com.onevcat.uniwebview.AndroidPlugin"
+        image="tencent_happymj"/>
+
+    <AppIcon
+        name="com.ionicframework.cgbank122507/com.ionicframework.cgbank122507.module.open.FirstActivity"
+        image="tfb"/>
+
+    <AppIcon
+        name="com.tencent.peng/com.tencent.peng.RedGame"
+        image="tenecnt_peng"/>
+
+    <AppIcon
+        name="com.augustus.piccool/com.augustus.piccool.activity.MainActivity"
+        image="piccool"/>
+
+    <AppIcon
+        name="com.newcapec.mobile.ncp/com.wanxiao.basebusiness.activity.SplashActivity"
+        image="newcapec"/>
+
+    <AppIcon
+        name="com.netease.buff/com.netease.buff.entry.SplashActivity"
+        image="netease_buff"/>
+
+    <AppIcon
+        name="com.ibuscloud.weihaibus/com.dtchuxing.app.ui.SplashActivity"
+        image="weihaibus"/>
+
+    <AppIcon
+        name="com.kabouzeid.gramophone.yc/com.kabouzeid.gramophone.ui.activities.MainActivity"
+        image="phonograph"/>
+
+    <AppIcon
+        name="wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity"
+        image="geometric_weather"/>
+
 </Theme>
