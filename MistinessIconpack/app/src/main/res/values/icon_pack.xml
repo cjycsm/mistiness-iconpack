@@ -58,23 +58,37 @@
     </string-array>
 
     <string-array name="newest">
-        <item>dragalia_lost</item>
-        <item>tencent_gdmj</item>
-        <item>tencent_happymj</item>
-        <item>tenecnt_peng</item>
-        <item>nongxin_sc</item>
-        <item>sogou_novel</item>
-        <item>szfreego</item>
-        <item>szbank</item>
-        <item>togic_livevideo</item>
-        <item>taomao</item>
-        <item>tfb</item>
-        <item>tfb_alt</item>
-        <item>piccool</item>
-        <item>newcapec</item>
-        <item>netease_buff</item>
-        <item>netease_buff_alt</item>
-        <item>weihaibus</item>
+        <item>weihai_bank</item>
+        <item>weizhangpu</item>
+        <item>webank</item>
+        <item>wikipedia</item>
+        <item>wzu</item>
+        <item>zxw51</item>
+        <item>wufun</item>
+        <item>xgdh</item>
+        <item>kankunit_smart</item>
+        <item>xiaoenai</item>
+        <item>blackfish</item>
+        <item>blackfish_alt</item>
+        <item>xiaoming_vpn</item>
+        <item>muchong</item>
+        <item>target</item>
+        <item>xiaoying</item>
+        <item>smscode</item>
+        <item>med</item>
+        <item>cospb</item>
+        <item>ebay</item>
+        <item>rr_icon</item>
+        <item>calculator_fake</item>
+        <item>app_checker</item>
+        <item>controlpb</item>
+        <item>youdao_sw</item>
+        <item>youdao_recite_word</item>
+        <item>youdao_hanyu</item>
+        <item>diaox2</item>
+        <item>flugilo_iconpack</item>
+        <item>rain</item>
+        <item>xbxxz</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1268,6 +1282,36 @@
         <item>netease_buff</item>
         <item>netease_buff_alt</item>
         <item>weihaibus</item>
+        <item>weihai_bank</item>
+        <item>weizhangpu</item>
+        <item>webank</item>
+        <item>wikipedia</item>
+        <item>wzu</item>
+        <item>zxw51</item>
+        <item>wufun</item>
+        <item>xgdh</item>
+        <item>kankunit_smart</item>
+        <item>xiaoenai</item>
+        <item>blackfish</item>
+        <item>blackfish_alt</item>
+        <item>xiaoming_vpn</item>
+        <item>muchong</item>
+        <item>target</item>
+        <item>xiaoying</item>
+        <item>smscode</item>
+        <item>med</item>
+        <item>cospb</item>
+        <item>ebay</item>
+        <item>rr_icon</item>
+        <item>calculator_fake</item>
+        <item>app_checker</item>
+        <item>controlpb</item>
+        <item>youdao_sw</item>
+        <item>youdao_recite_word</item>
+        <item>youdao_hanyu</item>
+        <item>diaox2</item>
+        <item>flugilo_iconpack</item>
+        <item>rain</item>
     </string-array>
 
     <string-array name="game">
@@ -1332,6 +1376,7 @@
         <item>tencent_gdmj</item>
         <item>tencent_happymj</item>
         <item>tenecnt_peng</item>
+        <item>xbxxz</item>
     </string-array>
 
     <string-array name="basic">

@@ -6690,4 +6690,192 @@
         component="ComponentInfo{wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity}"
         drawable="geometric_weather"/>
 
+    <item
+        component="ComponentInfo{com.iss.weihaibank/com.iss.weihaibank.activity.SplashActivity}"
+        drawable="weihai_bank"/>
+
+    <item
+        component="ComponentInfo{com.hkrt.com.kuairutong/com.hkrt.wzp.presentation.screen.welcome.WelcomeActivity}"
+        drawable="weizhangpu"/>
+
+    <item
+        component="ComponentInfo{com.webank.wemoney/com.webank.wemoney.EmptyActivity}"
+        drawable="webank"/>
+
+    <item
+        component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}"
+        drawable="wikipedia"/>
+
+    <item
+        component="ComponentInfo{cn.edu.wzu.wsnew/com.ruijie.whistle.module.welcome.view.WelcomeActivity}"
+        drawable="wzu"/>
+
+    <item
+        component="ComponentInfo{com.fzisen.app51zxw/com.fzisen.app51zxw.android.activity.LanchurActivity}"
+        drawable="zxw51"/>
+
+    <item
+        component="ComponentInfo{com.join.android.app.mgsim.wufun/com.join.mgps.activity.MGMainActivity_}"
+        drawable="wufun"/>
+
+    <item
+        component="ComponentInfo{com.auybbb.bookuyus/com.e4a.runtime.android.StartActivity}"
+        drawable="xgdh"/>
+
+    <item
+        component="ComponentInfo{com.lywl.xbxxz/com.lywl.xbxxz.UnityPlayerActivity}"
+        drawable="xbxxz"/>
+
+    <item
+        component="ComponentInfo{com.kankunit.smartplugcronus/com.kankunit.smartknorns.activity.guide.GuideActivity}"
+        drawable="kankunit_smart"/>
+
+    <item
+        component="ComponentInfo{com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity}"
+        drawable="xiaoenai"/>
+
+    <item
+        component="ComponentInfo{com.blackfish.app.ui/cn.blackfish.host.splash.WelcomeActivity}"
+        drawable="blackfish"/>
+
+    <item
+        component="ComponentInfo{com.xiaoming.vpn/com.xiaoming.vpn.activity.MainActivity}"
+        drawable="xiaoming_vpn"/>
+
+    <item
+        component="ComponentInfo{com.zhuanyejun.club/com.zhuanyejun.club.activity.SplashActivity}"
+        drawable="muchong"/>
+
+    <item
+        component="ComponentInfo{cn.xyiio.target/cn.xyiio.target.controller.MainActivity}"
+        drawable="target"/>
+
+    <item
+        component="ComponentInfo{com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity}"
+        drawable="xiaoying"/>
+
+    <item
+        component="ComponentInfo{com.github.tianma8023.smscode/com.github.tianma8023.smscode.app.HomeActivity}"
+        drawable="smscode"/>
+
+    <item
+        component="ComponentInfo{com.cdel.medmobile/com.cdel.accmobile.app.ui.logo_default}"
+        drawable="med"/>
+
+    <item
+        component="ComponentInfo{com.wsw.cospa/com.wsw.cospa.SplashActivity}"
+        drawable="cospb"/>
+
+    <item
+        component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.MainActivity}"
+        drawable="ebay"/>
+
+    <item
+        component="ComponentInfo{cc.cinyu.rricon/cc.cinyu.rricon.MainActivity}"
+        drawable="rr_icon"/>
+
+    <item
+        component="ComponentInfo{com.hld.anzenbokusufake/com.hld.anzenbokusu.calculator3}"
+        drawable="calculator_fake"/>
+
+    <item
+        component="ComponentInfo{com.hld.anzenbokusufake/com.hld.anzenbokusu.calculator}"
+        drawable="calculator_fake"/>
+
+    <item
+        component="ComponentInfo{com.kroegerama.appchecker/com.kroegerama.appchecker.ActMain}"
+        drawable="app_checker"/>
+
+    <item
+        component="ComponentInfo{com.click369.controlbp/com.click369.controlbp.activity.MainActivity}"
+        drawable="controlpb"/>
+
+    <item
+        component="ComponentInfo{com.youdao.sw/com.youdao.sw.MainActivity}"
+        drawable="youdao_sw"/>
+
+    <item
+        component="ComponentInfo{com.youdao.reciteword/com.youdao.reciteword.activity.SplashActivity}"
+        drawable="youdao_recite_word"/>
+
+    <item
+        component="ComponentInfo{com.youdao.hanyu/com.youdao.hanyu.com.youdao.hanyu.activity.SplashActivity}"
+        drawable="youdao_hanyu"/>
+
+    <item
+        component="ComponentInfo{com.diaox2.android/com.diaox2.android.activity.SplashActivity}"
+        drawable="diaox2"/>
+
+    <item
+        component="ComponentInfo{com.jeromeshaw.iconpack.flugilo/com.jeromeshaw.iconpack.flugilo.activities.SplashActivity}"
+        drawable="flugilo_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.czh.weather_v6/com.czh.weather_v6.MainActivity}"
+        drawable="rain"/>
+
+    <item
+        component="ComponentInfo{senra.rixcloud/com.github.shadowsocks.Shadowsocks}"
+        drawable="shadowsocks"/>
+
+    <item
+        component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}"
+        drawable="magisk"/>
+
+    <item
+        component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}"
+        drawable="viperfx1"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans/com.supercell.clashofclans.GameApp}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.huawei.gamebox/com.huawei.gamebox.GameBoxActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.StartActivity}"
+        drawable="remote_control"/>
+
+    <item
+        component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivityOriginal}"
+        drawable="lucky_patcher"/>
+
+    <item
+        component="ComponentInfo{org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_}"
+        drawable="lantern"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.security2/cn.nubia.security.NubiaSecurity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.notepad.preset/cn.nubia.notepad.NoteListActivity}"
+        drawable="notes"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.soundrecorder.preset/cn.nubia.soundrecorder.ui.RecordingActivity}"
+        drawable="sound_recorder"/>
+
+    <item
+        component="ComponentInfo{com.kookong.app.nubia/com.hzy.tvmao.view.activity.StartActivity}"
+        drawable="remote_control"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.scanner/cn.nubia.scanner.activity.WelcomeActivity}"
+        drawable="qrcode_scanner"/>
+
+    <item
+        component="ComponentInfo{com.android.settings/com.android.settings.Settings$EdgeSettingsActivity}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity}"
+        drawable="theme"/>
+
 </resources>

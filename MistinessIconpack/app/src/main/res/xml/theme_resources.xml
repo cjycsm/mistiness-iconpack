@@ -6615,4 +6615,192 @@
         name="wangdaye.com.geometricweather/wangdaye.com.geometricweather.main.MainActivity"
         image="geometric_weather"/>
 
+    <AppIcon
+        name="com.iss.weihaibank/com.iss.weihaibank.activity.SplashActivity"
+        image="weihai_bank"/>
+
+    <AppIcon
+        name="com.hkrt.com.kuairutong/com.hkrt.wzp.presentation.screen.welcome.WelcomeActivity"
+        image="weizhangpu"/>
+
+    <AppIcon
+        name="com.webank.wemoney/com.webank.wemoney.EmptyActivity"
+        image="webank"/>
+
+    <AppIcon
+        name="org.wikipedia/org.wikipedia.main.MainActivity"
+        image="wikipedia"/>
+
+    <AppIcon
+        name="cn.edu.wzu.wsnew/com.ruijie.whistle.module.welcome.view.WelcomeActivity"
+        image="wzu"/>
+
+    <AppIcon
+        name="com.fzisen.app51zxw/com.fzisen.app51zxw.android.activity.LanchurActivity"
+        image="zxw51"/>
+
+    <AppIcon
+        name="com.join.android.app.mgsim.wufun/com.join.mgps.activity.MGMainActivity_"
+        image="wufun"/>
+
+    <AppIcon
+        name="com.auybbb.bookuyus/com.e4a.runtime.android.StartActivity"
+        image="xgdh"/>
+
+    <AppIcon
+        name="com.lywl.xbxxz/com.lywl.xbxxz.UnityPlayerActivity"
+        image="xbxxz"/>
+
+    <AppIcon
+        name="com.kankunit.smartplugcronus/com.kankunit.smartknorns.activity.guide.GuideActivity"
+        image="kankunit_smart"/>
+
+    <AppIcon
+        name="com.xiaoenai.app/com.xiaoenai.app.presentation.launcher.LauncherActivity"
+        image="xiaoenai"/>
+
+    <AppIcon
+        name="com.blackfish.app.ui/cn.blackfish.host.splash.WelcomeActivity"
+        image="blackfish"/>
+
+    <AppIcon
+        name="com.xiaoming.vpn/com.xiaoming.vpn.activity.MainActivity"
+        image="xiaoming_vpn"/>
+
+    <AppIcon
+        name="com.zhuanyejun.club/com.zhuanyejun.club.activity.SplashActivity"
+        image="muchong"/>
+
+    <AppIcon
+        name="cn.xyiio.target/cn.xyiio.target.controller.MainActivity"
+        image="target"/>
+
+    <AppIcon
+        name="com.quvideo.xiaoying/com.quvideo.xiaoying.app.splash.SplashActivity"
+        image="xiaoying"/>
+
+    <AppIcon
+        name="com.github.tianma8023.smscode/com.github.tianma8023.smscode.app.HomeActivity"
+        image="smscode"/>
+
+    <AppIcon
+        name="com.cdel.medmobile/com.cdel.accmobile.app.ui.logo_default"
+        image="med"/>
+
+    <AppIcon
+        name="com.wsw.cospa/com.wsw.cospa.SplashActivity"
+        image="cospb"/>
+
+    <AppIcon
+        name="com.ebay.mobile/com.ebay.mobile.activities.MainActivity"
+        image="ebay"/>
+
+    <AppIcon
+        name="cc.cinyu.rricon/cc.cinyu.rricon.MainActivity"
+        image="rr_icon"/>
+
+    <AppIcon
+        name="com.hld.anzenbokusufake/com.hld.anzenbokusu.calculator3"
+        image="calculator_fake"/>
+
+    <AppIcon
+        name="com.hld.anzenbokusufake/com.hld.anzenbokusu.calculator"
+        image="calculator_fake"/>
+
+    <AppIcon
+        name="com.kroegerama.appchecker/com.kroegerama.appchecker.ActMain"
+        image="app_checker"/>
+
+    <AppIcon
+        name="com.click369.controlbp/com.click369.controlbp.activity.MainActivity"
+        image="controlpb"/>
+
+    <AppIcon
+        name="com.youdao.sw/com.youdao.sw.MainActivity"
+        image="youdao_sw"/>
+
+    <AppIcon
+        name="com.youdao.reciteword/com.youdao.reciteword.activity.SplashActivity"
+        image="youdao_recite_word"/>
+
+    <AppIcon
+        name="com.youdao.hanyu/com.youdao.hanyu.com.youdao.hanyu.activity.SplashActivity"
+        image="youdao_hanyu"/>
+
+    <AppIcon
+        name="com.diaox2.android/com.diaox2.android.activity.SplashActivity"
+        image="diaox2"/>
+
+    <AppIcon
+        name="com.jeromeshaw.iconpack.flugilo/com.jeromeshaw.iconpack.flugilo.activities.SplashActivity"
+        image="flugilo_iconpack"/>
+
+    <AppIcon
+        name="com.czh.weather_v6/com.czh.weather_v6.MainActivity"
+        image="rain"/>
+
+    <AppIcon
+        name="senra.rixcloud/com.github.shadowsocks.Shadowsocks"
+        image="shadowsocks"/>
+
+    <AppIcon
+        name="com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity"
+        image="magisk"/>
+
+    <AppIcon
+        name="com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity"
+        image="viperfx1"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans/com.supercell.clashofclans.GameApp"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.huawei.gamebox/com.huawei.gamebox.GameBoxActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.StartActivity"
+        image="remote_control"/>
+
+    <AppIcon
+        name="com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome"
+        image="weather"/>
+
+    <AppIcon
+        name="com.android.vending.billing.InAppBillingService.COIN/com.android.vending.billing.InAppBillingService.COIN.MainActivityOriginal"
+        image="lucky_patcher"/>
+
+    <AppIcon
+        name="org.getlantern.lantern/org.lantern.app.activity.LanternMainActivity_"
+        image="lantern"/>
+
+    <AppIcon
+        name="cn.nubia.security2/cn.nubia.security.NubiaSecurity"
+        image="safe"/>
+
+    <AppIcon
+        name="cn.nubia.notepad.preset/cn.nubia.notepad.NoteListActivity"
+        image="notes"/>
+
+    <AppIcon
+        name="cn.nubia.soundrecorder.preset/cn.nubia.soundrecorder.ui.RecordingActivity"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.kookong.app.nubia/com.hzy.tvmao.view.activity.StartActivity"
+        image="remote_control"/>
+
+    <AppIcon
+        name="cn.nubia.scanner/cn.nubia.scanner.activity.WelcomeActivity"
+        image="qrcode_scanner"/>
+
+    <AppIcon
+        name="com.android.settings/com.android.settings.Settings$EdgeSettingsActivity"
+        image="settings"/>
+
+    <AppIcon
+        name="cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity"
+        image="theme"/>
+
 </Theme>

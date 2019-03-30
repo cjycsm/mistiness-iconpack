@@ -6601,4 +6601,192 @@
         class="wangdaye.com.geometricweather.main.MainActivity"
         name="geometric_weather"/>
 
+    <item
+        class="com.iss.weihaibank.activity.SplashActivity"
+        name="weihai_bank"/>
+
+    <item
+        class="com.hkrt.wzp.presentation.screen.welcome.WelcomeActivity"
+        name="weizhangpu"/>
+
+    <item
+        class="com.webank.wemoney.EmptyActivity"
+        name="webank"/>
+
+    <item
+        class="org.wikipedia.main.MainActivity"
+        name="wikipedia"/>
+
+    <item
+        class="com.ruijie.whistle.module.welcome.view.WelcomeActivity"
+        name="wzu"/>
+
+    <item
+        class="com.fzisen.app51zxw.android.activity.LanchurActivity"
+        name="zxw51"/>
+
+    <item
+        class="com.join.mgps.activity.MGMainActivity_"
+        name="wufun"/>
+
+    <item
+        class="com.e4a.runtime.android.StartActivity"
+        name="xgdh"/>
+
+    <item
+        class="com.lywl.xbxxz.UnityPlayerActivity"
+        name="xbxxz"/>
+
+    <item
+        class="com.kankunit.smartknorns.activity.guide.GuideActivity"
+        name="kankunit_smart"/>
+
+    <item
+        class="com.xiaoenai.app.presentation.launcher.LauncherActivity"
+        name="xiaoenai"/>
+
+    <item
+        class="cn.blackfish.host.splash.WelcomeActivity"
+        name="blackfish"/>
+
+    <item
+        class="com.xiaoming.vpn.activity.MainActivity"
+        name="xiaoming_vpn"/>
+
+    <item
+        class="com.zhuanyejun.club.activity.SplashActivity"
+        name="muchong"/>
+
+    <item
+        class="cn.xyiio.target.controller.MainActivity"
+        name="target"/>
+
+    <item
+        class="com.quvideo.xiaoying.app.splash.SplashActivity"
+        name="xiaoying"/>
+
+    <item
+        class="com.github.tianma8023.smscode.app.HomeActivity"
+        name="smscode"/>
+
+    <item
+        class="com.cdel.accmobile.app.ui.logo_default"
+        name="med"/>
+
+    <item
+        class="com.wsw.cospa.SplashActivity"
+        name="cospb"/>
+
+    <item
+        class="com.ebay.mobile.activities.MainActivity"
+        name="ebay"/>
+
+    <item
+        class="cc.cinyu.rricon.MainActivity"
+        name="rr_icon"/>
+
+    <item
+        class="com.hld.anzenbokusu.calculator"
+        name="calculator_fake"/>
+
+    <item
+        class="com.hld.anzenbokusu.calculator3"
+        name="calculator_fake"/>
+
+    <item
+        class="com.kroegerama.appchecker.ActMain"
+        name="app_checker"/>
+
+    <item
+        class="com.click369.controlbp.activity.MainActivity"
+        name="controlpb"/>
+
+    <item
+        class="com.youdao.sw.MainActivity"
+        name="youdao_sw"/>
+
+    <item
+        class="com.youdao.reciteword.activity.SplashActivity"
+        name="youdao_recite_word"/>
+
+    <item
+        class="com.youdao.hanyu.com.youdao.hanyu.activity.SplashActivity"
+        name="youdao_hanyu"/>
+
+    <item
+        class="com.diaox2.android.activity.SplashActivity"
+        name="diaox2"/>
+
+    <item
+        class="com.jeromeshaw.iconpack.flugilo.activities.SplashActivity"
+        name="flugilo_iconpack"/>
+
+    <item
+        class="com.czh.weather_v6.MainActivity"
+        name="rain"/>
+
+    <item
+        class="com.github.shadowsocks.Shadowsocks"
+        name="shadowsocks"/>
+
+    <item
+        class="com.topjohnwu.magisk.SplashActivity"
+        name="magisk"/>
+
+    <item
+        class="com.pittvandewitt.viperfx.MainActivity"
+        name="viperfx1"/>
+
+    <item
+        class="com.supercell.clashofclans.GameApp"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.huawei.gamebox.GameBoxActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.huawei.android.remotecontroller.StartActivity"
+        name="remote_control"/>
+
+    <item
+        class="com.huawei.android.totemweather.WeatherHome"
+        name="weather"/>
+
+    <item
+        class="com.android.vending.billing.InAppBillingService.COIN.MainActivityOriginal"
+        name="lucky_patcher"/>
+
+    <item
+        class="org.lantern.app.activity.LanternMainActivity_"
+        name="lantern"/>
+
+    <item
+        class="cn.nubia.security.NubiaSecurity"
+        name="safe"/>
+
+    <item
+        class="cn.nubia.notepad.NoteListActivity"
+        name="notes"/>
+
+    <item
+        class="cn.nubia.soundrecorder.ui.RecordingActivity"
+        name="sound_recorder"/>
+
+    <item
+        class="com.hzy.tvmao.view.activity.StartActivity"
+        name="remote_control"/>
+
+    <item
+        class="cn.nubia.scanner.activity.WelcomeActivity"
+        name="qrcode_scanner"/>
+
+    <item
+        class="com.android.settings.Settings$EdgeSettingsActivity"
+        name="settings"/>
+
+    <item
+        class="cn.nubia.thememanager.ui.activity.MainActivity"
+        name="theme"/>
+
 </appmap>
