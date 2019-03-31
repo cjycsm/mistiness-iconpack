@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>84</version>
+    <version>85</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -39,6 +39,7 @@
     <item drawable="aeroblast_iconpack"/>
     <item drawable="agoda"/>
     <item drawable="ai_musician"/>
+    <item drawable="aida64"/>
     <item drawable="aimp"/>
     <item drawable="airbnb"/>
     <item drawable="airdroid"/>
@@ -68,6 +69,7 @@
     <item drawable="anki"/>
     <item drawable="antutu"/>
     <item drawable="anzogame_lol"/>
+    <item drawable="apk_export"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
@@ -81,6 +83,7 @@
     <item drawable="appstore_alt2"/>
     <item drawable="appstore_alt3"/>
     <item drawable="arena_of_valor"/>
+    <item drawable="art_station"/>
     <item drawable="article_lite"/>
     <item drawable="article_news"/>
     <item drawable="article_video"/>
@@ -181,6 +184,7 @@
     <item drawable="calendar_ii"/>
     <item drawable="cam_card"/>
     <item drawable="cam_scanner"/>
+    <item drawable="camcordar"/>
     <item drawable="camera"/>
     <item drawable="camera_alt"/>
     <item drawable="camera360"/>
@@ -193,6 +197,7 @@
     <item drawable="cdel"/>
     <item drawable="cebbank"/>
     <item drawable="cebbank_creditcard"/>
+    <item drawable="cells"/>
     <item drawable="cf"/>
     <item drawable="cgv_movie"/>
     <item drawable="changba"/>
@@ -206,7 +211,7 @@
     <item drawable="chinabus_lieche"/>
     <item drawable="chinabus_metor"/>
     <item drawable="chrome"/>
-    <item drawable="chrome_alt"/>
+    <item drawable="chrome_canary"/>
     <item drawable="chunyu_doctor"/>
     <item drawable="cib"/>
     <item drawable="cimoc"/>
@@ -387,6 +392,7 @@
     <item drawable="exview"/>
     <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
+    <item drawable="fa_store"/>
     <item drawable="facebook"/>
     <item drawable="facebook_alt"/>
     <item drawable="faceu"/>
@@ -419,6 +425,7 @@
     <item drawable="flash_download"/>
     <item drawable="flight_manager"/>
     <item drawable="flipboard"/>
+    <item drawable="flo"/>
     <item drawable="floatify"/>
     <item drawable="floating"/>
     <item drawable="flud"/>
@@ -506,6 +513,7 @@
     <item drawable="guokr"/>
     <item drawable="gushiwen"/>
     <item drawable="gyroscope"/>
+    <item drawable="hacfun"/>
     <item drawable="hahamutim"/>
     <item drawable="haier_uhome"/>
     <item drawable="handshaker"/>
@@ -866,7 +874,6 @@
     <item drawable="nubia_bbs"/>
     <item drawable="nubia_neoshare"/>
     <item drawable="nutstore"/>
-    <item drawable="nutstore_alt"/>
     <item drawable="nytimes_cn"/>
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
@@ -968,13 +975,13 @@
     <item drawable="qidian_novel"/>
     <item drawable="qieman"/>
     <item drawable="qihoo_antivirus"/>
+    <item drawable="qihoo_clean"/>
     <item drawable="qihoo_cloudisk"/>
     <item drawable="qihoo_contents"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qihu_browser"/>
     <item drawable="qingting_radio"/>
     <item drawable="qq"/>
-    <item drawable="qq_alt"/>
     <item drawable="qq_browser"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
@@ -984,11 +991,8 @@
     <item drawable="qq_reader"/>
     <item drawable="qq_token"/>
     <item drawable="qqi"/>
-    <item drawable="qqi_alt"/>
     <item drawable="qqjapan"/>
-    <item drawable="qqjapan_alt"/>
     <item drawable="qqlite"/>
-    <item drawable="qqlite_alt"/>
     <item drawable="qrcode_scanner"/>
     <item drawable="qsbk"/>
     <item drawable="quanzi"/>
@@ -1091,9 +1095,7 @@
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
     <item drawable="smartisan_reader"/>
-    <item drawable="smartisan_reader_alt"/>
     <item drawable="smartisanos_bubble"/>
-    <item drawable="smartisanos_bubble_alt"/>
     <item drawable="smartisanos_cloudsync"/>
     <item drawable="smartisanos_perspective"/>
     <item drawable="smartisanos_sidebar"/>

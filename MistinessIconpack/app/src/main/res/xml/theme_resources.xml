@@ -6803,4 +6803,44 @@
         name="cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity"
         image="theme"/>
 
+    <AppIcon
+        name="com.qihoo.cleandroid_cn/com.qihoo360.mobilesafe.opti.ui.main.AppEnterActivity"
+        image="qihoo_clean"/>
+
+    <AppIcon
+        name="com.finalwire.aida64/com.finalwire.aida64.HHMainActivity"
+        image="aida64"/>
+
+    <AppIcon
+        name="cn.leftshine.apkexport/cn.leftshine.apkexport.activity.MainActivity"
+        image="apk_export"/>
+
+    <AppIcon
+        name="com.ballistiq.artstation/com.ballistiq.artstation.view.activity.MainActivity"
+        image="art_station"/>
+
+    <AppIcon
+        name="nimingban.hacfun.tv/nimingban.hacfun.tv.MainActivity"
+        image="hacfun"/>
+
+    <AppIcon
+        name="com.shahvilla.vhs/com.android.vhs.camera.RecordingActivity_"
+        image="camcordar"/>
+
+    <AppIcon
+        name="com.computerlunch.evolution/com.computerlunch.evolution.UnityPlayerActivity"
+        image="cells"/>
+
+    <AppIcon
+        name="com.chrome.canary/com.google.android.apps.chrome.Main"
+        image="chrome_canary"/>
+
+    <AppIcon
+        name="com.mrzhang.FAstore/com.androlua.Welcome"
+        image="fa_store"/>
+
+    <AppIcon
+        name="org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity"
+        image="flo"/>
+
 </Theme>

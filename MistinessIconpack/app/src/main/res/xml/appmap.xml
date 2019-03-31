@@ -6789,4 +6789,44 @@
         class="cn.nubia.thememanager.ui.activity.MainActivity"
         name="theme"/>
 
+    <item
+        class="com.qihoo360.mobilesafe.opti.ui.main.AppEnterActivity"
+        name="qihoo_clean"/>
+
+    <item
+        class="com.finalwire.aida64.HHMainActivity"
+        name="aida64"/>
+
+    <item
+        class="cn.leftshine.apkexport.activity.MainActivity"
+        name="apk_export"/>
+
+    <item
+        class="com.ballistiq.artstation.view.activity.MainActivity"
+        name="art_station"/>
+
+    <item
+        class="nimingban.hacfun.tv.MainActivity"
+        name="hacfun"/>
+
+    <item
+        class="com.android.vhs.camera.RecordingActivity_"
+        name="camcordar"/>
+
+    <item
+        class="com.computerlunch.evolution.UnityPlayerActivity"
+        name="cells"/>
+
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="chrome_canary"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="fa_store"/>
+
+    <item
+        class="org.iggymedia.periodtracker.activities.InitialActivity"
+        name="flo"/>
+
 </appmap>

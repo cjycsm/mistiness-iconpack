@@ -6878,4 +6878,44 @@
         component="ComponentInfo{cn.nubia.thememanager/cn.nubia.thememanager.ui.activity.MainActivity}"
         drawable="theme"/>
 
+    <item
+        component="ComponentInfo{com.qihoo.cleandroid_cn/com.qihoo360.mobilesafe.opti.ui.main.AppEnterActivity}"
+        drawable="qihoo_clean"/>
+
+    <item
+        component="ComponentInfo{com.finalwire.aida64/com.finalwire.aida64.HHMainActivity}"
+        drawable="aida64"/>
+
+    <item
+        component="ComponentInfo{cn.leftshine.apkexport/cn.leftshine.apkexport.activity.MainActivity}"
+        drawable="apk_export"/>
+
+    <item
+        component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.MainActivity}"
+        drawable="art_station"/>
+
+    <item
+        component="ComponentInfo{nimingban.hacfun.tv/nimingban.hacfun.tv.MainActivity}"
+        drawable="hacfun"/>
+
+    <item
+        component="ComponentInfo{com.shahvilla.vhs/com.android.vhs.camera.RecordingActivity_}"
+        drawable="camcordar"/>
+
+    <item
+        component="ComponentInfo{com.computerlunch.evolution/com.computerlunch.evolution.UnityPlayerActivity}"
+        drawable="cells"/>
+
+    <item
+        component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}"
+        drawable="chrome_canary"/>
+
+    <item
+        component="ComponentInfo{com.mrzhang.FAstore/com.androlua.Welcome}"
+        drawable="fa_store"/>
+
+    <item
+        component="ComponentInfo{org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity}"
+        drawable="flo"/>
+
 </resources>
