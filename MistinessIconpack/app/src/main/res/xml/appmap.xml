@@ -523,7 +523,7 @@
 
     <item
         class="com.cl.newt66y.MainActivity"
-        name="glass"/>
+        name="grass"/>
 
     <item
         class="cn.com.shouji.market.LogoActivity"
@@ -2815,7 +2815,7 @@
 
     <item
         class="com.teammt.gmanrainy.emuithemestore.activity.MainActivity"
-        name="theme_alt"/>
+        name="emui_theme_store"/>
 
     <item
         class="com.huawei.android.findmyphone.ui.FindMyPhoneActivity"
@@ -6828,5 +6828,309 @@
     <item
         class="org.iggymedia.periodtracker.activities.InitialActivity"
         name="flo"/>
+
+    <item
+        class="com.primatelabs.geekbench.HomeActivity"
+        name="geekbanch"/>
+
+    <item
+        class="com.elderdrivers.googlesearchbox.SettingsActivityAlias"
+        name="google_helper"/>
+
+    <item
+        class="com.arlosoft.macrodroid.LauncherActivity"
+        name="macro_droid"/>
+
+    <item
+        class="com.gzhi.neatreader.r2.main.SplashActivity"
+        name="neat_reader"/>
+
+    <item
+        class="com.haitun.neets.module.my.AdvertisementActivity"
+        name="neets"/>
+
+    <item
+        class="com.ttstudio.gamebooster.ui.ActivityOfWelcome"
+        name="booster"/>
+
+    <item
+        class="com.epicgames.ue4.SplashActivity"
+        name="pes2019"/>
+
+    <item
+        class="com.mediocre.pinout.Main"
+        name="pin_out"/>
+
+    <item
+        class="com.pplive.androidphone.sport.ui.AuthorityActivity"
+        name="pplive_sport"/>
+
+    <item
+        class="com.tencent.mobileqq.activity.SplashActivity"
+        name="qq_hd"/>
+
+    <item
+        class="com.quizlet.quizletandroid.ui.RootActivity"
+        name="quizlet"/>
+
+    <item
+        class="com.jj.reviewnote.mvp.ui.activity.HomeSplanshTActivity"
+        name="review_note"/>
+
+    <item
+        class="eu.fiveminutes.rosetta.MainActivity"
+        name="rosetta_stone"/>
+
+    <item
+        class="com.pranavpandey.rotation.activity.RotationActivity"
+        name="rotation"/>
+
+    <item
+        class="star.iota.sakura.ui.main.MainActivity"
+        name="sakura"/>
+
+    <item
+        class="org.app.supervpn.Activity_Splash"
+        name="srlink"/>
+
+    <item
+        class="com.jrzheng.supervpn.view.MainActivity"
+        name="super_vpn"/>
+
+    <item
+        class="com.kuyu.activity.SplashActivity"
+        name="talkmate"/>
+
+    <item
+        class="com.vivo.space.ui.LogoActivity"
+        name="vivo_space"/>
+
+    <item
+        class="com.muma.pn.AppStart"
+        name="wuma_vpn"/>
+
+    <item
+        class="com.xda.labs.ForumLauncher"
+        name="xda"/>
+
+    <item
+        class="xyz.hanks.note.ui.activity.MainActivity"
+        name="note"/>
+
+    <item
+        class="com.forfan.bigbang.component.activity.SplashActivity"
+        name="bigbang"/>
+
+    <item
+        class="com.bm.nfccitycard.MainActivity"
+        name="hrb_citycard"/>
+
+    <item
+        class="com.yy.ha.SplashActivity"
+        name="huya_assist"/>
+
+    <item
+        class="com.duowan.live.startup.SplashActivity"
+        name="duowan_live"/>
+
+    <item
+        class="com.vmall.client.splash.fragment.SplashActivity"
+        name="vmail"/>
+
+    <item
+        class="com.huawei.lifeservice.basefunction.ui.entry.LandingActivity"
+        name="huawei_lives"/>
+
+    <item
+        class="com.huawei.android.tips.DrawerDisplayActivity"
+        name="huawei_tips"/>
+
+    <item
+        class="com.huawei.skytone.account.welcome.SplashActivity"
+        name="huawei_hiskytone"/>
+
+    <item
+        class="com.huawei.ahdp.wi.WIActivity"
+        name="huawei_cloud"/>
+
+    <item
+        class="com.huawei.smarthome.login.LauncherActivity"
+        name="huawei_smarthome"/>
+
+    <item
+        class="com.rytong.app.bankhx.EMPView"
+        name="hxbank"/>
+
+    <item
+        class="com.kuangxiang.novel.activity.WelcomeActivity"
+        name="happy_booker"/>
+
+    <item
+        class="com.kanlixiang.android.view.activity.base.StartActivity"
+        name="kanlixiang"/>
+
+    <item
+        class="com.kwai.livepartner.activity.LoginActivity"
+        name="kwai_livepartner"/>
+
+    <item
+        class="com.cleanmaster.function.main.MiniSplashActivity"
+        name="cm_lite"/>
+
+    <item
+        class="com.bloomlife.luobo.activity.MainActivity"
+        name="luobo"/>
+
+    <item
+        class="com.ea.common.LaunchActivity"
+        name="simcity"/>
+
+    <item
+        class="com.ea.games.simsfreeplay.GameActivity"
+        name="sims_freeplay"/>
+
+    <item
+        class="org.cocos2dx.lua.AppActivity"
+        name="caromag"/>
+
+    <item
+        class="cn.nubia.wfd.client.SelectDeviceActivity"
+        name="nubia_wfd"/>
+
+    <item
+        class="com.job.android.pages.common.OpenImageActivity"
+        name="job"/>
+
+    <item
+        class="com.lookcolor.MainActivity"
+        name="lookcolor"/>
+
+    <item
+        class="com.tayo.zontes.Welcome"
+        name="zontes"/>
+
+    <item
+        class="info.kfsoft.usageanalyzer.MainActivity"
+        name="usage_analyzer"/>
+
+    <item
+        class="com.tencent.edu.module.SplashActivity"
+        name="tencent_edu"/>
+
+    <item
+        class="com.pp.assistant.activity.PPMainActivity"
+        name="wandoujia"/>
+
+    <item
+        class="com.cnvcs.App"
+        name="cnvcs_gomoku"/>
+
+    <item
+        class="com.armvm.redfingeros.LauncherActivity"
+        name="armvm"/>
+
+    <item
+        class="cn.medlive.android.activity.LoadingActivity"
+        name="medlive"/>
+
+    <item
+        class="org.cocos2dx.TerransForce.SplashActivity"
+        name="yhdzz"/>
+
+    <item
+        class="org.cocos2dx.TerransForce.SplashActivity"
+        name="yhdzz"/>
+
+    <item
+        class="org.cocos2dx.TerransForce.SplashActivity"
+        name="yhdzz"/>
+
+    <item
+        class="com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch"
+        name="yyzy"/>
+
+    <item
+        class="com.iBookStar.activityComm.Splash"
+        name="yunchong_reader"/>
+
+    <item
+        class="com.freshideas.airindex.MainActivity"
+        name="fresh_ideas"/>
+
+    <item
+        class="com.glodon.gbq5.ui.WelcomeViewActivity"
+        name="glodon"/>
+
+    <item
+        class="com.blizzard.bma.ui.welcome.SplashActivity"
+        name="blizzard_bma"/>
+
+    <item
+        class="com.tencent.djcity.activities.homepage.PortalActivity"
+        name="tencent_djcity"/>
+
+    <item
+        class="com.huayi.cme.ui.SplashActivity"
+        name="huayi"/>
+
+    <item
+        class="com.globebill.mpos.activity.MainActivity"
+        name="mpos"/>
+
+    <item
+        class="com.happyteam.steambang.module.welcome.view.WelcomeActivity"
+        name="steambang"/>
+
+    <item
+        class="com.able.wisdomtree.login.PermissionsActivity"
+        name="wisdomtree"/>
+
+    <item
+        class="com.zzw.october.LaunchActivity"
+        name="zhiyuanhui"/>
+
+    <item
+        class="com.edcsc.wbus.ui.WelcomeActivity"
+        name="wbus"/>
+
+    <item
+        class="com.eoffcn.mobile.app.view.appImpl.SplashActivity"
+        name="eoffcn"/>
+
+    <item
+        class="com.cnvcs.App"
+        name="cnvcs_xiangqi"/>
+
+    <item
+        class="com.batch.android.unity.BatchPlayerActivity"
+        name="bullet_force"/>
+
+    <item
+        class="com.autoclicker.clicker.ads.AdLoadingActivity"
+        name="zidongdianji"/>
+
+    <item
+        class="com.ziroom.ziroomcustomer.WelcomeActivity"
+        name="ziroom"/>
+
+    <item
+        class="com.google.android.apps.chrome.Main"
+        name="free_browser"/>
+
+    <item
+        class="com.zuzuChe.feature.home.launch.SplashActivity"
+        name="zuzuche"/>
+
+    <item
+        class="zwzt.fangqiu.edu.com.zwzt.module.splash.SplashActivity"
+        name="zwzt"/>
+
+    <item
+        class="com.huluxia.ui.base.BBSActivity"
+        name="huluxia_bbs"/>
+
+    <item
+        class="cmb.pb.app.mainframe.PBEntryActivity"
+        name="cmb"/>
 
 </appmap>

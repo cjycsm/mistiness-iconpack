@@ -529,7 +529,7 @@
 
     <AppIcon
         name="com.cl.newt66y/com.cl.newt66y.MainActivity"
-        image="glass"/>
+        image="grass"/>
 
     <AppIcon
         name="cn.com.shouji.market/cn.com.shouji.market.LogoActivity"
@@ -2821,7 +2821,7 @@
 
     <AppIcon
         name="com.teammt.gmanrainy.themestore/com.teammt.gmanrainy.emuithemestore.activity.MainActivity"
-        image="theme_alt"/>
+        image="emui_theme_store"/>
 
     <AppIcon
         name="com.huawei.android.findmyphone/com.huawei.android.findmyphone.ui.FindMyPhoneActivity"
@@ -6842,5 +6842,309 @@
     <AppIcon
         name="org.iggymedia.periodtracker/org.iggymedia.periodtracker.activities.InitialActivity"
         image="flo"/>
+
+    <AppIcon
+        name="com.primatelabs.geekbench/com.primatelabs.geekbench.HomeActivity"
+        image="geekbanch"/>
+
+    <AppIcon
+        name="com.elderdrivers.googlesearchbox/com.elderdrivers.googlesearchbox.SettingsActivityAlias"
+        image="google_helper"/>
+
+    <AppIcon
+        name="com.arlosoft.macrodroid/com.arlosoft.macrodroid.LauncherActivity"
+        image="macro_droid"/>
+
+    <AppIcon
+        name="com.gzhi.neatreader.r2.main/com.gzhi.neatreader.r2.main.SplashActivity"
+        image="neat_reader"/>
+
+    <AppIcon
+        name="com.haitun.neets/com.haitun.neets.module.my.AdvertisementActivity"
+        image="neets"/>
+
+    <AppIcon
+        name="com.qie.booster/com.ttstudio.gamebooster.ui.ActivityOfWelcome"
+        image="booster"/>
+
+    <AppIcon
+        name="jp.konami.pesam/com.epicgames.ue4.SplashActivity"
+        image="pes2019"/>
+
+    <AppIcon
+        name="com.mediocre.pinout/com.mediocre.pinout.Main"
+        image="pin_out"/>
+
+    <AppIcon
+        name="com.pplive.androidphone.sport/com.pplive.androidphone.sport.ui.AuthorityActivity"
+        image="pplive_sport"/>
+
+    <AppIcon
+        name="com.tencent.minihd.qq/com.tencent.mobileqq.activity.SplashActivity"
+        image="qq_hd"/>
+
+    <AppIcon
+        name="com.quizlet.quizletandroid/com.quizlet.quizletandroid.ui.RootActivity"
+        image="quizlet"/>
+
+    <AppIcon
+        name="com.spuxpu.review/com.jj.reviewnote.mvp.ui.activity.HomeSplanshTActivity"
+        image="review_note"/>
+
+    <AppIcon
+        name="air.com.rosettastone.mobile.CoursePlayer/eu.fiveminutes.rosetta.MainActivity"
+        image="rosetta_stone"/>
+
+    <AppIcon
+        name="com.pranavpandey.rotation/com.pranavpandey.rotation.activity.RotationActivity"
+        image="rotation"/>
+
+    <AppIcon
+        name="star.iota.sakura/star.iota.sakura.ui.main.MainActivity"
+        image="sakura"/>
+
+    <AppIcon
+        name="org.app.supervpnrocket/org.app.supervpn.Activity_Splash"
+        image="srlink"/>
+
+    <AppIcon
+        name="com.jrzheng.supervpnfree/com.jrzheng.supervpn.view.MainActivity"
+        image="super_vpn"/>
+
+    <AppIcon
+        name="com.kuyu/com.kuyu.activity.SplashActivity"
+        image="talkmate"/>
+
+    <AppIcon
+        name="com.vivo.space/com.vivo.space.ui.LogoActivity"
+        image="vivo_space"/>
+
+    <AppIcon
+        name="com.muma.pn/com.muma.pn.AppStart"
+        image="wuma_vpn"/>
+
+    <AppIcon
+        name="com.xda.labs.play/com.xda.labs.ForumLauncher"
+        image="xda"/>
+
+    <AppIcon
+        name="xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity"
+        image="note"/>
+
+    <AppIcon
+        name="com.forfan.bigbang/com.forfan.bigbang.component.activity.SplashActivity"
+        image="bigbang"/>
+
+    <AppIcon
+        name="com.bm.nfccitycard/com.bm.nfccitycard.MainActivity"
+        image="hrb_citycard"/>
+
+    <AppIcon
+        name="com.yy.huyaassist4game/com.yy.ha.SplashActivity"
+        image="huya_assist"/>
+
+    <AppIcon
+        name="com.duowan.live/com.duowan.live.startup.SplashActivity"
+        image="duowan_live"/>
+
+    <AppIcon
+        name="com.vmall.client/com.vmall.client.splash.fragment.SplashActivity"
+        image="vmail"/>
+
+    <AppIcon
+        name="com.huawei.lives/com.huawei.lifeservice.basefunction.ui.entry.LandingActivity"
+        image="huawei_lives"/>
+
+    <AppIcon
+        name="com.huawei.android.tips/com.huawei.android.tips.DrawerDisplayActivity"
+        image="huawei_tips"/>
+
+    <AppIcon
+        name="com.huawei.hiskytone/com.huawei.skytone.account.welcome.SplashActivity"
+        image="huawei_hiskytone"/>
+
+    <AppIcon
+        name="com.huawei.cloud/com.huawei.ahdp.wi.WIActivity"
+        image="huawei_cloud"/>
+
+    <AppIcon
+        name="com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity"
+        image="huawei_smarthome"/>
+
+    <AppIcon
+        name="com.rytong.app.bankhx/com.rytong.app.bankhx.EMPView"
+        image="hxbank"/>
+
+    <AppIcon
+        name="com.kuangxiang.novel/com.kuangxiang.novel.activity.WelcomeActivity"
+        image="happy_booker"/>
+
+    <AppIcon
+        name="com.kanlixiang.android/com.kanlixiang.android.view.activity.base.StartActivity"
+        image="kanlixiang"/>
+
+    <AppIcon
+        name="com.kwai.livepartner/com.kwai.livepartner.activity.LoginActivity"
+        image="kwai_livepartner"/>
+
+    <AppIcon
+        name="com.cmcm.lite/com.cleanmaster.function.main.MiniSplashActivity"
+        image="cm_lite"/>
+
+    <AppIcon
+        name="com.bloomlife.luobo/com.bloomlife.luobo.activity.MainActivity"
+        image="luobo"/>
+
+    <AppIcon
+        name="com.ea.game.simcitymobile_row/com.ea.common.LaunchActivity"
+        image="simcity"/>
+
+    <AppIcon
+        name="com.ea.games.simsfreeplay_row/com.ea.games.simsfreeplay.GameActivity"
+        image="sims_freeplay"/>
+
+    <AppIcon
+        name="com.wknight.caromag/org.cocos2dx.lua.AppActivity"
+        image="caromag"/>
+
+    <AppIcon
+        name="cn.nubia.wfd/cn.nubia.wfd.client.SelectDeviceActivity"
+        image="nubia_wfd"/>
+
+    <AppIcon
+        name="com.job.android/com.job.android.pages.common.OpenImageActivity"
+        image="job"/>
+
+    <AppIcon
+        name="com.lookcolor/com.lookcolor.MainActivity"
+        image="lookcolor"/>
+
+    <AppIcon
+        name="com.tayo.zontes/com.tayo.zontes.Welcome"
+        image="zontes"/>
+
+    <AppIcon
+        name="info.kfsoft.usageanalyzer/info.kfsoft.usageanalyzer.MainActivity"
+        image="usage_analyzer"/>
+
+    <AppIcon
+        name="com.tencent.edu/com.tencent.edu.module.SplashActivity"
+        image="tencent_edu"/>
+
+    <AppIcon
+        name="com.wandoujia.phoenix2/com.pp.assistant.activity.PPMainActivity"
+        image="wandoujia"/>
+
+    <AppIcon
+        name="com.cnvcs.gomoku/com.cnvcs.App"
+        image="cnvcs_gomoku"/>
+
+    <AppIcon
+        name="com.armvm.redfingeros/com.armvm.redfingeros.LauncherActivity"
+        image="armvm"/>
+
+    <AppIcon
+        name="cn.medlive.android/cn.medlive.android.activity.LoadingActivity"
+        image="medlive"/>
+
+    <AppIcon
+        name="com.heitao.yhdzz.hta/org.cocos2dx.TerransForce.SplashActivity"
+        image="yhdzz"/>
+
+    <AppIcon
+        name="com.heitao.yhdzz.mm/org.cocos2dx.TerransForce.SplashActivity"
+        image="yhdzz"/>
+
+    <AppIcon
+        name="com.heitao.yhdzz.mi/org.cocos2dx.TerransForce.SplashActivity"
+        image="yhdzz"/>
+
+    <AppIcon
+        name="com.ztgame.yyzy/com.ztgame.yyzy.adapternotchwithchannel.AdapterNotch"
+        image="yyzy"/>
+
+    <AppIcon
+        name="com.person.reader/com.iBookStar.activityComm.Splash"
+        image="yunchong_reader"/>
+
+    <AppIcon
+        name="com.freshideas.airindex/com.freshideas.airindex.MainActivity"
+        image="fresh_ideas"/>
+
+    <AppIcon
+        name="com.glodon.gbq5/com.glodon.gbq5.ui.WelcomeViewActivity"
+        image="glodon"/>
+
+    <AppIcon
+        name="com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity"
+        image="blizzard_bma"/>
+
+    <AppIcon
+        name="com.tencent.djcity/com.tencent.djcity.activities.homepage.PortalActivity"
+        image="tencent_djcity"/>
+
+    <AppIcon
+        name="com.huayi.cme/com.huayi.cme.ui.SplashActivity"
+        image="huayi"/>
+
+    <AppIcon
+        name="com.example.mposstandard/com.globebill.mpos.activity.MainActivity"
+        image="mpos"/>
+
+    <AppIcon
+        name="com.happyteam.steambang/com.happyteam.steambang.module.welcome.view.WelcomeActivity"
+        image="steambang"/>
+
+    <AppIcon
+        name="com.able.wisdomtree/com.able.wisdomtree.login.PermissionsActivity"
+        image="wisdomtree"/>
+
+    <AppIcon
+        name="com.zzw.october/com.zzw.october.LaunchActivity"
+        image="zhiyuanhui"/>
+
+    <AppIcon
+        name="com.edcsc.wbus/com.edcsc.wbus.ui.WelcomeActivity"
+        image="wbus"/>
+
+    <AppIcon
+        name="com.eoffcn.mobile/com.eoffcn.mobile.app.view.appImpl.SplashActivity"
+        image="eoffcn"/>
+
+    <AppIcon
+        name="com.cnvcs.xiangqi/com.cnvcs.App"
+        image="cnvcs_xiangqi"/>
+
+    <AppIcon
+        name="com.blayzegames.iosfps/com.batch.android.unity.BatchPlayerActivity"
+        image="bullet_force"/>
+
+    <AppIcon
+        name="com.zidongdianji/com.autoclicker.clicker.ads.AdLoadingActivity"
+        image="zidongdianji"/>
+
+    <AppIcon
+        name="com.ziroom.ziroomcustomer/com.ziroom.ziroomcustomer.WelcomeActivity"
+        image="ziroom"/>
+
+    <AppIcon
+        name="org.greatfire.freebrowser/com.google.android.apps.chrome.Main"
+        image="free_browser"/>
+
+    <AppIcon
+        name="com.zuzuChe/com.zuzuChe.feature.home.launch.SplashActivity"
+        image="zuzuche"/>
+
+    <AppIcon
+        name="zwzt.fangqiu.edu.com.zwzt/zwzt.fangqiu.edu.com.zwzt.module.splash.SplashActivity"
+        image="zwzt"/>
+
+    <AppIcon
+        name="com.huati/com.huluxia.ui.base.BBSActivity"
+        image="huluxia_bbs"/>
+
+    <AppIcon
+        name="cmb.pb/cmb.pb.app.mainframe.PBEntryActivity"
+        image="cmb"/>
 
 </Theme>

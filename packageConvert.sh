@@ -9,6 +9,6 @@ do
 		continue
 	fi
 	cp "$icon.png" "./flyme/$package.png"
-done < "_a.csv"
+done < "summary.csv"
 
 read -p "按任意键继续"

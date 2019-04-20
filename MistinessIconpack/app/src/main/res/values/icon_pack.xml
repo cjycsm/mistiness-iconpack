@@ -58,24 +58,256 @@
     </string-array>
 
     <string-array name="newest">
-        <item>qihoo_clean</item>
-        <item>aida64</item>
-        <item>apk_export</item>
-        <item>art_station</item>
-        <item>hacfun</item>
-        <item>camcordar</item>
-        <item>cells</item>
-        <item>chrome_canary</item>
-        <item>fa_store</item>
-        <item>flo</item>
+        <item>geekbanch</item>
+        <item>google_helper</item>
+        <item>macro_droid</item>
+        <item>neat_reader</item>
+        <item>neets</item>
+        <item>booster</item>
+        <item>pplive_sport</item>
+        <item>qq_hd</item>
+        <item>quizlet</item>
+        <item>review_note</item>
+        <item>rosetta_stone</item>
+        <item>rotation</item>
+        <item>sakura</item>
+        <item>srlink</item>
+        <item>super_vpn</item>
+        <item>talkmate</item>
+        <item>wuma_vpn</item>
+        <item>xda</item>
+        <item>note</item>
+        <item>bigbang</item>
+        <item>hrb_citycard</item>
+        <item>huya_assist</item>
+        <item>duowan_live</item>
+        <item>vmail</item>
+        <item>hxbank</item>
+        <item>happy_booker</item>
+        <item>kanlixiang</item>
+        <item>kwai_livepartner</item>
+        <item>cm_lite</item>
+        <item>luobo</item>
+        <item>caromag</item>
+        <item>job</item>
+        <item>lookcolor</item>
+        <item>zontes</item>
+        <item>usage_analyzer</item>
+        <item>tencent_edu</item>
+        <item>wandoujia</item>
+        <item>cnvcs_gomoku</item>
+        <item>armvm</item>
+        <item>medlive</item>
+        <item>yunchong_reader</item>
+        <item>fresh_ideas</item>
+        <item>glodon</item>
+        <item>blizzard_bma</item>
+        <item>tencent_djcity</item>
+        <item>huayi</item>
+        <item>mpos</item>
+        <item>steambang</item>
+        <item>wisdomtree</item>
+        <item>zhiyuanhui</item>
+        <item>wbus</item>
+        <item>eoffcn</item>
+        <item>cnvcs_xiangqi</item>
+        <item>zidongdianji</item>
+        <item>ziroom</item>
+        <item>free_browser</item>
+        <item>zuzuche</item>
+        <item>zwzt</item>
+        <item>huluxia_bbs</item>
+        <item>pes2019</item>
+        <item>pin_out</item>
+        <item>simcity</item>
+        <item>sims_freeplay</item>
+        <item>yhdzz</item>
+        <item>yyzy</item>
+        <item>bullet_force</item>
+        <item>vivo_space</item>
+        <item>huawei_lives</item>
+        <item>huawei_tips</item>
+        <item>huawei_hiskytone</item>
+        <item>huawei_cloud</item>
+        <item>huawei_smarthome</item>
+        <item>nubia_wfd</item>
+        <item>emui_theme_store</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>accubattery</item>
-        <item>acfun</item>
-        <item>adaway</item>
-        <item>cloud_115</item>
-        <item>credit_card_manager</item>
+        <item>hippo</item>
+        <item>aplayer</item>
+        <item>appops</item>
+        <item>auto_js</item>
+        <item>camera360</item>
+        <item>csdn</item>
+        <item>cuto</item>
+        <item>dan_the_man</item>
+        <item>eyeem</item>
+        <item>gboard</item>
+        <item>gyroscope</item>
+        <item>keep</item>
+        <item>kindle</item>
+        <item>kustom_widget</item>
+        <item>dota_max</item>
+        <item>microsoft_excel</item>
+        <item>microsoft_lens</item>
+        <item>microsoft_onenote</item>
+        <item>microsoft_outlook</item>
+        <item>microsoft_powerpoint</item>
+        <item>microsoft_word</item>
+        <item>miuibbs</item>
+        <item>netflix</item>
+        <item>card_emulator</item>
+        <item>z_launcher</item>
+        <item>nova_launcher</item>
+        <item>oppo_store</item>
+        <item>oppo_book</item>
+        <item>ps</item>
+        <item>pcamera</item>
+        <item>power_amp</item>
+        <item>puretie</item>
+        <item>qq_token</item>
+        <item>speedmobile</item>
+        <item>qzone</item>
+        <item>vtools</item>
+        <item>sdm</item>
+        <item>stk</item>
+        <item>substratum</item>
+        <item>telegram_x</item>
+        <item>telegreat_x</item>
+        <item>tc_cleaner</item>
+        <item>tieba_lite</item>
+        <item>tomvpn</item>
+        <item>vlc</item>
+        <item>welike</item>
+        <item>xda_labs</item>
+        <item>altos_adventure</item>
+        <item>aliyun</item>
+        <item>loveread</item>
+        <item>antutu</item>
+        <item>androidesk</item>
+        <item>baidumap</item>
+        <item>baidu_translator</item>
+        <item>baidu_ime</item>
+        <item>byfen</item>
+        <item>bix</item>
+        <item>bingdic</item>
+        <item>azurlane</item>
+        <item>emoticon_creater</item>
+        <item>sfacg</item>
+        <item>buka</item>
+        <item>cainiao</item>
+        <item>cjkcb</item>
+        <item>ctfile</item>
+        <item>chengzivr</item>
+        <item>cf</item>
+        <item>smartisanos_bubble</item>
+        <item>smartisan_bbs</item>
+        <item>dedao</item>
+        <item>battery_meter</item>
+        <item>douyu</item>
+        <item>douyu_rush</item>
+        <item>douban_radio</item>
+        <item>du</item>
+        <item>duolinguo</item>
+        <item>itf_iconpack</item>
+        <item>codoon</item>
+        <item>google_maps</item>
+        <item>google_translate</item>
+        <item>google_pinyin_ime</item>
+        <item>google_music</item>
+        <item>google_games</item>
+        <item>haodou</item>
+        <item>heike</item>
+        <item>huxiu</item>
+        <item>huya</item>
+        <item>huawei_notes</item>
+        <item>smartisanos_cloudsync</item>
+        <item>tencent_transfer</item>
+        <item>calculator</item>
+        <item>article_news</item>
+        <item>happyelements</item>
+        <item>eyepetizer</item>
+        <item>kdjz</item>
+        <item>lagou</item>
+        <item>tingshu</item>
+        <item>bullet_messenger_new</item>
+        <item>hearthstone</item>
+        <item>ludashi</item>
+        <item>tripadvisor</item>
+        <item>beauty_camera</item>
+        <item>meiyan_camera</item>
+        <item>flyme_roamingpay</item>
+        <item>meizu_store</item>
+        <item>meizu_life</item>
+        <item>meizu_reader</item>
+        <item>meizu_ebook</item>
+        <item>xiaomi_channel</item>
+        <item>mdschool</item>
+        <item>fatego</item>
+        <item>maimomo</item>
+        <item>tencent_nntg</item>
+        <item>oblatum</item>
+        <item>tencent_radio</item>
+        <item>timetable</item>
+        <item>iqing</item>
+        <item>qsbk</item>
+        <item>quanzi</item>
+        <item>calendar</item>
+        <item>if_sunshine</item>
+        <item>samsung_gametuner</item>
+        <item>media17</item>
+        <item>video</item>
+        <item>radio</item>
+        <item>safe</item>
+        <item>shuchong</item>
+        <item>shuqi</item>
+        <item>sf</item>
+        <item>seekbooks</item>
+        <item>suning_ebuy</item>
+        <item>tantan</item>
+        <item>taobao_movie</item>
+        <item>tencent_ac</item>
+        <item>tencent_translator</item>
+        <item>tencent_filemanager_new</item>
+        <item>tmall</item>
+        <item>ecook</item>
+        <item>netease_cartoonreader</item>
+        <item>wangxin</item>
+        <item>weibo</item>
+        <item>weibo_intl</item>
+        <item>weibo_lite</item>
+        <item>myweather</item>
+        <item>grass</item>
+        <item>xiaoji_emulator</item>
+        <item>xiaoming_vpn</item>
+        <item>sina_news</item>
+        <item>fake_location</item>
+        <item>iflytek_readassistant</item>
+        <item>xunyou</item>
+        <item>icontrol</item>
+        <item>oneplus_backuprestore</item>
+        <item>oneplus_note</item>
+        <item>oneplus_bbs</item>
+        <item>hi</item>
+        <item>feedback</item>
+        <item>music</item>
+        <item>gamecenter</item>
+        <item>youdao_translator</item>
+        <item>diaox2</item>
+        <item>away_from_mobile</item>
+        <item>wunder_list</item>
+        <item>monkeybook</item>
+        <item>anzogame_lol</item>
+        <item>esports</item>
+        <item>calendar_ii</item>
+        <item>yipiao</item>
+        <item>unicom</item>
+        <item>ecalendar</item>
+        <item>zhuanzhuan</item>
+        <item>bullet_messenger</item>
+        <item>zuiyou</item>
     </string-array>
 
     <string-array name="application">
@@ -162,7 +394,7 @@
         <item>remover</item>
         <item>tc_cleaner</item>
         <item>thunder_vpn</item>
-        <item>glass</item>
+        <item>grass</item>
         <item>shoujimarket</item>
         <item>weibo_intl</item>
         <item>monkeybook</item>
@@ -192,7 +424,6 @@
         <item>xiachufang</item>
         <item>ele</item>
         <item>hippo</item>
-        <item>hippo_alt</item>
         <item>hunantv</item>
         <item>maoyan</item>
         <item>meeye</item>
@@ -303,15 +534,12 @@
         <item>qq_music_local</item>
         <item>retor_music</item>
         <item>douyu</item>
-        <item>douyu_alt</item>
         <item>huya</item>
         <item>panda</item>
-        <item>panda_alt</item>
         <item>zhibo8</item>
         <item>yi_live</item>
         <item>google_camera</item>
         <item>camera360</item>
-        <item>camera360_alt</item>
         <item>prisma</item>
         <item>b612</item>
         <item>nomo</item>
@@ -319,7 +547,6 @@
         <item>meiyan_camera</item>
         <item>light_beauty</item>
         <item>mtxx</item>
-        <item>mtxx_alt</item>
         <item>ttpic</item>
         <item>pic_folder</item>
         <item>greenify</item>
@@ -575,7 +802,6 @@
         <item>pconline</item>
         <item>poco_interphoto2</item>
         <item>lightroom</item>
-        <item>lightroom_alt</item>
         <item>adsk_sketchbook</item>
         <item>xuexi</item>
         <item>alibaba</item>
@@ -588,7 +814,6 @@
         <item>microsoft_authenticator</item>
         <item>eyeem</item>
         <item>imoji</item>
-        <item>imoji_alt</item>
         <item>onetake</item>
         <item>onetake_alt</item>
         <item>barcode</item>
@@ -632,13 +857,11 @@
         <item>installer_plus</item>
         <item>jeejen</item>
         <item>dida</item>
-        <item>dida_alt</item>
         <item>holi</item>
         <item>fui</item>
         <item>fui_alt</item>
         <item>zlive</item>
         <item>media17</item>
-        <item>media17_alt</item>
         <item>nature_iconpack</item>
         <item>power_amp</item>
         <item>pieplus</item>
@@ -707,7 +930,6 @@
         <item>airtable</item>
         <item>ai_musician</item>
         <item>amazfit</item>
-        <item>amazfit_alt</item>
         <item>aplayer</item>
         <item>atimelogger</item>
         <item>avgo</item>
@@ -768,7 +990,6 @@
         <item>pixolor</item>
         <item>playstation</item>
         <item>pornhub</item>
-        <item>pornhub_alt</item>
         <item>power_shade</item>
         <item>puretie</item>
         <item>tencent_qqpinyin</item>
@@ -794,7 +1015,6 @@
         <item>videoder</item>
         <item>vpnmonster</item>
         <item>vsco</item>
-        <item>vsco_alt</item>
         <item>whatsapp</item>
         <item>wifikey</item>
         <item>wifibox</item>
@@ -808,7 +1028,6 @@
         <item>aliqin</item>
         <item>alicom</item>
         <item>aliyun</item>
-        <item>aliyun_alt</item>
         <item>alilink</item>
         <item>aiwu</item>
         <item>android_assistant</item>
@@ -817,7 +1036,6 @@
         <item>google_calendar</item>
         <item>lang_easy_lexis</item>
         <item>kitchen_stories</item>
-        <item>kitchen_stories_alt</item>
         <item>shelled_pro</item>
         <item>rewind</item>
         <item>days_matter</item>
@@ -979,7 +1197,6 @@
         <item>tieba_mini</item>
         <item>baidu_lite</item>
         <item>douyu_rush</item>
-        <item>douyu_rush_alt</item>
         <item>cmcc_shanghai</item>
         <item>cmcc_beijing</item>
         <item>cmcc_guangxi</item>
@@ -1008,7 +1225,6 @@
         <item>gps_toolbox</item>
         <item>joi_player</item>
         <item>dota_max</item>
-        <item>dota_max_alt</item>
         <item>mere_news</item>
         <item>metatrader4</item>
         <item>migrate</item>
@@ -1203,6 +1419,7 @@
         <item>flash_download</item>
         <item>oled_saver</item>
         <item>shanbay_speak</item>
+        <item>shanbay_speak_alt</item>
         <item>shanbay_listen</item>
         <item>sspai</item>
         <item>magic_magnet</item>
@@ -1223,7 +1440,6 @@
         <item>nintendo_switch</item>
         <item>mqme</item>
         <item>scp_foundation</item>
-        <item>scp_foundation_alt</item>
         <item>teambition</item>
         <item>teambition_alt</item>
         <item>termius</item>
@@ -1243,6 +1459,7 @@
         <item>firefox_beta</item>
         <item>economist</item>
         <item>adsafe_pro</item>
+        <item>adsafe_pro_alt</item>
         <item>juzimi</item>
         <item>coolapk_sticker</item>
         <item>lenove_cloud_sync</item>
@@ -1299,6 +1516,65 @@
         <item>chrome_canary</item>
         <item>fa_store</item>
         <item>flo</item>
+        <item>geekbanch</item>
+        <item>google_helper</item>
+        <item>macro_droid</item>
+        <item>neat_reader</item>
+        <item>neets</item>
+        <item>booster</item>
+        <item>pplive_sport</item>
+        <item>qq_hd</item>
+        <item>quizlet</item>
+        <item>review_note</item>
+        <item>rosetta_stone</item>
+        <item>rotation</item>
+        <item>sakura</item>
+        <item>srlink</item>
+        <item>super_vpn</item>
+        <item>talkmate</item>
+        <item>wuma_vpn</item>
+        <item>xda</item>
+        <item>note</item>
+        <item>bigbang</item>
+        <item>hrb_citycard</item>
+        <item>huya_assist</item>
+        <item>duowan_live</item>
+        <item>vmail</item>
+        <item>hxbank</item>
+        <item>happy_booker</item>
+        <item>kanlixiang</item>
+        <item>kwai_livepartner</item>
+        <item>cm_lite</item>
+        <item>luobo</item>
+        <item>caromag</item>
+        <item>job</item>
+        <item>lookcolor</item>
+        <item>zontes</item>
+        <item>usage_analyzer</item>
+        <item>tencent_edu</item>
+        <item>wandoujia</item>
+        <item>cnvcs_gomoku</item>
+        <item>armvm</item>
+        <item>medlive</item>
+        <item>yunchong_reader</item>
+        <item>fresh_ideas</item>
+        <item>glodon</item>
+        <item>blizzard_bma</item>
+        <item>tencent_djcity</item>
+        <item>huayi</item>
+        <item>mpos</item>
+        <item>steambang</item>
+        <item>wisdomtree</item>
+        <item>zhiyuanhui</item>
+        <item>wbus</item>
+        <item>eoffcn</item>
+        <item>cnvcs_xiangqi</item>
+        <item>zidongdianji</item>
+        <item>ziroom</item>
+        <item>free_browser</item>
+        <item>zuzuche</item>
+        <item>zwzt</item>
+        <item>huluxia_bbs</item>
     </string-array>
 
     <string-array name="game">
@@ -1335,7 +1611,6 @@
         <item>subwaysurf</item>
         <item>abi</item>
         <item>nba2k19</item>
-        <item>nba2k19_alt</item>
         <item>tencent_ig</item>
         <item>azurlane</item>
         <item>bingo_candy</item>
@@ -1364,6 +1639,14 @@
         <item>tencent_happymj</item>
         <item>tenecnt_peng</item>
         <item>xbxxz</item>
+        <item>pes2019</item>
+        <item>pin_out</item>
+        <item>simcity</item>
+        <item>sims_freeplay</item>
+        <item>yhdzz</item>
+        <item>yyzy</item>
+        <item>bullet_force</item>
+        <item>emui_theme_store</item>
     </string-array>
 
     <string-array name="basic">
@@ -1374,53 +1657,36 @@
         <item>map</item>
         <item>safe</item>
         <item>settings</item>
-        <item>settings_alt</item>
         <item>qrcode_scanner</item>
         <item>sound_recorder</item>
-        <item>sound_recorder_alt</item>
         <item>weather</item>
         <item>downloads</item>
         <item>camera</item>
-        <item>camera_alt</item>
         <item>calendar</item>
         <item>mms</item>
         <item>music</item>
         <item>file_manager</item>
-        <item>file_manager_alt</item>
         <item>gallery</item>
         <item>appstore</item>
-        <item>appstore_alt1</item>
-        <item>appstore_alt2</item>
-        <item>appstore_alt3</item>
         <item>email</item>
-        <item>email_alt</item>
         <item>video</item>
         <item>browser</item>
         <item>update</item>
-        <item>update_alt</item>
         <item>feedback</item>
-        <item>feedback_alt</item>
         <item>stk</item>
-        <item>stk_alt</item>
         <item>compass</item>
-        <item>compass_alt</item>
         <item>recorder</item>
         <item>radio</item>
         <item>remote_control</item>
-        <item>remote_control_alt</item>
         <item>wallpaper</item>
         <item>contacts</item>
-        <item>contacts_alt</item>
         <item>help</item>
-        <item>help_alt</item>
         <item>list</item>
         <item>notes</item>
         <item>wallet</item>
         <item>theme</item>
-        <item>theme_alt</item>
         <item>light</item>
         <item>gamecenter</item>
-        <item>gamecenter_alt</item>
     </string-array>
 
     <string-array name="meizu">
@@ -1437,6 +1703,11 @@
         <item>flyme_videoclips</item>
         <item>meizu_store</item>
         <item>meizu_flymebbs</item>
+        <item>flyme_assistant</item>
+        <item>flyme_gamecenter</item>
+        <item>flyme_music</item>
+        <item>flyme_video</item>
+        <item>meizu_best</item>
     </string-array>
 
     <string-array name="oneplus">
@@ -1498,6 +1769,11 @@
         <item>huawei_ds</item>
         <item>huawei_hisuite</item>
         <item>huawei_mirror</item>
+        <item>huawei_lives</item>
+        <item>huawei_tips</item>
+        <item>huawei_hiskytone</item>
+        <item>huawei_cloud</item>
+        <item>huawei_smarthome</item>
     </string-array>
 
     <string-array name="nokia">
@@ -1517,6 +1793,7 @@
         <item>coloros_familyguard</item>
         <item>coloros_findphone</item>
         <item>oppo_ohome</item>
+        <item>oppo_ohome_alt</item>
         <item>coloros_flowmarket</item>
         <item>coloros_lockscreen</item>
         <item>coloros_tips</item>
@@ -1528,6 +1805,7 @@
         <item>vivo_easyshare</item>
         <item>bbk_cloud</item>
         <item>vivo_agent</item>
+        <item>vivo_space</item>
     </string-array>
 
     <string-array name="sony">
@@ -1553,6 +1831,7 @@
     <string-array name="nubia">
         <item>nubia_neoshare</item>
         <item>nubia_bbs</item>
+        <item>nubia_wfd</item>
     </string-array>
 
 </resources>

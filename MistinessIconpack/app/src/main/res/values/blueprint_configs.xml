@@ -65,6 +65,12 @@
     <bool name="enable_colored_cards">true</bool>
 
     <!--
+        Show a custom image as placeholder while loading icons
+        Use drawable name without extensions
+    -->
+    <string name="icons_placeholder" translatable="false"></string>
+
+    <!--
     1. Set the max amount of apps to request.
     2. Limit requests to 1 every X minutes.
     Replace X with the number of minutes you want.
@@ -82,7 +88,7 @@
     If the time limit is set to 0 or less, users will be able to request as many times they want,
     with the max apps limit.
     -->
-    <integer name="max_apps_to_request">10</integer>
+    <integer name="max_apps_to_request">5</integer>
     <integer name="time_limit_in_minutes">10080</integer>
 
     <!-- Leave empty to disable. A URL to an Arctic Request Manager server, e.g. https://arcticmanager.com -->
