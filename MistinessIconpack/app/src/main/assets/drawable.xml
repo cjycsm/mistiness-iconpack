@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>86</version>
+    <version>87</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -130,6 +130,7 @@
     <item drawable="bestpay"/>
     <item drawable="bh3"/>
     <item drawable="bhxy2"/>
+    <item drawable="bifrostv"/>
     <item drawable="bigbang"/>
     <item drawable="bigidea"/>
     <item drawable="bilibili"/>
@@ -154,6 +155,7 @@
     <item drawable="blizzard_bma"/>
     <item drawable="blocker"/>
     <item drawable="blued"/>
+    <item drawable="bluemail"/>
     <item drawable="bmap"/>
     <item drawable="boc"/>
     <item drawable="boohee"/>
@@ -191,6 +193,7 @@
     <item drawable="captive_mgr"/>
     <item drawable="card_emulator"/>
     <item drawable="caromag"/>
+    <item drawable="cc_call_blocker"/>
     <item drawable="ccb"/>
     <item drawable="cd_mbank"/>
     <item drawable="cdel"/>
@@ -281,6 +284,7 @@
     <item drawable="cospb"/>
     <item drawable="countdown"/>
     <item drawable="cpdaily"/>
+    <item drawable="cpl"/>
     <item drawable="cpu_z"/>
     <item drawable="cpwxw"/>
     <item drawable="crazy_music"/>
@@ -547,6 +551,7 @@
     <item drawable="hsbb"/>
     <item drawable="htjsq"/>
     <item drawable="huahuo"/>
+    <item drawable="huawei_3d_live_maker"/>
     <item drawable="huawei_assistant"/>
     <item drawable="huawei_cloud"/>
     <item drawable="huawei_ds"/>
@@ -634,6 +639,7 @@
     <item drawable="jumei"/>
     <item drawable="juzimi"/>
     <item drawable="jxedt"/>
+    <item drawable="kanbisai"/>
     <item drawable="kancolle"/>
     <item drawable="kankunit_smart"/>
     <item drawable="kanlixiang"/>
@@ -750,6 +756,7 @@
     <item drawable="medicine_helper"/>
     <item drawable="medlive"/>
     <item drawable="meeye"/>
+    <item drawable="mega"/>
     <item drawable="meipai"/>
     <item drawable="meiriyiwen"/>
     <item drawable="meituan"/>
@@ -796,6 +803,7 @@
     <item drawable="migongyi"/>
     <item drawable="migrate"/>
     <item drawable="mijia"/>
+    <item drawable="mindline"/>
     <item drawable="minecraft"/>
     <item drawable="minecraft_china"/>
     <item drawable="mini_metro"/>
@@ -876,6 +884,7 @@
     <item drawable="netease_yanxuan"/>
     <item drawable="netflix"/>
     <item drawable="newcapec"/>
+    <item drawable="newpipe"/>
     <item drawable="nga"/>
     <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
@@ -886,6 +895,7 @@
     <item drawable="nongxin_sc"/>
     <item drawable="note"/>
     <item drawable="notes"/>
+    <item drawable="notion"/>
     <item drawable="nova_launcher"/>
     <item drawable="novel_reader"/>
     <item drawable="nowcasting"/>
@@ -906,6 +916,7 @@
     <item drawable="oneplus_bbs"/>
     <item drawable="oneplus_card"/>
     <item drawable="oneplus_note"/>
+    <item drawable="oneplus_pro"/>
     <item drawable="onetake"/>
     <item drawable="onetake_alt"/>
     <item drawable="onmyoji"/>
@@ -921,10 +932,12 @@
     <item drawable="oppo_roaming"/>
     <item drawable="oppo_store"/>
     <item drawable="oppo_usercenter"/>
+    <item drawable="opus_r"/>
     <item drawable="oschina"/>
     <item drawable="overdrop"/>
     <item drawable="panda"/>
     <item drawable="panda_usecar"/>
+    <item drawable="pandownload"/>
     <item drawable="paper"/>
     <item drawable="paper2"/>
     <item drawable="passport"/>
@@ -946,6 +959,7 @@
     <item drawable="pinduoduo"/>
     <item drawable="pingan_bank"/>
     <item drawable="pingan_ff"/>
+    <item drawable="pingtools_pro"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
     <item drawable="pinterest"/>
@@ -962,6 +976,7 @@
     <item drawable="poetry"/>
     <item drawable="pokemmo"/>
     <item drawable="polarr"/>
+    <item drawable="polly"/>
     <item drawable="poly"/>
     <item drawable="poly_alt"/>
     <item drawable="pomotodo"/>

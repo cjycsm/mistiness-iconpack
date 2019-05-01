@@ -7219,7 +7219,163 @@
         drawable="huluxia_bbs"/>
 
     <item
-        component="ComponentInfo{cmb.pb/cmb.pb.app.launch.PBInitActivity}"
+        component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.PBEntryActivity}"
         drawable="cmb"/>
+
+    <item
+        component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}"
+        drawable="sf"/>
+
+    <item
+        component="ComponentInfo{com.f0208.lebo/com.zw.lebo.SplashView}"
+        drawable="mahua_movie"/>
+
+    <item
+        component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher3}"
+        drawable="share"/>
+
+    <item
+        component="ComponentInfo{coldsong.translu.letter/coldsong.translu.letter.Letter}"
+        drawable="wooden_letter"/>
+
+    <item
+        component="ComponentInfo{com.smartisanos.security/com.smartisanos.securitycenter.MainActivity}"
+        drawable="safe"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/l.۬ۨۘۢ}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{com.kroegerama.appchecker/com.kroegerama.appchecker.ui.AcMain}"
+        drawable="app_checker"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm}"
+        drawable="sony_moive_creator"/>
+
+    <item
+        component="ComponentInfo{com.qy.wifi/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifikey"/>
+
+    <item
+        component="ComponentInfo{moe.guo.lrcjaeger/moe.guo.lyricsjaeger.ui.activities.MainActivity}"
+        drawable="lrcjaeger"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.supercell.clashroyale/com.tencent.tmgp.supercell.clashroyale.GameAppTencent}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.m4399/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.nearme.gamecenter/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.vivo/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.aligames/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.baidu/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.kunlun/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.huawei/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.lenovo/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.qihoo/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.wdj/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashroyale.mi/com.supercell.clashroyale.GameAppKunlun}"
+        drawable="clashroyale"/>
+
+    <item
+        component="ComponentInfo{com.ilongyuan.cytus2.bilibili/com.ilongyuan.cytus2.remaster.MainActivity}"
+        drawable="cytus2"/>
+
+    <item
+        component="ComponentInfo{com.huawei.objautorigmaster/xr.com.autorig.MainActivity}"
+        drawable="huawei_3d_live_maker"/>
+
+    <item
+        component="ComponentInfo{com.github.dawndiy.bifrostv/com.github.dawndiy.bifrostv.main.MainActivity}"
+        drawable="bifrostv"/>
+
+    <item
+        component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}"
+        drawable="bluemail"/>
+
+    <item
+        component="ComponentInfo{zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView}"
+        drawable="cc_call_blocker"/>
+
+    <item
+        component="ComponentInfo{ru.whatau.cpl/com.google.android.apps.nexuslauncher.NexusLauncherActivity}"
+        drawable="cpl"/>
+
+    <item
+        component="ComponentInfo{net.kanbisai.app/com.lt.app.MainActivity}"
+        drawable="kanbisai"/>
+
+    <item
+        component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}"
+        drawable="mega"/>
+
+    <item
+        component="ComponentInfo{czh.mindnode/czh.mindnode.MainActivity}"
+        drawable="mindline"/>
+
+    <item
+        component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}"
+        drawable="newpipe"/>
+
+    <item
+        component="ComponentInfo{notion.id/notion.local.id.MainActivity}"
+        drawable="notion"/>
+
+    <item
+        component="ComponentInfo{l.o/l.l}"
+        drawable="oneplus_pro"/>
+
+    <item
+        component="ComponentInfo{com.sigono.heaven01/com.google.firebase.MessagingUnityPlayerActivity}"
+        drawable="opus_r"/>
+
+    <item
+        component="ComponentInfo{top.linesoft.kiryuu.pandownload/top.linesoft.kiryuu.pandownload.MainActivity}"
+        drawable="pandownload"/>
+
+    <item
+        component="ComponentInfo{ua.com.streamsoft.pingtoolspro/ua.com.streamsoft.pingtools.MainActivity_AA}"
+        drawable="pingtools_pro"/>
+
+    <item
+        component="ComponentInfo{com.blend.polly/com.blend.polly.ui.main.MainActivity}"
+        drawable="polly"/>
 
 </resources>

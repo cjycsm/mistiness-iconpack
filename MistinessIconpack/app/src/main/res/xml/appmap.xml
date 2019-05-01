@@ -7133,4 +7133,160 @@
         class="cmb.pb.app.mainframe.PBEntryActivity"
         name="cmb"/>
 
+    <item
+        class="com.sf.activity.MainActivity"
+        name="sf"/>
+
+    <item
+        class="com.zw.lebo.SplashView"
+        name="mahua_movie"/>
+
+    <item
+        class="com.hengye.share.Launcher3"
+        name="share"/>
+
+    <item
+        class="coldsong.translu.letter.Letter"
+        name="wooden_letter"/>
+
+    <item
+        class="com.smartisanos.securitycenter.MainActivity"
+        name="safe"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="l.۬ۨۘۢ"
+        name="mt"/>
+
+    <item
+        class="com.kroegerama.appchecker.ui.AcMain"
+        name="app_checker"/>
+
+    <item
+        class="com.sonymobile.moviecreator.rmm"
+        name="sony_moive_creator"/>
+
+    <item
+        class="com.lantern.launcher.ui.MainActivity"
+        name="wifikey"/>
+
+    <item
+        class="moe.guo.lyricsjaeger.ui.activities.MainActivity"
+        name="lrcjaeger"/>
+
+    <item
+        class="com.tencent.tmgp.supercell.clashroyale.GameAppTencent"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.supercell.clashroyale.GameAppKunlun"
+        name="clashroyale"/>
+
+    <item
+        class="com.ilongyuan.cytus2.remaster.MainActivity"
+        name="cytus2"/>
+
+    <item
+        class="xr.com.autorig.MainActivity"
+        name="huawei_3d_live_maker"/>
+
+    <item
+        class="com.github.dawndiy.bifrostv.main.MainActivity"
+        name="bifrostv"/>
+
+    <item
+        class="com.trtf.blue.activity.Accounts"
+        name="bluemail"/>
+
+    <item
+        class="zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView"
+        name="cc_call_blocker"/>
+
+    <item
+        class="com.google.android.apps.nexuslauncher.NexusLauncherActivity"
+        name="cpl"/>
+
+    <item
+        class="com.lt.app.MainActivity"
+        name="kanbisai"/>
+
+    <item
+        class="mega.privacy.android.app.LauncherActivity"
+        name="mega"/>
+
+    <item
+        class="czh.mindnode.MainActivity"
+        name="mindline"/>
+
+    <item
+        class="org.schabi.newpipe.MainActivity"
+        name="newpipe"/>
+
+    <item
+        class="notion.local.id.MainActivity"
+        name="notion"/>
+
+    <item
+        class="l.l"
+        name="oneplus_pro"/>
+
+    <item
+        class="com.google.firebase.MessagingUnityPlayerActivity"
+        name="opus_r"/>
+
+    <item
+        class="top.linesoft.kiryuu.pandownload.MainActivity"
+        name="pandownload"/>
+
+    <item
+        class="ua.com.streamsoft.pingtools.MainActivity_AA"
+        name="pingtools_pro"/>
+
+    <item
+        class="com.blend.polly.ui.main.MainActivity"
+        name="polly"/>
+
 </appmap>

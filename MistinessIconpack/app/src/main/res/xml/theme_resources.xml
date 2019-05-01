@@ -7147,4 +7147,160 @@
         name="cmb.pb/cmb.pb.app.mainframe.PBEntryActivity"
         image="cmb"/>
 
+    <AppIcon
+        name="com.sf.activity/com.sf.activity.MainActivity"
+        image="sf"/>
+
+    <AppIcon
+        name="com.f0208.lebo/com.zw.lebo.SplashView"
+        image="mahua_movie"/>
+
+    <AppIcon
+        name="com.hengye.share/com.hengye.share.Launcher3"
+        image="share"/>
+
+    <AppIcon
+        name="coldsong.translu.letter/coldsong.translu.letter.Letter"
+        image="wooden_letter"/>
+
+    <AppIcon
+        name="com.smartisanos.security/com.smartisanos.securitycenter.MainActivity"
+        image="safe"/>
+
+    <AppIcon
+        name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+
+    <AppIcon
+        name="bin.mt.plus/l.۬ۨۘۢ"
+        image="mt"/>
+
+    <AppIcon
+        name="com.kroegerama.appchecker/com.kroegerama.appchecker.ui.AcMain"
+        image="app_checker"/>
+
+    <AppIcon
+        name="com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm"
+        image="sony_moive_creator"/>
+
+    <AppIcon
+        name="com.qy.wifi/com.lantern.launcher.ui.MainActivity"
+        image="wifikey"/>
+
+    <AppIcon
+        name="moe.guo.lrcjaeger/moe.guo.lyricsjaeger.ui.activities.MainActivity"
+        image="lrcjaeger"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.supercell.clashroyale/com.tencent.tmgp.supercell.clashroyale.GameAppTencent"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.m4399/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.nearme.gamecenter/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.vivo/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.aligames/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.baidu/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.kunlun/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.huawei/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.lenovo/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.qihoo/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.wdj/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.supercell.clashroyale.mi/com.supercell.clashroyale.GameAppKunlun"
+        image="clashroyale"/>
+
+    <AppIcon
+        name="com.ilongyuan.cytus2.bilibili/com.ilongyuan.cytus2.remaster.MainActivity"
+        image="cytus2"/>
+
+    <AppIcon
+        name="com.huawei.objautorigmaster/xr.com.autorig.MainActivity"
+        image="huawei_3d_live_maker"/>
+
+    <AppIcon
+        name="com.github.dawndiy.bifrostv/com.github.dawndiy.bifrostv.main.MainActivity"
+        image="bifrostv"/>
+
+    <AppIcon
+        name="me.bluemail.mail/com.trtf.blue.activity.Accounts"
+        image="bluemail"/>
+
+    <AppIcon
+        name="zhs.betale.ccCallBlockerN/zhs.betale.ccCallBlockerN.ui.phone.BlockedPhoneListView"
+        image="cc_call_blocker"/>
+
+    <AppIcon
+        name="ru.whatau.cpl/com.google.android.apps.nexuslauncher.NexusLauncherActivity"
+        image="cpl"/>
+
+    <AppIcon
+        name="net.kanbisai.app/com.lt.app.MainActivity"
+        image="kanbisai"/>
+
+    <AppIcon
+        name="mega.privacy.android.app/mega.privacy.android.app.LauncherActivity"
+        image="mega"/>
+
+    <AppIcon
+        name="czh.mindnode/czh.mindnode.MainActivity"
+        image="mindline"/>
+
+    <AppIcon
+        name="org.schabi.newpipe/org.schabi.newpipe.MainActivity"
+        image="newpipe"/>
+
+    <AppIcon
+        name="notion.id/notion.local.id.MainActivity"
+        image="notion"/>
+
+    <AppIcon
+        name="l.o/l.l"
+        image="oneplus_pro"/>
+
+    <AppIcon
+        name="com.sigono.heaven01/com.google.firebase.MessagingUnityPlayerActivity"
+        image="opus_r"/>
+
+    <AppIcon
+        name="top.linesoft.kiryuu.pandownload/top.linesoft.kiryuu.pandownload.MainActivity"
+        image="pandownload"/>
+
+    <AppIcon
+        name="ua.com.streamsoft.pingtoolspro/ua.com.streamsoft.pingtools.MainActivity_AA"
+        image="pingtools_pro"/>
+
+    <AppIcon
+        name="com.blend.polly/com.blend.polly.ui.main.MainActivity"
+        image="polly"/>
+
 </Theme>
