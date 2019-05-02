@@ -7378,4 +7378,64 @@
         component="ComponentInfo{com.blend.polly/com.blend.polly.ui.main.MainActivity}"
         drawable="polly"/>
 
+    <item
+        component="ComponentInfo{org.potato.messenger/org.potato.ui.LaunchActivity}"
+        drawable="potato"/>
+
+    <item
+        component="ComponentInfo{com.xfplay.play/com.xabber.android.ui.activity.LoadActivity}"
+        drawable="xfplay"/>
+
+    <item
+        component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}"
+        drawable="yandex_browser"/>
+
+    <item
+        component="ComponentInfo{com.sukaiyi.bandwagonvps/com.sukaiyi.bandwagonvps.MainActivity}"
+        drawable="bandwagon_vps"/>
+
+    <item
+        component="ComponentInfo{com.neuqsoft.ggfwandroid_bd/com.neuqsoft.ggfwandroid_global.view.activity.main.SplashActivity}"
+        drawable="bdrs"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.carrot3/com.tencent.tmgp.carrot3.CarrotFantasy}"
+        drawable="tencent_carrot3"/>
+
+    <item
+        component="ComponentInfo{com.gudianbiquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity}"
+        drawable="biquge"/>
+
+    <item
+        component="ComponentInfo{com.xiaoyaocz.bilidownload/md5aa263b131c439cb0dcdd34b782da24ff.MainActivity}"
+        drawable="bilidownload"/>
+
+    <item
+        component="ComponentInfo{com.tencent.nijigen/com.tencent.nijigen.splash.SplashActivity}"
+        drawable="tencent_nijigen"/>
+
+    <item
+        component="ComponentInfo{io.moreless.tide/io.moreless.tide.play.PlayActivity}"
+        drawable="tide"/>
+
+    <item
+        component="ComponentInfo{com.ghosun.dict/com.ghosun.dict.Welcome}"
+        drawable="ghosun_dict"/>
+
+    <item
+        component="ComponentInfo{com.appbyme.app297173/com.mobcent.discuz.activity.SplashActivity}"
+        drawable="acgke"/>
+
+    <item
+        component="ComponentInfo{com.baidu.wallet/com.baidu.wallet.home.SplashActivity}"
+        drawable="baidu_wallet"/>
+
+    <item
+        component="ComponentInfo{com.drcom.DuoDian/com.drpalm.duodianbase.Activity.Startup.StartupActivity}"
+        drawable="duodian"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqumall/com.tencent.qqumall.IconAlias}"
+        drawable="tencent_qquamll"/>
+
 </resources>

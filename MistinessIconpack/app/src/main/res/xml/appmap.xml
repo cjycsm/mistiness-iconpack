@@ -7289,4 +7289,64 @@
         class="com.blend.polly.ui.main.MainActivity"
         name="polly"/>
 
+    <item
+        class="org.potato.ui.LaunchActivity"
+        name="potato"/>
+
+    <item
+        class="com.xabber.android.ui.activity.LoadActivity"
+        name="xfplay"/>
+
+    <item
+        class="com.yandex.browser.YandexBrowserActivity"
+        name="yandex_browser"/>
+
+    <item
+        class="com.sukaiyi.bandwagonvps.MainActivity"
+        name="bandwagon_vps"/>
+
+    <item
+        class="com.neuqsoft.ggfwandroid_global.view.activity.main.SplashActivity"
+        name="bdrs"/>
+
+    <item
+        class="com.tencent.tmgp.carrot3.CarrotFantasy"
+        name="tencent_carrot3"/>
+
+    <item
+        class="com.biquge.ebook.app.ui.activity.WelComeActivity"
+        name="biquge"/>
+
+    <item
+        class="md5aa263b131c439cb0dcdd34b782da24ff.MainActivity"
+        name="bilidownload"/>
+
+    <item
+        class="com.tencent.nijigen.splash.SplashActivity"
+        name="tencent_nijigen"/>
+
+    <item
+        class="io.moreless.tide.play.PlayActivity"
+        name="tide"/>
+
+    <item
+        class="com.ghosun.dict.Welcome"
+        name="ghosun_dict"/>
+
+    <item
+        class="com.mobcent.discuz.activity.SplashActivity"
+        name="acgke"/>
+
+    <item
+        class="com.baidu.wallet.home.SplashActivity"
+        name="baidu_wallet"/>
+
+    <item
+        class="com.drpalm.duodianbase.Activity.Startup.StartupActivity"
+        name="duodian"/>
+
+    <item
+        class="com.tencent.qqumall.IconAlias"
+        name="tencent_qquamll"/>
+
 </appmap>

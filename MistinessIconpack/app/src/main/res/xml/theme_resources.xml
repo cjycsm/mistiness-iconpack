@@ -7303,4 +7303,64 @@
         name="com.blend.polly/com.blend.polly.ui.main.MainActivity"
         image="polly"/>
 
+    <AppIcon
+        name="org.potato.messenger/org.potato.ui.LaunchActivity"
+        image="potato"/>
+
+    <AppIcon
+        name="com.xfplay.play/com.xabber.android.ui.activity.LoadActivity"
+        image="xfplay"/>
+
+    <AppIcon
+        name="com.yandex.browser/com.yandex.browser.YandexBrowserActivity"
+        image="yandex_browser"/>
+
+    <AppIcon
+        name="com.sukaiyi.bandwagonvps/com.sukaiyi.bandwagonvps.MainActivity"
+        image="bandwagon_vps"/>
+
+    <AppIcon
+        name="com.neuqsoft.ggfwandroid_bd/com.neuqsoft.ggfwandroid_global.view.activity.main.SplashActivity"
+        image="bdrs"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.carrot3/com.tencent.tmgp.carrot3.CarrotFantasy"
+        image="tencent_carrot3"/>
+
+    <AppIcon
+        name="com.gudianbiquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity"
+        image="biquge"/>
+
+    <AppIcon
+        name="com.xiaoyaocz.bilidownload/md5aa263b131c439cb0dcdd34b782da24ff.MainActivity"
+        image="bilidownload"/>
+
+    <AppIcon
+        name="com.tencent.nijigen/com.tencent.nijigen.splash.SplashActivity"
+        image="tencent_nijigen"/>
+
+    <AppIcon
+        name="io.moreless.tide/io.moreless.tide.play.PlayActivity"
+        image="tide"/>
+
+    <AppIcon
+        name="com.ghosun.dict/com.ghosun.dict.Welcome"
+        image="ghosun_dict"/>
+
+    <AppIcon
+        name="com.appbyme.app297173/com.mobcent.discuz.activity.SplashActivity"
+        image="acgke"/>
+
+    <AppIcon
+        name="com.baidu.wallet/com.baidu.wallet.home.SplashActivity"
+        image="baidu_wallet"/>
+
+    <AppIcon
+        name="com.drcom.DuoDian/com.drpalm.duodianbase.Activity.Startup.StartupActivity"
+        image="duodian"/>
+
+    <AppIcon
+        name="com.tencent.qqumall/com.tencent.qqumall.IconAlias"
+        image="tencent_qquamll"/>
+
 </Theme>

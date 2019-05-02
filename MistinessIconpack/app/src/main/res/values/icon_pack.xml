@@ -58,27 +58,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>huawei_3d_live_maker</item>
-        <item>bifrostv</item>
-        <item>bluemail</item>
-        <item>cc_call_blocker</item>
-        <item>cpl</item>
-        <item>kanbisai</item>
-        <item>mega</item>
-        <item>mindline</item>
-        <item>newpipe</item>
-        <item>notion</item>
-        <item>oneplus_pro</item>
-        <item>pandownload</item>
-        <item>pingtools_pro</item>
-        <item>polly</item>
-        <item>opus_r</item>=
+        <item>potato</item>
+        <item>xfplay</item>
+        <item>yandex_browser</item>
+        <item>bandwagon_vps</item>
+        <item>bdrs</item>
+        <item>biquge</item>
+        <item>bilidownload</item>
+        <item>tencent_nijigen</item>
+        <item>tide</item>
+        <item>ghosun_dict</item>
+        <item>acgke</item>
+        <item>baidu_wallet</item>
+        <item>duodian</item>
+        <item>tencent_qquamll</item>
+        <item>tencent_carrot3</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>youku</item>
-        <item>dailuobo</item>
-        <item>youdao_translator</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1360,6 +1358,20 @@
         <item>pingtools_pro</item>
         <item>polly</item>
         <item>emui_theme_store</item>
+        <item>potato</item>
+        <item>xfplay</item>
+        <item>yandex_browser</item>
+        <item>bandwagon_vps</item>
+        <item>bdrs</item>
+        <item>biquge</item>
+        <item>bilidownload</item>
+        <item>tencent_nijigen</item>
+        <item>tide</item>
+        <item>ghosun_dict</item>
+        <item>acgke</item>
+        <item>baidu_wallet</item>
+        <item>duodian</item>
+        <item>tencent_qquamll</item>
     </string-array>
 
     <string-array name="game">
@@ -1432,6 +1444,7 @@
         <item>yyzy</item>
         <item>bullet_force</item>
         <item>opus_r</item>
+        <item>tencent_carrot3</item>
     </string-array>
 
     <string-array name="basic">

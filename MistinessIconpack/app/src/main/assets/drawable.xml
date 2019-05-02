@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>87</version>
+    <version>88</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -27,6 +27,7 @@
     <item drawable="account"/>
     <item drawable="accubattery"/>
     <item drawable="acfun"/>
+    <item drawable="acgke"/>
     <item drawable="actiondash"/>
     <item drawable="ad_guard"/>
     <item drawable="adaway"/>
@@ -115,10 +116,12 @@
     <item drawable="baidu_searchcraft"/>
     <item drawable="baidu_tieba"/>
     <item drawable="baidu_translator"/>
+    <item drawable="baidu_wallet"/>
     <item drawable="baidu_wenku"/>
     <item drawable="baidu_yuedu"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
+    <item drawable="bandwagon_vps"/>
     <item drawable="bankcomm"/>
     <item drawable="banma"/>
     <item drawable="bar_iconpack"/>
@@ -126,6 +129,7 @@
     <item drawable="barcode_alt"/>
     <item drawable="battery_meter"/>
     <item drawable="bbk_cloud"/>
+    <item drawable="bdrs"/>
     <item drawable="beauty_camera"/>
     <item drawable="bestpay"/>
     <item drawable="bh3"/>
@@ -139,8 +143,10 @@
     <item drawable="bilibili_blue_alt"/>
     <item drawable="bilibili_comic"/>
     <item drawable="bilibili_live"/>
+    <item drawable="bilidownload"/>
     <item drawable="bingdic"/>
     <item drawable="bingo_candy"/>
+    <item drawable="biquge"/>
     <item drawable="bit"/>
     <item drawable="bit_alt"/>
     <item drawable="bitsfun_light"/>
@@ -347,6 +353,7 @@
     <item drawable="du"/>
     <item drawable="du_recorder"/>
     <item drawable="duitang"/>
+    <item drawable="duodian"/>
     <item drawable="duokan"/>
     <item drawable="duola_yunprint"/>
     <item drawable="duolinguo"/>
@@ -468,6 +475,7 @@
     <item drawable="geography"/>
     <item drawable="geometric_weather"/>
     <item drawable="gfx_tool"/>
+    <item drawable="ghosun_dict"/>
     <item drawable="gif_live_wallpaper"/>
     <item drawable="gifpaser"/>
     <item drawable="girlsfrontline"/>
@@ -981,6 +989,7 @@
     <item drawable="poly_alt"/>
     <item drawable="pomotodo"/>
     <item drawable="pornhub"/>
+    <item drawable="potato"/>
     <item drawable="power_amp"/>
     <item drawable="power_clean"/>
     <item drawable="power_shade"/>
@@ -1238,6 +1247,7 @@
     <item drawable="tencent_ac"/>
     <item drawable="tencent_blackkey"/>
     <item drawable="tencent_blackkey_alt"/>
+    <item drawable="tencent_carrot3"/>
     <item drawable="tencent_djcity"/>
     <item drawable="tencent_docs"/>
     <item drawable="tencent_edu"/>
@@ -1260,10 +1270,12 @@
     <item drawable="tencent_mp"/>
     <item drawable="tencent_news"/>
     <item drawable="tencent_news_lite"/>
+    <item drawable="tencent_nijigen"/>
     <item drawable="tencent_nntg"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqdownloader"/>
     <item drawable="tencent_qqpinyin"/>
+    <item drawable="tencent_qquamll"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_radio"/>
     <item drawable="tencent_reading"/>
@@ -1290,6 +1302,7 @@
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
     <item drawable="ticktick_task"/>
+    <item drawable="tide"/>
     <item drawable="tieba_lite"/>
     <item drawable="tieba_mini"/>
     <item drawable="tieyou"/>
@@ -1413,6 +1426,7 @@
     <item drawable="xbxxz"/>
     <item drawable="xda"/>
     <item drawable="xda_labs"/>
+    <item drawable="xfplay"/>
     <item drawable="xgdh"/>
     <item drawable="xhs"/>
     <item drawable="xiachufang"/>
@@ -1459,6 +1473,7 @@
     <item drawable="xunlei"/>
     <item drawable="xunyou"/>
     <item drawable="yahoo_weather"/>
+    <item drawable="yandex_browser"/>
     <item drawable="yandong"/>
     <item drawable="yhdzz"/>
     <item drawable="yi_live"/>
