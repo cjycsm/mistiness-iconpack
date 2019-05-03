@@ -6352,6 +6352,18 @@
         image="sgs"/>
 
     <AppIcon
+        name="bf.sgs.hdexp/org.cocos2dx.lua.AppActivity"
+        image="sgs"/>
+
+    <AppIcon
+        name="com.bf.sgs.hdexp.uc/org.cocos2dx.lua.AppActivity"
+        image="sgs"/>
+
+    <AppIcon
+        name="com.sgshd.nearme.gamecenter/org.cocos2dx.lua.AppActivity"
+        image="sgs"/>
+
+    <AppIcon
         name="com.flash.download/com.example.dwd.myapplication.SplashActivity"
         image="flash_download"/>
 
@@ -7362,5 +7374,65 @@
     <AppIcon
         name="com.tencent.qqumall/com.tencent.qqumall.IconAlias"
         image="tencent_qquamll"/>
+
+    <AppIcon
+        name="com.cndatacom.campus.cdccportalgd/com.cndatacom.xjhui.MainUiActivity"
+        image="ct_campus"/>
+
+    <AppIcon
+        name="com.zhangyangjing.starfish/com.zhangyangjing.starfish.ui.MainActivity"
+        image="starfish"/>
+
+    <AppIcon
+        name="it.rortos.realflight/com.unity3d.player.UnityPlayerActivity"
+        image="realflight"/>
+
+    <AppIcon
+        name="com.zhiye.cardpass/com.zhiye.cardpass.WelcomeActivity"
+        image="zhiye_cardpass"/>
+
+    <AppIcon
+        name="com.hjwordgames/com.hjwordgames.Splash"
+        image="hj_wordgames"/>
+
+    <AppIcon
+        name="com.zzu.sxm.chemical/com.zzu.sxm.chemical.ui.activity.SplashActivity"
+        image="chemical"/>
+
+    <AppIcon
+        name="org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App"
+        image="firefox_nightly"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.jx3m/com.tencent.tmgp.jx3m.MGameActivity"
+        image="tencent_jx3m"/>
+
+    <AppIcon
+        name="com.jym.mall/com.jym.mall.launch.ui.SplashAct"
+        image="jym_mall"/>
+
+    <AppIcon
+        name="top.fols.aapp.socketfilelistserver/top.fols.aapp.socketfilelistserver.MainActivity"
+        image="socket_server"/>
+
+    <AppIcon
+        name="pmbattle.superyyl.com.pmbattleandroid/pmbattle.superyyl.com.pmbattleandroid.LaunchActivity"
+        image="pmbattle"/>
+
+    <AppIcon
+        name="com.mobile.videonews.li.video/com.mobile.videonews.li.video.act.StartAty"
+        image="li_video"/>
+
+    <AppIcon
+        name="com.yibasan.lizhifm/com.yibasan.lizhifm.activities.EntryPointActivity"
+        image="lizhifm"/>
+
+    <AppIcon
+        name="net.onethingtech.wallet/net.onethingtech.wallet.activity.SplashActivity"
+        image="linktoken_pocket"/>
+
+    <AppIcon
+        name="com.meiju592.app/com.meiju592.app.view.activity.LogoSplashActivity"
+        image="meiju592"/>
 
 </Theme>

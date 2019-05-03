@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>88</version>
+    <version>89</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -212,6 +212,7 @@
     <item drawable="chaoge"/>
     <item drawable="chebada"/>
     <item drawable="chelaile"/>
+    <item drawable="chemical"/>
     <item drawable="chengzivr"/>
     <item drawable="china_daily"/>
     <item drawable="china_telecom"/>
@@ -296,6 +297,7 @@
     <item drawable="crazy_music"/>
     <item drawable="credit_card_manager"/>
     <item drawable="csdn"/>
+    <item drawable="ct_campus"/>
     <item drawable="ctfile"/>
     <item drawable="ctrip"/>
     <item drawable="cucumber_video"/>
@@ -426,6 +428,7 @@
     <item drawable="firebear"/>
     <item drawable="firefox"/>
     <item drawable="firefox_beta"/>
+    <item drawable="firefox_nightly"/>
     <item drawable="firefox_rocket"/>
     <item drawable="fivehundredpx"/>
     <item drawable="flamingo"/>
@@ -552,6 +555,7 @@
     <item drawable="hiby_music"/>
     <item drawable="hippo"/>
     <item drawable="hiwifi"/>
+    <item drawable="hj_wordgames"/>
     <item drawable="hlddz"/>
     <item drawable="holi"/>
     <item drawable="homeinn"/>
@@ -647,6 +651,7 @@
     <item drawable="jumei"/>
     <item drawable="juzimi"/>
     <item drawable="jxedt"/>
+    <item drawable="jym_mall"/>
     <item drawable="kanbisai"/>
     <item drawable="kancolle"/>
     <item drawable="kankunit_smart"/>
@@ -707,6 +712,7 @@
     <item drawable="lge_lgpay"/>
     <item drawable="lge_lifetracker"/>
     <item drawable="lge_tdmb"/>
+    <item drawable="li_video"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
     <item drawable="light"/>
@@ -718,10 +724,12 @@
     <item drawable="lineicons2_iconpack"/>
     <item drawable="linewebtoon"/>
     <item drawable="linkedin"/>
+    <item drawable="linktoken_pocket"/>
     <item drawable="linovel"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="live_visualizer"/>
+    <item drawable="lizhifm"/>
     <item drawable="ll_iconpack"/>
     <item drawable="llss"/>
     <item drawable="lofter"/>
@@ -765,6 +773,7 @@
     <item drawable="medlive"/>
     <item drawable="meeye"/>
     <item drawable="mega"/>
+    <item drawable="meiju592"/>
     <item drawable="meipai"/>
     <item drawable="meiriyiwen"/>
     <item drawable="meituan"/>
@@ -979,6 +988,7 @@
     <item drawable="pixolor"/>
     <item drawable="pkg"/>
     <item drawable="playstation"/>
+    <item drawable="pmbattle"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="poetry"/>
@@ -1054,6 +1064,7 @@
     <item drawable="rain"/>
     <item drawable="rar"/>
     <item drawable="readhub_plus"/>
+    <item drawable="realflight"/>
     <item drawable="realracing3"/>
     <item drawable="recorder"/>
     <item drawable="reddit"/>
@@ -1157,6 +1168,7 @@
     <item drawable="snapmod_alt"/>
     <item drawable="snapseed"/>
     <item drawable="snkrs"/>
+    <item drawable="socket_server"/>
     <item drawable="sogou_ime"/>
     <item drawable="sogou_novel"/>
     <item drawable="solid_explorer"/>
@@ -1187,6 +1199,7 @@
     <item drawable="srlink"/>
     <item drawable="ssly"/>
     <item drawable="sspai"/>
+    <item drawable="starfish"/>
     <item drawable="steam"/>
     <item drawable="steam_go"/>
     <item drawable="steam_go_alt"/>
@@ -1264,6 +1277,7 @@
     <item drawable="tencent_happymj"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ipai"/>
+    <item drawable="tencent_jx3m"/>
     <item drawable="tencent_live"/>
     <item drawable="tencent_live_lite"/>
     <item drawable="tencent_map"/>
@@ -1513,6 +1527,7 @@
     <item drawable="zhihu_daily"/>
     <item drawable="zhihu_lite"/>
     <item drawable="zhilianzhaopin"/>
+    <item drawable="zhiye_cardpass"/>
     <item drawable="zhiyoo"/>
     <item drawable="zhiyuanhui"/>
     <item drawable="zhuanzhuan"/>

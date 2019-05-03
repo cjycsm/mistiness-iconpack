@@ -7186,46 +7186,6 @@
         name="clashroyale"/>
 
     <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
-        class="com.supercell.clashroyale.GameAppKunlun"
-        name="clashroyale"/>
-
-    <item
         class="com.ilongyuan.cytus2.remaster.MainActivity"
         name="cytus2"/>
 
@@ -7348,5 +7308,65 @@
     <item
         class="com.tencent.qqumall.IconAlias"
         name="tencent_qquamll"/>
+
+    <item
+        class="com.cndatacom.xjhui.MainUiActivity"
+        name="ct_campus"/>
+
+    <item
+        class="com.zhangyangjing.starfish.ui.MainActivity"
+        name="starfish"/>
+
+    <item
+        class="com.unity3d.player.UnityPlayerActivity"
+        name="realflight"/>
+
+    <item
+        class="com.zhiye.cardpass.WelcomeActivity"
+        name="zhiye_cardpass"/>
+
+    <item
+        class="com.hjwordgames.Splash"
+        name="hj_wordgames"/>
+
+    <item
+        class="com.zzu.sxm.chemical.ui.activity.SplashActivity"
+        name="chemical"/>
+
+    <item
+        class="org.mozilla.fennec_aurora.App"
+        name="firefox_nightly"/>
+
+    <item
+        class="com.tencent.tmgp.jx3m.MGameActivity"
+        name="tencent_jx3m"/>
+
+    <item
+        class="com.jym.mall.launch.ui.SplashAct"
+        name="jym_mall"/>
+
+    <item
+        class="top.fols.aapp.socketfilelistserver.MainActivity"
+        name="socket_server"/>
+
+    <item
+        class="pmbattle.superyyl.com.pmbattleandroid.LaunchActivity"
+        name="pmbattle"/>
+
+    <item
+        class="com.mobile.videonews.li.video.act.StartAty"
+        name="li_video"/>
+
+    <item
+        class="com.yibasan.lizhifm.activities.EntryPointActivity"
+        name="lizhifm"/>
+
+    <item
+        class="net.onethingtech.wallet.activity.SplashActivity"
+        name="linktoken_pocket"/>
+
+    <item
+        class="com.meiju592.app.view.activity.LogoSplashActivity"
+        name="meiju592"/>
 
 </appmap>

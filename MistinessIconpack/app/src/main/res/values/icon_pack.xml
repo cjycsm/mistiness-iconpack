@@ -58,21 +58,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>potato</item>
-        <item>xfplay</item>
-        <item>yandex_browser</item>
-        <item>bandwagon_vps</item>
-        <item>bdrs</item>
-        <item>biquge</item>
-        <item>bilidownload</item>
-        <item>tencent_nijigen</item>
-        <item>tide</item>
-        <item>ghosun_dict</item>
-        <item>acgke</item>
-        <item>baidu_wallet</item>
-        <item>duodian</item>
-        <item>tencent_qquamll</item>
-        <item>tencent_carrot3</item>
+        <item>ct_campus</item>
+        <item>starfish</item>
+        <item>zhiye_cardpass</item>
+        <item>hj_wordgames</item>
+        <item>chemical</item>
+        <item>firefox_nightly</item>
+        <item>jym_mall</item>
+        <item>socket_server</item>
+        <item>pmbattle</item>
+        <item>li_video</item>
+        <item>lizhifm</item>
+        <item>linktoken_pocket</item>
+        <item>meiju592</item>
+        <item>realflight</item>
+        <item>tencent_jx3m</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1372,6 +1372,19 @@
         <item>baidu_wallet</item>
         <item>duodian</item>
         <item>tencent_qquamll</item>
+        <item>ct_campus</item>
+        <item>starfish</item>
+        <item>zhiye_cardpass</item>
+        <item>hj_wordgames</item>
+        <item>chemical</item>
+        <item>firefox_nightly</item>
+        <item>jym_mall</item>
+        <item>socket_server</item>
+        <item>pmbattle</item>
+        <item>li_video</item>
+        <item>lizhifm</item>
+        <item>linktoken_pocket</item>
+        <item>meiju592</item>
     </string-array>
 
     <string-array name="game">
@@ -1445,6 +1458,8 @@
         <item>bullet_force</item>
         <item>opus_r</item>
         <item>tencent_carrot3</item>
+        <item>realflight</item>
+        <item>tencent_jx3m</item>
     </string-array>
 
     <string-array name="basic">

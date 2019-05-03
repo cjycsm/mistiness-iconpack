@@ -6427,6 +6427,18 @@
         drawable="sgs"/>
 
     <item
+        component="ComponentInfo{bf.sgs.hdexp/org.cocos2dx.lua.AppActivity}"
+        drawable="sgs"/>
+
+    <item
+        component="ComponentInfo{com.bf.sgs.hdexp.uc/org.cocos2dx.lua.AppActivity}"
+        drawable="sgs"/>
+
+    <item
+        component="ComponentInfo{com.sgshd.nearme.gamecenter/org.cocos2dx.lua.AppActivity}"
+        drawable="sgs"/>
+
+    <item
         component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.SplashActivity}"
         drawable="flash_download"/>
 
@@ -7437,5 +7449,65 @@
     <item
         component="ComponentInfo{com.tencent.qqumall/com.tencent.qqumall.IconAlias}"
         drawable="tencent_qquamll"/>
+
+    <item
+        component="ComponentInfo{com.cndatacom.campus.cdccportalgd/com.cndatacom.xjhui.MainUiActivity}"
+        drawable="ct_campus"/>
+
+    <item
+        component="ComponentInfo{com.zhangyangjing.starfish/com.zhangyangjing.starfish.ui.MainActivity}"
+        drawable="starfish"/>
+
+    <item
+        component="ComponentInfo{it.rortos.realflight/com.unity3d.player.UnityPlayerActivity}"
+        drawable="realflight"/>
+
+    <item
+        component="ComponentInfo{com.zhiye.cardpass/com.zhiye.cardpass.WelcomeActivity}"
+        drawable="zhiye_cardpass"/>
+
+    <item
+        component="ComponentInfo{com.hjwordgames/com.hjwordgames.Splash}"
+        drawable="hj_wordgames"/>
+
+    <item
+        component="ComponentInfo{com.zzu.sxm.chemical/com.zzu.sxm.chemical.ui.activity.SplashActivity}"
+        drawable="chemical"/>
+
+    <item
+        component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}"
+        drawable="firefox_nightly"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.jx3m/com.tencent.tmgp.jx3m.MGameActivity}"
+        drawable="tencent_jx3m"/>
+
+    <item
+        component="ComponentInfo{com.jym.mall/com.jym.mall.launch.ui.SplashAct}"
+        drawable="jym_mall"/>
+
+    <item
+        component="ComponentInfo{top.fols.aapp.socketfilelistserver/top.fols.aapp.socketfilelistserver.MainActivity}"
+        drawable="socket_server"/>
+
+    <item
+        component="ComponentInfo{pmbattle.superyyl.com.pmbattleandroid/pmbattle.superyyl.com.pmbattleandroid.LaunchActivity}"
+        drawable="pmbattle"/>
+
+    <item
+        component="ComponentInfo{com.mobile.videonews.li.video/com.mobile.videonews.li.video.act.StartAty}"
+        drawable="li_video"/>
+
+    <item
+        component="ComponentInfo{com.yibasan.lizhifm/com.yibasan.lizhifm.activities.EntryPointActivity}"
+        drawable="lizhifm"/>
+
+    <item
+        component="ComponentInfo{net.onethingtech.wallet/net.onethingtech.wallet.activity.SplashActivity}"
+        drawable="linktoken_pocket"/>
+
+    <item
+        component="ComponentInfo{com.meiju592.app/com.meiju592.app.view.activity.LogoSplashActivity}"
+        drawable="meiju592"/>
 
 </resources>
