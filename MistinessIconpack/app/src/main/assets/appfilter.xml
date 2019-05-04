@@ -125,6 +125,10 @@
         component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}"
         prefix="calendar_" />
 
+    <calendar
+        component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}"
+        prefix="calendar_" />
+
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings"/>
@@ -6640,7 +6644,7 @@
 
     <item
         component="ComponentInfo{com.nxy.sc/com.nxy.sc.activity.SplashActivity}"
-        drawable="nongxin_sc"/>
+        drawable="nongxin"/>
 
     <item
         component="ComponentInfo{com.sogou.novel/com.sogou.novel.home.SplashActivity}"
@@ -7509,5 +7513,169 @@
     <item
         component="ComponentInfo{com.meiju592.app/com.meiju592.app.view.activity.LogoSplashActivity}"
         drawable="meiju592"/>
+
+    <item
+        component="ComponentInfo{com.jxnxs.mobile.bank/com.hundsun.mobile.hsbrowser.JxBrowser}"
+        drawable="nongxin"/>
+
+    <item
+        component="ComponentInfo{com.havoc.updater/org.lineageos.updater.UpdatesActivity}"
+        drawable="update"/>
+
+    <item
+        component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.browser/com.android.browser.BrowserLauncher}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.contacts/cn.nubia.contacts.mainlist.PeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.music.preset/cn.nubia.music.MainActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{cn.nubia.weather/cn.nubia.weather.ui.activity.MainActivity}"
+        drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.gdctl0000/com.gdctl0000.SplashActivity}"
+        drawable="china_telecom"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.uc/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.nearme.gamecenter/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.vivo/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.m4399/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.mi/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.huawei/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.lenovo/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.baidu/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.g10.qihoo/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.aligames/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.netease.stzb.wdj/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.stzb/com.netease.stzb.Launcher}"
+        drawable="netease_stzb"/>
+
+    <item
+        component="ComponentInfo{com.google.ar.unity.ddelements/com.unity3d.player.UnityPlayerActivity}"
+        drawable="ar_elements"/>
+
+    <item
+        component="ComponentInfo{make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.MonitorActivity}"
+        drawable="cellular_z"/>
+
+    <item
+        component="ComponentInfo{com.clue.android/com.biowink.clue.activity.WheelActivity_Launcher}"
+        drawable="clue"/>
+
+    <item
+        component="ComponentInfo{com.waterdaaan.cpufloat/com.waterdaaan.cpufloat.MainActivity}"
+        drawable="cpufloat"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity}"
+        drawable="google_freighter"/>
+
+    <item
+        component="ComponentInfo{com.facebook.orca/com.facebook.orca.auth.StartScreenActivity}"
+        drawable="facebook_orca"/>
+
+    <item
+        component="ComponentInfo{app.le.miui10gestures/app.le.miui10gestures.ui.MainActivity}"
+        drawable="miui_gestures"/>
+
+    <item
+        component="ComponentInfo{com.sauzask.nicoid/com.sauzask.nicoid.NicoidTopActivity}"
+        drawable="nicoid"/>
+
+    <item
+        component="ComponentInfo{me.ykrank.s1next/me.ykrank.s1next.view.activity.ForumActivity}"
+        drawable="s1next"/>
+
+    <item
+        component="ComponentInfo{com.readdle.spark/com.readdle.spark.ui.MainActivity}"
+        drawable="spark"/>
+
+    <item
+        component="ComponentInfo{com.cqyapp.tinyproxy/com.github.shadowsocks.activitie.MainActivity}"
+        drawable="tinyproxy"/>
+
+    <item
+        component="ComponentInfo{com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity}"
+        drawable="zxing_barcode_scanner"/>
+
+    <item
+        component="ComponentInfo{com.zzz.pudding/com.zzz.pudding.MainActivity_Alias}"
+        drawable="pudding"/>
+
+    <item
+        component="ComponentInfo{com.fanli.android.apps/com.fanli.android.basicarc.ui.activity.SplashActivity}"
+        drawable="fanli"/>
+
+    <item
+        component="ComponentInfo{com.dailyyoga.inc/com.dailyyoga.inc.LoadingActivity}"
+        drawable="daily_yoga"/>
+
+    <item
+        component="ComponentInfo{com.dailyyoga.cn/com.dailyyoga.cn.module.welcome.AdvertActivity}"
+        drawable="daily_yoga"/>
 
 </resources>

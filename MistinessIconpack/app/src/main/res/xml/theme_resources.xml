@@ -6565,7 +6565,7 @@
 
     <AppIcon
         name="com.nxy.sc/com.nxy.sc.activity.SplashActivity"
-        image="nongxin_sc"/>
+        image="nongxin"/>
 
     <AppIcon
         name="com.sogou.novel/com.sogou.novel.home.SplashActivity"
@@ -7434,5 +7434,169 @@
     <AppIcon
         name="com.meiju592.app/com.meiju592.app.view.activity.LogoSplashActivity"
         image="meiju592"/>
+
+    <AppIcon
+        name="com.jxnxs.mobile.bank/com.hundsun.mobile.hsbrowser.JxBrowser"
+        image="nongxin"/>
+
+    <AppIcon
+        name="com.havoc.updater/org.lineageos.updater.UpdatesActivity"
+        image="update"/>
+
+    <AppIcon
+        name="com.mrtang.calendar/com.mrtang.calendar.client.MainActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+
+    <AppIcon
+        name="cn.nubia.browser/com.android.browser.BrowserLauncher"
+        image="browser"/>
+
+    <AppIcon
+        name="cn.nubia.contacts/cn.nubia.contacts.mainlist.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="cn.nubia.music.preset/cn.nubia.music.MainActivity"
+        image="music"/>
+
+    <AppIcon
+        name="cn.nubia.weather/cn.nubia.weather.ui.activity.MainActivity"
+        image="weather"/>
+
+    <AppIcon
+        name="com.htc.calendar/com.htc.calendar.CalendarActivityMain"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.htc.camera2/com.htc.camera2.CameraEntry"
+        image="camera"/>
+
+    <AppIcon
+        name="com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl"
+        image="clock"/>
+
+    <AppIcon
+        name="com.htc.filemanager/com.htc.filemanager.FileManagerActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.gdctl0000/com.gdctl0000.SplashActivity"
+        image="china_telecom"/>
+
+    <AppIcon
+        name="com.netease.stzb.uc/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.nearme.gamecenter/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.vivo/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.m4399/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.mi/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.huawei/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.lenovo/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.baidu/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.g10.qihoo/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.aligames/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.netease.stzb.wdj/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.stzb/com.netease.stzb.Launcher"
+        image="netease_stzb"/>
+
+    <AppIcon
+        name="com.google.ar.unity.ddelements/com.unity3d.player.UnityPlayerActivity"
+        image="ar_elements"/>
+
+    <AppIcon
+        name="make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.MonitorActivity"
+        image="cellular_z"/>
+
+    <AppIcon
+        name="com.clue.android/com.biowink.clue.activity.WheelActivity_Launcher"
+        image="clue"/>
+
+    <AppIcon
+        name="com.waterdaaan.cpufloat/com.waterdaaan.cpufloat.MainActivity"
+        image="cpufloat"/>
+
+    <AppIcon
+        name="com.google.android.apps.freighter/com.google.android.apps.nbu.freighter.splash.SplashActivity"
+        image="google_freighter"/>
+
+    <AppIcon
+        name="com.facebook.orca/com.facebook.orca.auth.StartScreenActivity"
+        image="facebook_orca"/>
+
+    <AppIcon
+        name="app.le.miui10gestures/app.le.miui10gestures.ui.MainActivity"
+        image="miui_gestures"/>
+
+    <AppIcon
+        name="com.sauzask.nicoid/com.sauzask.nicoid.NicoidTopActivity"
+        image="nicoid"/>
+
+    <AppIcon
+        name="me.ykrank.s1next/me.ykrank.s1next.view.activity.ForumActivity"
+        image="s1next"/>
+
+    <AppIcon
+        name="com.readdle.spark/com.readdle.spark.ui.MainActivity"
+        image="spark"/>
+
+    <AppIcon
+        name="com.cqyapp.tinyproxy/com.github.shadowsocks.activitie.MainActivity"
+        image="tinyproxy"/>
+
+    <AppIcon
+        name="com.google.zxing.client.android/com.google.zxing.client.android.CaptureActivity"
+        image="zxing_barcode_scanner"/>
+
+    <AppIcon
+        name="com.zzz.pudding/com.zzz.pudding.MainActivity_Alias"
+        image="pudding"/>
+
+    <AppIcon
+        name="com.fanli.android.apps/com.fanli.android.basicarc.ui.activity.SplashActivity"
+        image="fanli"/>
+
+    <AppIcon
+        name="com.dailyyoga.inc/com.dailyyoga.inc.LoadingActivity"
+        image="daily_yoga"/>
+
+    <AppIcon
+        name="com.dailyyoga.cn/com.dailyyoga.cn.module.welcome.AdvertActivity"
+        image="daily_yoga"/>
 
 </Theme>

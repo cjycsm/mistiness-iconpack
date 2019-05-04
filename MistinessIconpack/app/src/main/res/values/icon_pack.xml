@@ -58,21 +58,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>ct_campus</item>
-        <item>starfish</item>
-        <item>zhiye_cardpass</item>
-        <item>hj_wordgames</item>
-        <item>chemical</item>
-        <item>firefox_nightly</item>
-        <item>jym_mall</item>
-        <item>socket_server</item>
-        <item>pmbattle</item>
-        <item>li_video</item>
-        <item>lizhifm</item>
-        <item>linktoken_pocket</item>
-        <item>meiju592</item>
-        <item>realflight</item>
-        <item>tencent_jx3m</item>
+        <item>ar_elements</item>
+        <item>cellular_z</item>
+        <item>clue</item>
+        <item>cpufloat</item>
+        <item>google_freighter</item>
+        <item>facebook_orca</item>
+        <item>miui_gestures</item>
+        <item>nicoid</item>
+        <item>s1next</item>
+        <item>spark</item>
+        <item>tinyproxy</item>
+        <item>zxing_barcode_scanner</item>
+        <item>pudding</item>
+        <item>fanli</item>
+        <item>daily_yoga</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1232,7 +1232,7 @@
         <item>juzimi</item>
         <item>coolapk_sticker</item>
         <item>lenove_cloud_sync</item>
-        <item>nongxin_sc</item>
+        <item>nongxin</item>
         <item>sogou_novel</item>
         <item>szfreego</item>
         <item>szbank</item>
@@ -1385,6 +1385,21 @@
         <item>lizhifm</item>
         <item>linktoken_pocket</item>
         <item>meiju592</item>
+        <item>ar_elements</item>
+        <item>cellular_z</item>
+        <item>clue</item>
+        <item>cpufloat</item>
+        <item>google_freighter</item>
+        <item>facebook_orca</item>
+        <item>miui_gestures</item>
+        <item>nicoid</item>
+        <item>s1next</item>
+        <item>spark</item>
+        <item>tinyproxy</item>
+        <item>zxing_barcode_scanner</item>
+        <item>pudding</item>
+        <item>fanli</item>
+        <item>daily_yoga</item>
     </string-array>
 
     <string-array name="game">

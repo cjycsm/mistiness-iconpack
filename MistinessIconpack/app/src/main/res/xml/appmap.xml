@@ -6539,7 +6539,7 @@
 
     <item
         class="com.nxy.sc.activity.SplashActivity"
-        name="nongxin_sc"/>
+        name="nongxin"/>
 
     <item
         class="com.sogou.novel.home.SplashActivity"
@@ -7368,5 +7368,121 @@
     <item
         class="com.meiju592.app.view.activity.LogoSplashActivity"
         name="meiju592"/>
+
+    <item
+        class="com.hundsun.mobile.hsbrowser.JxBrowser"
+        name="nongxin"/>
+
+    <item
+        class="org.lineageos.updater.UpdatesActivity"
+        name="update"/>
+
+    <item
+        class="com.mrtang.calendar.client.MainActivity"
+        name="calendar"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="com.android.browser.BrowserLauncher"
+        name="browser"/>
+
+    <item
+        class="cn.nubia.contacts.mainlist.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="cn.nubia.music.MainActivity"
+        name="music"/>
+
+    <item
+        class="cn.nubia.weather.ui.activity.MainActivity"
+        name="weather"/>
+
+    <item
+        class="com.htc.calendar.CalendarActivityMain"
+        name="calendar"/>
+
+    <item
+        class="com.htc.camera2.CameraEntry"
+        name="camera"/>
+
+    <item
+        class="com.htc.android.worldclock.WorldClockTabControl"
+        name="clock"/>
+
+    <item
+        class="com.htc.filemanager.FileManagerActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.gdctl0000.SplashActivity"
+        name="china_telecom"/>
+
+    <item
+        class="com.unity3d.player.UnityPlayerActivity"
+        name="ar_elements"/>
+
+    <item
+        class="make.more.r2d2.cellular_z.activity.MonitorActivity"
+        name="cellular_z"/>
+
+    <item
+        class="com.biowink.clue.activity.WheelActivity_Launcher"
+        name="clue"/>
+
+    <item
+        class="com.waterdaaan.cpufloat.MainActivity"
+        name="cpufloat"/>
+
+    <item
+        class="com.google.android.apps.nbu.freighter.splash.SplashActivity"
+        name="google_freighter"/>
+
+    <item
+        class="com.facebook.orca.auth.StartScreenActivity"
+        name="facebook_orca"/>
+
+    <item
+        class="app.le.miui10gestures.ui.MainActivity"
+        name="miui_gestures"/>
+
+    <item
+        class="com.sauzask.nicoid.NicoidTopActivity"
+        name="nicoid"/>
+
+    <item
+        class="me.ykrank.s1next.view.activity.ForumActivity"
+        name="s1next"/>
+
+    <item
+        class="com.readdle.spark.ui.MainActivity"
+        name="spark"/>
+
+    <item
+        class="com.github.shadowsocks.activitie.MainActivity"
+        name="tinyproxy"/>
+
+    <item
+        class="com.google.zxing.client.android.CaptureActivity"
+        name="zxing_barcode_scanner"/>
+
+    <item
+        class="com.zzz.pudding.MainActivity_Alias"
+        name="pudding"/>
+
+    <item
+        class="com.fanli.android.basicarc.ui.activity.SplashActivity"
+        name="fanli"/>
+
+    <item
+        class="com.dailyyoga.inc.LoadingActivity"
+        name="daily_yoga"/>
+
+    <item
+        class="com.dailyyoga.cn.module.welcome.AdvertActivity"
+        name="daily_yoga"/>
 
 </appmap>

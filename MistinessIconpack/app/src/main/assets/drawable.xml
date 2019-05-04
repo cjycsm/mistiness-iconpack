@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>89</version>
+    <version>90</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -78,6 +78,7 @@
     <item drawable="appops"/>
     <item drawable="appsales"/>
     <item drawable="appstore"/>
+    <item drawable="ar_elements"/>
     <item drawable="arena_of_valor"/>
     <item drawable="armvm"/>
     <item drawable="art_station"/>
@@ -206,6 +207,7 @@
     <item drawable="cebbank"/>
     <item drawable="cebbank_creditcard"/>
     <item drawable="cells"/>
+    <item drawable="cellular_z"/>
     <item drawable="cf"/>
     <item drawable="cgv_movie"/>
     <item drawable="changba"/>
@@ -238,6 +240,7 @@
     <item drawable="cloud_115"/>
     <item drawable="cloudaccelerator"/>
     <item drawable="cloudmusic"/>
+    <item drawable="clue"/>
     <item drawable="cm_lite"/>
     <item drawable="cmb"/>
     <item drawable="cmb_life"/>
@@ -293,6 +296,7 @@
     <item drawable="cpdaily"/>
     <item drawable="cpl"/>
     <item drawable="cpu_z"/>
+    <item drawable="cpufloat"/>
     <item drawable="cpwxw"/>
     <item drawable="crazy_music"/>
     <item drawable="credit_card_manager"/>
@@ -308,6 +312,7 @@
     <item drawable="cytus2"/>
     <item drawable="dailuobo"/>
     <item drawable="daily_task"/>
+    <item drawable="daily_yoga"/>
     <item drawable="damai"/>
     <item drawable="dan_the_man"/>
     <item drawable="dangdang"/>
@@ -406,9 +411,11 @@
     <item drawable="fa_store"/>
     <item drawable="facebook"/>
     <item drawable="facebook_alt"/>
+    <item drawable="facebook_orca"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
     <item drawable="faloo"/>
+    <item drawable="fanli"/>
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
     <item drawable="fatego"/>
@@ -499,6 +506,7 @@
     <item drawable="google_editors_sheets"/>
     <item drawable="google_files"/>
     <item drawable="google_fitness"/>
+    <item drawable="google_freighter"/>
     <item drawable="google_games"/>
     <item drawable="google_gm"/>
     <item drawable="google_gms"/>
@@ -829,6 +837,7 @@
     <item drawable="miracles"/>
     <item drawable="mistiness"/>
     <item drawable="miui_calculator"/>
+    <item drawable="miui_gestures"/>
     <item drawable="miui_hd"/>
     <item drawable="miui_virtual_sim"/>
     <item drawable="miui_voice_assistant"/>
@@ -905,11 +914,12 @@
     <item drawable="nga"/>
     <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
+    <item drawable="nicoid"/>
     <item drawable="ninegame"/>
     <item drawable="nintendo_switch"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
-    <item drawable="nongxin_sc"/>
+    <item drawable="nongxin"/>
     <item drawable="note"/>
     <item drawable="notes"/>
     <item drawable="notion"/>
@@ -1015,6 +1025,7 @@
     <item drawable="pt_video"/>
     <item drawable="pu"/>
     <item drawable="pubgmhd"/>
+    <item drawable="pudding"/>
     <item drawable="pure"/>
     <item drawable="pure_browser"/>
     <item drawable="pure_mosaic"/>
@@ -1087,6 +1098,7 @@
     <item drawable="rrmj"/>
     <item drawable="ryeex_groot"/>
     <item drawable="ryeex_groot_alt"/>
+    <item drawable="s1next"/>
     <item drawable="safe"/>
     <item drawable="sai"/>
     <item drawable="sakura"/>
@@ -1190,6 +1202,7 @@
     <item drawable="soul"/>
     <item drawable="sound_recorder"/>
     <item drawable="soundcloud"/>
+    <item drawable="spark"/>
     <item drawable="spdb"/>
     <item drawable="spdbccc"/>
     <item drawable="speedmobile"/>
@@ -1328,6 +1341,7 @@
     <item drawable="timi"/>
     <item drawable="ting_en"/>
     <item drawable="tingshu"/>
+    <item drawable="tinyproxy"/>
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="tmri"/>
@@ -1544,6 +1558,7 @@
     <item drawable="zuiyou"/>
     <item drawable="zuzuche"/>
     <item drawable="zwzt"/>
+    <item drawable="zxing_barcode_scanner"/>
     <item drawable="zxw51"/>
     <item drawable="zymk"/>
 
