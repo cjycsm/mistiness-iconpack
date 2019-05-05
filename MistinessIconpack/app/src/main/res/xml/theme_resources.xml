@@ -6601,7 +6601,7 @@
 
     <AppIcon
         name="com.tencent.peng/com.tencent.peng.RedGame"
-        image="tenecnt_peng"/>
+        image="tencent_peng"/>
 
     <AppIcon
         name="com.augustus.piccool/com.augustus.piccool.activity.MainActivity"
@@ -7444,10 +7444,6 @@
         image="update"/>
 
     <AppIcon
-        name="com.mrtang.calendar/com.mrtang.calendar.client.MainActivity"
-        image="calendar"/>
-
-    <AppIcon
         name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
         image="google_camera"/>
 
@@ -7598,5 +7594,173 @@
     <AppIcon
         name="com.dailyyoga.cn/com.dailyyoga.cn.module.welcome.AdvertActivity"
         image="daily_yoga"/>
+
+    <AppIcon
+        name="com.sankuai.meituan.dispatch.crowdsource/com.meituan.banma.main.activity.MainSplashActivity"
+        image="meituan_dispatch"/>
+
+    <AppIcon
+        name="huami.android.amazfit/com.xiaomi.hm.health.activity.StartUpActivity"
+        image="huami"/>
+
+    <AppIcon
+        name="com.cmic.college/com.cmcc.cmrcs.android.ui.activities.WelcomeActivity"
+        image="cmic_college"/>
+
+    <AppIcon
+        name="com.lhss.mw.myapplication/com.lhss.mw.myapplication.ui.activity.WelcomeActivity"
+        image="muwai"/>
+
+    <AppIcon
+        name="com.pingan.lifeinsurance/com.pingan.lifeinsurance.basic.initialize.activity.PARSSplashActivity"
+        image="pingan_lifeinsurance"/>
+
+    <AppIcon
+        name="com.sp.s/com.sp.s.MainActivity"
+        image="pmjn"/>
+
+    <AppIcon
+        name="com.plurk.android/com.plurk.android.start.MainActivity"
+        image="plurk"/>
+
+    <AppIcon
+        name="com.jifen.qukan/com.jifen.qkbase.main.MainActivity"
+        image="qukan"/>
+
+    <AppIcon
+        name="com.example.xf.negativeonescreen.pro/com.example.xf.negativeonescreen.pro.t.l"
+        image="negative_one_screen"/>
+
+    <AppIcon
+        name="com.cn.s/com.cn.s.OpenActivity"
+        image="collection"/>
+
+    <AppIcon
+        name="com.android.app.quanmama/com.android.app.quanmama.activity.WelcomeActivity"
+        image="quanmama"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.m4399/com.pandadastudio.ninjamustdie3.m4399.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.nearme.gamecenter/com.pandadastudio.ninjamustdie3.nearme.gamecenter.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.vivo/com.pandadastudio.ninjamustdie3.vivo.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.aligames/com.pandadastudio.ninjamustdie3.aligames.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.baidu/com.pandadastudio.ninjamustdie3.baidu.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3/com.pandadastudio.ninjamustdie3.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.huawei/com.pandadastudio.ninjamustdie3.huawei.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.lenovo/com.pandadastudio.ninjamustdie3.lenovo.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.qihoo/com.pandadastudio.ninjamustdie3.qihoo.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.pandadastudio.ninja3/com.tencent.tmgp.pandadastudio.ninja3.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.pandadastudio.ninjamustdie3.mi/com.pandadastudio.ninjamustdie3.mi.MainActivity"
+        image="ninja_must_die_3"/>
+
+    <AppIcon
+        name="com.mrtang.calendar/com.mrtang.calendar.client.MainActivity"
+        image="mrtang_calendar"/>
+
+    <AppIcon
+        name="com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity"
+        image="galaxy_wearable"/>
+
+    <AppIcon
+        name="com.sh.cm.shydhn/com.richeninfo.cm.shydhn.SplashActivity"
+        image="shydhn"/>
+
+    <AppIcon
+        name="pro.com.lantern/pro.com.lantern.AppStart"
+        image="lantern"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.m4399/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.wdj/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.mi/com.supercell.clashofclans.mi.GameAppXiaomi"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.huawei/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.lenovo/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.nearme.gamecenter/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.vivo/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.qihoo/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.aligames/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.uc/com.supercell.clashofclans.uc.GameApp"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="com.supercell.clashofclans.baidu/com.supercell.clashofclans.GameAppKunlun"
+        image="clash_of_clans"/>
+
+    <AppIcon
+        name="zwzt.fangqiu.edu.com.zwzt/zwzt.fangqiu.edu.com.ztzt.feature_splash.SplashActivity"
+        image="zwzt"/>
+
+    <AppIcon
+        name="com.ticktick.task/com.ticktick.task.activity.MeTaskActivity"
+        image="ticktick_task"/>
+
+    <AppIcon
+        name="com.duokan.reader/com.duokan.reader.DkMainActivity"
+        image="duokan"/>
+
+    <AppIcon
+        name="bin.mt.plus/l.ۘ۟۬ۡ"
+        image="mt"/>
+
+    <AppIcon
+        name="com.flyersoft.seekbooks/com.flyersoft.WB.SplashActivity"
+        image="seekbooks"/>
 
 </Theme>

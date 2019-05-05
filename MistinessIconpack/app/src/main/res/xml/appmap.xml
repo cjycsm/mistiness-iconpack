@@ -6575,7 +6575,7 @@
 
     <item
         class="com.tencent.peng.RedGame"
-        name="tenecnt_peng"/>
+        name="tencent_peng"/>
 
     <item
         class="com.augustus.piccool.activity.MainActivity"
@@ -7378,10 +7378,6 @@
         name="update"/>
 
     <item
-        class="com.mrtang.calendar.client.MainActivity"
-        name="calendar"/>
-
-    <item
         class="com.android.camera.CameraLauncher"
         name="google_camera"/>
 
@@ -7484,5 +7480,173 @@
     <item
         class="com.dailyyoga.cn.module.welcome.AdvertActivity"
         name="daily_yoga"/>
+
+    <item
+        class="com.meituan.banma.main.activity.MainSplashActivity"
+        name="meituan_dispatch"/>
+
+    <item
+        class="com.xiaomi.hm.health.activity.StartUpActivity"
+        name="huami"/>
+
+    <item
+        class="com.cmcc.cmrcs.android.ui.activities.WelcomeActivity"
+        name="cmic_college"/>
+
+    <item
+        class="com.lhss.mw.myapplication.ui.activity.WelcomeActivity"
+        name="muwai"/>
+
+    <item
+        class="com.pingan.lifeinsurance.basic.initialize.activity.PARSSplashActivity"
+        name="pingan_lifeinsurance"/>
+
+    <item
+        class="com.sp.s.MainActivity"
+        name="pmjn"/>
+
+    <item
+        class="com.plurk.android.start.MainActivity"
+        name="plurk"/>
+
+    <item
+        class="com.jifen.qkbase.main.MainActivity"
+        name="qukan"/>
+
+    <item
+        class="com.example.xf.negativeonescreen.pro.t.l"
+        name="negative_one_screen"/>
+
+    <item
+        class="com.cn.s.OpenActivity"
+        name="collection"/>
+
+    <item
+        class="com.android.app.quanmama.activity.WelcomeActivity"
+        name="quanmama"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.m4399.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.nearme.gamecenter.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.vivo.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.aligames.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.baidu.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.huawei.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.lenovo.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.qihoo.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.tencent.tmgp.pandadastudio.ninja3.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.pandadastudio.ninjamustdie3.mi.MainActivity"
+        name="ninja_must_die_3"/>
+
+    <item
+        class="com.mrtang.calendar.client.MainActivity"
+        name="mrtang_calendar"/>
+
+    <item
+        class="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity"
+        name="galaxy_wearable"/>
+
+    <item
+        class="com.richeninfo.cm.shydhn.SplashActivity"
+        name="shydhn"/>
+
+    <item
+        class="pro.com.lantern.AppStart"
+        name="lantern"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.mi.GameAppXiaomi"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.uc.GameApp"
+        name="clash_of_clans"/>
+
+    <item
+        class="com.supercell.clashofclans.GameAppKunlun"
+        name="clash_of_clans"/>
+
+    <item
+        class="zwzt.fangqiu.edu.com.ztzt.feature_splash.SplashActivity"
+        name="zwzt"/>
+
+    <item
+        class="com.ticktick.task.activity.MeTaskActivity"
+        name="ticktick_task"/>
+
+    <item
+        class="com.duokan.reader.DkMainActivity"
+        name="duokan"/>
+
+    <item
+        class="l.ۘ۟۬ۡ"
+        name="mt"/>
+
+    <item
+        class="com.flyersoft.WB.SplashActivity"
+        name="seekbooks"/>
 
 </appmap>

@@ -58,25 +58,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>ar_elements</item>
-        <item>cellular_z</item>
-        <item>clue</item>
-        <item>cpufloat</item>
-        <item>google_freighter</item>
-        <item>facebook_orca</item>
-        <item>miui_gestures</item>
-        <item>nicoid</item>
-        <item>s1next</item>
-        <item>spark</item>
-        <item>tinyproxy</item>
-        <item>zxing_barcode_scanner</item>
-        <item>pudding</item>
-        <item>fanli</item>
-        <item>daily_yoga</item>
+        <item>meituan_dispatch</item>
+        <item>huami</item>
+        <item>cmic_college</item>
+        <item>muwai</item>
+        <item>pingan_lifeinsurance</item>
+        <item>pmjn</item>
+        <item>plurk</item>
+        <item>qukan</item>
+        <item>negative_one_screen</item>
+        <item>collection</item>
+        <item>quanmama</item>
+        <item>mrtang_calendar</item>
+        <item>galaxy_wearable</item>
+        <item>shydhn</item>
+        <item>ninja_must_die_3</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>qq_music</item>
+        <item>meituan_takeout</item>
     </string-array>
 
     <string-array name="application">
@@ -115,7 +116,6 @@
         <item>qq</item>
         <item>qq_browser</item>
         <item>qq_music</item>
-        <item>qq_music_alt</item>
         <item>qq_pim</item>
         <item>qq_token</item>
         <item>quark</item>
@@ -1400,6 +1400,20 @@
         <item>pudding</item>
         <item>fanli</item>
         <item>daily_yoga</item>
+        <item>meituan_dispatch</item>
+        <item>huami</item>
+        <item>cmic_college</item>
+        <item>muwai</item>
+        <item>pingan_lifeinsurance</item>
+        <item>pmjn</item>
+        <item>plurk</item>
+        <item>qukan</item>
+        <item>negative_one_screen</item>
+        <item>collection</item>
+        <item>quanmama</item>
+        <item>mrtang_calendar</item>
+        <item>galaxy_wearable</item>
+        <item>shydhn</item>
     </string-array>
 
     <string-array name="game">
@@ -1462,7 +1476,7 @@
         <item>dragalia_lost</item>
         <item>tencent_gdmj</item>
         <item>tencent_happymj</item>
-        <item>tenecnt_peng</item>
+        <item>tencent_peng</item>
         <item>xbxxz</item>
         <item>pes2019</item>
         <item>pin_out</item>
@@ -1475,6 +1489,7 @@
         <item>tencent_carrot3</item>
         <item>realflight</item>
         <item>tencent_jx3m</item>
+        <item>ninja_must_die_3</item>
     </string-array>
 
     <string-array name="basic">

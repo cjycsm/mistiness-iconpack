@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>90</version>
+    <version>91</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -261,6 +261,7 @@
     <item drawable="cmcc_sichuang"/>
     <item drawable="cmcc_trafic"/>
     <item drawable="cmcc_zhejiang"/>
+    <item drawable="cmic_college"/>
     <item drawable="cms"/>
     <item drawable="cmvideo"/>
     <item drawable="cnki"/>
@@ -268,6 +269,7 @@
     <item drawable="cnvcs_gomoku"/>
     <item drawable="cnvcs_xiangqi"/>
     <item drawable="codoon"/>
+    <item drawable="collection"/>
     <item drawable="color_iconpack"/>
     <item drawable="coloros_bbs"/>
     <item drawable="coloros_familyguard"/>
@@ -471,6 +473,7 @@
     <item drawable="fusionapp"/>
     <item drawable="fx"/>
     <item drawable="fx_alt"/>
+    <item drawable="galaxy_wearable"/>
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
     <item drawable="ganji"/>
@@ -571,6 +574,7 @@
     <item drawable="hsbb"/>
     <item drawable="htjsq"/>
     <item drawable="huahuo"/>
+    <item drawable="huami"/>
     <item drawable="huawei_3d_live_maker"/>
     <item drawable="huawei_assistant"/>
     <item drawable="huawei_cloud"/>
@@ -785,6 +789,7 @@
     <item drawable="meipai"/>
     <item drawable="meiriyiwen"/>
     <item drawable="meituan"/>
+    <item drawable="meituan_dispatch"/>
     <item drawable="meituan_qcs"/>
     <item drawable="meituan_takeout"/>
     <item drawable="meiyan_camera"/>
@@ -865,6 +870,7 @@
     <item drawable="moviefans"/>
     <item drawable="mpos"/>
     <item drawable="mqme"/>
+    <item drawable="mrtang_calendar"/>
     <item drawable="mrzh"/>
     <item drawable="mt"/>
     <item drawable="mtime"/>
@@ -874,6 +880,7 @@
     <item drawable="music_man"/>
     <item drawable="music_tag_editor"/>
     <item drawable="musicone"/>
+    <item drawable="muwai"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="myandroidtools"/>
@@ -888,6 +895,7 @@
     <item drawable="nba2k19"/>
     <item drawable="neat_reader"/>
     <item drawable="neets"/>
+    <item drawable="negative_one_screen"/>
     <item drawable="netease_buff"/>
     <item drawable="netease_buff_alt"/>
     <item drawable="netease_cartoonreader"/>
@@ -916,6 +924,7 @@
     <item drawable="niceapp"/>
     <item drawable="nicoid"/>
     <item drawable="ninegame"/>
+    <item drawable="ninja_must_die_3"/>
     <item drawable="nintendo_switch"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
@@ -986,6 +995,7 @@
     <item drawable="pinduoduo"/>
     <item drawable="pingan_bank"/>
     <item drawable="pingan_ff"/>
+    <item drawable="pingan_lifeinsurance"/>
     <item drawable="pingtools_pro"/>
     <item drawable="pinguo_april"/>
     <item drawable="pinguo_mix"/>
@@ -998,7 +1008,9 @@
     <item drawable="pixolor"/>
     <item drawable="pkg"/>
     <item drawable="playstation"/>
+    <item drawable="plurk"/>
     <item drawable="pmbattle"/>
+    <item drawable="pmjn"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="poetry"/>
@@ -1053,7 +1065,6 @@
     <item drawable="qq_hd"/>
     <item drawable="qq_mail"/>
     <item drawable="qq_music"/>
-    <item drawable="qq_music_alt"/>
     <item drawable="qq_music_local"/>
     <item drawable="qq_pim"/>
     <item drawable="qq_reader"/>
@@ -1063,9 +1074,11 @@
     <item drawable="qqlite"/>
     <item drawable="qrcode_scanner"/>
     <item drawable="qsbk"/>
+    <item drawable="quanmama"/>
     <item drawable="quanzi"/>
     <item drawable="quark"/>
     <item drawable="quizlet"/>
+    <item drawable="qukan"/>
     <item drawable="qunar"/>
     <item drawable="quqi"/>
     <item drawable="qyer"/>
@@ -1157,6 +1170,7 @@
     <item drawable="shuangkai"/>
     <item drawable="shuchong"/>
     <item drawable="shuqi"/>
+    <item drawable="shydhn"/>
     <item drawable="signal_master"/>
     <item drawable="simcity"/>
     <item drawable="sims_freeplay"/>
@@ -1299,6 +1313,7 @@
     <item drawable="tencent_news_lite"/>
     <item drawable="tencent_nijigen"/>
     <item drawable="tencent_nntg"/>
+    <item drawable="tencent_peng"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_qqdownloader"/>
     <item drawable="tencent_qqpinyin"/>
@@ -1316,7 +1331,6 @@
     <item drawable="tencent_xiaowei"/>
     <item drawable="tencent_zabra"/>
     <item drawable="tenda_router"/>
-    <item drawable="tenecnt_peng"/>
     <item drawable="tenten"/>
     <item drawable="termius"/>
     <item drawable="termux"/>

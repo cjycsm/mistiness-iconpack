@@ -125,10 +125,6 @@
         component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.splashpic.SplashActivity}"
         prefix="calendar_" />
 
-    <calendar
-        component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}"
-        prefix="calendar_" />
-
     <item
         component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
         drawable="settings"/>
@@ -6680,7 +6676,7 @@
 
     <item
         component="ComponentInfo{com.tencent.peng/com.tencent.peng.RedGame}"
-        drawable="tenecnt_peng"/>
+        drawable="tencent_peng"/>
 
     <item
         component="ComponentInfo{com.augustus.piccool/com.augustus.piccool.activity.MainActivity}"
@@ -7523,10 +7519,6 @@
         drawable="update"/>
 
     <item
-        component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}"
-        drawable="calendar"/>
-
-    <item
         component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
         drawable="google_camera"/>
 
@@ -7677,5 +7669,173 @@
     <item
         component="ComponentInfo{com.dailyyoga.cn/com.dailyyoga.cn.module.welcome.AdvertActivity}"
         drawable="daily_yoga"/>
+
+    <item
+        component="ComponentInfo{com.sankuai.meituan.dispatch.crowdsource/com.meituan.banma.main.activity.MainSplashActivity}"
+        drawable="meituan_dispatch"/>
+
+    <item
+        component="ComponentInfo{huami.android.amazfit/com.xiaomi.hm.health.activity.StartUpActivity}"
+        drawable="huami"/>
+
+    <item
+        component="ComponentInfo{com.cmic.college/com.cmcc.cmrcs.android.ui.activities.WelcomeActivity}"
+        drawable="cmic_college"/>
+
+    <item
+        component="ComponentInfo{com.lhss.mw.myapplication/com.lhss.mw.myapplication.ui.activity.WelcomeActivity}"
+        drawable="muwai"/>
+
+    <item
+        component="ComponentInfo{com.pingan.lifeinsurance/com.pingan.lifeinsurance.basic.initialize.activity.PARSSplashActivity}"
+        drawable="pingan_lifeinsurance"/>
+
+    <item
+        component="ComponentInfo{com.sp.s/com.sp.s.MainActivity}"
+        drawable="pmjn"/>
+
+    <item
+        component="ComponentInfo{com.plurk.android/com.plurk.android.start.MainActivity}"
+        drawable="plurk"/>
+
+    <item
+        component="ComponentInfo{com.jifen.qukan/com.jifen.qkbase.main.MainActivity}"
+        drawable="qukan"/>
+
+    <item
+        component="ComponentInfo{com.example.xf.negativeonescreen.pro/com.example.xf.negativeonescreen.pro.t.l}"
+        drawable="negative_one_screen"/>
+
+    <item
+        component="ComponentInfo{com.cn.s/com.cn.s.OpenActivity}"
+        drawable="collection"/>
+
+    <item
+        component="ComponentInfo{com.android.app.quanmama/com.android.app.quanmama.activity.WelcomeActivity}"
+        drawable="quanmama"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.m4399/com.pandadastudio.ninjamustdie3.m4399.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.nearme.gamecenter/com.pandadastudio.ninjamustdie3.nearme.gamecenter.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.vivo/com.pandadastudio.ninjamustdie3.vivo.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.aligames/com.pandadastudio.ninjamustdie3.aligames.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.baidu/com.pandadastudio.ninjamustdie3.baidu.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3/com.pandadastudio.ninjamustdie3.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.huawei/com.pandadastudio.ninjamustdie3.huawei.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.lenovo/com.pandadastudio.ninjamustdie3.lenovo.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.qihoo/com.pandadastudio.ninjamustdie3.qihoo.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.pandadastudio.ninja3/com.tencent.tmgp.pandadastudio.ninja3.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.pandadastudio.ninjamustdie3.mi/com.pandadastudio.ninjamustdie3.mi.MainActivity}"
+        drawable="ninja_must_die_3"/>
+
+    <item
+        component="ComponentInfo{com.mrtang.calendar/com.mrtang.calendar.client.MainActivity}"
+        drawable="mrtang_calendar"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
+        drawable="galaxy_wearable"/>
+
+    <item
+        component="ComponentInfo{com.sh.cm.shydhn/com.richeninfo.cm.shydhn.SplashActivity}"
+        drawable="shydhn"/>
+
+    <item
+        component="ComponentInfo{pro.com.lantern/pro.com.lantern.AppStart}"
+        drawable="lantern"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.m4399/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.wdj/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.mi/com.supercell.clashofclans.mi.GameAppXiaomi}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.huawei/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.lenovo/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.nearme.gamecenter/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.vivo/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.qihoo/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.aligames/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.uc/com.supercell.clashofclans.uc.GameApp}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{com.supercell.clashofclans.baidu/com.supercell.clashofclans.GameAppKunlun}"
+        drawable="clash_of_clans"/>
+
+    <item
+        component="ComponentInfo{zwzt.fangqiu.edu.com.zwzt/zwzt.fangqiu.edu.com.ztzt.feature_splash.SplashActivity}"
+        drawable="zwzt"/>
+
+    <item
+        component="ComponentInfo{com.ticktick.task/com.ticktick.task.activity.MeTaskActivity}"
+        drawable="ticktick_task"/>
+
+    <item
+        component="ComponentInfo{com.duokan.reader/com.duokan.reader.DkMainActivity}"
+        drawable="duokan"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/l.ۘ۟۬ۡ}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{com.flyersoft.seekbooks/com.flyersoft.WB.SplashActivity}"
+        drawable="seekbooks"/>
 
 </resources>
