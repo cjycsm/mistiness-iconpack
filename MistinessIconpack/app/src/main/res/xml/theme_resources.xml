@@ -309,11 +309,11 @@
 
     <AppIcon
         name="com.adobe.psmobile/com.adobe.psmobile.SplashScreen"
-        image="ps"/>
+        image="adobe_ps"/>
 
     <AppIcon
         name="air.com.adobe.pstouch/air.com.adobe.pstouch.AppEntry"
-        image="ps"/>
+        image="adobe_ps"/>
 
     <AppIcon
         name="com.xyhui/com.lee.start.LoadingActivity"
@@ -3053,7 +3053,7 @@
 
     <AppIcon
         name="com.adobe.lrmobile/com.adobe.lrmobile.StorageCheckActivity"
-        image="lightroom"/>
+        image="adobe_lr"/>
 
     <AppIcon
         name="com.adsk.sketchbook/com.adsk.sketchbook.SketchBook"
@@ -7762,5 +7762,101 @@
     <AppIcon
         name="com.flyersoft.seekbooks/com.flyersoft.WB.SplashActivity"
         image="seekbooks"/>
+
+    <AppIcon
+        name="com.qihoo.appstore/com.qihoo.appstore.home.LauncherActivity"
+        image="qihoo_appstore"/>
+
+    <AppIcon
+        name="com.m4399.gamecenter/com.m4399.gamecenter.controllers.splash.SplashActivity"
+        image="m4399_gamecenter"/>
+
+    <AppIcon
+        name="com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity"
+        image="ninegag"/>
+
+    <AppIcon
+        name="com.nhn.android.band/com.nhn.android.band.SplashActivity"
+        image="band"/>
+
+    <AppIcon
+        name="bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity"
+        image="bbc_news"/>
+
+    <AppIcon
+        name="com.gstarmc.android/com.stone.app.ui.activity.AppLaunchActivity"
+        image="dwg_fastview"/>
+
+    <AppIcon
+        name="fm.castbox.audiobook.radio.podcast/fm.castbox.audio.radio.podcast.ui.main.MainActivity"
+        image="castbox"/>
+
+    <AppIcon
+        name="flar2.devcheck/flar2.devcheck.SplashActivity"
+        image="devcheck"/>
+
+    <AppIcon
+        name="com.zhan_dui.evermemo/com.zhan_dui.evermemo.StartActivity"
+        image="evermemo"/>
+
+    <AppIcon
+        name="com.google.android.gm.lite/com.google.android.gm.ConversationListActivityGmail"
+        image="google_gm_lite"/>
+
+    <AppIcon
+        name="com.clover.idaily/com.clover.idaily.ui.activity.MainActivity"
+        image="idaliy"/>
+
+    <AppIcon
+        name="com.innologica.inoreader/com.innologica.inoreader.activities.BootstrapActivity"
+        image="inoreader"/>
+
+    <AppIcon
+        name="com.leavjenn.longshot/com.leavjenn.longshot.MainActivity"
+        image="longshot"/>
+
+    <AppIcon
+        name="com.lycsky.laopo.iconpack/com.lycsky.laopo.iconpack.MainActivity"
+        image="laopo_iconpack"/>
+
+    <AppIcon
+        name="cn.natdon.onscripterv2/cn.natdon.onscripterv2.start"
+        image="mine"/>
+
+    <AppIcon
+        name="ru.zdevs.zarchiver/ru.zdevs.zarchiver.ZArchiver"
+        image="zarchiver"/>
+
+    <AppIcon
+        name="com.abbc45255.emojibyabbc45255/com.abbc45255.emojibyabbc45255.activity.MainActivity"
+        image="kaomoji"/>
+
+    <AppIcon
+        name="com.airbnb.android/com.airbnb.android.flavor.full.activities.HomeActivity"
+        image="airbnb"/>
+
+    <AppIcon
+        name="com.ea.games.r3_row/com.firemint.realracing.UnpackAssetsActivity"
+        image="realracing3"/>
+
+    <AppIcon
+        name="com.android.dialer/com.android.dialer.TwelveKeyDialer"
+        image="dialer"/>
+
+    <AppIcon
+        name="com.android.bbksoundrecorder/com.android.bbksoundrecorder.SoundRecorder"
+        image="sound_recorder"/>
+
+    <AppIcon
+        name="com.bbk.appstore/com.bbk.appstore.ui.AppStore"
+        image="appstore"/>
+
+    <AppIcon
+        name="com.sup.android.superb/com.sup.android.base.MainActivity"
+        image="superb"/>
+
+    <AppIcon
+        name="com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity"
+        image="art_station"/>
 
 </Theme>

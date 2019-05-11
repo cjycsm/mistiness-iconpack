@@ -303,11 +303,11 @@
 
     <item
         class="com.adobe.psmobile.SplashScreen"
-        name="ps"/>
+        name="adobe_ps"/>
 
     <item
         class="air.com.adobe.pstouch.AppEntry"
-        name="ps"/>
+        name="adobe_ps"/>
 
     <item
         class="com.lee.start.LoadingActivity"
@@ -3047,7 +3047,7 @@
 
     <item
         class="com.adobe.lrmobile.StorageCheckActivity"
-        name="lightroom"/>
+        name="adobe_lr"/>
 
     <item
         class="com.adsk.sketchbook.SketchBook"
@@ -7648,5 +7648,101 @@
     <item
         class="com.flyersoft.WB.SplashActivity"
         name="seekbooks"/>
+
+    <item
+        class="com.qihoo.appstore.home.LauncherActivity"
+        name="qihoo_appstore"/>
+
+    <item
+        class="com.m4399.gamecenter.controllers.splash.SplashActivity"
+        name="m4399_gamecenter"/>
+
+    <item
+        class="com.ninegag.android.app.ui.SplashScreenActivity"
+        name="ninegag"/>
+
+    <item
+        class="com.nhn.android.band.SplashActivity"
+        name="band"/>
+
+    <item
+        class="bbc.mobile.news.v3.app.TopLevelActivity"
+        name="bbc_news"/>
+
+    <item
+        class="com.stone.app.ui.activity.AppLaunchActivity"
+        name="dwg_fastview"/>
+
+    <item
+        class="fm.castbox.audio.radio.podcast.ui.main.MainActivity"
+        name="castbox"/>
+
+    <item
+        class="flar2.devcheck.SplashActivity"
+        name="devcheck"/>
+
+    <item
+        class="com.zhan_dui.evermemo.StartActivity"
+        name="evermemo"/>
+
+    <item
+        class="com.google.android.gm.ConversationListActivityGmail"
+        name="google_gm_lite"/>
+
+    <item
+        class="com.clover.idaily.ui.activity.MainActivity"
+        name="idaliy"/>
+
+    <item
+        class="com.innologica.inoreader.activities.BootstrapActivity"
+        name="inoreader"/>
+
+    <item
+        class="com.leavjenn.longshot.MainActivity"
+        name="longshot"/>
+
+    <item
+        class="com.lycsky.laopo.iconpack.MainActivity"
+        name="laopo_iconpack"/>
+
+    <item
+        class="cn.natdon.onscripterv2.start"
+        name="mine"/>
+
+    <item
+        class="ru.zdevs.zarchiver.ZArchiver"
+        name="zarchiver"/>
+
+    <item
+        class="com.abbc45255.emojibyabbc45255.activity.MainActivity"
+        name="kaomoji"/>
+
+    <item
+        class="com.airbnb.android.flavor.full.activities.HomeActivity"
+        name="airbnb"/>
+
+    <item
+        class="com.firemint.realracing.UnpackAssetsActivity"
+        name="realracing3"/>
+
+    <item
+        class="com.android.dialer.TwelveKeyDialer"
+        name="dialer"/>
+
+    <item
+        class="com.android.bbksoundrecorder.SoundRecorder"
+        name="sound_recorder"/>
+
+    <item
+        class="com.bbk.appstore.ui.AppStore"
+        name="appstore"/>
+
+    <item
+        class="com.sup.android.base.MainActivity"
+        name="superb"/>
+
+    <item
+        class="com.ballistiq.artstation.view.activity.SplashActivity"
+        name="art_station"/>
 
 </appmap>

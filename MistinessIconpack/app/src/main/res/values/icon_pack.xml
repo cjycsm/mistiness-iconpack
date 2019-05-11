@@ -58,26 +58,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>meituan_dispatch</item>
-        <item>huami</item>
-        <item>cmic_college</item>
-        <item>muwai</item>
-        <item>pingan_lifeinsurance</item>
-        <item>pmjn</item>
-        <item>plurk</item>
-        <item>qukan</item>
-        <item>negative_one_screen</item>
-        <item>collection</item>
-        <item>quanmama</item>
-        <item>mrtang_calendar</item>
-        <item>galaxy_wearable</item>
-        <item>shydhn</item>
-        <item>ninja_must_die_3</item>
+        <item>qihoo_appstore</item>
+        <item>m4399_gamecenter</item>
+        <item>ninegag</item>
+        <item>band</item>
+        <item>bbc_news</item>
+        <item>dwg_fastview</item>
+        <item>castbox</item>
+        <item>devcheck</item>
+        <item>evermemo</item>
+        <item>google_gm_lite</item>
+        <item>idaliy</item>
+        <item>inoreader</item>
+        <item>longshot</item>
+        <item>laopo_iconpack</item>
+        <item>mine</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>qq_music</item>
-        <item>meituan_takeout</item>
+        <item>seekbooks</item>
     </string-array>
 
     <string-array name="application">
@@ -111,7 +110,7 @@
         <item>mdschool</item>
         <item>nova_launcher</item>
         <item>ocamera</item>
-        <item>ps</item>
+        <item>adobe_ps</item>
         <item>pu</item>
         <item>qq</item>
         <item>qq_browser</item>
@@ -570,7 +569,7 @@
         <item>busteanew</item>
         <item>pconline</item>
         <item>poco_interphoto2</item>
-        <item>lightroom</item>
+        <item>adobe_lr</item>
         <item>adsk_sketchbook</item>
         <item>xuexi</item>
         <item>alibaba</item>
@@ -791,6 +790,7 @@
         <item>xda_labs</item>
         <item>xmind</item>
         <item>yy</item>
+        <item>zarchiver</item>
         <item>zarchiver_pro</item>
         <item>zone</item>
         <item>zone_alt</item>
@@ -1414,6 +1414,21 @@
         <item>mrtang_calendar</item>
         <item>galaxy_wearable</item>
         <item>shydhn</item>
+        <item>qihoo_appstore</item>
+        <item>m4399_gamecenter</item>
+        <item>ninegag</item>
+        <item>band</item>
+        <item>bbc_news</item>
+        <item>dwg_fastview</item>
+        <item>castbox</item>
+        <item>devcheck</item>
+        <item>evermemo</item>
+        <item>google_gm_lite</item>
+        <item>idaliy</item>
+        <item>inoreader</item>
+        <item>longshot</item>
+        <item>laopo_iconpack</item>
+        <item>mine</item>
     </string-array>
 
     <string-array name="game">

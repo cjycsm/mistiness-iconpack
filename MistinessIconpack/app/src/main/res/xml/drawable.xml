@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>91</version>
+    <version>92</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -32,6 +32,8 @@
     <item drawable="ad_guard"/>
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
+    <item drawable="adobe_lr"/>
+    <item drawable="adobe_ps"/>
     <item drawable="adobe_reader"/>
     <item drawable="adsafe_pro"/>
     <item drawable="adsafe_pro_alt"/>
@@ -122,6 +124,7 @@
     <item drawable="baidu_yuedu"/>
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
+    <item drawable="band"/>
     <item drawable="bandwagon_vps"/>
     <item drawable="bankcomm"/>
     <item drawable="banma"/>
@@ -129,6 +132,7 @@
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
     <item drawable="battery_meter"/>
+    <item drawable="bbc_news"/>
     <item drawable="bbk_cloud"/>
     <item drawable="bdrs"/>
     <item drawable="beauty_camera"/>
@@ -200,6 +204,7 @@
     <item drawable="captive_mgr"/>
     <item drawable="card_emulator"/>
     <item drawable="caromag"/>
+    <item drawable="castbox"/>
     <item drawable="cc_call_blocker"/>
     <item drawable="ccb"/>
     <item drawable="cd_mbank"/>
@@ -324,6 +329,7 @@
     <item drawable="dedao"/>
     <item drawable="deemo"/>
     <item drawable="dengta_vpn"/>
+    <item drawable="devcheck"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
     <item drawable="diaox2"/>
@@ -369,6 +375,7 @@
     <item drawable="duoshan"/>
     <item drawable="duowan_live"/>
     <item drawable="dushe_movie"/>
+    <item drawable="dwg_fastview"/>
     <item drawable="dxy"/>
     <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
@@ -397,6 +404,7 @@
     <item drawable="etao"/>
     <item drawable="eudic"/>
     <item drawable="eve_habit"/>
+    <item drawable="evermemo"/>
     <item drawable="evernote"/>
     <item drawable="everphoto"/>
     <item drawable="everything_done"/>
@@ -512,6 +520,7 @@
     <item drawable="google_freighter"/>
     <item drawable="google_games"/>
     <item drawable="google_gm"/>
+    <item drawable="google_gm_lite"/>
     <item drawable="google_gms"/>
     <item drawable="google_helper"/>
     <item drawable="google_keep"/>
@@ -619,6 +628,7 @@
     <item drawable="icbc_im"/>
     <item drawable="icebox"/>
     <item drawable="icontrol"/>
+    <item drawable="idaliy"/>
     <item drawable="idlefish"/>
     <item drawable="idm"/>
     <item drawable="if_sunshine"/>
@@ -631,6 +641,7 @@
     <item drawable="imeihua"/>
     <item drawable="imoji"/>
     <item drawable="imusic"/>
+    <item drawable="inoreader"/>
     <item drawable="instagram"/>
     <item drawable="installer_plus"/>
     <item drawable="iplaymtg"/>
@@ -711,6 +722,7 @@
     <item drawable="lanqiudi"/>
     <item drawable="lantern"/>
     <item drawable="lanzou"/>
+    <item drawable="laopo_iconpack"/>
     <item drawable="lapin"/>
     <item drawable="lastpass"/>
     <item drawable="lawnchair"/>
@@ -729,7 +741,6 @@
     <item drawable="life_is_strange"/>
     <item drawable="light"/>
     <item drawable="light_beauty"/>
-    <item drawable="lightroom"/>
     <item drawable="limbo"/>
     <item drawable="limbo_alt"/>
     <item drawable="line"/>
@@ -746,6 +757,7 @@
     <item drawable="llss"/>
     <item drawable="lofter"/>
     <item drawable="long_screenshot"/>
+    <item drawable="longshot"/>
     <item drawable="lonicera"/>
     <item drawable="lookcolor"/>
     <item drawable="lovebizhi"/>
@@ -759,6 +771,7 @@
     <item drawable="lufax"/>
     <item drawable="lulu"/>
     <item drawable="luobo"/>
+    <item drawable="m4399_gamecenter"/>
     <item drawable="macro_droid"/>
     <item drawable="magic_browser"/>
     <item drawable="magic_magnet"/>
@@ -834,6 +847,7 @@
     <item drawable="migrate"/>
     <item drawable="mijia"/>
     <item drawable="mindline"/>
+    <item drawable="mine"/>
     <item drawable="minecraft"/>
     <item drawable="minecraft_china"/>
     <item drawable="mini_metro"/>
@@ -923,6 +937,7 @@
     <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
     <item drawable="nicoid"/>
+    <item drawable="ninegag"/>
     <item drawable="ninegame"/>
     <item drawable="ninja_must_die_3"/>
     <item drawable="nintendo_switch"/>
@@ -1032,7 +1047,6 @@
     <item drawable="prisma"/>
     <item drawable="prod_dialer"/>
     <item drawable="protect_eye"/>
-    <item drawable="ps"/>
     <item drawable="psiphon3"/>
     <item drawable="pt_video"/>
     <item drawable="pu"/>
@@ -1054,6 +1068,7 @@
     <item drawable="qidian_novel"/>
     <item drawable="qieman"/>
     <item drawable="qihoo_antivirus"/>
+    <item drawable="qihoo_appstore"/>
     <item drawable="qihoo_clean"/>
     <item drawable="qihoo_cloudisk"/>
     <item drawable="qihoo_contents"/>
@@ -1549,6 +1564,7 @@
     <item drawable="yyzy"/>
     <item drawable="z_launcher"/>
     <item drawable="zaker"/>
+    <item drawable="zarchiver"/>
     <item drawable="zarchiver_pro"/>
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
