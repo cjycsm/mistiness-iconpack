@@ -2339,11 +2339,11 @@
 
     <item
         class="com.tencent.tmgp.sgame.SGameActivity"
-        name="sgame"/>
+        name="tencent_sgame"/>
 
     <item
         class="com.epicgames.ue4.SplashActivity"
-        name="pubgmhd"/>
+        name="tencent_pubgmhd"/>
 
     <item
         class="com.netease.mrzh.Launcher"
@@ -5415,7 +5415,7 @@
 
     <item
         class="com.elinkway.tvlive2.activity.SplashActivity"
-        name="tvlive2"/>
+        name="tvlive"/>
 
     <item
         class="com.faloo.app.activity.LogoPageActivity"
@@ -7744,5 +7744,73 @@
     <item
         class="com.ballistiq.artstation.view.activity.SplashActivity"
         name="art_station"/>
+
+    <item
+        class="com.dianshijia.newlive.entry.SplashActivity"
+        name="tvlive"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="google_camera"/>
+
+    <item
+        class="com.futuremark.flamenco.ui.splash.SplashPageActivity"
+        name="futuremark"/>
+
+    <item
+        class="com.cmplay.dancingline.AppActivity"
+        name="dancing_line"/>
+
+    <item
+        class="com.perfectapps.muviz.activity.HomeActivity"
+        name="muviz"/>
+
+    <item
+        class="siawn.neater.round.MainActivity"
+        name="neater_iconpack"/>
+
+    <item
+        class="gov.anzong.androidnga.activity.MainActivity"
+        name="nga_git"/>
+
+    <item
+        class="com.microblink.photomath.main.LauncherActivity"
+        name="photomath"/>
+
+    <item
+        class="com.adobe.photoshopmix.SplashScreenActivity"
+        name="adobe_photoshopmix"/>
+
+    <item
+        class="com.tencent.tmgp.qqx5.DGMMainActivity"
+        name="tencent_qqx5"/>
+
+    <item
+        class="com.tencent.research.drop.GuideActivity"
+        name="qq_video"/>
+
+    <item
+        class="com.fnbk.rosi.base.activity.SplashActivity"
+        name="rosi"/>
+
+    <item
+        class="ak.alizandro.smartaudiobookplayer.PlayerActivity"
+        name="smart_audiobook_player"/>
+
+    <item
+        class="com.snaptube.premium.activity.ExploreActivity"
+        name="snaptube"/>
+
+    <item
+        class="net.daum.android.solcalendar.CalendarActivity"
+        name="solcalendar"/>
+
+    <item
+        class="com.sonos.acr.SonosLaunchActivity"
+        name="sonos"/>
+
+    <item
+        class="com.popularapp.videodownloaderforinstagram.MainTabActivity"
+        name="video_downloader_for_instagram"/>
 
 </appmap>

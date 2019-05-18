@@ -2448,11 +2448,11 @@
 
     <item
         component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}"
-        drawable="sgame"/>
+        drawable="tencent_sgame"/>
 
     <item
         component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
-        drawable="pubgmhd"/>
+        drawable="tencent_pubgmhd"/>
 
     <item
         component="ComponentInfo{com.netease.mrzh/com.netease.mrzh.Launcher}"
@@ -5496,7 +5496,7 @@
 
     <item
         component="ComponentInfo{com.elinkway.tvlive2/com.elinkway.tvlive2.activity.SplashActivity}"
-        drawable="tvlive2"/>
+        drawable="tvlive"/>
 
     <item
         component="ComponentInfo{com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity}"
@@ -7933,5 +7933,73 @@
     <item
         component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity}"
         drawable="art_station"/>
+
+    <item
+        component="ComponentInfo{com.dianshijia.newlive/com.dianshijia.newlive.entry.SplashActivity}"
+        drawable="tvlive"/>
+
+    <item
+        component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}"
+        drawable="google_camera"/>
+
+    <item
+        component="ComponentInfo{com.futuremark.dmandroid.application/com.futuremark.flamenco.ui.splash.SplashPageActivity}"
+        drawable="futuremark"/>
+
+    <item
+        component="ComponentInfo{com.cmplay.dancingline/com.cmplay.dancingline.AppActivity}"
+        drawable="dancing_line"/>
+
+    <item
+        component="ComponentInfo{com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity}"
+        drawable="muviz"/>
+
+    <item
+        component="ComponentInfo{siawn.neater.round/siawn.neater.round.MainActivity}"
+        drawable="neater_iconpack"/>
+
+    <item
+        component="ComponentInfo{gov.anzong.androidnga/gov.anzong.androidnga.activity.MainActivity}"
+        drawable="nga_git"/>
+
+    <item
+        component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.LauncherActivity}"
+        drawable="photomath"/>
+
+    <item
+        component="ComponentInfo{com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity}"
+        drawable="adobe_photoshopmix"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.qqx5/com.tencent.tmgp.qqx5.DGMMainActivity}"
+        drawable="tencent_qqx5"/>
+
+    <item
+        component="ComponentInfo{com.tencent.research.drop/com.tencent.research.drop.GuideActivity}"
+        drawable="qq_video"/>
+
+    <item
+        component="ComponentInfo{com.fnbk.rosi/com.fnbk.rosi.base.activity.SplashActivity}"
+        drawable="rosi"/>
+
+    <item
+        component="ComponentInfo{ak.alizandro.smartaudiobookplayer/ak.alizandro.smartaudiobookplayer.PlayerActivity}"
+        drawable="smart_audiobook_player"/>
+
+    <item
+        component="ComponentInfo{com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity}"
+        drawable="snaptube"/>
+
+    <item
+        component="ComponentInfo{net.daum.android.solcalendar/net.daum.android.solcalendar.CalendarActivity}"
+        drawable="solcalendar"/>
+
+    <item
+        component="ComponentInfo{com.sonos.acr/com.sonos.acr.SonosLaunchActivity}"
+        drawable="sonos"/>
+
+    <item
+        component="ComponentInfo{com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity}"
+        drawable="video_downloader_for_instagram"/>
 
 </resources>

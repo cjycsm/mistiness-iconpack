@@ -2345,11 +2345,11 @@
 
     <AppIcon
         name="com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity"
-        image="sgame"/>
+        image="tencent_sgame"/>
 
     <AppIcon
         name="com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity"
-        image="pubgmhd"/>
+        image="tencent_pubgmhd"/>
 
     <AppIcon
         name="com.netease.mrzh/com.netease.mrzh.Launcher"
@@ -5421,7 +5421,7 @@
 
     <AppIcon
         name="com.elinkway.tvlive2/com.elinkway.tvlive2.activity.SplashActivity"
-        image="tvlive2"/>
+        image="tvlive"/>
 
     <AppIcon
         name="com.faloo.BookReader4Android/com.faloo.app.activity.LogoPageActivity"
@@ -7858,5 +7858,73 @@
     <AppIcon
         name="com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity"
         image="art_station"/>
+
+    <AppIcon
+        name="com.dianshijia.newlive/com.dianshijia.newlive.entry.SplashActivity"
+        image="tvlive"/>
+
+    <AppIcon
+        name="com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher"
+        image="google_camera"/>
+
+    <AppIcon
+        name="com.futuremark.dmandroid.application/com.futuremark.flamenco.ui.splash.SplashPageActivity"
+        image="futuremark"/>
+
+    <AppIcon
+        name="com.cmplay.dancingline/com.cmplay.dancingline.AppActivity"
+        image="dancing_line"/>
+
+    <AppIcon
+        name="com.perfectapps.muviz/com.perfectapps.muviz.activity.HomeActivity"
+        image="muviz"/>
+
+    <AppIcon
+        name="siawn.neater.round/siawn.neater.round.MainActivity"
+        image="neater_iconpack"/>
+
+    <AppIcon
+        name="gov.anzong.androidnga/gov.anzong.androidnga.activity.MainActivity"
+        image="nga_git"/>
+
+    <AppIcon
+        name="com.microblink.photomath/com.microblink.photomath.main.LauncherActivity"
+        image="photomath"/>
+
+    <AppIcon
+        name="com.adobe.photoshopmix/com.adobe.photoshopmix.SplashScreenActivity"
+        image="adobe_photoshopmix"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.qqx5/com.tencent.tmgp.qqx5.DGMMainActivity"
+        image="tencent_qqx5"/>
+
+    <AppIcon
+        name="com.tencent.research.drop/com.tencent.research.drop.GuideActivity"
+        image="qq_video"/>
+
+    <AppIcon
+        name="com.fnbk.rosi/com.fnbk.rosi.base.activity.SplashActivity"
+        image="rosi"/>
+
+    <AppIcon
+        name="ak.alizandro.smartaudiobookplayer/ak.alizandro.smartaudiobookplayer.PlayerActivity"
+        image="smart_audiobook_player"/>
+
+    <AppIcon
+        name="com.snaptube.premium/com.snaptube.premium.activity.ExploreActivity"
+        image="snaptube"/>
+
+    <AppIcon
+        name="net.daum.android.solcalendar/net.daum.android.solcalendar.CalendarActivity"
+        image="solcalendar"/>
+
+    <AppIcon
+        name="com.sonos.acr/com.sonos.acr.SonosLaunchActivity"
+        image="sonos"/>
+
+    <AppIcon
+        name="com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity"
+        image="video_downloader_for_instagram"/>
 
 </Theme>

@@ -58,25 +58,30 @@
     </string-array>
 
     <string-array name="newest">
-        <item>qihoo_appstore</item>
-        <item>m4399_gamecenter</item>
-        <item>ninegag</item>
-        <item>band</item>
-        <item>bbc_news</item>
-        <item>dwg_fastview</item>
-        <item>castbox</item>
-        <item>devcheck</item>
-        <item>evermemo</item>
-        <item>google_gm_lite</item>
-        <item>idaliy</item>
-        <item>inoreader</item>
-        <item>longshot</item>
-        <item>laopo_iconpack</item>
-        <item>mine</item>
+        <item>futuremark</item>
+        <item>muviz</item>
+        <item>neater_iconpack</item>
+        <item>nga_git</item>
+        <item>photomath</item>
+        <item>adobe_photoshopmix</item>
+        <item>qq_video</item>
+        <item>rosi</item>
+        <item>smart_audiobook_player</item>
+        <item>snaptube</item>
+        <item>solcalendar</item>
+        <item>sonos</item>
+        <item>video_downloader_for_instagram</item>
+        <item>dancing_line</item>
+        <item>tencent_qqx5</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>seekbooks</item>
+        <item>tencent_sgame</item>
+        <item>tencent_ig</item>
+        <item>tencent_pubgmhd</item>
+        <item>tencent_pubgmhd_alt</item>
+        <item>gmail</item>
+        <item>nga</item>
     </string-array>
 
     <string-array name="application">
@@ -1009,7 +1014,6 @@
         <item>redirect_storage</item>
         <item>dailuobo</item>
         <item>tvlive</item>
-        <item>tvlive2</item>
         <item>faloo</item>
         <item>windwing</item>
         <item>google_editors_sheets</item>
@@ -1429,6 +1433,19 @@
         <item>longshot</item>
         <item>laopo_iconpack</item>
         <item>mine</item>
+        <item>futuremark</item>
+        <item>muviz</item>
+        <item>neater_iconpack</item>
+        <item>nga_git</item>
+        <item>photomath</item>
+        <item>adobe_photoshopmix</item>
+        <item>qq_video</item>
+        <item>rosi</item>
+        <item>smart_audiobook_player</item>
+        <item>snaptube</item>
+        <item>solcalendar</item>
+        <item>sonos</item>
+        <item>video_downloader_for_instagram</item>
     </string-array>
 
     <string-array name="game">
@@ -1438,8 +1455,8 @@
         <item>life_is_strange</item>
         <item>dan_the_man</item>
         <item>bladeheart_ninja</item>
-        <item>sgame</item>
-        <item>pubgmhd</item>
+        <item>tencent_sgame</item>
+        <item>tencent_pubgmhd</item>
         <item>mrzh</item>
         <item>hlddz</item>
         <item>speedmobile</item>
@@ -1505,6 +1522,8 @@
         <item>realflight</item>
         <item>tencent_jx3m</item>
         <item>ninja_must_die_3</item>
+        <item>dancing_line</item>
+        <item>tencent_qqx5</item>
     </string-array>
 
     <string-array name="basic">

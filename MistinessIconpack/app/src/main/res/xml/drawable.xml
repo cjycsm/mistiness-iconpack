@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>92</version>
+    <version>93</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -33,6 +33,7 @@
     <item drawable="adaway"/>
     <item drawable="adm_pro"/>
     <item drawable="adobe_lr"/>
+    <item drawable="adobe_photoshopmix"/>
     <item drawable="adobe_ps"/>
     <item drawable="adobe_reader"/>
     <item drawable="adsafe_pro"/>
@@ -322,6 +323,7 @@
     <item drawable="daily_yoga"/>
     <item drawable="damai"/>
     <item drawable="dan_the_man"/>
+    <item drawable="dancing_line"/>
     <item drawable="dangdang"/>
     <item drawable="daniu"/>
     <item drawable="day_day_cook"/>
@@ -479,6 +481,7 @@
     <item drawable="fui"/>
     <item drawable="fui_alt"/>
     <item drawable="fusionapp"/>
+    <item drawable="futuremark"/>
     <item drawable="fx"/>
     <item drawable="fx_alt"/>
     <item drawable="galaxy_wearable"/>
@@ -502,6 +505,7 @@
     <item drawable="girlsfrontline"/>
     <item drawable="glodon"/>
     <item drawable="glow"/>
+    <item drawable="gmail"/>
     <item drawable="go_hosts"/>
     <item drawable="gofun"/>
     <item drawable="gold"/>
@@ -894,6 +898,7 @@
     <item drawable="music_man"/>
     <item drawable="music_tag_editor"/>
     <item drawable="musicone"/>
+    <item drawable="muviz"/>
     <item drawable="muwai"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
@@ -908,6 +913,7 @@
     <item drawable="nature_iconpack"/>
     <item drawable="nba2k19"/>
     <item drawable="neat_reader"/>
+    <item drawable="neater_iconpack"/>
     <item drawable="neets"/>
     <item drawable="negative_one_screen"/>
     <item drawable="netease_buff"/>
@@ -934,6 +940,7 @@
     <item drawable="newcapec"/>
     <item drawable="newpipe"/>
     <item drawable="nga"/>
+    <item drawable="nga_git"/>
     <item drawable="niagara_launcher"/>
     <item drawable="niceapp"/>
     <item drawable="nicoid"/>
@@ -1001,6 +1008,7 @@
     <item drawable="pes2019"/>
     <item drawable="phonograph"/>
     <item drawable="photo_editor"/>
+    <item drawable="photomath"/>
     <item drawable="pic_folder"/>
     <item drawable="picacomic"/>
     <item drawable="piccool"/>
@@ -1050,7 +1058,6 @@
     <item drawable="psiphon3"/>
     <item drawable="pt_video"/>
     <item drawable="pu"/>
-    <item drawable="pubgmhd"/>
     <item drawable="pudding"/>
     <item drawable="pure"/>
     <item drawable="pure_browser"/>
@@ -1084,6 +1091,7 @@
     <item drawable="qq_pim"/>
     <item drawable="qq_reader"/>
     <item drawable="qq_token"/>
+    <item drawable="qq_video"/>
     <item drawable="qqi"/>
     <item drawable="qqjapan"/>
     <item drawable="qqlite"/>
@@ -1120,6 +1128,7 @@
     <item drawable="ringtong"/>
     <item drawable="root_explore"/>
     <item drawable="rosetta_stone"/>
+    <item drawable="rosi"/>
     <item drawable="rotation"/>
     <item drawable="round_corner"/>
     <item drawable="rr_icon"/>
@@ -1158,7 +1167,6 @@
     <item drawable="settings"/>
     <item drawable="sf"/>
     <item drawable="sfacg"/>
-    <item drawable="sgame"/>
     <item drawable="sgs"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
@@ -1195,6 +1203,7 @@
     <item drawable="skyeye"/>
     <item drawable="skype"/>
     <item drawable="sleep"/>
+    <item drawable="smart_audiobook_player"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
     <item drawable="smartisan_reader"/>
@@ -1208,11 +1217,14 @@
     <item drawable="snapmod"/>
     <item drawable="snapmod_alt"/>
     <item drawable="snapseed"/>
+    <item drawable="snaptube"/>
     <item drawable="snkrs"/>
     <item drawable="socket_server"/>
     <item drawable="sogou_ime"/>
     <item drawable="sogou_novel"/>
+    <item drawable="solcalendar"/>
     <item drawable="solid_explorer"/>
+    <item drawable="sonos"/>
     <item drawable="sony_entrance"/>
     <item drawable="sony_liveware"/>
     <item drawable="sony_moive_creator"/>
@@ -1318,6 +1330,7 @@
     <item drawable="tencent_gtclub"/>
     <item drawable="tencent_happymj"/>
     <item drawable="tencent_ig"/>
+    <item drawable="tencent_ig_alt"/>
     <item drawable="tencent_ipai"/>
     <item drawable="tencent_jx3m"/>
     <item drawable="tencent_live"/>
@@ -1330,13 +1343,18 @@
     <item drawable="tencent_nntg"/>
     <item drawable="tencent_peng"/>
     <item drawable="tencent_portfolio"/>
+    <item drawable="tencent_pubgmhd"/>
+    <item drawable="tencent_pubgmhd_alt"/>
+    <item drawable="tencent_pubgmhd_alt2"/>
     <item drawable="tencent_qqdownloader"/>
     <item drawable="tencent_qqpinyin"/>
     <item drawable="tencent_qquamll"/>
+    <item drawable="tencent_qqx5"/>
     <item drawable="tencent_qtl"/>
     <item drawable="tencent_radio"/>
     <item drawable="tencent_reading"/>
     <item drawable="tencent_secure"/>
+    <item drawable="tencent_sgame"/>
     <item drawable="tencent_sports"/>
     <item drawable="tencent_transfer"/>
     <item drawable="tencent_translator"/>
@@ -1390,7 +1408,6 @@
     <item drawable="turbovpn"/>
     <item drawable="tvguo"/>
     <item drawable="tvlive"/>
-    <item drawable="tvlive2"/>
     <item drawable="twitch"/>
     <item drawable="twitter"/>
     <item drawable="twrp"/>
@@ -1412,6 +1429,7 @@
     <item drawable="vainglory"/>
     <item drawable="via"/>
     <item drawable="video"/>
+    <item drawable="video_downloader_for_instagram"/>
     <item drawable="videoder"/>
     <item drawable="videogo"/>
     <item drawable="videoshow"/>
