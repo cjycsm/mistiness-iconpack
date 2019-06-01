@@ -7813,4 +7813,132 @@
         class="com.popularapp.videodownloaderforinstagram.MainTabActivity"
         name="video_downloader_for_instagram"/>
 
+    <item
+        class="com.wikihow.wikihowapp.MainTabActivity"
+        name="wikihow"/>
+
+    <item
+        class="com.workflowy.android.MainActivity"
+        name="workflowy"/>
+
+    <item
+        class="jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity"
+        name="ibispaint_x"/>
+
+    <item
+        class="star.iota.kisssub.ui.splash.SplashActivity"
+        name="kisssub"/>
+
+    <item
+        class="com.baidu.appsearch.SplashActivity"
+        name="baidu.appsearch"/>
+
+    <item
+        class="com.suma.gztong.activity.WelcomeActivity"
+        name="baoditong"/>
+
+    <item
+        class="com.biquge.ebook.app.ui.activity.WelComeActivity"
+        name="biquge_red"/>
+
+    <item
+        class="cn.caocaokeji.compat.load.LoadActivity"
+        name="caocaokeji"/>
+
+    <item
+        class="com.ruler.csw.activity.MainActivity"
+        name="ruler"/>
+
+    <item
+        class="com.movies.activity.GuideActivity"
+        name="moives_heaven"/>
+
+    <item
+        class="com.yaya.zone.activity.SplashActivity"
+        name="ddmc"/>
+
+    <item
+        class="com.dounai.phonelive.activity.LauncherActivity"
+        name="dounai_phonelive"/>
+
+    <item
+        class="com.one.tomato.ui.StartUpActivity"
+        name="one_tomato"/>
+
+    <item
+        class="com.kongzue.tofuture.activity.FirstActivity"
+        name="tofuture"/>
+
+    <item
+        class="com.google.android.youtube.videos.EntryPoint"
+        name="google_videos"/>
+
+    <item
+        class="com.google.android.apps.books.app.BooksActivity"
+        name="google_books"/>
+
+    <item
+        class="com.google.android.apps.cultural.web.WebViewActivity"
+        name="google_cultural"/>
+
+    <item
+        class="com.cupd.activity.MainActivity"
+        name="gzb_card"/>
+
+    <item
+        class="com.haidilao.hailehui.biz.ActivityWelcome"
+        name="haidilao"/>
+
+    <item
+        class="com.jx.cmcc.ict.ibelieve.activity.MainGuideActivity"
+        name="cmcc_jiangxi_ibelieve"/>
+
+    <item
+        class="net.sourceforge.simcpux.activity.WelcomeActivity"
+        name="sinopec"/>
+
+    <item
+        class="bos.consoar.photoeditor.ui.ChoicePictureActivity"
+        name="photoeditor"/>
+
+    <item
+        class="com.yitong.mbank.android.activity.SplashActivity"
+        name="jrcb"/>
+
+    <item
+        class="com.goldsign.kingdom.ncmobi.ui.guide.SplashActivity"
+        name="olapay"/>
+
+    <item
+        class="top.zsh2401.imagehelper.ux.MainActivity"
+        name="image_helper"/>
+
+    <item
+        class="com.guangyiedu.jiudou.AppStart"
+        name="jiudou"/>
+
+    <item
+        class="com.js.movie.ui.SplashActivity"
+        name="qymovie"/>
+
+    <item
+        class="com.kongfz.app.business.SplashActivity"
+        name="kongfz"/>
+
+    <item
+        class="com.tencent.clover.Clover"
+        name="tencent_clover"/>
+
+    <item
+        class="com.licaimofang.app.MainActivity"
+        name="licaimofang"/>
+
+    <item
+        class="com.meizu.mcare.ui.SplashActivity"
+        name="meizu_mcare"/>
+
+    <item
+        class="com.android.browser.BrowserActivity"
+        name="browser"/>
+
 </appmap>

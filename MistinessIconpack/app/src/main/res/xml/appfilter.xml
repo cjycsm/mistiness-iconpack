@@ -8002,4 +8002,132 @@
         component="ComponentInfo{com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity}"
         drawable="video_downloader_for_instagram"/>
 
+    <item
+        component="ComponentInfo{com.wikihow.wikihowapp/com.wikihow.wikihowapp.MainTabActivity}"
+        drawable="wikihow"/>
+
+    <item
+        component="ComponentInfo{com.workflowy.android/com.workflowy.android.MainActivity}"
+        drawable="workflowy"/>
+
+    <item
+        component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}"
+        drawable="ibispaint_x"/>
+
+    <item
+        component="ComponentInfo{star.iota.kisssub/star.iota.kisssub.ui.splash.SplashActivity}"
+        drawable="kisssub"/>
+
+    <item
+        component="ComponentInfo{com.baidu.appsearch/com.baidu.appsearch.SplashActivity}"
+        drawable="baidu.appsearch"/>
+
+    <item
+        component="ComponentInfo{com.suma.baoditong/com.suma.gztong.activity.WelcomeActivity}"
+        drawable="baoditong"/>
+
+    <item
+        component="ComponentInfo{com.newbiquge.red.bookapp/com.biquge.ebook.app.ui.activity.WelComeActivity}"
+        drawable="biquge_red"/>
+
+    <item
+        component="ComponentInfo{cn.caocaokeji.user/cn.caocaokeji.compat.load.LoadActivity}"
+        drawable="caocaokeji"/>
+
+    <item
+        component="ComponentInfo{com.ruler.csw/com.ruler.csw.activity.MainActivity}"
+        drawable="ruler"/>
+
+    <item
+        component="ComponentInfo{com.movies/com.movies.activity.GuideActivity}"
+        drawable="moives_heaven"/>
+
+    <item
+        component="ComponentInfo{com.yaya.zone/com.yaya.zone.activity.SplashActivity}"
+        drawable="ddmc"/>
+
+    <item
+        component="ComponentInfo{com.dounai.phonelive/com.dounai.phonelive.activity.LauncherActivity}"
+        drawable="dounai_phonelive"/>
+
+    <item
+        component="ComponentInfo{com.one.tomato/com.one.tomato.ui.StartUpActivity}"
+        drawable="one_tomato"/>
+
+    <item
+        component="ComponentInfo{com.kongzue.tofuture/com.kongzue.tofuture.activity.FirstActivity}"
+        drawable="tofuture"/>
+
+    <item
+        component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}"
+        drawable="google_videos"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}"
+        drawable="google_books"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}"
+        drawable="google_cultural"/>
+
+    <item
+        component="ComponentInfo{cn.com.gzbank.mbank/com.cupd.activity.MainActivity}"
+        drawable="gzb_card"/>
+
+    <item
+        component="ComponentInfo{com.haidilao/com.haidilao.hailehui.biz.ActivityWelcome}"
+        drawable="haidilao"/>
+
+    <item
+        component="ComponentInfo{com.jx.cmcc.ict.ibelieve/com.jx.cmcc.ict.ibelieve.activity.MainGuideActivity}"
+        drawable="cmcc_jiangxi_ibelieve"/>
+
+    <item
+        component="ComponentInfo{com.sunboxsoft.oilforgdandroid/net.sourceforge.simcpux.activity.WelcomeActivity}"
+        drawable="sinopec"/>
+
+    <item
+        component="ComponentInfo{bos.consoar.photoeditor/bos.consoar.photoeditor.ui.ChoicePictureActivity}"
+        drawable="photoeditor"/>
+
+    <item
+        component="ComponentInfo{com.yitong.mbank/com.yitong.mbank.android.activity.SplashActivity}"
+        drawable="jrcb"/>
+
+    <item
+        component="ComponentInfo{com.goldsign.kingdom.ncmobi/com.goldsign.kingdom.ncmobi.ui.guide.SplashActivity}"
+        drawable="olapay"/>
+
+    <item
+        component="ComponentInfo{top.zsh2401.imagehelper/top.zsh2401.imagehelper.ux.MainActivity}"
+        drawable="image_helper"/>
+
+    <item
+        component="ComponentInfo{com.guangyiedu.jiudou/com.guangyiedu.jiudou.AppStart}"
+        drawable="jiudou"/>
+
+    <item
+        component="ComponentInfo{com.qymovie/com.js.movie.ui.SplashActivity}"
+        drawable="qymovie"/>
+
+    <item
+        component="ComponentInfo{com.kongfz.app/com.kongfz.app.business.SplashActivity}"
+        drawable="kongfz"/>
+
+    <item
+        component="ComponentInfo{com.tencent.clover/com.tencent.clover.Clover}"
+        drawable="tencent_clover"/>
+
+    <item
+        component="ComponentInfo{com.licaimofang.app/com.licaimofang.app.MainActivity}"
+        drawable="licaimofang"/>
+
+    <item
+        component="ComponentInfo{com.meizu.mcare/com.meizu.mcare.ui.SplashActivity}"
+        drawable="meizu_mcare"/>
+
+    <item
+        component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}"
+        drawable="browser"/>
+
 </resources>

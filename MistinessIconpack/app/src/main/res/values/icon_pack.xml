@@ -58,30 +58,41 @@
     </string-array>
 
     <string-array name="newest">
-        <item>futuremark</item>
-        <item>muviz</item>
-        <item>neater_iconpack</item>
-        <item>nga_git</item>
-        <item>photomath</item>
-        <item>adobe_photoshopmix</item>
-        <item>qq_video</item>
-        <item>rosi</item>
-        <item>smart_audiobook_player</item>
-        <item>snaptube</item>
-        <item>solcalendar</item>
-        <item>sonos</item>
-        <item>video_downloader_for_instagram</item>
-        <item>dancing_line</item>
-        <item>tencent_qqx5</item>
+        <item>meizu_mcare</item>
+        <item>wikihow</item>
+        <item>workflowy</item>
+        <item>ibispaint_x</item>
+        <item>kisssub</item>
+        <item>baidu.appsearch</item>
+        <item>baoditong</item>
+        <item>biquge_red</item>
+        <item>caocaokeji</item>
+        <item>ruler</item>
+        <item>moives_heaven</item>
+        <item>ddmc</item>
+        <item>dounai_phonelive</item>
+        <item>one_tomato</item>
+        <item>tofuture</item>
+        <item>google_videos</item>
+        <item>google_books</item>
+        <item>google_cultural</item>
+        <item>gzb_card</item>
+        <item>haidilao</item>
+        <item>cmcc_jiangxi_ibelieve</item>
+        <item>sinopec</item>
+        <item>photoeditor</item>
+        <item>jrcb</item>
+        <item>olapay</item>
+        <item>image_helper</item>
+        <item>jiudou</item>
+        <item>qymovie</item>
+        <item>kongfz</item>
+        <item>licaimofang</item>
+        <item>tencent_clover</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>tencent_sgame</item>
-        <item>tencent_ig</item>
-        <item>tencent_pubgmhd</item>
-        <item>tencent_pubgmhd_alt</item>
-        <item>gmail</item>
-        <item>nga</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1446,6 +1457,35 @@
         <item>solcalendar</item>
         <item>sonos</item>
         <item>video_downloader_for_instagram</item>
+        <item>wikihow</item>
+        <item>workflowy</item>
+        <item>ibispaint_x</item>
+        <item>kisssub</item>
+        <item>baidu.appsearch</item>
+        <item>baoditong</item>
+        <item>biquge_red</item>
+        <item>caocaokeji</item>
+        <item>ruler</item>
+        <item>moives_heaven</item>
+        <item>ddmc</item>
+        <item>dounai_phonelive</item>
+        <item>one_tomato</item>
+        <item>tofuture</item>
+        <item>google_videos</item>
+        <item>google_books</item>
+        <item>google_cultural</item>
+        <item>gzb_card</item>
+        <item>haidilao</item>
+        <item>cmcc_jiangxi_ibelieve</item>
+        <item>sinopec</item>
+        <item>photoeditor</item>
+        <item>jrcb</item>
+        <item>olapay</item>
+        <item>image_helper</item>
+        <item>jiudou</item>
+        <item>qymovie</item>
+        <item>kongfz</item>
+        <item>licaimofang</item>
     </string-array>
 
     <string-array name="game">
@@ -1524,6 +1564,7 @@
         <item>ninja_must_die_3</item>
         <item>dancing_line</item>
         <item>tencent_qqx5</item>
+        <item>tencent_clover</item>
     </string-array>
 
     <string-array name="basic">
@@ -1585,6 +1626,7 @@
         <item>flyme_music</item>
         <item>flyme_video</item>
         <item>meizu_best</item>
+        <item>meizu_mcare</item>
     </string-array>
 
     <string-array name="oneplus">

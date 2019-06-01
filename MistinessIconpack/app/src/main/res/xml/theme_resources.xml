@@ -7927,4 +7927,132 @@
         name="com.popularapp.videodownloaderforinstagram/com.popularapp.videodownloaderforinstagram.MainTabActivity"
         image="video_downloader_for_instagram"/>
 
+    <AppIcon
+        name="com.wikihow.wikihowapp/com.wikihow.wikihowapp.MainTabActivity"
+        image="wikihow"/>
+
+    <AppIcon
+        name="com.workflowy.android/com.workflowy.android.MainActivity"
+        image="workflowy"/>
+
+    <AppIcon
+        name="jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity"
+        image="ibispaint_x"/>
+
+    <AppIcon
+        name="star.iota.kisssub/star.iota.kisssub.ui.splash.SplashActivity"
+        image="kisssub"/>
+
+    <AppIcon
+        name="com.baidu.appsearch/com.baidu.appsearch.SplashActivity"
+        image="baidu.appsearch"/>
+
+    <AppIcon
+        name="com.suma.baoditong/com.suma.gztong.activity.WelcomeActivity"
+        image="baoditong"/>
+
+    <AppIcon
+        name="com.newbiquge.red.bookapp/com.biquge.ebook.app.ui.activity.WelComeActivity"
+        image="biquge_red"/>
+
+    <AppIcon
+        name="cn.caocaokeji.user/cn.caocaokeji.compat.load.LoadActivity"
+        image="caocaokeji"/>
+
+    <AppIcon
+        name="com.ruler.csw/com.ruler.csw.activity.MainActivity"
+        image="ruler"/>
+
+    <AppIcon
+        name="com.movies/com.movies.activity.GuideActivity"
+        image="moives_heaven"/>
+
+    <AppIcon
+        name="com.yaya.zone/com.yaya.zone.activity.SplashActivity"
+        image="ddmc"/>
+
+    <AppIcon
+        name="com.dounai.phonelive/com.dounai.phonelive.activity.LauncherActivity"
+        image="dounai_phonelive"/>
+
+    <AppIcon
+        name="com.one.tomato/com.one.tomato.ui.StartUpActivity"
+        image="one_tomato"/>
+
+    <AppIcon
+        name="com.kongzue.tofuture/com.kongzue.tofuture.activity.FirstActivity"
+        image="tofuture"/>
+
+    <AppIcon
+        name="com.google.android.videos/com.google.android.youtube.videos.EntryPoint"
+        image="google_videos"/>
+
+    <AppIcon
+        name="com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity"
+        image="google_books"/>
+
+    <AppIcon
+        name="com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity"
+        image="google_cultural"/>
+
+    <AppIcon
+        name="cn.com.gzbank.mbank/com.cupd.activity.MainActivity"
+        image="gzb_card"/>
+
+    <AppIcon
+        name="com.haidilao/com.haidilao.hailehui.biz.ActivityWelcome"
+        image="haidilao"/>
+
+    <AppIcon
+        name="com.jx.cmcc.ict.ibelieve/com.jx.cmcc.ict.ibelieve.activity.MainGuideActivity"
+        image="cmcc_jiangxi_ibelieve"/>
+
+    <AppIcon
+        name="com.sunboxsoft.oilforgdandroid/net.sourceforge.simcpux.activity.WelcomeActivity"
+        image="sinopec"/>
+
+    <AppIcon
+        name="bos.consoar.photoeditor/bos.consoar.photoeditor.ui.ChoicePictureActivity"
+        image="photoeditor"/>
+
+    <AppIcon
+        name="com.yitong.mbank/com.yitong.mbank.android.activity.SplashActivity"
+        image="jrcb"/>
+
+    <AppIcon
+        name="com.goldsign.kingdom.ncmobi/com.goldsign.kingdom.ncmobi.ui.guide.SplashActivity"
+        image="olapay"/>
+
+    <AppIcon
+        name="top.zsh2401.imagehelper/top.zsh2401.imagehelper.ux.MainActivity"
+        image="image_helper"/>
+
+    <AppIcon
+        name="com.guangyiedu.jiudou/com.guangyiedu.jiudou.AppStart"
+        image="jiudou"/>
+
+    <AppIcon
+        name="com.qymovie/com.js.movie.ui.SplashActivity"
+        image="qymovie"/>
+
+    <AppIcon
+        name="com.kongfz.app/com.kongfz.app.business.SplashActivity"
+        image="kongfz"/>
+
+    <AppIcon
+        name="com.tencent.clover/com.tencent.clover.Clover"
+        image="tencent_clover"/>
+
+    <AppIcon
+        name="com.licaimofang.app/com.licaimofang.app.MainActivity"
+        image="licaimofang"/>
+
+    <AppIcon
+        name="com.meizu.mcare/com.meizu.mcare.ui.SplashActivity"
+        image="meizu_mcare"/>
+
+    <AppIcon
+        name="com.nearme.browser/com.android.browser.BrowserActivity"
+        image="browser"/>
+
 </Theme>
