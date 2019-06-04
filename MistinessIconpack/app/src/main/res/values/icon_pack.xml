@@ -58,37 +58,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>meizu_mcare</item>
-        <item>wikihow</item>
-        <item>workflowy</item>
-        <item>ibispaint_x</item>
-        <item>kisssub</item>
-        <item>baidu.appsearch</item>
-        <item>baoditong</item>
-        <item>biquge_red</item>
-        <item>caocaokeji</item>
-        <item>ruler</item>
-        <item>moives_heaven</item>
-        <item>ddmc</item>
-        <item>dounai_phonelive</item>
-        <item>one_tomato</item>
-        <item>tofuture</item>
-        <item>google_videos</item>
-        <item>google_books</item>
-        <item>google_cultural</item>
-        <item>gzb_card</item>
-        <item>haidilao</item>
-        <item>cmcc_jiangxi_ibelieve</item>
-        <item>sinopec</item>
-        <item>photoeditor</item>
-        <item>jrcb</item>
-        <item>olapay</item>
-        <item>image_helper</item>
-        <item>jiudou</item>
-        <item>qymovie</item>
-        <item>kongfz</item>
-        <item>licaimofang</item>
-        <item>tencent_clover</item>
+        <item>mubu</item>
+        <item>mooc</item>
+        <item>tencent_omapp</item>
+        <item>kinemaster</item>
+        <item>sonimei</item>
+        <item>sfnovel</item>
+        <item>ds_finder</item>
+        <item>cmcc_shanxi</item>
+        <item>sptcc</item>
+        <item>sheyingbiji</item>
+        <item>ssxs</item>
+        <item>shishi</item>
+        <item>candydiary_dawn</item>
+        <item>bet007</item>
+        <item>zhangyu</item>
+        <item>amj</item>
+        <item>fcgj</item>
+        <item>my_adorable_cats</item>
+        <item>netease_pes</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1461,7 +1449,7 @@
         <item>workflowy</item>
         <item>ibispaint_x</item>
         <item>kisssub</item>
-        <item>baidu.appsearch</item>
+        <item>baidu_appsearch</item>
         <item>baoditong</item>
         <item>biquge_red</item>
         <item>caocaokeji</item>
@@ -1486,6 +1474,23 @@
         <item>qymovie</item>
         <item>kongfz</item>
         <item>licaimofang</item>
+        <item>mubu</item>
+        <item>mooc</item>
+        <item>tencent_omapp</item>
+        <item>kinemaster</item>
+        <item>sonimei</item>
+        <item>sfnovel</item>
+        <item>ds_finder</item>
+        <item>cmcc_shanxi</item>
+        <item>sptcc</item>
+        <item>sheyingbiji</item>
+        <item>ssxs</item>
+        <item>shishi</item>
+        <item>candydiary_dawn</item>
+        <item>bet007</item>
+        <item>zhangyu</item>
+        <item>amj</item>
+        <item>fcgj</item>
     </string-array>
 
     <string-array name="game">
@@ -1565,6 +1570,8 @@
         <item>dancing_line</item>
         <item>tencent_qqx5</item>
         <item>tencent_clover</item>
+        <item>my_adorable_cats</item>
+        <item>netease_pes</item>
     </string-array>
 
     <string-array name="basic">

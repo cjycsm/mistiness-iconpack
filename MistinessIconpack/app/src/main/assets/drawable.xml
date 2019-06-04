@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>94</version>
+    <version>95</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -63,6 +63,7 @@
     <item drawable="altos_odyssey"/>
     <item drawable="amazfit"/>
     <item drawable="amazon"/>
+    <item drawable="amj"/>
     <item drawable="amp"/>
     <item drawable="ampere"/>
     <item drawable="android_assistant"/>
@@ -109,8 +110,8 @@
     <item drawable="bahamut"/>
     <item drawable="baicizhan"/>
     <item drawable="baicizhan_dict"/>
-    <item drawable="baidu.appsearch"/>
     <item drawable="baidu"/>
+    <item drawable="baidu_appsearch"/>
     <item drawable="baidu_browser"/>
     <item drawable="baidu_homework"/>
     <item drawable="baidu_ime"/>
@@ -140,6 +141,7 @@
     <item drawable="bdrs"/>
     <item drawable="beauty_camera"/>
     <item drawable="bestpay"/>
+    <item drawable="bet007"/>
     <item drawable="bh3"/>
     <item drawable="bhxy2"/>
     <item drawable="bifrostv"/>
@@ -204,6 +206,7 @@
     <item drawable="camcordar"/>
     <item drawable="camera"/>
     <item drawable="camera360"/>
+    <item drawable="candydiary_dawn"/>
     <item drawable="caocao"/>
     <item drawable="caocaokeji"/>
     <item drawable="captive_mgr"/>
@@ -269,6 +272,7 @@
     <item drawable="cmcc_ningxia"/>
     <item drawable="cmcc_shandong"/>
     <item drawable="cmcc_shanghai"/>
+    <item drawable="cmcc_shanxi"/>
     <item drawable="cmcc_sichuang"/>
     <item drawable="cmcc_trafic"/>
     <item drawable="cmcc_zhejiang"/>
@@ -374,6 +378,7 @@
     <item drawable="drawing_explorer"/>
     <item drawable="dropbox"/>
     <item drawable="drops"/>
+    <item drawable="ds_finder"/>
     <item drawable="du"/>
     <item drawable="du_recorder"/>
     <item drawable="duitang"/>
@@ -438,6 +443,7 @@
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
     <item drawable="fatego"/>
+    <item drawable="fcgj"/>
     <item drawable="fedilab"/>
     <item drawable="feedback"/>
     <item drawable="feendly"/>
@@ -712,6 +718,7 @@
     <item drawable="kf_mark"/>
     <item drawable="kfc"/>
     <item drawable="kindle"/>
+    <item drawable="kinemaster"/>
     <item drawable="kingroot"/>
     <item drawable="kingsoft"/>
     <item drawable="kisssub"/>
@@ -900,6 +907,7 @@
     <item drawable="mokee_center"/>
     <item drawable="momo"/>
     <item drawable="monkeybook"/>
+    <item drawable="mooc"/>
     <item drawable="moonreader"/>
     <item drawable="morefan"/>
     <item drawable="mosoteach"/>
@@ -914,6 +922,7 @@
     <item drawable="mt"/>
     <item drawable="mtime"/>
     <item drawable="mtxx"/>
+    <item drawable="mubu"/>
     <item drawable="muchong"/>
     <item drawable="music"/>
     <item drawable="music_man"/>
@@ -923,6 +932,7 @@
     <item drawable="muwai"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
+    <item drawable="my_adorable_cats"/>
     <item drawable="myandroidtools"/>
     <item drawable="myandroidtoolspro"/>
     <item drawable="mybank"/>
@@ -950,6 +960,7 @@
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
     <item drawable="netease_news_lite"/>
+    <item drawable="netease_pes"/>
     <item drawable="netease_snailread"/>
     <item drawable="netease_stzb"/>
     <item drawable="netease_ucmooc"/>
@@ -1193,6 +1204,7 @@
     <item drawable="settings"/>
     <item drawable="sf"/>
     <item drawable="sfacg"/>
+    <item drawable="sfnovel"/>
     <item drawable="sgs"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
@@ -1209,8 +1221,10 @@
     <item drawable="shazam"/>
     <item drawable="shbank"/>
     <item drawable="shelled_pro"/>
+    <item drawable="sheyingbiji"/>
     <item drawable="shimowendang"/>
     <item drawable="shimowendang_alt"/>
+    <item drawable="shishi"/>
     <item drawable="shizuku"/>
     <item drawable="shortcut_creater"/>
     <item drawable="shoujimarket"/>
@@ -1251,6 +1265,7 @@
     <item drawable="sogou_novel"/>
     <item drawable="solcalendar"/>
     <item drawable="solid_explorer"/>
+    <item drawable="sonimei"/>
     <item drawable="sonos"/>
     <item drawable="sony_entrance"/>
     <item drawable="sony_liveware"/>
@@ -1277,9 +1292,11 @@
     <item drawable="speedtest"/>
     <item drawable="spotify"/>
     <item drawable="spotify_alt"/>
+    <item drawable="sptcc"/>
     <item drawable="srlink"/>
     <item drawable="ssly"/>
     <item drawable="sspai"/>
+    <item drawable="ssxs"/>
     <item drawable="starfish"/>
     <item drawable="steam"/>
     <item drawable="steam_go"/>
@@ -1369,6 +1386,7 @@
     <item drawable="tencent_news_lite"/>
     <item drawable="tencent_nijigen"/>
     <item drawable="tencent_nntg"/>
+    <item drawable="tencent_omapp"/>
     <item drawable="tencent_peng"/>
     <item drawable="tencent_portfolio"/>
     <item drawable="tencent_pubgmhd"/>
@@ -1615,6 +1633,7 @@
     <item drawable="zaker"/>
     <item drawable="zarchiver"/>
     <item drawable="zarchiver_pro"/>
+    <item drawable="zhangyu"/>
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>

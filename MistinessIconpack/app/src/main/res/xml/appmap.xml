@@ -7831,7 +7831,7 @@
 
     <item
         class="com.baidu.appsearch.SplashActivity"
-        name="baidu.appsearch"/>
+        name="baidu_appsearch"/>
 
     <item
         class="com.suma.gztong.activity.WelcomeActivity"
@@ -7940,5 +7940,129 @@
     <item
         class="com.android.browser.BrowserActivity"
         name="browser"/>
+
+    <item
+        class="net.sanukin.OverrideUnityActivity"
+        name="my_adorable_cats"/>
+
+    <item
+        class="com.mubu.app.MainActivity"
+        name="mubu"/>
+
+    <item
+        class="com.imooc.component.imoocmain.splash.MCSplashActivity"
+        name="mooc"/>
+
+    <item
+        class="com.tencent.omapp.ui.activity.SplashActivity"
+        name="tencent_omapp"/>
+
+    <item
+        class="com.nextreaming.nexeditorui.MainActivity"
+        name="kinemaster"/>
+
+    <item
+        class="com.dede.sonimei.module.home.MainActivity"
+        name="sonimei"/>
+
+    <item
+        class="com.duoduvip.sfnovel.ui.activity.SplashActivity"
+        name="sfnovel"/>
+
+    <item
+        class="com.synology.assistant.ui.activity.SplashActivity"
+        name="ds_finder"/>
+
+    <item
+        class="com.sitech.oncon.activity.LoadingActivity"
+        name="cmcc_shanxi"/>
+
+    <item
+        class="com.jy.sptcc.ui.StartActivity"
+        name="sptcc"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="sheyingbiji"/>
+
+    <item
+        class="cn.soloho.oraclebb.view.SplashActivity"
+        name="ssxs"/>
+
+    <item
+        class="com.myth.shishi.activity.MainActivity"
+        name="shishi"/>
+
+    <item
+        class="com.candydiary.dawn.ui.MainActivity"
+        name="candydiary_dawn"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.yinhan.nsdk.ysdk.v1_4_5.YSDKSplActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.netease.betastudio.NtBetaStartActivity"
+        name="netease_pes"/>
+
+    <item
+        class="com.bet007.mobile.score.activity.main.SplashScreenActivity"
+        name="bet007"/>
+
+    <item
+        class="com.zhangyu.activity.ZYTVWelcomeActivity"
+        name="zhangyu"/>
+
+    <item
+        class="cn.ctcms.amj.activity.main.SplashActivity"
+        name="amj"/>
+
+    <item
+        class="main.smart.activity.InitActivity"
+        name="fcgj"/>
+
+    <item
+        class="com.netease.nr.biz.ad.newAd.AdActivity"
+        name="netease_news"/>
 
 </appmap>

@@ -8020,7 +8020,7 @@
 
     <item
         component="ComponentInfo{com.baidu.appsearch/com.baidu.appsearch.SplashActivity}"
-        drawable="baidu.appsearch"/>
+        drawable="baidu_appsearch"/>
 
     <item
         component="ComponentInfo{com.suma.baoditong/com.suma.gztong.activity.WelcomeActivity}"
@@ -8129,5 +8129,129 @@
     <item
         component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}"
         drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.game.kkiruk.myadorablecats/net.sanukin.OverrideUnityActivity}"
+        drawable="my_adorable_cats"/>
+
+    <item
+        component="ComponentInfo{com.mubu.app/com.mubu.app.MainActivity}"
+        drawable="mubu"/>
+
+    <item
+        component="ComponentInfo{cn.com.open.mooc/com.imooc.component.imoocmain.splash.MCSplashActivity}"
+        drawable="mooc"/>
+
+    <item
+        component="ComponentInfo{com.tencent.omapp/com.tencent.omapp.ui.activity.SplashActivity}"
+        drawable="tencent_omapp"/>
+
+    <item
+        component="ComponentInfo{com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity}"
+        drawable="kinemaster"/>
+
+    <item
+        component="ComponentInfo{com.dede.sonimei/com.dede.sonimei.module.home.MainActivity}"
+        drawable="sonimei"/>
+
+    <item
+        component="ComponentInfo{com.duoduvip.sfnovel/com.duoduvip.sfnovel.ui.activity.SplashActivity}"
+        drawable="sfnovel"/>
+
+    <item
+        component="ComponentInfo{com.synology.DSfinder/com.synology.assistant.ui.activity.SplashActivity}"
+        drawable="ds_finder"/>
+
+    <item
+        component="ComponentInfo{com.sitech.sx.wxcs/com.sitech.oncon.activity.LoadingActivity}"
+        drawable="cmcc_shanxi"/>
+
+    <item
+        component="ComponentInfo{com.jiuyu.sptcc.cordova/com.jy.sptcc.ui.StartActivity}"
+        drawable="sptcc"/>
+
+    <item
+        component="ComponentInfo{com.sheyingbiji/com.androlua.Welcome}"
+        drawable="sheyingbiji"/>
+
+    <item
+        component="ComponentInfo{cn.soloho.oraclebb/cn.soloho.oraclebb.view.SplashActivity}"
+        drawable="ssxs"/>
+
+    <item
+        component="ComponentInfo{com.myth.shishi/com.myth.shishi.activity.MainActivity}"
+        drawable="shishi"/>
+
+    <item
+        component="ComponentInfo{com.candydiary.dawn/com.candydiary.dawn.ui.MainActivity}"
+        drawable="candydiary_dawn"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.m4399/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.nearme.gamecenter/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.uc/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.vivo/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.aligames/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.baidu/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.huawei/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.lenovo/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.qihoo/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.yongyong.skzq/com.yinhan.nsdk.ysdk.v1_4_5.YSDKSplActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.netease.pes.mi/com.netease.betastudio.NtBetaStartActivity}"
+        drawable="netease_pes"/>
+
+    <item
+        component="ComponentInfo{com.bet007.mobile.score/com.bet007.mobile.score.activity.main.SplashScreenActivity}"
+        drawable="bet007"/>
+
+    <item
+        component="ComponentInfo{com.zhangyu/com.zhangyu.activity.ZYTVWelcomeActivity}"
+        drawable="zhangyu"/>
+
+    <item
+        component="ComponentInfo{cn.ctcms.amj/cn.ctcms.amj.activity.main.SplashActivity}"
+        drawable="amj"/>
+
+    <item
+        component="ComponentInfo{main.smart.fcgj/main.smart.activity.InitActivity}"
+        drawable="fcgj"/>
+
+    <item
+        component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity}"
+        drawable="netease_news"/>
 
 </resources>

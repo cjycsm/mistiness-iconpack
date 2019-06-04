@@ -7945,7 +7945,7 @@
 
     <AppIcon
         name="com.baidu.appsearch/com.baidu.appsearch.SplashActivity"
-        image="baidu.appsearch"/>
+        image="baidu_appsearch"/>
 
     <AppIcon
         name="com.suma.baoditong/com.suma.gztong.activity.WelcomeActivity"
@@ -8054,5 +8054,129 @@
     <AppIcon
         name="com.nearme.browser/com.android.browser.BrowserActivity"
         image="browser"/>
+
+    <AppIcon
+        name="com.game.kkiruk.myadorablecats/net.sanukin.OverrideUnityActivity"
+        image="my_adorable_cats"/>
+
+    <AppIcon
+        name="com.mubu.app/com.mubu.app.MainActivity"
+        image="mubu"/>
+
+    <AppIcon
+        name="cn.com.open.mooc/com.imooc.component.imoocmain.splash.MCSplashActivity"
+        image="mooc"/>
+
+    <AppIcon
+        name="com.tencent.omapp/com.tencent.omapp.ui.activity.SplashActivity"
+        image="tencent_omapp"/>
+
+    <AppIcon
+        name="com.nexstreaming.app.kinemasterfree/com.nextreaming.nexeditorui.MainActivity"
+        image="kinemaster"/>
+
+    <AppIcon
+        name="com.dede.sonimei/com.dede.sonimei.module.home.MainActivity"
+        image="sonimei"/>
+
+    <AppIcon
+        name="com.duoduvip.sfnovel/com.duoduvip.sfnovel.ui.activity.SplashActivity"
+        image="sfnovel"/>
+
+    <AppIcon
+        name="com.synology.DSfinder/com.synology.assistant.ui.activity.SplashActivity"
+        image="ds_finder"/>
+
+    <AppIcon
+        name="com.sitech.sx.wxcs/com.sitech.oncon.activity.LoadingActivity"
+        image="cmcc_shanxi"/>
+
+    <AppIcon
+        name="com.jiuyu.sptcc.cordova/com.jy.sptcc.ui.StartActivity"
+        image="sptcc"/>
+
+    <AppIcon
+        name="com.sheyingbiji/com.androlua.Welcome"
+        image="sheyingbiji"/>
+
+    <AppIcon
+        name="cn.soloho.oraclebb/cn.soloho.oraclebb.view.SplashActivity"
+        image="ssxs"/>
+
+    <AppIcon
+        name="com.myth.shishi/com.myth.shishi.activity.MainActivity"
+        image="shishi"/>
+
+    <AppIcon
+        name="com.candydiary.dawn/com.candydiary.dawn.ui.MainActivity"
+        image="candydiary_dawn"/>
+
+    <AppIcon
+        name="com.netease.pes.m4399/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.nearme.gamecenter/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.uc/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.vivo/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.aligames/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.baidu/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.huawei/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.lenovo/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.qihoo/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.yongyong.skzq/com.yinhan.nsdk.ysdk.v1_4_5.YSDKSplActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.netease.pes.mi/com.netease.betastudio.NtBetaStartActivity"
+        image="netease_pes"/>
+
+    <AppIcon
+        name="com.bet007.mobile.score/com.bet007.mobile.score.activity.main.SplashScreenActivity"
+        image="bet007"/>
+
+    <AppIcon
+        name="com.zhangyu/com.zhangyu.activity.ZYTVWelcomeActivity"
+        image="zhangyu"/>
+
+    <AppIcon
+        name="cn.ctcms.amj/cn.ctcms.amj.activity.main.SplashActivity"
+        image="amj"/>
+
+    <AppIcon
+        name="main.smart.fcgj/main.smart.activity.InitActivity"
+        image="fcgj"/>
+
+    <AppIcon
+        name="com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity"
+        image="netease_news"/>
 
 </Theme>
