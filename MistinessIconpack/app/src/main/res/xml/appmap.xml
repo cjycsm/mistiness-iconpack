@@ -8065,4 +8065,104 @@
         class="com.netease.nr.biz.ad.newAd.AdActivity"
         name="netease_news"/>
 
+    <item
+        class="cn.vbill.operations.ad.StartUpAdvertisementActivity"
+        name="vbill_plus"/>
+
+    <item
+        class="com.jy.taofanfan.ui.WelcomeActivity"
+        name="taofanfan"/>
+
+    <item
+        class="com.leixun.taofen8.module.load.LoadActivity"
+        name="taofun8"/>
+
+    <item
+        class="com.tencent.now.app.startup.LauncherActivity"
+        name="tencent_now"/>
+
+    <item
+        class="com.eastmoney.android.fund.activity.FundSplashActivity"
+        name="eastmoney_fund"/>
+
+    <item
+        class="com.ataaw.tianyi.MainActivity"
+        name="tianyi"/>
+
+    <item
+        class="com.osfans.trime.Pref"
+        name="trime"/>
+
+    <item
+        class="com.yaerin.daily_pics.MainActivity"
+        name="tujian_r"/>
+
+    <item
+        class="com.towords.LaunchActivity"
+        name="towords"/>
+
+    <item
+        class="com.onething.minecloud.ui.main.boot.BootActivity"
+        name="onething_cloud"/>
+
+    <item
+        class="com.wandafilm.app.activity.MainActivity"
+        name="wandafilm"/>
+
+    <item
+        class="com.tencent.af.AFActivity"
+        name="tencent_af"/>
+
+    <item
+        class="com.qingqi.dianbo.main.view.SplashActivity"
+        name="qingqi_dianbo"/>
+
+    <item
+        class="com.weimi.mzg.ws.module.login.SplashActivity"
+        name="wenshen"/>
+
+    <item
+        class="com.hoperun.intelligenceportal_extends.LeaderLoginPreActivity"
+        name="nanjing"/>
+
+    <item
+        class="com.mx.accessibilitycontroller.ui.activity.MainActivity"
+        name="accessibility"/>
+
+    <item
+        class="com.tencent.gallerymanager.ui.main.splash.SplashActivity"
+        name="tencent_gallery_manager"/>
+
+    <item
+        class="com.dandelion.routine.activity.SplashActivity"
+        name="routine"/>
+
+    <item
+        class="com.hue.xiaofindbook.MainActivity"
+        name="xiaofindbook"/>
+
+    <item
+        class="com.dianping.movieheaven.activity.SplashActivity"
+        name="movie_heaven"/>
+
+    <item
+        class="com.sina.sinablog.ui.SplashActivity"
+        name="sinablog"/>
+
+    <item
+        class="com.starbucks.cn.ui.LauncherActivity"
+        name="starbucks"/>
+
+    <item
+        class="com.digitalextremes.warframenexus.WarframeActivity"
+        name="warframe"/>
+
+    <item
+        class="com.wenba.bangbang.activity.CoverActivity"
+        name="xueba"/>
+
+    <item
+        class="one.hh.oneclient.activitys.OneClient"
+        name="one"/>
+
 </appmap>

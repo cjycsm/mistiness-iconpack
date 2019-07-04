@@ -8179,4 +8179,104 @@
         name="com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity"
         image="netease_news"/>
 
+    <AppIcon
+        name="com.vbill.shoushua.biz/cn.vbill.operations.ad.StartUpAdvertisementActivity"
+        image="vbill_plus"/>
+
+    <AppIcon
+        name="com.jy.taofanfan/com.jy.taofanfan.ui.WelcomeActivity"
+        image="taofanfan"/>
+
+    <AppIcon
+        name="com.leixun.taofen8/com.leixun.taofen8.module.load.LoadActivity"
+        image="taofun8"/>
+
+    <AppIcon
+        name="com.tencent.now/com.tencent.now.app.startup.LauncherActivity"
+        image="tencent_now"/>
+
+    <AppIcon
+        name="com.eastmoney.android.fund/com.eastmoney.android.fund.activity.FundSplashActivity"
+        image="eastmoney_fund"/>
+
+    <AppIcon
+        name="com.ataaw.tianyi/com.ataaw.tianyi.MainActivity"
+        image="tianyi"/>
+
+    <AppIcon
+        name="com.osfans.trime/com.osfans.trime.Pref"
+        image="trime"/>
+
+    <AppIcon
+        name="ml.cerasus.pics.g/com.yaerin.daily_pics.MainActivity"
+        image="tujian_r"/>
+
+    <AppIcon
+        name="com.towords/com.towords.LaunchActivity"
+        image="towords"/>
+
+    <AppIcon
+        name="com.onething.minecloud/com.onething.minecloud.ui.main.boot.BootActivity"
+        image="onething_cloud"/>
+
+    <AppIcon
+        name="com.wandafilm.app/com.wandafilm.app.activity.MainActivity"
+        image="wandafilm"/>
+
+    <AppIcon
+        name="com.tencent.af/com.tencent.af.AFActivity"
+        image="tencent_af"/>
+
+    <AppIcon
+        name="com.qingqi.dianbo/com.qingqi.dianbo.main.view.SplashActivity"
+        image="qingqi_dianbo"/>
+
+    <AppIcon
+        name="com.weimi.mzg.ws/com.weimi.mzg.ws.module.login.SplashActivity"
+        image="wenshen"/>
+
+    <AppIcon
+        name="com.hoperun.intelligenceportal/com.hoperun.intelligenceportal_extends.LeaderLoginPreActivity"
+        image="nanjing"/>
+
+    <AppIcon
+        name="com.mx.accessibilitycontroller/com.mx.accessibilitycontroller.ui.activity.MainActivity"
+        image="accessibility"/>
+
+    <AppIcon
+        name="com.tencent.gallerymanager/com.tencent.gallerymanager.ui.main.splash.SplashActivity"
+        image="tencent_gallery_manager"/>
+
+    <AppIcon
+        name="com.dandelion.routine/com.dandelion.routine.activity.SplashActivity"
+        image="routine"/>
+
+    <AppIcon
+        name="com.hue.xiaofindbook/com.hue.xiaofindbook.MainActivity"
+        image="xiaofindbook"/>
+
+    <AppIcon
+        name="com.ghost.movieheaven/com.dianping.movieheaven.activity.SplashActivity"
+        image="movie_heaven"/>
+
+    <AppIcon
+        name="com.sina.sinablog/com.sina.sinablog.ui.SplashActivity"
+        image="sinablog"/>
+
+    <AppIcon
+        name="com.starbucks.cn/com.starbucks.cn.ui.LauncherActivity"
+        image="starbucks"/>
+
+    <AppIcon
+        name="com.digitalextremes.warframenexus/com.digitalextremes.warframenexus.WarframeActivity"
+        image="warframe"/>
+
+    <AppIcon
+        name="com.wenba.bangbang/com.wenba.bangbang.activity.CoverActivity"
+        image="xueba"/>
+
+    <AppIcon
+        name="one.hh.oneclient/one.hh.oneclient.activitys.OneClient"
+        image="one"/>
+
 </Theme>

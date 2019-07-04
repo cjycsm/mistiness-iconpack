@@ -58,25 +58,31 @@
     </string-array>
 
     <string-array name="newest">
-        <item>mubu</item>
-        <item>mooc</item>
-        <item>tencent_omapp</item>
-        <item>kinemaster</item>
-        <item>sonimei</item>
-        <item>sfnovel</item>
-        <item>ds_finder</item>
-        <item>cmcc_shanxi</item>
-        <item>sptcc</item>
-        <item>sheyingbiji</item>
-        <item>ssxs</item>
-        <item>shishi</item>
-        <item>candydiary_dawn</item>
-        <item>bet007</item>
-        <item>zhangyu</item>
-        <item>amj</item>
-        <item>fcgj</item>
-        <item>my_adorable_cats</item>
-        <item>netease_pes</item>
+        <item>vbill_plus</item>
+        <item>taofanfan</item>
+        <item>taofun8</item>
+        <item>tencent_now</item>
+        <item>eastmoney_fund</item>
+        <item>tianyi</item>
+        <item>trime</item>
+        <item>tujian_r</item>
+        <item>towords</item>
+        <item>onething_cloud</item>
+        <item>wandafilm</item>
+        <item>qingqi_dianbo</item>
+        <item>wenshen</item>
+        <item>nanjing</item>
+        <item>accessibility</item>
+        <item>tencent_gallery_manager</item>
+        <item>routine</item>
+        <item>xiaofindbook</item>
+        <item>movie_heaven</item>
+        <item>sinablog</item>
+        <item>starbucks</item>
+        <item>xueba</item>
+        <item>one</item>
+        <item>tencent_af</item>
+        <item>warframe</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1491,6 +1497,29 @@
         <item>zhangyu</item>
         <item>amj</item>
         <item>fcgj</item>
+        <item>vbill_plus</item>
+        <item>taofanfan</item>
+        <item>taofun8</item>
+        <item>tencent_now</item>
+        <item>eastmoney_fund</item>
+        <item>tianyi</item>
+        <item>trime</item>
+        <item>tujian_r</item>
+        <item>towords</item>
+        <item>onething_cloud</item>
+        <item>wandafilm</item>
+        <item>qingqi_dianbo</item>
+        <item>wenshen</item>
+        <item>nanjing</item>
+        <item>accessibility</item>
+        <item>tencent_gallery_manager</item>
+        <item>routine</item>
+        <item>xiaofindbook</item>
+        <item>movie_heaven</item>
+        <item>sinablog</item>
+        <item>starbucks</item>
+        <item>xueba</item>
+        <item>one</item>
     </string-array>
 
     <string-array name="game">
@@ -1572,6 +1601,8 @@
         <item>tencent_clover</item>
         <item>my_adorable_cats</item>
         <item>netease_pes</item>
+        <item>tencent_af</item>
+        <item>warframe</item>
     </string-array>
 
     <string-array name="basic">

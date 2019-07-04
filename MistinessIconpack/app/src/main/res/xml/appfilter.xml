@@ -8254,4 +8254,104 @@
         component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity}"
         drawable="netease_news"/>
 
+    <item
+        component="ComponentInfo{com.vbill.shoushua.biz/cn.vbill.operations.ad.StartUpAdvertisementActivity}"
+        drawable="vbill_plus"/>
+
+    <item
+        component="ComponentInfo{com.jy.taofanfan/com.jy.taofanfan.ui.WelcomeActivity}"
+        drawable="taofanfan"/>
+
+    <item
+        component="ComponentInfo{com.leixun.taofen8/com.leixun.taofen8.module.load.LoadActivity}"
+        drawable="taofun8"/>
+
+    <item
+        component="ComponentInfo{com.tencent.now/com.tencent.now.app.startup.LauncherActivity}"
+        drawable="tencent_now"/>
+
+    <item
+        component="ComponentInfo{com.eastmoney.android.fund/com.eastmoney.android.fund.activity.FundSplashActivity}"
+        drawable="eastmoney_fund"/>
+
+    <item
+        component="ComponentInfo{com.ataaw.tianyi/com.ataaw.tianyi.MainActivity}"
+        drawable="tianyi"/>
+
+    <item
+        component="ComponentInfo{com.osfans.trime/com.osfans.trime.Pref}"
+        drawable="trime"/>
+
+    <item
+        component="ComponentInfo{ml.cerasus.pics.g/com.yaerin.daily_pics.MainActivity}"
+        drawable="tujian_r"/>
+
+    <item
+        component="ComponentInfo{com.towords/com.towords.LaunchActivity}"
+        drawable="towords"/>
+
+    <item
+        component="ComponentInfo{com.onething.minecloud/com.onething.minecloud.ui.main.boot.BootActivity}"
+        drawable="onething_cloud"/>
+
+    <item
+        component="ComponentInfo{com.wandafilm.app/com.wandafilm.app.activity.MainActivity}"
+        drawable="wandafilm"/>
+
+    <item
+        component="ComponentInfo{com.tencent.af/com.tencent.af.AFActivity}"
+        drawable="tencent_af"/>
+
+    <item
+        component="ComponentInfo{com.qingqi.dianbo/com.qingqi.dianbo.main.view.SplashActivity}"
+        drawable="qingqi_dianbo"/>
+
+    <item
+        component="ComponentInfo{com.weimi.mzg.ws/com.weimi.mzg.ws.module.login.SplashActivity}"
+        drawable="wenshen"/>
+
+    <item
+        component="ComponentInfo{com.hoperun.intelligenceportal/com.hoperun.intelligenceportal_extends.LeaderLoginPreActivity}"
+        drawable="nanjing"/>
+
+    <item
+        component="ComponentInfo{com.mx.accessibilitycontroller/com.mx.accessibilitycontroller.ui.activity.MainActivity}"
+        drawable="accessibility"/>
+
+    <item
+        component="ComponentInfo{com.tencent.gallerymanager/com.tencent.gallerymanager.ui.main.splash.SplashActivity}"
+        drawable="tencent_gallery_manager"/>
+
+    <item
+        component="ComponentInfo{com.dandelion.routine/com.dandelion.routine.activity.SplashActivity}"
+        drawable="routine"/>
+
+    <item
+        component="ComponentInfo{com.hue.xiaofindbook/com.hue.xiaofindbook.MainActivity}"
+        drawable="xiaofindbook"/>
+
+    <item
+        component="ComponentInfo{com.ghost.movieheaven/com.dianping.movieheaven.activity.SplashActivity}"
+        drawable="movie_heaven"/>
+
+    <item
+        component="ComponentInfo{com.sina.sinablog/com.sina.sinablog.ui.SplashActivity}"
+        drawable="sinablog"/>
+
+    <item
+        component="ComponentInfo{com.starbucks.cn/com.starbucks.cn.ui.LauncherActivity}"
+        drawable="starbucks"/>
+
+    <item
+        component="ComponentInfo{com.digitalextremes.warframenexus/com.digitalextremes.warframenexus.WarframeActivity}"
+        drawable="warframe"/>
+
+    <item
+        component="ComponentInfo{com.wenba.bangbang/com.wenba.bangbang.activity.CoverActivity}"
+        drawable="xueba"/>
+
+    <item
+        component="ComponentInfo{one.hh.oneclient/one.hh.oneclient.activitys.OneClient}"
+        drawable="one"/>
+
 </resources>

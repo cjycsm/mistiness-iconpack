@@ -19,11 +19,12 @@
   -->
 
 <resources>
-    <version>95</version>
+    <version>96</version>
 
     <category title="All"/>
     <item drawable="abc"/>
     <item drawable="abi"/>
+    <item drawable="accessibility"/>
     <item drawable="account"/>
     <item drawable="accubattery"/>
     <item drawable="acfun"/>
@@ -394,6 +395,7 @@
     <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
     <item drawable="eastmoney"/>
+    <item drawable="eastmoney_fund"/>
     <item drawable="easy_memory_cleaner"/>
     <item drawable="ebay"/>
     <item drawable="ecalendar"/>
@@ -914,6 +916,7 @@
     <item drawable="motoband"/>
     <item drawable="motoband_alt"/>
     <item drawable="mouse"/>
+    <item drawable="movie_heaven"/>
     <item drawable="moviefans"/>
     <item drawable="mpos"/>
     <item drawable="mqme"/>
@@ -941,6 +944,7 @@
     <item drawable="mysplash"/>
     <item drawable="mysplash_alt"/>
     <item drawable="myweather"/>
+    <item drawable="nanjing"/>
     <item drawable="nature_iconpack"/>
     <item drawable="nba2k19"/>
     <item drawable="neat_reader"/>
@@ -1000,6 +1004,7 @@
     <item drawable="ofo"/>
     <item drawable="olapay"/>
     <item drawable="oled_saver"/>
+    <item drawable="one"/>
     <item drawable="one_diary"/>
     <item drawable="one_tomato"/>
     <item drawable="onepassword"/>
@@ -1011,6 +1016,7 @@
     <item drawable="oneplus_pro"/>
     <item drawable="onetake"/>
     <item drawable="onetake_alt"/>
+    <item drawable="onething_cloud"/>
     <item drawable="onmyoji"/>
     <item drawable="op_gg"/>
     <item drawable="openhub"/>
@@ -1116,6 +1122,7 @@
     <item drawable="qihoo_contents"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qihu_browser"/>
+    <item drawable="qingqi_dianbo"/>
     <item drawable="qingting_radio"/>
     <item drawable="qq"/>
     <item drawable="qq_browser"/>
@@ -1167,6 +1174,7 @@
     <item drawable="rosi"/>
     <item drawable="rotation"/>
     <item drawable="round_corner"/>
+    <item drawable="routine"/>
     <item drawable="rr_icon"/>
     <item drawable="rrmj"/>
     <item drawable="ruler"/>
@@ -1238,6 +1246,7 @@
     <item drawable="simcity"/>
     <item drawable="sims_freeplay"/>
     <item drawable="sina_news"/>
+    <item drawable="sinablog"/>
     <item drawable="sing_client"/>
     <item drawable="sinopec"/>
     <item drawable="sjgjj"/>
@@ -1297,6 +1306,7 @@
     <item drawable="ssly"/>
     <item drawable="sspai"/>
     <item drawable="ssxs"/>
+    <item drawable="starbucks"/>
     <item drawable="starfish"/>
     <item drawable="steam"/>
     <item drawable="steam_go"/>
@@ -1336,6 +1346,8 @@
     <item drawable="taobao_movie"/>
     <item drawable="taobao_qianniu"/>
     <item drawable="taobao_trip"/>
+    <item drawable="taofanfan"/>
+    <item drawable="taofun8"/>
     <item drawable="taomao"/>
     <item drawable="taomix2"/>
     <item drawable="taptap"/>
@@ -1356,6 +1368,7 @@
     <item drawable="telegreat_x"/>
     <item drawable="teleplus"/>
     <item drawable="tencent_ac"/>
+    <item drawable="tencent_af"/>
     <item drawable="tencent_blackkey"/>
     <item drawable="tencent_blackkey_alt"/>
     <item drawable="tencent_carrot3"/>
@@ -1367,6 +1380,7 @@
     <item drawable="tencent_eim_alt"/>
     <item drawable="tencent_filemanager_new"/>
     <item drawable="tencent_filemanager_old"/>
+    <item drawable="tencent_gallery_manager"/>
     <item drawable="tencent_gamehelper_pg"/>
     <item drawable="tencent_gamehelper_smoba"/>
     <item drawable="tencent_gamehelper_smoba_alt"/>
@@ -1386,6 +1400,7 @@
     <item drawable="tencent_news_lite"/>
     <item drawable="tencent_nijigen"/>
     <item drawable="tencent_nntg"/>
+    <item drawable="tencent_now"/>
     <item drawable="tencent_omapp"/>
     <item drawable="tencent_peng"/>
     <item drawable="tencent_portfolio"/>
@@ -1421,6 +1436,7 @@
     <item drawable="thestore"/>
     <item drawable="thunder_vpn"/>
     <item drawable="tianqitong"/>
+    <item drawable="tianyi"/>
     <item drawable="ticktick_task"/>
     <item drawable="tide"/>
     <item drawable="tieba_lite"/>
@@ -1443,13 +1459,16 @@
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
     <item drawable="total_launcher"/>
+    <item drawable="towords"/>
     <item drawable="toxic"/>
     <item drawable="tplink"/>
     <item drawable="trace"/>
     <item drawable="transparent_wallpaper"/>
+    <item drawable="trime"/>
     <item drawable="tripadvisor"/>
     <item drawable="ttpic"/>
     <item drawable="tuicool"/>
+    <item drawable="tujian_r"/>
     <item drawable="tumblr"/>
     <item drawable="tumblr_alt"/>
     <item drawable="turbovpn"/>
@@ -1474,6 +1493,7 @@
     <item drawable="v2ray_ang_alt"/>
     <item drawable="va_exposed"/>
     <item drawable="vainglory"/>
+    <item drawable="vbill_plus"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="video_downloader_for_instagram"/>
@@ -1501,10 +1521,12 @@
     <item drawable="wallet"/>
     <item drawable="walli"/>
     <item drawable="wallpaper"/>
+    <item drawable="wandafilm"/>
     <item drawable="wandoujia"/>
     <item drawable="wandoujia_ripple"/>
     <item drawable="wandoujia_ripple_alt"/>
     <item drawable="wangxin"/>
+    <item drawable="warframe"/>
     <item drawable="waw"/>
     <item drawable="wbus"/>
     <item drawable="weather"/>
@@ -1519,6 +1541,7 @@
     <item drawable="weihaibus"/>
     <item drawable="weizhangpu"/>
     <item drawable="welike"/>
+    <item drawable="wenshen"/>
     <item drawable="weread"/>
     <item drawable="whale_movie"/>
     <item drawable="whatsapp"/>
@@ -1558,6 +1581,7 @@
     <item drawable="xianchangyun"/>
     <item drawable="xianchangyun_alt"/>
     <item drawable="xiaoenai"/>
+    <item drawable="xiaofindbook"/>
     <item drawable="xiaoheihe"/>
     <item drawable="xiaoheihe_alt"/>
     <item drawable="xiaoji_emulator"/>
@@ -1591,6 +1615,7 @@
     <item drawable="xposed_installer_alt1"/>
     <item drawable="xposed_installer_alt2"/>
     <item drawable="xposed_installer_alt3"/>
+    <item drawable="xueba"/>
     <item drawable="xueqiu"/>
     <item drawable="xuexi"/>
     <item drawable="xuexitong"/>
