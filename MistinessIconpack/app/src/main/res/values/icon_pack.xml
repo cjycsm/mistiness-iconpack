@@ -58,31 +58,27 @@
     </string-array>
 
     <string-array name="newest">
-        <item>vbill_plus</item>
-        <item>taofanfan</item>
-        <item>taofun8</item>
-        <item>tencent_now</item>
-        <item>eastmoney_fund</item>
-        <item>tianyi</item>
-        <item>trime</item>
-        <item>tujian_r</item>
-        <item>towords</item>
-        <item>onething_cloud</item>
-        <item>wandafilm</item>
-        <item>qingqi_dianbo</item>
-        <item>wenshen</item>
-        <item>nanjing</item>
-        <item>accessibility</item>
-        <item>tencent_gallery_manager</item>
-        <item>routine</item>
-        <item>xiaofindbook</item>
-        <item>movie_heaven</item>
-        <item>sinablog</item>
-        <item>starbucks</item>
-        <item>xueba</item>
-        <item>one</item>
-        <item>tencent_af</item>
-        <item>warframe</item>
+        <item>youku_huawei</item>
+        <item>easymark</item>
+        <item>xintuyun</item>
+        <item>liuliu_music</item>
+        <item>ybjk</item>
+        <item>cantonese</item>
+        <item>yuncanmou</item>
+        <item>battle_net</item>
+        <item>college</item>
+        <item>sgcc</item>
+        <item>zhengzhouxing</item>
+        <item>zzbank</item>
+        <item>nj_citizen_card</item>
+        <item>china_weather</item>
+        <item>cqns_bank</item>
+        <item>torment_news</item>
+        <item>zjrcb</item>
+        <item>tencent_gwgo</item>
+        <item>ygomobile</item>
+        <item>fff</item>
+        <item>autochess</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1520,6 +1516,22 @@
         <item>starbucks</item>
         <item>xueba</item>
         <item>one</item>
+        <item>easymark</item>
+        <item>xintuyun</item>
+        <item>liuliu_music</item>
+        <item>ybjk</item>
+        <item>cantonese</item>
+        <item>yuncanmou</item>
+        <item>battle_net</item>
+        <item>college</item>
+        <item>sgcc</item>
+        <item>zhengzhouxing</item>
+        <item>zzbank</item>
+        <item>nj_citizen_card</item>
+        <item>china_weather</item>
+        <item>cqns_bank</item>
+        <item>torment_news</item>
+        <item>zjrcb</item>
     </string-array>
 
     <string-array name="game">
@@ -1603,6 +1615,10 @@
         <item>netease_pes</item>
         <item>tencent_af</item>
         <item>warframe</item>
+        <item>tencent_gwgo</item>
+        <item>ygomobile</item>
+        <item>fff</item>
+        <item>autochess</item>
     </string-array>
 
     <string-array name="basic">
@@ -1732,6 +1748,7 @@
         <item>huawei_cloud</item>
         <item>huawei_smarthome</item>
         <item>huawei_3d_live_maker</item>
+        <item>youku_huawei</item>
     </string-array>
 
     <string-array name="nokia">

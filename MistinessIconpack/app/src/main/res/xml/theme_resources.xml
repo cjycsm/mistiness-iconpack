@@ -8279,4 +8279,128 @@
         name="one.hh.oneclient/one.hh.oneclient.activitys.OneClient"
         image="one"/>
 
+    <AppIcon
+        name="com.tencent.gwgo/com.tencent.gwgo.activity.MainActivity"
+        image="tencent_gwgo"/>
+
+    <AppIcon
+        name="me.tshine.easymark/me.tshine.easymark.activity.SplashActivity"
+        image="easymark"/>
+
+    <AppIcon
+        name="com.xintuyun/com.rm.bus100.activity.Splash2Activity"
+        image="xintuyun"/>
+
+    <AppIcon
+        name="io.liuliu.music/io.liuliu.music.login.splash.SplashActivity"
+        image="liuliu_music"/>
+
+    <AppIcon
+        name="com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity"
+        image="youku_huawei"/>
+
+    <AppIcon
+        name="cn.garymb.ygomobile/cn.garymb.ygomobile.ui.activities.LogoActivity"
+        image="ygomobile"/>
+
+    <AppIcon
+        name="com.runbey.ybjk/com.runbey.ybjk.WelcomeActivity"
+        image="ybjk"/>
+
+    <AppIcon
+        name="com.sjtu.chenzhongpu.cantonese/com.sjtu.chenzhongpu.cantonese.MainActivity"
+        image="cantonese"/>
+
+    <AppIcon
+        name="com.yw.hansong/com.yw.hansong.activity.Loading"
+        image="yuncanmou"/>
+
+    <AppIcon
+        name="com.blizzard.messenger/com.blizzard.messenger.ui.SplashActivity"
+        image="battle_net"/>
+
+    <AppIcon
+        name="com.realcloud.loochadroid.college/com.realcloud.u.ui.ActUMain"
+        image="college"/>
+
+    <AppIcon
+        name="com.sgcc.cs/com.sgcc.cs.Guide"
+        image="sgcc"/>
+
+    <AppIcon
+        name="com.tiamaes.zhengzhouxing.activity/com.tiamaes.zhengzhouxing.activity.GuidanceActivity"
+        image="zhengzhouxing"/>
+
+    <AppIcon
+        name="com.zzbank.mobile.bank/com.hundsun.mobile.v3.ui.SplashActivity"
+        image="zzbank"/>
+
+    <AppIcon
+        name="com.weconex.njcitizencard/com.weconex.njcitizencard.ui.LauncherActivity"
+        image="nj_citizen_card"/>
+
+    <AppIcon
+        name="com.hf/com.hf.activitys.WelcomeActivity"
+        image="china_weather"/>
+
+    <AppIcon
+        name="com.magicpoint.mobile.bank/com.froad.bank.module.login.WelcomeActivity"
+        image="cqns_bank"/>
+
+    <AppIcon
+        name="com.torment.news/com.torment.news.ui.NavigationActivity"
+        image="torment_news"/>
+
+    <AppIcon
+        name="com.csii.zijin/com.cloudcore.zjrcb.ui.HomeCdvActivity"
+        image="zjrcb"/>
+
+    <AppIcon
+        name="com.dw.fff/com.dw.Unity.ZxingUnityActivity"
+        image="fff"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.m4399/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.nearme.gamecenter/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.uc/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.vivo/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.aligames/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.baidu/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.ilongyuan.autochess.ly_pre/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.huawei/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.lenovo/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.longyuan.zzq.qihoo/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
+    <AppIcon
+        name="com.ilongyuan.zzq.mi/com.ilongyuan.autochess.impl.CommonMainActivity"
+        image="autochess"/>
+
 </Theme>

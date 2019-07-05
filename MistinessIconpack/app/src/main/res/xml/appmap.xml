@@ -8165,4 +8165,128 @@
         class="one.hh.oneclient.activitys.OneClient"
         name="one"/>
 
+    <item
+        class="com.tencent.gwgo.activity.MainActivity"
+        name="tencent_gwgo"/>
+
+    <item
+        class="me.tshine.easymark.activity.SplashActivity"
+        name="easymark"/>
+
+    <item
+        class="com.rm.bus100.activity.Splash2Activity"
+        name="xintuyun"/>
+
+    <item
+        class="io.liuliu.music.login.splash.SplashActivity"
+        name="liuliu_music"/>
+
+    <item
+        class="com.huawei.hwvplayer.framework.MainActivity"
+        name="youku_huawei"/>
+
+    <item
+        class="cn.garymb.ygomobile.ui.activities.LogoActivity"
+        name="ygomobile"/>
+
+    <item
+        class="com.runbey.ybjk.WelcomeActivity"
+        name="ybjk"/>
+
+    <item
+        class="com.sjtu.chenzhongpu.cantonese.MainActivity"
+        name="cantonese"/>
+
+    <item
+        class="com.yw.hansong.activity.Loading"
+        name="yuncanmou"/>
+
+    <item
+        class="com.blizzard.messenger.ui.SplashActivity"
+        name="battle_net"/>
+
+    <item
+        class="com.realcloud.u.ui.ActUMain"
+        name="college"/>
+
+    <item
+        class="com.sgcc.cs.Guide"
+        name="sgcc"/>
+
+    <item
+        class="com.tiamaes.zhengzhouxing.activity.GuidanceActivity"
+        name="zhengzhouxing"/>
+
+    <item
+        class="com.hundsun.mobile.v3.ui.SplashActivity"
+        name="zzbank"/>
+
+    <item
+        class="com.weconex.njcitizencard.ui.LauncherActivity"
+        name="nj_citizen_card"/>
+
+    <item
+        class="com.hf.activitys.WelcomeActivity"
+        name="china_weather"/>
+
+    <item
+        class="com.froad.bank.module.login.WelcomeActivity"
+        name="cqns_bank"/>
+
+    <item
+        class="com.torment.news.ui.NavigationActivity"
+        name="torment_news"/>
+
+    <item
+        class="com.cloudcore.zjrcb.ui.HomeCdvActivity"
+        name="zjrcb"/>
+
+    <item
+        class="com.dw.Unity.ZxingUnityActivity"
+        name="fff"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
+    <item
+        class="com.ilongyuan.autochess.impl.CommonMainActivity"
+        name="autochess"/>
+
 </appmap>

@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>96</version>
+    <version>97</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -97,6 +97,7 @@
     <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
     <item drawable="auto_js"/>
+    <item drawable="autochess"/>
     <item drawable="autohome"/>
     <item drawable="avbobo"/>
     <item drawable="avgo"/>
@@ -137,6 +138,7 @@
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
     <item drawable="battery_meter"/>
+    <item drawable="battle_net"/>
     <item drawable="bbc_news"/>
     <item drawable="bbk_cloud"/>
     <item drawable="bdrs"/>
@@ -208,6 +210,7 @@
     <item drawable="camera"/>
     <item drawable="camera360"/>
     <item drawable="candydiary_dawn"/>
+    <item drawable="cantonese"/>
     <item drawable="caocao"/>
     <item drawable="caocaokeji"/>
     <item drawable="captive_mgr"/>
@@ -232,6 +235,7 @@
     <item drawable="chengzivr"/>
     <item drawable="china_daily"/>
     <item drawable="china_telecom"/>
+    <item drawable="china_weather"/>
     <item drawable="chinabus"/>
     <item drawable="chinabus_lieche"/>
     <item drawable="chinabus_metor"/>
@@ -286,6 +290,7 @@
     <item drawable="cnvcs_xiangqi"/>
     <item drawable="codoon"/>
     <item drawable="collection"/>
+    <item drawable="college"/>
     <item drawable="color_iconpack"/>
     <item drawable="coloros_bbs"/>
     <item drawable="coloros_familyguard"/>
@@ -316,6 +321,7 @@
     <item drawable="cpu_z"/>
     <item drawable="cpufloat"/>
     <item drawable="cpwxw"/>
+    <item drawable="cqns_bank"/>
     <item drawable="crazy_music"/>
     <item drawable="credit_card_manager"/>
     <item drawable="csdn"/>
@@ -397,6 +403,7 @@
     <item drawable="eastmoney"/>
     <item drawable="eastmoney_fund"/>
     <item drawable="easy_memory_cleaner"/>
+    <item drawable="easymark"/>
     <item drawable="ebay"/>
     <item drawable="ecalendar"/>
     <item drawable="economist"/>
@@ -454,6 +461,7 @@
     <item drawable="fenbi_solar"/>
     <item drawable="feng_news"/>
     <item drawable="fenqile"/>
+    <item drawable="fff"/>
     <item drawable="fiinote"/>
     <item drawable="file_manager"/>
     <item drawable="filmorago"/>
@@ -783,6 +791,7 @@
     <item drawable="linovel"/>
     <item drawable="list"/>
     <item drawable="liulishuo_engzo"/>
+    <item drawable="liuliu_music"/>
     <item drawable="live_visualizer"/>
     <item drawable="lizhifm"/>
     <item drawable="ll_iconpack"/>
@@ -984,6 +993,7 @@
     <item drawable="ninegame"/>
     <item drawable="ninja_must_die_3"/>
     <item drawable="nintendo_switch"/>
+    <item drawable="nj_citizen_card"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
     <item drawable="nongxin"/>
@@ -1213,6 +1223,7 @@
     <item drawable="sf"/>
     <item drawable="sfacg"/>
     <item drawable="sfnovel"/>
+    <item drawable="sgcc"/>
     <item drawable="sgs"/>
     <item drawable="shadowsocks"/>
     <item drawable="shadowsocksr"/>
@@ -1387,6 +1398,7 @@
     <item drawable="tencent_gamehelper_speed"/>
     <item drawable="tencent_gdmj"/>
     <item drawable="tencent_gtclub"/>
+    <item drawable="tencent_gwgo"/>
     <item drawable="tencent_happymj"/>
     <item drawable="tencent_ig"/>
     <item drawable="tencent_ig_alt"/>
@@ -1458,6 +1470,7 @@
     <item drawable="togic_livevideo"/>
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
+    <item drawable="torment_news"/>
     <item drawable="total_launcher"/>
     <item drawable="towords"/>
     <item drawable="toxic"/>
@@ -1610,6 +1623,7 @@
     <item drawable="xingse_alt1"/>
     <item drawable="xingse_alt2"/>
     <item drawable="xingse_alt3"/>
+    <item drawable="xintuyun"/>
     <item drawable="xmind"/>
     <item drawable="xposed_installer"/>
     <item drawable="xposed_installer_alt1"/>
@@ -1624,6 +1638,8 @@
     <item drawable="yahoo_weather"/>
     <item drawable="yandex_browser"/>
     <item drawable="yandong"/>
+    <item drawable="ybjk"/>
+    <item drawable="ygomobile"/>
     <item drawable="yhdzz"/>
     <item drawable="yi_live"/>
     <item drawable="yidaoyongche"/>
@@ -1643,9 +1659,11 @@
     <item drawable="youdao_sw"/>
     <item drawable="youdao_translator"/>
     <item drawable="youku"/>
+    <item drawable="youku_huawei"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
     <item drawable="yuedong_sport"/>
+    <item drawable="yuncanmou"/>
     <item drawable="yunchong_reader"/>
     <item drawable="yunfan"/>
     <item drawable="yunmai_scale"/>
@@ -1659,6 +1677,7 @@
     <item drawable="zarchiver"/>
     <item drawable="zarchiver_pro"/>
     <item drawable="zhangyu"/>
+    <item drawable="zhengzhouxing"/>
     <item drawable="zhibo8"/>
     <item drawable="zhihu"/>
     <item drawable="zhihu_daily"/>
@@ -1671,6 +1690,7 @@
     <item drawable="zhuishushenqi"/>
     <item drawable="zidongdianji"/>
     <item drawable="ziroom"/>
+    <item drawable="zjrcb"/>
     <item drawable="zjwh_physical_fitness"/>
     <item drawable="zlive"/>
     <item drawable="zol"/>
@@ -1684,5 +1704,6 @@
     <item drawable="zxing_barcode_scanner"/>
     <item drawable="zxw51"/>
     <item drawable="zymk"/>
+    <item drawable="zzbank"/>
 
 </resources>

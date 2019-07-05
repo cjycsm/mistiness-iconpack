@@ -8354,4 +8354,128 @@
         component="ComponentInfo{one.hh.oneclient/one.hh.oneclient.activitys.OneClient}"
         drawable="one"/>
 
+    <item
+        component="ComponentInfo{com.tencent.gwgo/com.tencent.gwgo.activity.MainActivity}"
+        drawable="tencent_gwgo"/>
+
+    <item
+        component="ComponentInfo{me.tshine.easymark/me.tshine.easymark.activity.SplashActivity}"
+        drawable="easymark"/>
+
+    <item
+        component="ComponentInfo{com.xintuyun/com.rm.bus100.activity.Splash2Activity}"
+        drawable="xintuyun"/>
+
+    <item
+        component="ComponentInfo{io.liuliu.music/io.liuliu.music.login.splash.SplashActivity}"
+        drawable="liuliu_music"/>
+
+    <item
+        component="ComponentInfo{com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity}"
+        drawable="youku_huawei"/>
+
+    <item
+        component="ComponentInfo{cn.garymb.ygomobile/cn.garymb.ygomobile.ui.activities.LogoActivity}"
+        drawable="ygomobile"/>
+
+    <item
+        component="ComponentInfo{com.runbey.ybjk/com.runbey.ybjk.WelcomeActivity}"
+        drawable="ybjk"/>
+
+    <item
+        component="ComponentInfo{com.sjtu.chenzhongpu.cantonese/com.sjtu.chenzhongpu.cantonese.MainActivity}"
+        drawable="cantonese"/>
+
+    <item
+        component="ComponentInfo{com.yw.hansong/com.yw.hansong.activity.Loading}"
+        drawable="yuncanmou"/>
+
+    <item
+        component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.SplashActivity}"
+        drawable="battle_net"/>
+
+    <item
+        component="ComponentInfo{com.realcloud.loochadroid.college/com.realcloud.u.ui.ActUMain}"
+        drawable="college"/>
+
+    <item
+        component="ComponentInfo{com.sgcc.cs/com.sgcc.cs.Guide}"
+        drawable="sgcc"/>
+
+    <item
+        component="ComponentInfo{com.tiamaes.zhengzhouxing.activity/com.tiamaes.zhengzhouxing.activity.GuidanceActivity}"
+        drawable="zhengzhouxing"/>
+
+    <item
+        component="ComponentInfo{com.zzbank.mobile.bank/com.hundsun.mobile.v3.ui.SplashActivity}"
+        drawable="zzbank"/>
+
+    <item
+        component="ComponentInfo{com.weconex.njcitizencard/com.weconex.njcitizencard.ui.LauncherActivity}"
+        drawable="nj_citizen_card"/>
+
+    <item
+        component="ComponentInfo{com.hf/com.hf.activitys.WelcomeActivity}"
+        drawable="china_weather"/>
+
+    <item
+        component="ComponentInfo{com.magicpoint.mobile.bank/com.froad.bank.module.login.WelcomeActivity}"
+        drawable="cqns_bank"/>
+
+    <item
+        component="ComponentInfo{com.torment.news/com.torment.news.ui.NavigationActivity}"
+        drawable="torment_news"/>
+
+    <item
+        component="ComponentInfo{com.csii.zijin/com.cloudcore.zjrcb.ui.HomeCdvActivity}"
+        drawable="zjrcb"/>
+
+    <item
+        component="ComponentInfo{com.dw.fff/com.dw.Unity.ZxingUnityActivity}"
+        drawable="fff"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.m4399/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.nearme.gamecenter/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.uc/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.vivo/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.aligames/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.baidu/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.ilongyuan.autochess.ly_pre/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.huawei/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.lenovo/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.longyuan.zzq.qihoo/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
+    <item
+        component="ComponentInfo{com.ilongyuan.zzq.mi/com.ilongyuan.autochess.impl.CommonMainActivity}"
+        drawable="autochess"/>
+
 </resources>
