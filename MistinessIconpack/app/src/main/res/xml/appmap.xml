@@ -8289,4 +8289,64 @@
         class="com.ilongyuan.autochess.impl.CommonMainActivity"
         name="autochess"/>
 
+    <item
+        class="com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity"
+        name="adv_scrneen_recorder"/>
+
+    <item
+        class="com.android.development.Development"
+        name="development"/>
+
+    <item
+        class="com.facebook.lite.MainActivity"
+        name="facebook_lite"/>
+
+    <item
+        class="com.deer.vpn.ConfigActivity"
+        name="ghost_vpn"/>
+
+    <item
+        class="com.chimbori.hermitcrab.AdminActivity"
+        name="hermit"/>
+
+    <item
+        class="com.faultexception.reader.MainActivity"
+        name="lithium"/>
+
+    <item
+        class="com.quyin.mprinter.ui.SplashActivity"
+        name="mprinter"/>
+
+    <item
+        class="com.google.android.apps.muzei.MuzeiActivity"
+        name="muzei"/>
+
+    <item
+        class="com.zoho.notebook.activities.NoteBookActivity"
+        name="notebook"/>
+
+    <item
+        class="com.arthurivanets.owly.ui.splash.SplashActivity"
+        name="owly"/>
+
+    <item
+        class="org.ppsspp.ppsspp.PpssppActivity"
+        name="ppsspp"/>
+
+    <item
+        class="xyz.paphonb.quickstepswitcher.MainActivity"
+        name="quick_switcher"/>
+
+    <item
+        class="com.runtastic.android.results.activities.LoginTourActivity"
+        name="results"/>
+
+    <item
+        class="com.slowlyapp.MainActivity"
+        name="slowly"/>
+
+    <item
+        class="viewer.CompleteReaderMainActivity"
+        name="xodo_docs"/>
+
 </appmap>

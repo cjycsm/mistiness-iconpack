@@ -58,27 +58,21 @@
     </string-array>
 
     <string-array name="newest">
-        <item>youku_huawei</item>
-        <item>easymark</item>
-        <item>xintuyun</item>
-        <item>liuliu_music</item>
-        <item>ybjk</item>
-        <item>cantonese</item>
-        <item>yuncanmou</item>
-        <item>battle_net</item>
-        <item>college</item>
-        <item>sgcc</item>
-        <item>zhengzhouxing</item>
-        <item>zzbank</item>
-        <item>nj_citizen_card</item>
-        <item>china_weather</item>
-        <item>cqns_bank</item>
-        <item>torment_news</item>
-        <item>zjrcb</item>
-        <item>tencent_gwgo</item>
-        <item>ygomobile</item>
-        <item>fff</item>
-        <item>autochess</item>
+        <item>adv_scrneen_recorder</item>
+        <item>development</item>
+        <item>facebook_lite</item>
+        <item>ghost_vpn</item>
+        <item>hermit</item>
+        <item>lithium</item>
+        <item>mprinter</item>
+        <item>muzei</item>
+        <item>notebook</item>
+        <item>owly</item>
+        <item>ppsspp</item>
+        <item>quick_switcher</item>
+        <item>results</item>
+        <item>slowly</item>
+        <item>xodo_docs</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1532,6 +1526,21 @@
         <item>cqns_bank</item>
         <item>torment_news</item>
         <item>zjrcb</item>
+        <item>adv_scrneen_recorder</item>
+        <item>development</item>
+        <item>facebook_lite</item>
+        <item>ghost_vpn</item>
+        <item>hermit</item>
+        <item>lithium</item>
+        <item>mprinter</item>
+        <item>muzei</item>
+        <item>notebook</item>
+        <item>owly</item>
+        <item>ppsspp</item>
+        <item>quick_switcher</item>
+        <item>results</item>
+        <item>slowly</item>
+        <item>xodo_docs</item>
     </string-array>
 
     <string-array name="game">

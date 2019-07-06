@@ -8403,4 +8403,64 @@
         name="com.ilongyuan.zzq.mi/com.ilongyuan.autochess.impl.CommonMainActivity"
         image="autochess"/>
 
+    <AppIcon
+        name="com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity"
+        image="adv_scrneen_recorder"/>
+
+    <AppIcon
+        name="com.android.development/com.android.development.Development"
+        image="development"/>
+
+    <AppIcon
+        name="com.facebook.lite/com.facebook.lite.MainActivity"
+        image="facebook_lite"/>
+
+    <AppIcon
+        name="free.vpn.unblock.proxy.ghost/com.deer.vpn.ConfigActivity"
+        image="ghost_vpn"/>
+
+    <AppIcon
+        name="com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity"
+        image="hermit"/>
+
+    <AppIcon
+        name="com.faultexception.reader/com.faultexception.reader.MainActivity"
+        image="lithium"/>
+
+    <AppIcon
+        name="com.quyin.mprinter/com.quyin.mprinter.ui.SplashActivity"
+        image="mprinter"/>
+
+    <AppIcon
+        name="net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity"
+        image="muzei"/>
+
+    <AppIcon
+        name="com.zoho.notebook/com.zoho.notebook.activities.NoteBookActivity"
+        image="notebook"/>
+
+    <AppIcon
+        name="com.arthurivanets.owly/com.arthurivanets.owly.ui.splash.SplashActivity"
+        image="owly"/>
+
+    <AppIcon
+        name="org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity"
+        image="ppsspp"/>
+
+    <AppIcon
+        name="xyz.paphonb.quickstepswitcher/xyz.paphonb.quickstepswitcher.MainActivity"
+        image="quick_switcher"/>
+
+    <AppIcon
+        name="com.runtastic.android.results.lite/com.runtastic.android.results.activities.LoginTourActivity"
+        image="results"/>
+
+    <AppIcon
+        name="com.slowlyapp/com.slowlyapp.MainActivity"
+        image="slowly"/>
+
+    <AppIcon
+        name="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity"
+        image="xodo_docs"/>
+
 </Theme>

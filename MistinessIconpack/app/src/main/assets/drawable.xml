@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>97</version>
+    <version>98</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -40,6 +40,7 @@
     <item drawable="adsafe_pro"/>
     <item drawable="adsafe_pro_alt"/>
     <item drawable="adsk_sketchbook"/>
+    <item drawable="adv_scrneen_recorder"/>
     <item drawable="aegis"/>
     <item drawable="aeroblast_iconpack"/>
     <item drawable="agoda"/>
@@ -349,6 +350,7 @@
     <item drawable="deemo"/>
     <item drawable="dengta_vpn"/>
     <item drawable="devcheck"/>
+    <item drawable="development"/>
     <item drawable="dialer"/>
     <item drawable="dianping"/>
     <item drawable="diaox2"/>
@@ -444,6 +446,7 @@
     <item drawable="fa_store"/>
     <item drawable="facebook"/>
     <item drawable="facebook_alt"/>
+    <item drawable="facebook_lite"/>
     <item drawable="facebook_orca"/>
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
@@ -522,6 +525,7 @@
     <item drawable="geography"/>
     <item drawable="geometric_weather"/>
     <item drawable="gfx_tool"/>
+    <item drawable="ghost_vpn"/>
     <item drawable="ghosun_dict"/>
     <item drawable="gif_live_wallpaper"/>
     <item drawable="gifpaser"/>
@@ -599,6 +603,7 @@
     <item drawable="hellobike"/>
     <item drawable="hellotalk"/>
     <item drawable="help"/>
+    <item drawable="hermit"/>
     <item drawable="hexin"/>
     <item drawable="hexin_bank"/>
     <item drawable="hfcard"/>
@@ -790,6 +795,7 @@
     <item drawable="linktoken_pocket"/>
     <item drawable="linovel"/>
     <item drawable="list"/>
+    <item drawable="lithium"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="liuliu_music"/>
     <item drawable="live_visualizer"/>
@@ -928,6 +934,7 @@
     <item drawable="movie_heaven"/>
     <item drawable="moviefans"/>
     <item drawable="mpos"/>
+    <item drawable="mprinter"/>
     <item drawable="mqme"/>
     <item drawable="mrtang_calendar"/>
     <item drawable="mrzh"/>
@@ -942,6 +949,7 @@
     <item drawable="musicone"/>
     <item drawable="muviz"/>
     <item drawable="muwai"/>
+    <item drawable="muzei"/>
     <item drawable="mx"/>
     <item drawable="mx_browser"/>
     <item drawable="my_adorable_cats"/>
@@ -998,6 +1006,7 @@
     <item drawable="nomo"/>
     <item drawable="nongxin"/>
     <item drawable="note"/>
+    <item drawable="notebook"/>
     <item drawable="notes"/>
     <item drawable="notion"/>
     <item drawable="nova_launcher"/>
@@ -1043,6 +1052,7 @@
     <item drawable="opus_r"/>
     <item drawable="oschina"/>
     <item drawable="overdrop"/>
+    <item drawable="owly"/>
     <item drawable="panda"/>
     <item drawable="panda_usecar"/>
     <item drawable="pandownload"/>
@@ -1103,6 +1113,7 @@
     <item drawable="powerdirector"/>
     <item drawable="pplive"/>
     <item drawable="pplive_sport"/>
+    <item drawable="ppsspp"/>
     <item drawable="prisma"/>
     <item drawable="prod_dialer"/>
     <item drawable="protect_eye"/>
@@ -1152,6 +1163,7 @@
     <item drawable="quanmama"/>
     <item drawable="quanzi"/>
     <item drawable="quark"/>
+    <item drawable="quick_switcher"/>
     <item drawable="quizlet"/>
     <item drawable="qukan"/>
     <item drawable="qunar"/>
@@ -1174,6 +1186,7 @@
     <item drawable="remover"/>
     <item drawable="resplash"/>
     <item drawable="resplash_alt"/>
+    <item drawable="results"/>
     <item drawable="retor_music"/>
     <item drawable="retouch"/>
     <item drawable="review_note"/>
@@ -1264,6 +1277,7 @@
     <item drawable="skyeye"/>
     <item drawable="skype"/>
     <item drawable="sleep"/>
+    <item drawable="slowly"/>
     <item drawable="smart_audiobook_player"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
@@ -1625,6 +1639,7 @@
     <item drawable="xingse_alt3"/>
     <item drawable="xintuyun"/>
     <item drawable="xmind"/>
+    <item drawable="xodo_docs"/>
     <item drawable="xposed_installer"/>
     <item drawable="xposed_installer_alt1"/>
     <item drawable="xposed_installer_alt2"/>

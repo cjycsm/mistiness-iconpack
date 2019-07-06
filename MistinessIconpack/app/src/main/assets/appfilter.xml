@@ -8477,5 +8477,64 @@
     <item
         component="ComponentInfo{com.ilongyuan.zzq.mi/com.ilongyuan.autochess.impl.CommonMainActivity}"
         drawable="autochess"/>
+    <item
+        component="ComponentInfo{com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity}"
+        drawable="adv_scrneen_recorder"/>
+
+    <item
+        component="ComponentInfo{com.android.development/com.android.development.Development}"
+        drawable="development"/>
+
+    <item
+        component="ComponentInfo{com.facebook.lite/com.facebook.lite.MainActivity}"
+        drawable="facebook_lite"/>
+
+    <item
+        component="ComponentInfo{free.vpn.unblock.proxy.ghost/com.deer.vpn.ConfigActivity}"
+        drawable="ghost_vpn"/>
+
+    <item
+        component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}"
+        drawable="hermit"/>
+
+    <item
+        component="ComponentInfo{com.faultexception.reader/com.faultexception.reader.MainActivity}"
+        drawable="lithium"/>
+
+    <item
+        component="ComponentInfo{com.quyin.mprinter/com.quyin.mprinter.ui.SplashActivity}"
+        drawable="mprinter"/>
+
+    <item
+        component="ComponentInfo{net.nurik.roman.muzei/com.google.android.apps.muzei.MuzeiActivity}"
+        drawable="muzei"/>
+
+    <item
+        component="ComponentInfo{com.zoho.notebook/com.zoho.notebook.activities.NoteBookActivity}"
+        drawable="notebook"/>
+
+    <item
+        component="ComponentInfo{com.arthurivanets.owly/com.arthurivanets.owly.ui.splash.SplashActivity}"
+        drawable="owly"/>
+
+    <item
+        component="ComponentInfo{org.ppsspp.ppsspp/org.ppsspp.ppsspp.PpssppActivity}"
+        drawable="ppsspp"/>
+
+    <item
+        component="ComponentInfo{xyz.paphonb.quickstepswitcher/xyz.paphonb.quickstepswitcher.MainActivity}"
+        drawable="quick_switcher"/>
+
+    <item
+        component="ComponentInfo{com.runtastic.android.results.lite/com.runtastic.android.results.activities.LoginTourActivity}"
+        drawable="results"/>
+
+    <item
+        component="ComponentInfo{com.slowlyapp/com.slowlyapp.MainActivity}"
+        drawable="slowly"/>
+
+    <item
+        component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}"
+        drawable="xodo_docs"/>
 
 </resources>
