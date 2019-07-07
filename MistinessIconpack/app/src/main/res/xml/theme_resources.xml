@@ -8463,4 +8463,180 @@
         name="com.xodo.pdf.reader/viewer.CompleteReaderMainActivity"
         image="xodo_docs"/>
 
+    <AppIcon
+        name="com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide"
+        image="star_wars"/>
+
+    <AppIcon
+        name="com.magicbelt.ninepatch/com.magicbelt.ninepatch.MainActivity"
+        image="ninepatch"/>
+
+    <AppIcon
+        name="com.huawei.mycenter/com.huawei.mycenter.module.main.view.MainActivity"
+        image="huawei_mycenter"/>
+
+    <AppIcon
+        name="com.souche.guanghui/com.souche.fengche.ui.activity.WelcomeActivity"
+        image="souche"/>
+
+    <AppIcon
+        name="com.bs.smarttouchpro/com.bs.smarttouchpro.activity.MainActivity"
+        image="smart_touch_pro"/>
+
+    <AppIcon
+        name="com.lehuzhibo.app/com.lehuzhibo.app.base.LauncherActivity"
+        image="lehuzhibo"/>
+
+    <AppIcon
+        name="com.cloudsx.android.coreservice/com.cloudsec.android.client.activity.HomeActivity"
+        image="qiku_cloud_security"/>
+
+    <AppIcon
+        name="com.qiku.android.cloudsync/com.cloudsync.android.sync.view.HomeActivity"
+        image="qiku_cloud_sync"/>
+
+    <AppIcon
+        name="com.xzbb.app/com.xzbb.app.main.LauncherActivity"
+        image="qmrc"/>
+
+    <AppIcon
+        name="zhongxinjiantou.szkingdom.android.newphone/com.szkingdom.android.phone.ZXJTKdsInitActivity"
+        image="zxjt"/>
+
+    <AppIcon
+        name="imoblife.toolbox.full/imoblife.toolbox.full.ASplash"
+        image="toolbox_full"/>
+
+    <AppIcon
+        name="com.rayark.Cytus.full/com.prime31.UnityPlayerNativeActivity"
+        image="cytus"/>
+
+    <AppIcon
+        name="com.duorong.smarttool/com.duorong.smarttool.ui.loading.LoadingActivity"
+        image="smarttool"/>
+
+    <AppIcon
+        name="com.xiaomi.mitv.phone.tvassistant/com.xiaomi.mitv.phone.tvassistant.MainActivityV2"
+        image="xiaomi_tv_assistant"/>
+
+    <AppIcon
+        name="com.weiphone.vpn/com.weiphone.vpn.view.activity.SplashActivity"
+        image="weiphone_vpn"/>
+
+    <AppIcon
+        name="com.xiaomi.mimobile/com.xiaomi.mimobile.activity.RouterActivity"
+        image="xiaomi_mimobile"/>
+
+    <AppIcon
+        name="com.dyh.movienow/com.dyh.movienow.ui.home.SplashActivity"
+        image="movienow"/>
+
+    <AppIcon
+        name="klb.android.lovelivecn/klb.android.GameEngine.GameEngineActivity"
+        image="lovelive"/>
+
+    <AppIcon
+        name="com.wyd.hero.yqlfc.cb1.apk/com.wyd.fc.activity.SplashActivity"
+        image="yqlfc"/>
+
+    <AppIcon
+        name="com.zhuomogroup.ylyk/com.zhuomogroup.ylyk.activity.StartPageActivity"
+        image="ylyk"/>
+
+    <AppIcon
+        name="com.joyme/com.joyme.fascinated.guide.LauncherActivity"
+        image="joyme"/>
+
+    <AppIcon
+        name="cn.anjjie.elec.zxxy/cn.anjjie.elec.zxxy.ui.MWelcomeUI"
+        image="zxxy"/>
+
+    <AppIcon
+        name="com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent"
+        image="bhxy2"/>
+
+    <AppIcon
+        name="bin.mt.plus/l.ۙۙۧۧ"
+        image="mt"/>
+
+    <AppIcon
+        name="air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry"
+        image="adobe_ps"/>
+
+    <AppIcon
+        name="com.qiku.android.contacts/com.qiku.android.contacts.ui.main.ContactMainActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.qiku.android.xtime/qiku.xtime.ui.main.XTimeActivity"
+        image="clock"/>
+
+    <AppIcon
+        name="com.qiku.android.calendar/com.qiku.android.calendar.ui.MenuAnimationActivity"
+        image="calendar"/>
+
+    <AppIcon
+        name="com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity"
+        image="art_station"/>
+
+    <AppIcon
+        name="com.xmvideo.app/com.xmvideo.app.WelcomeActivity"
+        image="lovelycat"/>
+
+    <AppIcon
+        name="com.iwantavnow/com.iwantavnow.Main"
+        image="settings"/>
+
+    <AppIcon
+        name="com.gWDtF.P9DE85Yo.M/a.c"
+        image="magisk"/>
+
+    <AppIcon
+        name="mark.qrcode/mark.qrcode.CaptureActivity"
+        image="qrcode_scanner"/>
+
+    <AppIcon
+        name="com.hengye.share/com.hengye.share.Launcher5"
+        image="share"/>
+
+    <AppIcon
+        name="cn.wps.moffice_eng/cn.wps.moffice.main.local.HomeRootActivity"
+        image="wps"/>
+
+    <AppIcon
+        name="com.motorola.camera/com.motorola.camera.Camera"
+        image="camera"/>
+
+    <AppIcon
+        name="com.asus.calculator/com.asus.calculator.Calculator"
+        image="calculator"/>
+
+    <AppIcon
+        name="com.asus.camera/com.asus.camera.CameraApp"
+        image="camera"/>
+
+    <AppIcon
+        name="com.asus.contacts/com.android.contacts.activities.PeopleActivity"
+        image="contacts"/>
+
+    <AppIcon
+        name="com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.asus.gallery/com.asus.gallery.app.EPhotoActivity"
+        image="gallery"/>
+
+    <AppIcon
+        name="com.asus.gamecenter/com.asus.gamecenter.GameCenterActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.asus.themeapp/com.asus.themeapp.ThemeAppActivity"
+        image="theme"/>
+
+    <AppIcon
+        name="com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings"
+        image="weather"/>
+
 </Theme>

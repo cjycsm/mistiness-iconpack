@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>98</version>
+    <version>99</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -334,6 +334,7 @@
     <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
     <item drawable="cwallpaper"/>
+    <item drawable="cytus"/>
     <item drawable="cytus2"/>
     <item drawable="dailuobo"/>
     <item drawable="daily_task"/>
@@ -445,7 +446,6 @@
     <item drawable="eyepetizer"/>
     <item drawable="fa_store"/>
     <item drawable="facebook"/>
-    <item drawable="facebook_alt"/>
     <item drawable="facebook_lite"/>
     <item drawable="facebook_orca"/>
     <item drawable="faceu"/>
@@ -633,6 +633,7 @@
     <item drawable="huawei_lives"/>
     <item drawable="huawei_mirror"/>
     <item drawable="huawei_mw"/>
+    <item drawable="huawei_mycenter"/>
     <item drawable="huawei_notes"/>
     <item drawable="huawei_remote_assistant"/>
     <item drawable="huawei_service"/>
@@ -710,6 +711,7 @@
     <item drawable="joe_music"/>
     <item drawable="joi_player"/>
     <item drawable="journey"/>
+    <item drawable="joyme"/>
     <item drawable="jrcb"/>
     <item drawable="jumei"/>
     <item drawable="juzimi"/>
@@ -773,6 +775,7 @@
     <item drawable="leaf_vpn"/>
     <item drawable="leb_parallel"/>
     <item drawable="ledongli"/>
+    <item drawable="lehuzhibo"/>
     <item drawable="leng_easy_listen"/>
     <item drawable="lenjoy"/>
     <item drawable="lenove_cloud_sync"/>
@@ -807,6 +810,7 @@
     <item drawable="lonicera"/>
     <item drawable="lookcolor"/>
     <item drawable="lovebizhi"/>
+    <item drawable="lovelive"/>
     <item drawable="lovelycat"/>
     <item drawable="loveread"/>
     <item drawable="lrcjaeger"/>
@@ -932,6 +936,7 @@
     <item drawable="mouse"/>
     <item drawable="movie_heaven"/>
     <item drawable="moviefans"/>
+    <item drawable="movienow"/>
     <item drawable="mpos"/>
     <item drawable="mprinter"/>
     <item drawable="mqme"/>
@@ -998,6 +1003,7 @@
     <item drawable="nicoid"/>
     <item drawable="ninegag"/>
     <item drawable="ninegame"/>
+    <item drawable="ninepatch"/>
     <item drawable="ninja_must_die_3"/>
     <item drawable="nintendo_switch"/>
     <item drawable="nj_citizen_card"/>
@@ -1142,8 +1148,11 @@
     <item drawable="qihoo_contents"/>
     <item drawable="qihoo_mobile_safe"/>
     <item drawable="qihu_browser"/>
+    <item drawable="qiku_cloud_security"/>
+    <item drawable="qiku_cloud_sync"/>
     <item drawable="qingqi_dianbo"/>
     <item drawable="qingting_radio"/>
+    <item drawable="qmrc"/>
     <item drawable="qq"/>
     <item drawable="qq_browser"/>
     <item drawable="qq_hd"/>
@@ -1278,6 +1287,7 @@
     <item drawable="sleep"/>
     <item drawable="slowly"/>
     <item drawable="smart_audiobook_player"/>
+    <item drawable="smart_touch_pro"/>
     <item drawable="smartisan_bbs"/>
     <item drawable="smartisan_notes"/>
     <item drawable="smartisan_reader"/>
@@ -1285,6 +1295,7 @@
     <item drawable="smartisanos_cloudsync"/>
     <item drawable="smartisanos_perspective"/>
     <item drawable="smartisanos_sidebar"/>
+    <item drawable="smarttool"/>
     <item drawable="smscode"/>
     <item drawable="smzdm"/>
     <item drawable="snap_vpn"/>
@@ -1313,6 +1324,7 @@
     <item drawable="sony_store_china"/>
     <item drawable="sony_store_china_alt"/>
     <item drawable="sorcery"/>
+    <item drawable="souche"/>
     <item drawable="soufun"/>
     <item drawable="souhu_video"/>
     <item drawable="soul"/>
@@ -1330,6 +1342,7 @@
     <item drawable="ssly"/>
     <item drawable="sspai"/>
     <item drawable="ssxs"/>
+    <item drawable="star_wars"/>
     <item drawable="starbucks"/>
     <item drawable="starfish"/>
     <item drawable="steam"/>
@@ -1483,6 +1496,7 @@
     <item drawable="togic_livevideo"/>
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
+    <item drawable="toolbox_full"/>
     <item drawable="torment_news"/>
     <item drawable="total_launcher"/>
     <item drawable="towords"/>
@@ -1565,6 +1579,7 @@
     <item drawable="weico"/>
     <item drawable="weihai_bank"/>
     <item drawable="weihaibus"/>
+    <item drawable="weiphone_vpn"/>
     <item drawable="weizhangpu"/>
     <item drawable="welike"/>
     <item drawable="wenshen"/>
@@ -1620,9 +1635,11 @@
     <item drawable="xiaomi_loan"/>
     <item drawable="xiaomi_mico"/>
     <item drawable="xiaomi_midrop"/>
+    <item drawable="xiaomi_mimobile"/>
     <item drawable="xiaomi_o2o"/>
     <item drawable="xiaomi_router"/>
     <item drawable="xiaomi_shop"/>
+    <item drawable="xiaomi_tv_assistant"/>
     <item drawable="xiaomi_vipaccount"/>
     <item drawable="xiaomi_youpin"/>
     <item drawable="xiaoming_vpn"/>
@@ -1664,6 +1681,7 @@
     <item drawable="yiwang"/>
     <item drawable="yixin"/>
     <item drawable="ykt"/>
+    <item drawable="ylyk"/>
     <item drawable="youdao_course"/>
     <item drawable="youdao_dict"/>
     <item drawable="youdao_hanyu"/>
@@ -1676,6 +1694,7 @@
     <item drawable="youku_huawei"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
+    <item drawable="yqlfc"/>
     <item drawable="yuedong_sport"/>
     <item drawable="yuncanmou"/>
     <item drawable="yunchong_reader"/>
@@ -1716,7 +1735,9 @@
     <item drawable="zuzuche"/>
     <item drawable="zwzt"/>
     <item drawable="zxing_barcode_scanner"/>
+    <item drawable="zxjt"/>
     <item drawable="zxw51"/>
+    <item drawable="zxxy"/>
     <item drawable="zymk"/>
     <item drawable="zzbank"/>
 

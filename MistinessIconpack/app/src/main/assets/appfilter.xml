@@ -8537,4 +8537,180 @@
         component="ComponentInfo{com.xodo.pdf.reader/viewer.CompleteReaderMainActivity}"
         drawable="xodo_docs"/>
 
+    <item
+        component="ComponentInfo{com.ext.star.wars/com.ext.star.wars.ui.SplashActivity.Hide}"
+        drawable="star_wars"/>
+
+    <item
+        component="ComponentInfo{com.magicbelt.ninepatch/com.magicbelt.ninepatch.MainActivity}"
+        drawable="ninepatch"/>
+
+    <item
+        component="ComponentInfo{com.huawei.mycenter/com.huawei.mycenter.module.main.view.MainActivity}"
+        drawable="huawei_mycenter"/>
+
+    <item
+        component="ComponentInfo{com.souche.guanghui/com.souche.fengche.ui.activity.WelcomeActivity}"
+        drawable="souche"/>
+
+    <item
+        component="ComponentInfo{com.bs.smarttouchpro/com.bs.smarttouchpro.activity.MainActivity}"
+        drawable="smart_touch_pro"/>
+
+    <item
+        component="ComponentInfo{com.lehuzhibo.app/com.lehuzhibo.app.base.LauncherActivity}"
+        drawable="lehuzhibo"/>
+
+    <item
+        component="ComponentInfo{com.cloudsx.android.coreservice/com.cloudsec.android.client.activity.HomeActivity}"
+        drawable="qiku_cloud_security"/>
+
+    <item
+        component="ComponentInfo{com.qiku.android.cloudsync/com.cloudsync.android.sync.view.HomeActivity}"
+        drawable="qiku_cloud_sync"/>
+
+    <item
+        component="ComponentInfo{com.xzbb.app/com.xzbb.app.main.LauncherActivity}"
+        drawable="qmrc"/>
+
+    <item
+        component="ComponentInfo{zhongxinjiantou.szkingdom.android.newphone/com.szkingdom.android.phone.ZXJTKdsInitActivity}"
+        drawable="zxjt"/>
+
+    <item
+        component="ComponentInfo{imoblife.toolbox.full/imoblife.toolbox.full.ASplash}"
+        drawable="toolbox_full"/>
+
+    <item
+        component="ComponentInfo{com.rayark.Cytus.full/com.prime31.UnityPlayerNativeActivity}"
+        drawable="cytus"/>
+
+    <item
+        component="ComponentInfo{com.duorong.smarttool/com.duorong.smarttool.ui.loading.LoadingActivity}"
+        drawable="smarttool"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.mitv.phone.tvassistant/com.xiaomi.mitv.phone.tvassistant.MainActivityV2}"
+        drawable="xiaomi_tv_assistant"/>
+
+    <item
+        component="ComponentInfo{com.weiphone.vpn/com.weiphone.vpn.view.activity.SplashActivity}"
+        drawable="weiphone_vpn"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.mimobile/com.xiaomi.mimobile.activity.RouterActivity}"
+        drawable="xiaomi_mimobile"/>
+
+    <item
+        component="ComponentInfo{com.dyh.movienow/com.dyh.movienow.ui.home.SplashActivity}"
+        drawable="movienow"/>
+
+    <item
+        component="ComponentInfo{klb.android.lovelivecn/klb.android.GameEngine.GameEngineActivity}"
+        drawable="lovelive"/>
+
+    <item
+        component="ComponentInfo{com.wyd.hero.yqlfc.cb1.apk/com.wyd.fc.activity.SplashActivity}"
+        drawable="yqlfc"/>
+
+    <item
+        component="ComponentInfo{com.zhuomogroup.ylyk/com.zhuomogroup.ylyk.activity.StartPageActivity}"
+        drawable="ylyk"/>
+
+    <item
+        component="ComponentInfo{com.joyme/com.joyme.fascinated.guide.LauncherActivity}"
+        drawable="joyme"/>
+
+    <item
+        component="ComponentInfo{cn.anjjie.elec.zxxy/cn.anjjie.elec.zxxy.ui.MWelcomeUI}"
+        drawable="zxxy"/>
+
+    <item
+        component="ComponentInfo{com.miHoYo.HSoDv22144.qihoo/com.miHoYo.qihoosdk.Agent}"
+        drawable="bhxy2"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/l.ۙۙۧۧ}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry}"
+        drawable="adobe_ps"/>
+
+    <item
+        component="ComponentInfo{com.qiku.android.contacts/com.qiku.android.contacts.ui.main.ContactMainActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.qiku.android.xtime/qiku.xtime.ui.main.XTimeActivity}"
+        drawable="clock"/>
+
+    <item
+        component="ComponentInfo{com.qiku.android.calendar/com.qiku.android.calendar.ui.MenuAnimationActivity}"
+        drawable="calendar"/>
+
+    <item
+        component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity}"
+        drawable="art_station"/>
+
+    <item
+        component="ComponentInfo{com.xmvideo.app/com.xmvideo.app.WelcomeActivity}"
+        drawable="lovelycat"/>
+
+    <item
+        component="ComponentInfo{com.iwantavnow/com.iwantavnow.Main}"
+        drawable="settings"/>
+
+    <item
+        component="ComponentInfo{com.gWDtF.P9DE85Yo.M/a.c}"
+        drawable="magisk"/>
+
+    <item
+        component="ComponentInfo{mark.qrcode/mark.qrcode.CaptureActivity}"
+        drawable="qrcode_scanner"/>
+
+    <item
+        component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher5}"
+        drawable="share"/>
+
+    <item
+        component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.main.local.HomeRootActivity}"
+        drawable="wps"/>
+
+    <item
+        component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}"
+        drawable="calculator"/>
+
+    <item
+        component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}"
+        drawable="contacts"/>
+
+    <item
+        component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}"
+        drawable="gallery"/>
+
+    <item
+        component="ComponentInfo{com.asus.gamecenter/com.asus.gamecenter.GameCenterActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}"
+        drawable="theme"/>
+
+    <item
+        component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}"
+        drawable="weather"/>
+
 </resources>

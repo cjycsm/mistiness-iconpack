@@ -8349,4 +8349,180 @@
         class="viewer.CompleteReaderMainActivity"
         name="xodo_docs"/>
 
+    <item
+        class="com.ext.star.wars.ui.SplashActivity.Hide"
+        name="star_wars"/>
+
+    <item
+        class="com.magicbelt.ninepatch.MainActivity"
+        name="ninepatch"/>
+
+    <item
+        class="com.huawei.mycenter.module.main.view.MainActivity"
+        name="huawei_mycenter"/>
+
+    <item
+        class="com.souche.fengche.ui.activity.WelcomeActivity"
+        name="souche"/>
+
+    <item
+        class="com.bs.smarttouchpro.activity.MainActivity"
+        name="smart_touch_pro"/>
+
+    <item
+        class="com.lehuzhibo.app.base.LauncherActivity"
+        name="lehuzhibo"/>
+
+    <item
+        class="com.cloudsec.android.client.activity.HomeActivity"
+        name="qiku_cloud_security"/>
+
+    <item
+        class="com.cloudsync.android.sync.view.HomeActivity"
+        name="qiku_cloud_sync"/>
+
+    <item
+        class="com.xzbb.app.main.LauncherActivity"
+        name="qmrc"/>
+
+    <item
+        class="com.szkingdom.android.phone.ZXJTKdsInitActivity"
+        name="zxjt"/>
+
+    <item
+        class="imoblife.toolbox.full.ASplash"
+        name="toolbox_full"/>
+
+    <item
+        class="com.prime31.UnityPlayerNativeActivity"
+        name="cytus"/>
+
+    <item
+        class="com.duorong.smarttool.ui.loading.LoadingActivity"
+        name="smarttool"/>
+
+    <item
+        class="com.xiaomi.mitv.phone.tvassistant.MainActivityV2"
+        name="xiaomi_tv_assistant"/>
+
+    <item
+        class="com.weiphone.vpn.view.activity.SplashActivity"
+        name="weiphone_vpn"/>
+
+    <item
+        class="com.xiaomi.mimobile.activity.RouterActivity"
+        name="xiaomi_mimobile"/>
+
+    <item
+        class="com.dyh.movienow.ui.home.SplashActivity"
+        name="movienow"/>
+
+    <item
+        class="klb.android.GameEngine.GameEngineActivity"
+        name="lovelive"/>
+
+    <item
+        class="com.wyd.fc.activity.SplashActivity"
+        name="yqlfc"/>
+
+    <item
+        class="com.zhuomogroup.ylyk.activity.StartPageActivity"
+        name="ylyk"/>
+
+    <item
+        class="com.joyme.fascinated.guide.LauncherActivity"
+        name="joyme"/>
+
+    <item
+        class="cn.anjjie.elec.zxxy.ui.MWelcomeUI"
+        name="zxxy"/>
+
+    <item
+        class="com.miHoYo.qihoosdk.Agent"
+        name="bhxy2"/>
+
+    <item
+        class="l.ۙۙۧۧ"
+        name="mt"/>
+
+    <item
+        class="air.com.adobe.pstouchphone.AppEntry"
+        name="adobe_ps"/>
+
+    <item
+        class="com.qiku.android.contacts.ui.main.ContactMainActivity"
+        name="contacts"/>
+
+    <item
+        class="qiku.xtime.ui.main.XTimeActivity"
+        name="clock"/>
+
+    <item
+        class="com.qiku.android.calendar.ui.MenuAnimationActivity"
+        name="calendar"/>
+
+    <item
+        class="com.ballistiq.artstation.view.activity.SplashActivity"
+        name="art_station"/>
+
+    <item
+        class="com.xmvideo.app.WelcomeActivity"
+        name="lovelycat"/>
+
+    <item
+        class="com.iwantavnow.Main"
+        name="settings"/>
+
+    <item
+        class="a.c"
+        name="magisk"/>
+
+    <item
+        class="mark.qrcode.CaptureActivity"
+        name="qrcode_scanner"/>
+
+    <item
+        class="com.hengye.share.Launcher5"
+        name="share"/>
+
+    <item
+        class="cn.wps.moffice.main.local.HomeRootActivity"
+        name="wps"/>
+
+    <item
+        class="com.motorola.camera.Camera"
+        name="camera"/>
+
+    <item
+        class="com.asus.calculator.Calculator"
+        name="calculator"/>
+
+    <item
+        class="com.asus.camera.CameraApp"
+        name="camera"/>
+
+    <item
+        class="com.android.contacts.activities.PeopleActivity"
+        name="contacts"/>
+
+    <item
+        class="com.asus.filemanager.activity.FileManagerActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.asus.gallery.app.EPhotoActivity"
+        name="gallery"/>
+
+    <item
+        class="com.asus.gamecenter.GameCenterActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.asus.themeapp.ThemeAppActivity"
+        name="theme"/>
+
+    <item
+        class="com.asus.weathertime.WeatherTimeSettings"
+        name="weather"/>
+
 </appmap>

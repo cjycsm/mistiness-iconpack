@@ -55,24 +55,32 @@
         <item>sony</item>
         <item>nubia</item>
         <item>LG</item>
+        <item>qiku</item>
     </string-array>
 
     <string-array name="newest">
-        <item>adv_scrneen_recorder</item>
-        <item>development</item>
-        <item>facebook_lite</item>
-        <item>ghost_vpn</item>
-        <item>hermit</item>
-        <item>lithium</item>
-        <item>mprinter</item>
-        <item>muzei</item>
-        <item>notebook</item>
-        <item>owly</item>
-        <item>ppsspp</item>
-        <item>quick_switcher</item>
-        <item>results</item>
-        <item>slowly</item>
-        <item>xodo_docs</item>
+        <item>huawei_mycenter</item>
+        <item>qiku_cloud_security</item>
+        <item>qiku_cloud_sync</item>
+        <item>star_wars</item>
+        <item>ninepatch</item>
+        <item>souche</item>
+        <item>smart_touch_pro</item>
+        <item>lehuzhibo</item>
+        <item>qmrc</item>
+        <item>zxjt</item>
+        <item>toolbox_full</item>
+        <item>smarttool</item>
+        <item>xiaomi_tv_assistant</item>
+        <item>weiphone_vpn</item>
+        <item>xiaomi_mimobile</item>
+        <item>movienow</item>
+        <item>ylyk</item>
+        <item>joyme</item>
+        <item>zxxy</item>
+        <item>cytus</item>
+        <item>lovelive</item>
+        <item>yqlfc</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -705,7 +713,6 @@
         <item>backdrops</item>
         <item>biubiu</item>
         <item>facebook</item>
-        <item>facebook_alt</item>
         <item>avbobo</item>
         <item>bosszhipin</item>
         <item>cimoc</item>
@@ -1541,6 +1548,22 @@
         <item>results</item>
         <item>slowly</item>
         <item>xodo_docs</item>
+        <item>star_wars</item>
+        <item>ninepatch</item>
+        <item>souche</item>
+        <item>smart_touch_pro</item>
+        <item>lehuzhibo</item>
+        <item>qmrc</item>
+        <item>zxjt</item>
+        <item>toolbox_full</item>
+        <item>smarttool</item>
+        <item>xiaomi_tv_assistant</item>
+        <item>weiphone_vpn</item>
+        <item>xiaomi_mimobile</item>
+        <item>movienow</item>
+        <item>ylyk</item>
+        <item>joyme</item>
+        <item>zxxy</item>
     </string-array>
 
     <string-array name="game">
@@ -1628,6 +1651,9 @@
         <item>ygomobile</item>
         <item>fff</item>
         <item>autochess</item>
+        <item>cytus</item>
+        <item>lovelive</item>
+        <item>yqlfc</item>
     </string-array>
 
     <string-array name="basic">
@@ -1758,6 +1784,7 @@
         <item>huawei_smarthome</item>
         <item>huawei_3d_live_maker</item>
         <item>youku_huawei</item>
+        <item>huawei_mycenter</item>
     </string-array>
 
     <string-array name="nokia">
@@ -1816,6 +1843,11 @@
         <item>nubia_neoshare</item>
         <item>nubia_bbs</item>
         <item>nubia_wfd</item>
+    </string-array>
+
+    <string-array name="qiku">
+        <item>qiku_cloud_security</item>
+        <item>qiku_cloud_sync</item>
     </string-array>
 
 </resources>
