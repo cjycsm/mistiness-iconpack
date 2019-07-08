@@ -1546,7 +1546,7 @@
 
     <item
         component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}"
-        drawable="google_voice"/>
+        drawable="google_voice_search"/>
 
     <item
         component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}"
@@ -8372,7 +8372,7 @@
 
     <item
         component="ComponentInfo{com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity}"
-        drawable="youku_huawei"/>
+        drawable="youku"/>
 
     <item
         component="ComponentInfo{cn.garymb.ygomobile/cn.garymb.ygomobile.ui.activities.LogoActivity}"
@@ -8712,5 +8712,85 @@
     <item
         component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}"
         drawable="weather"/>
+
+    <item
+        component="ComponentInfo{com.maxpatchs.aivy/com.maxpatchs.aivy.MainActivity}"
+        drawable="aivy_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.anyview/com.anyview.Splash}"
+        drawable="anyview"/>
+
+    <item
+        component="ComponentInfo{yyc.app/yyc.xk.MainActivity}"
+        drawable="appgf"/>
+
+    <item
+        component="ComponentInfo{moe.low.arc/org.cocos2dx.cpp.AppActivity}"
+        drawable="arcaea"/>
+
+    <item
+        component="ComponentInfo{com.netease.cc/com.netease.cc.appstart.CCLauncher}"
+        drawable="netease_cc"/>
+
+    <item
+        component="ComponentInfo{com.moiseum.dailyart2/eu.eastcodes.dailybase.views.main.SplashActivity}"
+        drawable="dailyart"/>
+
+    <item
+        component="ComponentInfo{com.softpauer.f1timingapp2014.basic/com.formula1.base.MainActivity}"
+        drawable="formula1"/>
+
+    <item
+        component="ComponentInfo{cc.fancast.major/cc.fancast.major.MainActivity}"
+        drawable="fancast"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}"
+        drawable="google_voice"/>
+
+    <item
+        component="ComponentInfo{com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity}"
+        drawable="hurry"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+        drawable="microsoft_office_hub"/>
+
+    <item
+        component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}"
+        drawable="musixmatch"/>
+
+    <item
+        component="ComponentInfo{com.same.android/com.same.android.activity.WelcomeActivity}"
+        drawable="same"/>
+
+    <item
+        component="ComponentInfo{com.snda.lantern.wifilocating/com.lantern.launcher.ui.MainActivity}"
+        drawable="wifi_locating_lite"/>
+
+    <item
+        component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}"
+        drawable="jd_jr"/>
+
+    <item
+        component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity}"
+        drawable="cainiao"/>
+
+    <item
+        component="ComponentInfo{com.netease.onmyoji.mz/com.netease.onmyoji.Launcher}"
+        drawable="onmyoji"/>
+
+    <item
+        component="ComponentInfo{com.netease.onmyoji.uc/com.netease.onmyoji.Launcher}"
+        drawable="onmyoji"/>
+
+    <item
+        component="ComponentInfo{com.nbc.browser/com.nbc.browser.view.activity.SplashActivity}"
+        drawable="browser"/>
+
+    <item
+        component="ComponentInfo{com.huati/com.huluxia.ui.base.BBSAppStart}"
+        drawable="huluxia_bbs"/>
 
 </resources>

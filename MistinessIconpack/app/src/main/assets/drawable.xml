@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>99</version>
+    <version>100</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -51,6 +51,7 @@
     <item drawable="airdroid"/>
     <item drawable="airfrozen"/>
     <item drawable="airtable"/>
+    <item drawable="aivy_iconpack"/>
     <item drawable="aiwu"/>
     <item drawable="alibaba"/>
     <item drawable="alibaba_ailabs_tg"/>
@@ -73,18 +74,21 @@
     <item drawable="anjian"/>
     <item drawable="anki"/>
     <item drawable="antutu"/>
+    <item drawable="anyview"/>
     <item drawable="anzogame_lol"/>
     <item drawable="apk_export"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
     <item drawable="app_checker"/>
+    <item drawable="appgf"/>
     <item drawable="apple_music"/>
     <item drawable="applock"/>
     <item drawable="appops"/>
     <item drawable="appsales"/>
     <item drawable="appstore"/>
     <item drawable="ar_elements"/>
+    <item drawable="arcaea"/>
     <item drawable="arena_of_valor"/>
     <item drawable="armvm"/>
     <item drawable="art_station"/>
@@ -339,6 +343,7 @@
     <item drawable="dailuobo"/>
     <item drawable="daily_task"/>
     <item drawable="daily_yoga"/>
+    <item drawable="dailyart"/>
     <item drawable="damai"/>
     <item drawable="dan_the_man"/>
     <item drawable="dancing_line"/>
@@ -451,6 +456,7 @@
     <item drawable="faceu"/>
     <item drawable="fake_location"/>
     <item drawable="faloo"/>
+    <item drawable="fancast"/>
     <item drawable="fanli"/>
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
@@ -497,6 +503,7 @@
     <item drawable="foodie"/>
     <item drawable="fooview"/>
     <item drawable="forest"/>
+    <item drawable="formula1"/>
     <item drawable="fotor"/>
     <item drawable="fotor_alt1"/>
     <item drawable="fotor_alt2"/>
@@ -569,6 +576,7 @@
     <item drawable="google_tv_remote"/>
     <item drawable="google_videos"/>
     <item drawable="google_voice"/>
+    <item drawable="google_voice_search"/>
     <item drawable="google_wellbeing"/>
     <item drawable="gov"/>
     <item drawable="gps_toolbox"/>
@@ -653,6 +661,7 @@
     <item drawable="huoying"/>
     <item drawable="hupu"/>
     <item drawable="hupu_shihuo"/>
+    <item drawable="hurry"/>
     <item drawable="huxiu"/>
     <item drawable="huya"/>
     <item drawable="huya_assist"/>
@@ -884,6 +893,7 @@
     <item drawable="microsoft_excel"/>
     <item drawable="microsoft_launcher"/>
     <item drawable="microsoft_lens"/>
+    <item drawable="microsoft_office_hub"/>
     <item drawable="microsoft_onenote"/>
     <item drawable="microsoft_outlook"/>
     <item drawable="microsoft_powerpoint"/>
@@ -951,6 +961,7 @@
     <item drawable="music_man"/>
     <item drawable="music_tag_editor"/>
     <item drawable="musicone"/>
+    <item drawable="musixmatch"/>
     <item drawable="muviz"/>
     <item drawable="muwai"/>
     <item drawable="muzei"/>
@@ -975,6 +986,7 @@
     <item drawable="netease_buff"/>
     <item drawable="netease_buff_alt"/>
     <item drawable="netease_cartoonreader"/>
+    <item drawable="netease_cc"/>
     <item drawable="netease_dwrg"/>
     <item drawable="netease_frxy"/>
     <item drawable="netease_gl"/>
@@ -1215,6 +1227,7 @@
     <item drawable="safe"/>
     <item drawable="sai"/>
     <item drawable="sakura"/>
+    <item drawable="same"/>
     <item drawable="samsung_edge_lighting"/>
     <item drawable="samsung_gametuner"/>
     <item drawable="samsung_goodlock"/>
@@ -1587,6 +1600,7 @@
     <item drawable="whale_movie"/>
     <item drawable="whatsapp"/>
     <item drawable="wifi_locating"/>
+    <item drawable="wifi_locating_lite"/>
     <item drawable="wifibox"/>
     <item drawable="wifikey"/>
     <item drawable="wikihow"/>
@@ -1691,7 +1705,6 @@
     <item drawable="youdao_sw"/>
     <item drawable="youdao_translator"/>
     <item drawable="youku"/>
-    <item drawable="youku_huawei"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
     <item drawable="yqlfc"/>

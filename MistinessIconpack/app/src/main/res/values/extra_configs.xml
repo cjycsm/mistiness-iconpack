@@ -25,11 +25,19 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
+        <item>支付宝捐赠</item>
+        <item>微信支付捐赠</item>
     </string-array>
     <string-array name="home_list_descriptions">
+        <item>请开发者喝奶茶</item>
+        <item>请开发者喝冰阔落</item>
     </string-array>
     <string-array name="home_list_icons">
+        <item>alipay</item>
+        <item>wechat</item>
     </string-array>
     <string-array name="home_list_links">
+        <item>https://raw.githubusercontent.com/cjycsm/temp/master/alipay.png</item>
+        <item>https://raw.githubusercontent.com/cjycsm/temp/master/wechat.png</item>
     </string-array>
 </resources>

@@ -1439,7 +1439,7 @@
 
     <item
         class="com.google.android.googlequicksearchbox.VoiceSearchActivity"
-        name="google_voice"/>
+        name="google_voice_search"/>
 
     <item
         class="com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
@@ -8183,7 +8183,7 @@
 
     <item
         class="com.huawei.hwvplayer.framework.MainActivity"
-        name="youku_huawei"/>
+        name="youku"/>
 
     <item
         class="cn.garymb.ygomobile.ui.activities.LogoActivity"
@@ -8524,5 +8524,85 @@
     <item
         class="com.asus.weathertime.WeatherTimeSettings"
         name="weather"/>
+
+    <item
+        class="com.maxpatchs.aivy.MainActivity"
+        name="aivy_iconpack"/>
+
+    <item
+        class="com.anyview.Splash"
+        name="anyview"/>
+
+    <item
+        class="yyc.xk.MainActivity"
+        name="appgf"/>
+
+    <item
+        class="org.cocos2dx.cpp.AppActivity"
+        name="arcaea"/>
+
+    <item
+        class="com.netease.cc.appstart.CCLauncher"
+        name="netease_cc"/>
+
+    <item
+        class="eu.eastcodes.dailybase.views.main.SplashActivity"
+        name="dailyart"/>
+
+    <item
+        class="com.formula1.base.MainActivity"
+        name="formula1"/>
+
+    <item
+        class="cc.fancast.major.MainActivity"
+        name="fancast"/>
+
+    <item
+        class="com.google.android.apps.googlevoice.SplashActivity"
+        name="google_voice"/>
+
+    <item
+        class="com.samruston.hurry.ui.events.EventsActivity"
+        name="hurry"/>
+
+    <item
+        class="com.microsoft.office.officesuite.OfficeSuiteActivity"
+        name="microsoft_office_hub"/>
+
+    <item
+        class="com.musixmatch.android.ui.phone.DashBoardActivity"
+        name="musixmatch"/>
+
+    <item
+        class="com.same.android.activity.WelcomeActivity"
+        name="same"/>
+
+    <item
+        class="com.lantern.launcher.ui.MainActivity"
+        name="wifi_locating_lite"/>
+
+    <item
+        class="com.jd.jrapp.bm.mainbox.WelcomeActivity"
+        name="jd_jr"/>
+
+    <item
+        class="com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity"
+        name="cainiao"/>
+
+    <item
+        class="com.netease.onmyoji.Launcher"
+        name="onmyoji"/>
+
+    <item
+        class="com.netease.onmyoji.Launcher"
+        name="onmyoji"/>
+
+    <item
+        class="com.nbc.browser.view.activity.SplashActivity"
+        name="browser"/>
+
+    <item
+        class="com.huluxia.ui.base.BBSAppStart"
+        name="huluxia_bbs"/>
 
 </appmap>

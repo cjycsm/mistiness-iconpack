@@ -1445,7 +1445,7 @@
 
     <AppIcon
         name="com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity"
-        image="google_voice"/>
+        image="google_voice_search"/>
 
     <AppIcon
         name="com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity"
@@ -8297,7 +8297,7 @@
 
     <AppIcon
         name="com.huawei.hwvplayer.youku/com.huawei.hwvplayer.framework.MainActivity"
-        image="youku_huawei"/>
+        image="youku"/>
 
     <AppIcon
         name="cn.garymb.ygomobile/cn.garymb.ygomobile.ui.activities.LogoActivity"
@@ -8638,5 +8638,85 @@
     <AppIcon
         name="com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings"
         image="weather"/>
+
+    <AppIcon
+        name="com.maxpatchs.aivy/com.maxpatchs.aivy.MainActivity"
+        image="aivy_iconpack"/>
+
+    <AppIcon
+        name="com.anyview/com.anyview.Splash"
+        image="anyview"/>
+
+    <AppIcon
+        name="yyc.app/yyc.xk.MainActivity"
+        image="appgf"/>
+
+    <AppIcon
+        name="moe.low.arc/org.cocos2dx.cpp.AppActivity"
+        image="arcaea"/>
+
+    <AppIcon
+        name="com.netease.cc/com.netease.cc.appstart.CCLauncher"
+        image="netease_cc"/>
+
+    <AppIcon
+        name="com.moiseum.dailyart2/eu.eastcodes.dailybase.views.main.SplashActivity"
+        image="dailyart"/>
+
+    <AppIcon
+        name="com.softpauer.f1timingapp2014.basic/com.formula1.base.MainActivity"
+        image="formula1"/>
+
+    <AppIcon
+        name="cc.fancast.major/cc.fancast.major.MainActivity"
+        image="fancast"/>
+
+    <AppIcon
+        name="com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity"
+        image="google_voice"/>
+
+    <AppIcon
+        name="com.samruston.hurry/com.samruston.hurry.ui.events.EventsActivity"
+        image="hurry"/>
+
+    <AppIcon
+        name="com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity"
+        image="microsoft_office_hub"/>
+
+    <AppIcon
+        name="com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity"
+        image="musixmatch"/>
+
+    <AppIcon
+        name="com.same.android/com.same.android.activity.WelcomeActivity"
+        image="same"/>
+
+    <AppIcon
+        name="com.snda.lantern.wifilocating/com.lantern.launcher.ui.MainActivity"
+        image="wifi_locating_lite"/>
+
+    <AppIcon
+        name="com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity"
+        image="jd_jr"/>
+
+    <AppIcon
+        name="com.cainiao.wireless/com.cainiao.wireless.homepage.presentation.view.activity.NewHomepageActivity"
+        image="cainiao"/>
+
+    <AppIcon
+        name="com.netease.onmyoji.mz/com.netease.onmyoji.Launcher"
+        image="onmyoji"/>
+
+    <AppIcon
+        name="com.netease.onmyoji.uc/com.netease.onmyoji.Launcher"
+        image="onmyoji"/>
+
+    <AppIcon
+        name="com.nbc.browser/com.nbc.browser.view.activity.SplashActivity"
+        image="browser"/>
+
+    <AppIcon
+        name="com.huati/com.huluxia.ui.base.BBSAppStart"
+        image="huluxia_bbs"/>
 
 </Theme>

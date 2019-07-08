@@ -59,32 +59,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>huawei_mycenter</item>
-        <item>qiku_cloud_security</item>
-        <item>qiku_cloud_sync</item>
-        <item>star_wars</item>
-        <item>ninepatch</item>
-        <item>souche</item>
-        <item>smart_touch_pro</item>
-        <item>lehuzhibo</item>
-        <item>qmrc</item>
-        <item>zxjt</item>
-        <item>toolbox_full</item>
-        <item>smarttool</item>
-        <item>xiaomi_tv_assistant</item>
-        <item>weiphone_vpn</item>
-        <item>xiaomi_mimobile</item>
-        <item>movienow</item>
-        <item>ylyk</item>
-        <item>joyme</item>
-        <item>zxxy</item>
-        <item>cytus</item>
-        <item>lovelive</item>
-        <item>yqlfc</item>
+        <item>aivy_iconpack</item>
+        <item>anyview</item>
+        <item>appgf</item>
+        <item>netease_cc</item>
+        <item>dailyart</item>
+        <item>formula1</item>
+        <item>fancast</item>
+        <item>google_voice</item>
+        <item>hurry</item>
+        <item>microsoft_office_hub</item>
+        <item>musixmatch</item>
+        <item>same</item>
+        <item>wifi_locating_lite</item>
+        <item>arcaea</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>youku</item>
+        <item>meituan</item>
     </string-array>
 
     <string-array name="application">
@@ -402,7 +395,7 @@
         <item>keep</item>
         <item>wuba</item>
         <item>tianqitong</item>
-        <item>google_voice</item>
+        <item>google_voice_search</item>
         <item>cainiao</item>
         <item>zhuanzhuan</item>
         <item>taobao_movie</item>
@@ -1564,6 +1557,19 @@
         <item>ylyk</item>
         <item>joyme</item>
         <item>zxxy</item>
+        <item>aivy_iconpack</item>
+        <item>anyview</item>
+        <item>appgf</item>
+        <item>netease_cc</item>
+        <item>dailyart</item>
+        <item>formula1</item>
+        <item>fancast</item>
+        <item>google_voice</item>
+        <item>hurry</item>
+        <item>microsoft_office_hub</item>
+        <item>musixmatch</item>
+        <item>same</item>
+        <item>wifi_locating_lite</item>
     </string-array>
 
     <string-array name="game">
@@ -1654,6 +1660,7 @@
         <item>cytus</item>
         <item>lovelive</item>
         <item>yqlfc</item>
+        <item>arcaea</item>
     </string-array>
 
     <string-array name="basic">
@@ -1783,7 +1790,6 @@
         <item>huawei_cloud</item>
         <item>huawei_smarthome</item>
         <item>huawei_3d_live_maker</item>
-        <item>youku_huawei</item>
         <item>huawei_mycenter</item>
     </string-array>
 
