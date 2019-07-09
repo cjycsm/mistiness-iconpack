@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>100</version>
+    <version>101</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -74,6 +74,7 @@
     <item drawable="anjian"/>
     <item drawable="anki"/>
     <item drawable="antutu"/>
+    <item drawable="antutu_officer"/>
     <item drawable="anyview"/>
     <item drawable="anzogame_lol"/>
     <item drawable="apk_export"/>
@@ -263,6 +264,7 @@
     <item drawable="cloud_115"/>
     <item drawable="cloudaccelerator"/>
     <item drawable="cloudmusic"/>
+    <item drawable="cls"/>
     <item drawable="clue"/>
     <item drawable="cm_lite"/>
     <item drawable="cmb"/>
@@ -351,6 +353,7 @@
     <item drawable="daniu"/>
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
+    <item drawable="ddjz"/>
     <item drawable="ddmc"/>
     <item drawable="dedao"/>
     <item drawable="deemo"/>
@@ -405,6 +408,7 @@
     <item drawable="duowan_live"/>
     <item drawable="dushe_movie"/>
     <item drawable="dwg_fastview"/>
+    <item drawable="dxw"/>
     <item drawable="dxy"/>
     <item drawable="dxy_aspirin"/>
     <item drawable="dzh"/>
@@ -520,6 +524,7 @@
     <item drawable="galaxy_wearable"/>
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
+    <item drawable="gamecores"/>
     <item drawable="ganji"/>
     <item drawable="gansu_bank"/>
     <item drawable="gaode_map"/>
@@ -578,6 +583,7 @@
     <item drawable="google_voice"/>
     <item drawable="google_voice_search"/>
     <item drawable="google_wellbeing"/>
+    <item drawable="goosetalk"/>
     <item drawable="gov"/>
     <item drawable="gps_toolbox"/>
     <item drawable="grass"/>
@@ -656,6 +662,7 @@
     <item drawable="huluxia"/>
     <item drawable="huluxia_bbs"/>
     <item drawable="hunantv"/>
+    <item drawable="huochaihe"/>
     <item drawable="huoshan"/>
     <item drawable="huoshan_lite"/>
     <item drawable="huoying"/>
@@ -716,6 +723,7 @@
     <item drawable="jiudou"/>
     <item drawable="jjrili"/>
     <item drawable="jjwxc"/>
+    <item drawable="jmail"/>
     <item drawable="job"/>
     <item drawable="joe_music"/>
     <item drawable="joi_player"/>
@@ -788,6 +796,7 @@
     <item drawable="leng_easy_listen"/>
     <item drawable="lenjoy"/>
     <item drawable="lenove_cloud_sync"/>
+    <item drawable="lequ"/>
     <item drawable="lge_lgpay"/>
     <item drawable="lge_lifetracker"/>
     <item drawable="lge_tdmb"/>
@@ -887,6 +896,7 @@
     <item drawable="mfw"/>
     <item drawable="mi_globalbrowser_mini"/>
     <item drawable="miaodu_reader"/>
+    <item drawable="miaopai"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_emmx"/>
@@ -915,6 +925,7 @@
     <item drawable="mipay"/>
     <item drawable="mipush"/>
     <item drawable="miracles"/>
+    <item drawable="missevan"/>
     <item drawable="mistiness"/>
     <item drawable="miui_calculator"/>
     <item drawable="miui_gestures"/>
@@ -1078,10 +1089,12 @@
     <item drawable="passport"/>
     <item drawable="patreon"/>
     <item drawable="paypal"/>
+    <item drawable="pazq"/>
     <item drawable="pcamera"/>
     <item drawable="pconline"/>
     <item drawable="pelmix_iconpack"/>
     <item drawable="people_daily_china"/>
+    <item drawable="permission_dog"/>
     <item drawable="pes2019"/>
     <item drawable="phonograph"/>
     <item drawable="photo_editor"/>
@@ -1471,6 +1484,7 @@
     <item drawable="tencent_transfer"/>
     <item drawable="tencent_translator"/>
     <item drawable="tencent_weishi"/>
+    <item drawable="tencent_wepop"/>
     <item drawable="tencent_wework"/>
     <item drawable="tencent_wifimanager"/>
     <item drawable="tencent_xiaowei"/>
@@ -1579,6 +1593,7 @@
     <item drawable="wandoujia_ripple"/>
     <item drawable="wandoujia_ripple_alt"/>
     <item drawable="wangxin"/>
+    <item drawable="war_robots"/>
     <item drawable="warframe"/>
     <item drawable="waw"/>
     <item drawable="wbus"/>

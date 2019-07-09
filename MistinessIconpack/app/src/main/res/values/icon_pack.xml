@@ -59,25 +59,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>aivy_iconpack</item>
-        <item>anyview</item>
-        <item>appgf</item>
-        <item>netease_cc</item>
-        <item>dailyart</item>
-        <item>formula1</item>
-        <item>fancast</item>
-        <item>google_voice</item>
-        <item>hurry</item>
-        <item>microsoft_office_hub</item>
-        <item>musixmatch</item>
-        <item>same</item>
-        <item>wifi_locating_lite</item>
-        <item>arcaea</item>
+        <item>antutu_officer</item>
+        <item>cls</item>
+        <item>ddjz</item>
+        <item>dxw</item>
+        <item>goosetalk</item>
+        <item>huochaihe</item>
+        <item>gamecores</item>
+        <item>jmail</item>
+        <item>lequ</item>
+        <item>missevan</item>
+        <item>miaopai</item>
+        <item>pazq</item>
+        <item>permission_dog</item>
+        <item>war_robots</item>
+        <item>tencent_wepop</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>youku</item>
-        <item>meituan</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1570,6 +1570,19 @@
         <item>musixmatch</item>
         <item>same</item>
         <item>wifi_locating_lite</item>
+        <item>antutu_officer</item>
+        <item>cls</item>
+        <item>ddjz</item>
+        <item>dxw</item>
+        <item>goosetalk</item>
+        <item>huochaihe</item>
+        <item>gamecores</item>
+        <item>jmail</item>
+        <item>lequ</item>
+        <item>missevan</item>
+        <item>miaopai</item>
+        <item>pazq</item>
+        <item>permission_dog</item>
     </string-array>
 
     <string-array name="game">
@@ -1661,6 +1674,8 @@
         <item>lovelive</item>
         <item>yqlfc</item>
         <item>arcaea</item>
+        <item>war_robots</item>
+        <item>tencent_wepop</item>
     </string-array>
 
     <string-array name="basic">

@@ -8719,4 +8719,64 @@
         name="com.huati/com.huluxia.ui.base.BBSAppStart"
         image="huluxia_bbs"/>
 
+    <AppIcon
+        name="com.uzywpq.cqlzahm/com.uzywpq.cqlzahm.activity.NewStartActivity"
+        image="antutu_officer"/>
+
+    <AppIcon
+        name="com.lanjinger.choiassociatedpress/com.lanjinger.choiassociatedpress.main.LaunchActivity"
+        image="cls"/>
+
+    <AppIcon
+        name="com.pengda.mobile.hhjz/com.pengda.mobile.hhjz.ui.home.activity.BlankActivity"
+        image="ddjz"/>
+
+    <AppIcon
+        name="com.quchaogu.dxw/com.quchaogu.dxw.main.MainActivity"
+        image="dxw"/>
+
+    <AppIcon
+        name="com.atonce.goosetalk/com.atonce.goosetalk.SplashActivity"
+        image="goosetalk"/>
+
+    <AppIcon
+        name="cc.huochaihe.app/cc.huochaihe.app.ui.launch.SplashActivity"
+        image="huochaihe"/>
+
+    <AppIcon
+        name="me.tangke.gamecores/me.tangke.gamecores.MainActivity"
+        image="gamecores"/>
+
+    <AppIcon
+        name="cn.jadenine.himail/com.jadenine.email.ui.Welcome"
+        image="jmail"/>
+
+    <AppIcon
+        name="com.pixonic.wwr/com.pixonic.wwr.UnityPlayerActivity"
+        image="war_robots"/>
+
+    <AppIcon
+        name="com.lequ.main/com.lequ.main.modules.splash.SplashAct"
+        image="lequ"/>
+
+    <AppIcon
+        name="cn.missevan/cn.missevan.activity.SplashActivity"
+        image="missevan"/>
+
+    <AppIcon
+        name="com.yixia.videoeditor/com.yixia.videoeditor.home.ui.SplashActivity"
+        image="miaopai"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity"
+        image="tencent_wepop"/>
+
+    <AppIcon
+        name="com.hundsun.winner.pazq/com.hundsun.winner.pazq.ui.home.activity.NewSplashActivity"
+        image="pazq"/>
+
+    <AppIcon
+        name="com.web1n.permissiondog/com.web1n.appops2.activity.AppOpsListActivity"
+        image="permission_dog"/>
+
 </Theme>

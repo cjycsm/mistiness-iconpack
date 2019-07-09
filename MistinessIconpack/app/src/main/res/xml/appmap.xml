@@ -8605,4 +8605,64 @@
         class="com.huluxia.ui.base.BBSAppStart"
         name="huluxia_bbs"/>
 
+    <item
+        class="com.uzywpq.cqlzahm.activity.NewStartActivity"
+        name="antutu_officer"/>
+
+    <item
+        class="com.lanjinger.choiassociatedpress.main.LaunchActivity"
+        name="cls"/>
+
+    <item
+        class="com.pengda.mobile.hhjz.ui.home.activity.BlankActivity"
+        name="ddjz"/>
+
+    <item
+        class="com.quchaogu.dxw.main.MainActivity"
+        name="dxw"/>
+
+    <item
+        class="com.atonce.goosetalk.SplashActivity"
+        name="goosetalk"/>
+
+    <item
+        class="cc.huochaihe.app.ui.launch.SplashActivity"
+        name="huochaihe"/>
+
+    <item
+        class="me.tangke.gamecores.MainActivity"
+        name="gamecores"/>
+
+    <item
+        class="com.jadenine.email.ui.Welcome"
+        name="jmail"/>
+
+    <item
+        class="com.pixonic.wwr.UnityPlayerActivity"
+        name="war_robots"/>
+
+    <item
+        class="com.lequ.main.modules.splash.SplashAct"
+        name="lequ"/>
+
+    <item
+        class="cn.missevan.activity.SplashActivity"
+        name="missevan"/>
+
+    <item
+        class="com.yixia.videoeditor.home.ui.SplashActivity"
+        name="miaopai"/>
+
+    <item
+        class="com.tencent.tmgp.WePop.WePopActivity"
+        name="tencent_wepop"/>
+
+    <item
+        class="com.hundsun.winner.pazq.ui.home.activity.NewSplashActivity"
+        name="pazq"/>
+
+    <item
+        class="com.web1n.appops2.activity.AppOpsListActivity"
+        name="permission_dog"/>
+
 </appmap>

@@ -8793,4 +8793,64 @@
         component="ComponentInfo{com.huati/com.huluxia.ui.base.BBSAppStart}"
         drawable="huluxia_bbs"/>
 
+    <item
+        component="ComponentInfo{com.uzywpq.cqlzahm/com.uzywpq.cqlzahm.activity.NewStartActivity}"
+        drawable="antutu_officer"/>
+
+    <item
+        component="ComponentInfo{com.lanjinger.choiassociatedpress/com.lanjinger.choiassociatedpress.main.LaunchActivity}"
+        drawable="cls"/>
+
+    <item
+        component="ComponentInfo{com.pengda.mobile.hhjz/com.pengda.mobile.hhjz.ui.home.activity.BlankActivity}"
+        drawable="ddjz"/>
+
+    <item
+        component="ComponentInfo{com.quchaogu.dxw/com.quchaogu.dxw.main.MainActivity}"
+        drawable="dxw"/>
+
+    <item
+        component="ComponentInfo{com.atonce.goosetalk/com.atonce.goosetalk.SplashActivity}"
+        drawable="goosetalk"/>
+
+    <item
+        component="ComponentInfo{cc.huochaihe.app/cc.huochaihe.app.ui.launch.SplashActivity}"
+        drawable="huochaihe"/>
+
+    <item
+        component="ComponentInfo{me.tangke.gamecores/me.tangke.gamecores.MainActivity}"
+        drawable="gamecores"/>
+
+    <item
+        component="ComponentInfo{cn.jadenine.himail/com.jadenine.email.ui.Welcome}"
+        drawable="jmail"/>
+
+    <item
+        component="ComponentInfo{com.pixonic.wwr/com.pixonic.wwr.UnityPlayerActivity}"
+        drawable="war_robots"/>
+
+    <item
+        component="ComponentInfo{com.lequ.main/com.lequ.main.modules.splash.SplashAct}"
+        drawable="lequ"/>
+
+    <item
+        component="ComponentInfo{cn.missevan/cn.missevan.activity.SplashActivity}"
+        drawable="missevan"/>
+
+    <item
+        component="ComponentInfo{com.yixia.videoeditor/com.yixia.videoeditor.home.ui.SplashActivity}"
+        drawable="miaopai"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.WePop/com.tencent.tmgp.WePop.WePopActivity}"
+        drawable="tencent_wepop"/>
+
+    <item
+        component="ComponentInfo{com.hundsun.winner.pazq/com.hundsun.winner.pazq.ui.home.activity.NewSplashActivity}"
+        drawable="pazq"/>
+
+    <item
+        component="ComponentInfo{com.web1n.permissiondog/com.web1n.appops2.activity.AppOpsListActivity}"
+        drawable="permission_dog"/>
+
 </resources>
