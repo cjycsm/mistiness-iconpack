@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>101</version>
+    <version>102</version>
 
     <category title="All"/>
     <item drawable="abc"/>
@@ -434,6 +434,7 @@
     <item drawable="emui_themeeditor"/>
     <item drawable="eoffcn"/>
     <item drawable="erbing"/>
+    <item drawable="esbook_reader"/>
     <item drawable="esports"/>
     <item drawable="estrongs"/>
     <item drawable="etao"/>
@@ -713,6 +714,7 @@
     <item drawable="jd_jr"/>
     <item drawable="jd_jxj"/>
     <item drawable="jd_reader"/>
+    <item drawable="jd_smart"/>
     <item drawable="jeejen"/>
     <item drawable="jesson_meishi"/>
     <item drawable="jiakao"/>
@@ -823,6 +825,7 @@
     <item drawable="ll_iconpack"/>
     <item drawable="llss"/>
     <item drawable="lofter"/>
+    <item drawable="loner"/>
     <item drawable="long_screenshot"/>
     <item drawable="longshot"/>
     <item drawable="lonicera"/>
@@ -897,6 +900,7 @@
     <item drawable="mi_globalbrowser_mini"/>
     <item drawable="miaodu_reader"/>
     <item drawable="miaopai"/>
+    <item drawable="micro_gesture"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
     <item drawable="microsoft_emmx"/>
@@ -987,6 +991,7 @@
     <item drawable="mysplash"/>
     <item drawable="mysplash_alt"/>
     <item drawable="myweather"/>
+    <item drawable="najsoul"/>
     <item drawable="nanjing"/>
     <item drawable="nature_iconpack"/>
     <item drawable="nba2k19"/>
@@ -1008,6 +1013,7 @@
     <item drawable="netease_moneykeeper"/>
     <item drawable="netease_news"/>
     <item drawable="netease_news_lite"/>
+    <item drawable="netease_nshhelper"/>
     <item drawable="netease_pes"/>
     <item drawable="netease_snailread"/>
     <item drawable="netease_stzb"/>
@@ -1029,7 +1035,9 @@
     <item drawable="ninepatch"/>
     <item drawable="ninja_must_die_3"/>
     <item drawable="nintendo_switch"/>
+    <item drawable="niu_cloud"/>
     <item drawable="nj_citizen_card"/>
+    <item drawable="nn4"/>
     <item drawable="nokia_voice_assistant"/>
     <item drawable="nomo"/>
     <item drawable="nongxin"/>
@@ -1384,19 +1392,23 @@
     <item drawable="substratum"/>
     <item drawable="subwaysurf"/>
     <item drawable="sudoku"/>
+    <item drawable="suishenxing"/>
     <item drawable="suishouji"/>
     <item drawable="sun_player"/>
     <item drawable="suning_ebuy"/>
     <item drawable="suning_epa"/>
     <item drawable="suning_msd"/>
+    <item drawable="sunlogin"/>
     <item drawable="super_calculator"/>
     <item drawable="super_vpn"/>
     <item drawable="superb"/>
     <item drawable="supersu"/>
     <item drawable="surfboard"/>
     <item drawable="surfvpn"/>
+    <item drawable="sygjx"/>
     <item drawable="synology_chat"/>
     <item drawable="synology_moments"/>
+    <item drawable="sz_citizen_card"/>
     <item drawable="szbank"/>
     <item drawable="szfreego"/>
     <item drawable="szzc"/>
@@ -1419,6 +1431,7 @@
     <item drawable="tasker"/>
     <item drawable="tax_its"/>
     <item drawable="tc_cleaner"/>
+    <item drawable="tdx"/>
     <item drawable="teambition"/>
     <item drawable="teambition_alt"/>
     <item drawable="teamviewer"/>
@@ -1547,6 +1560,7 @@
     <item drawable="twrp_alt"/>
     <item drawable="u17_comic"/>
     <item drawable="uber_didi"/>
+    <item drawable="ubisoft_uplay"/>
     <item drawable="uc"/>
     <item drawable="umetrip"/>
     <item drawable="unicom"/>
@@ -1595,6 +1609,7 @@
     <item drawable="wangxin"/>
     <item drawable="war_robots"/>
     <item drawable="warframe"/>
+    <item drawable="warship"/>
     <item drawable="waw"/>
     <item drawable="wbus"/>
     <item drawable="weather"/>
@@ -1602,9 +1617,11 @@
     <item drawable="wechat"/>
     <item drawable="wechat_alt"/>
     <item drawable="weibo"/>
+    <item drawable="weibo_comic"/>
     <item drawable="weibo_intl"/>
     <item drawable="weibo_lite"/>
     <item drawable="weico"/>
+    <item drawable="weidian"/>
     <item drawable="weihai_bank"/>
     <item drawable="weihaibus"/>
     <item drawable="weiphone_vpn"/>
@@ -1744,6 +1761,7 @@
     <item drawable="zhihu_daily"/>
     <item drawable="zhihu_lite"/>
     <item drawable="zhilianzhaopin"/>
+    <item drawable="zhixue_lite"/>
     <item drawable="zhiye_cardpass"/>
     <item drawable="zhiyoo"/>
     <item drawable="zhiyuanhui"/>

@@ -8779,4 +8779,120 @@
         name="com.web1n.permissiondog/com.web1n.appops2.activity.AppOpsListActivity"
         image="permission_dog"/>
 
+    <AppIcon
+        name="com.catfoodstudio.majsoul/demo.MainActivity"
+        image="najsoul"/>
+
+    <AppIcon
+        name="com.papegames.nn4.tw/com.nikki.nn4lib.NN4PlayerActivity"
+        image="nn4"/>
+
+    <AppIcon
+        name="com.hj119.sygjx/com.e4a.runtime.android.StartActivity"
+        image="sygjx"/>
+
+    <AppIcon
+        name="com.wenhua.bamboo/com.wenhua.bamboo.screen.activity.LogoActivity"
+        image="suishenxing"/>
+
+    <AppIcon
+        name="com.tdx.AndroidNew/com.tdx.Android.TdxAndroidActivity"
+        image="tdx"/>
+
+    <AppIcon
+        name="com.weibo.comic/com.sina.anime.ui.activity.MainActivity"
+        image="weibo_comic"/>
+
+    <AppIcon
+        name="com.koudai.weidian.buyer/com.koudai.weidian.buyer.activity.SplashActivity"
+        image="weidian"/>
+
+    <AppIcon
+        name="me.i38.gesture/me.i38.gesture.MainActivity"
+        image="micro_gesture"/>
+
+    <AppIcon
+        name="com.oray.sunlogin/com.oray.sunlogin.application.Main"
+        image="sunlogin"/>
+
+    <AppIcon
+        name="com.jd.smart/com.jd.smart.activity.LoadingActivity"
+        image="jd_smart"/>
+
+    <AppIcon
+        name="com.niu.cloud/com.niu.cloud.launch.WelcomeActivity"
+        image="niu_cloud"/>
+
+    <AppIcon
+        name="com.esbook.reader/com.esbook.reader.activity.ActLoading"
+        image="esbook_reader"/>
+
+    <AppIcon
+        name="com.ubisoft.uplay/com.ubisoft.uplay.MainProxyActivity"
+        image="ubisoft_uplay"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.m4399/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.nearme.gamecenter/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.uc/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.vivo/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.aligames/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.baidu/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.huawei/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.lenovo/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.qihoo/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.eyou.yjsh/com.kj.usdk.ysdk.v1_4_5.YSDKSplActivity"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.netease.nshhelper.mi/com.netease.nshhelper.AndroidPlugin"
+        image="netease_nshhelper"/>
+
+    <AppIcon
+        name="com.kunpo.loner/com.kunpo.loner.MainActivity"
+        image="loner"/>
+
+    <AppIcon
+        name="com.loong.warship.zl/com.zulong.llzb.ZLPlayerActivity"
+        image="warship"/>
+
+    <AppIcon
+        name="sz.szsmk.citizencard/sz.szsmk.citizencard.ui.activity.LoadingActivity"
+        image="sz_citizen_card"/>
+
+    <AppIcon
+        name="we.zhixue.lite/we.zhixue.lite.activity.MainActivity"
+        image="zhixue_lite"/>
+
 </Theme>

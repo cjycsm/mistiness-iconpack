@@ -8853,4 +8853,120 @@
         component="ComponentInfo{com.web1n.permissiondog/com.web1n.appops2.activity.AppOpsListActivity}"
         drawable="permission_dog"/>
 
+    <item
+        component="ComponentInfo{com.catfoodstudio.majsoul/demo.MainActivity}"
+        drawable="najsoul"/>
+
+    <item
+        component="ComponentInfo{com.papegames.nn4.tw/com.nikki.nn4lib.NN4PlayerActivity}"
+        drawable="nn4"/>
+
+    <item
+        component="ComponentInfo{com.hj119.sygjx/com.e4a.runtime.android.StartActivity}"
+        drawable="sygjx"/>
+
+    <item
+        component="ComponentInfo{com.wenhua.bamboo/com.wenhua.bamboo.screen.activity.LogoActivity}"
+        drawable="suishenxing"/>
+
+    <item
+        component="ComponentInfo{com.tdx.AndroidNew/com.tdx.Android.TdxAndroidActivity}"
+        drawable="tdx"/>
+
+    <item
+        component="ComponentInfo{com.weibo.comic/com.sina.anime.ui.activity.MainActivity}"
+        drawable="weibo_comic"/>
+
+    <item
+        component="ComponentInfo{com.koudai.weidian.buyer/com.koudai.weidian.buyer.activity.SplashActivity}"
+        drawable="weidian"/>
+
+    <item
+        component="ComponentInfo{me.i38.gesture/me.i38.gesture.MainActivity}"
+        drawable="micro_gesture"/>
+
+    <item
+        component="ComponentInfo{com.oray.sunlogin/com.oray.sunlogin.application.Main}"
+        drawable="sunlogin"/>
+
+    <item
+        component="ComponentInfo{com.jd.smart/com.jd.smart.activity.LoadingActivity}"
+        drawable="jd_smart"/>
+
+    <item
+        component="ComponentInfo{com.niu.cloud/com.niu.cloud.launch.WelcomeActivity}"
+        drawable="niu_cloud"/>
+
+    <item
+        component="ComponentInfo{com.esbook.reader/com.esbook.reader.activity.ActLoading}"
+        drawable="esbook_reader"/>
+
+    <item
+        component="ComponentInfo{com.ubisoft.uplay/com.ubisoft.uplay.MainProxyActivity}"
+        drawable="ubisoft_uplay"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.m4399/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.nearme.gamecenter/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.uc/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.vivo/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.aligames/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.baidu/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.huawei/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.lenovo/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.qihoo/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.eyou.yjsh/com.kj.usdk.ysdk.v1_4_5.YSDKSplActivity}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.netease.nshhelper.mi/com.netease.nshhelper.AndroidPlugin}"
+        drawable="netease_nshhelper"/>
+
+    <item
+        component="ComponentInfo{com.kunpo.loner/com.kunpo.loner.MainActivity}"
+        drawable="loner"/>
+
+    <item
+        component="ComponentInfo{com.loong.warship.zl/com.zulong.llzb.ZLPlayerActivity}"
+        drawable="warship"/>
+
+    <item
+        component="ComponentInfo{sz.szsmk.citizencard/sz.szsmk.citizencard.ui.activity.LoadingActivity}"
+        drawable="sz_citizen_card"/>
+
+    <item
+        component="ComponentInfo{we.zhixue.lite/we.zhixue.lite.activity.MainActivity}"
+        drawable="zhixue_lite"/>
+
 </resources>

@@ -59,21 +59,24 @@
     </string-array>
 
     <string-array name="newest">
-        <item>antutu_officer</item>
-        <item>cls</item>
-        <item>ddjz</item>
-        <item>dxw</item>
-        <item>goosetalk</item>
-        <item>huochaihe</item>
-        <item>gamecores</item>
-        <item>jmail</item>
-        <item>lequ</item>
-        <item>missevan</item>
-        <item>miaopai</item>
-        <item>pazq</item>
-        <item>permission_dog</item>
-        <item>war_robots</item>
-        <item>tencent_wepop</item>
+        <item>nn4</item>
+        <item>sygjx</item>
+        <item>suishenxing</item>
+        <item>tdx</item>
+        <item>weibo_comic</item>
+        <item>weidian</item>
+        <item>micro_gesture</item>
+        <item>sunlogin</item>
+        <item>jd_smart</item>
+        <item>niu_cloud</item>
+        <item>esbook_reader</item>
+        <item>ubisoft_uplay</item>
+        <item>sz_citizen_card</item>
+        <item>zhixue_lite</item>
+        <item>najsoul</item>
+        <item>netease_nshhelper</item>
+        <item>loner</item>
+        <item>warship</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1583,6 +1586,20 @@
         <item>miaopai</item>
         <item>pazq</item>
         <item>permission_dog</item>
+        <item>nn4</item>
+        <item>sygjx</item>
+        <item>suishenxing</item>
+        <item>tdx</item>
+        <item>weibo_comic</item>
+        <item>weidian</item>
+        <item>micro_gesture</item>
+        <item>sunlogin</item>
+        <item>jd_smart</item>
+        <item>niu_cloud</item>
+        <item>esbook_reader</item>
+        <item>ubisoft_uplay</item>
+        <item>sz_citizen_card</item>
+        <item>zhixue_lite</item>
     </string-array>
 
     <string-array name="game">
@@ -1676,6 +1693,10 @@
         <item>arcaea</item>
         <item>war_robots</item>
         <item>tencent_wepop</item>
+        <item>najsoul</item>
+        <item>netease_nshhelper</item>
+        <item>loner</item>
+        <item>warship</item>
     </string-array>
 
     <string-array name="basic">

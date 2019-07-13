@@ -8665,4 +8665,120 @@
         class="com.web1n.appops2.activity.AppOpsListActivity"
         name="permission_dog"/>
 
+    <item
+        class="demo.MainActivity"
+        name="najsoul"/>
+
+    <item
+        class="com.nikki.nn4lib.NN4PlayerActivity"
+        name="nn4"/>
+
+    <item
+        class="com.e4a.runtime.android.StartActivity"
+        name="sygjx"/>
+
+    <item
+        class="com.wenhua.bamboo.screen.activity.LogoActivity"
+        name="suishenxing"/>
+
+    <item
+        class="com.tdx.Android.TdxAndroidActivity"
+        name="tdx"/>
+
+    <item
+        class="com.sina.anime.ui.activity.MainActivity"
+        name="weibo_comic"/>
+
+    <item
+        class="com.koudai.weidian.buyer.activity.SplashActivity"
+        name="weidian"/>
+
+    <item
+        class="me.i38.gesture.MainActivity"
+        name="micro_gesture"/>
+
+    <item
+        class="com.oray.sunlogin.application.Main"
+        name="sunlogin"/>
+
+    <item
+        class="com.jd.smart.activity.LoadingActivity"
+        name="jd_smart"/>
+
+    <item
+        class="com.niu.cloud.launch.WelcomeActivity"
+        name="niu_cloud"/>
+
+    <item
+        class="com.esbook.reader.activity.ActLoading"
+        name="esbook_reader"/>
+
+    <item
+        class="com.ubisoft.uplay.MainProxyActivity"
+        name="ubisoft_uplay"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.kj.usdk.ysdk.v1_4_5.YSDKSplActivity"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.netease.nshhelper.AndroidPlugin"
+        name="netease_nshhelper"/>
+
+    <item
+        class="com.kunpo.loner.MainActivity"
+        name="loner"/>
+
+    <item
+        class="com.zulong.llzb.ZLPlayerActivity"
+        name="warship"/>
+
+    <item
+        class="sz.szsmk.citizencard.ui.activity.LoadingActivity"
+        name="sz_citizen_card"/>
+
+    <item
+        class="we.zhixue.lite.activity.MainActivity"
+        name="zhixue_lite"/>
+
 </appmap>
