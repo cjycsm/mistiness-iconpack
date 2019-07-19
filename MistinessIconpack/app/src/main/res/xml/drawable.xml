@@ -19,9 +19,10 @@
   -->
 
 <resources>
-    <version>102</version>
+    <version>103</version>
 
     <category title="All"/>
+    <item drawable="_36kr"/>
     <item drawable="abc"/>
     <item drawable="abi"/>
     <item drawable="accessibility"/>
@@ -143,6 +144,7 @@
     <item drawable="bar_iconpack"/>
     <item drawable="barcode"/>
     <item drawable="barcode_alt"/>
+    <item drawable="battery_charge_limit"/>
     <item drawable="battery_meter"/>
     <item drawable="battle_net"/>
     <item drawable="bbc_news"/>
@@ -169,6 +171,7 @@
     <item drawable="biquge_red"/>
     <item drawable="bit"/>
     <item drawable="bit_alt"/>
+    <item drawable="bitgp"/>
     <item drawable="bitsfun_light"/>
     <item drawable="biubiu"/>
     <item drawable="bix"/>
@@ -340,6 +343,7 @@
     <item drawable="cutisan_alt"/>
     <item drawable="cuto"/>
     <item drawable="cwallpaper"/>
+    <item drawable="cx_file_explorer"/>
     <item drawable="cytus"/>
     <item drawable="cytus2"/>
     <item drawable="dailuobo"/>
@@ -375,6 +379,7 @@
     <item drawable="diyidan"/>
     <item drawable="dji_go_v4"/>
     <item drawable="dkplat"/>
+    <item drawable="dm78"/>
     <item drawable="dmall"/>
     <item drawable="dmzj"/>
     <item drawable="dolby"/>
@@ -446,6 +451,7 @@
     <item drawable="everything_done"/>
     <item drawable="evie_launcher"/>
     <item drawable="ewt360"/>
+    <item drawable="ex_kernel_manager"/>
     <item drawable="examcoo"/>
     <item drawable="express"/>
     <item drawable="express_helper"/>
@@ -623,6 +629,8 @@
     <item drawable="hfcard"/>
     <item drawable="hfs_plus"/>
     <item drawable="hi"/>
+    <item drawable="hi_translate"/>
+    <item drawable="hi_vpn"/>
     <item drawable="hiby_music"/>
     <item drawable="hippo"/>
     <item drawable="hiwifi"/>
@@ -682,6 +690,7 @@
     <item drawable="icbc_forms"/>
     <item drawable="icbc_im"/>
     <item drawable="icebox"/>
+    <item drawable="icey"/>
     <item drawable="icontrol"/>
     <item drawable="idaliy"/>
     <item drawable="idlefish"/>
@@ -700,6 +709,7 @@
     <item drawable="inoreader"/>
     <item drawable="instagram"/>
     <item drawable="installer_plus"/>
+    <item drawable="instapaper"/>
     <item drawable="iplaymtg"/>
     <item drawable="iqing"/>
     <item drawable="iqiyi"/>
@@ -816,6 +826,7 @@
     <item drawable="linkedin"/>
     <item drawable="linktoken_pocket"/>
     <item drawable="linovel"/>
+    <item drawable="lion_market"/>
     <item drawable="list"/>
     <item drawable="lithium"/>
     <item drawable="liulishuo_engzo"/>
@@ -860,6 +871,7 @@
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
+    <item drawable="maxima"/>
     <item drawable="mbestyle"/>
     <item drawable="mdschool"/>
     <item drawable="measure"/>
@@ -900,6 +912,7 @@
     <item drawable="mi_globalbrowser_mini"/>
     <item drawable="miaodu_reader"/>
     <item drawable="miaopai"/>
+    <item drawable="miband"/>
     <item drawable="micro_gesture"/>
     <item drawable="microsoft_authenticator"/>
     <item drawable="microsoft_cartana"/>
@@ -1025,9 +1038,11 @@
     <item drawable="netflix"/>
     <item drawable="newcapec"/>
     <item drawable="newpipe"/>
+    <item drawable="nfc_tools"/>
     <item drawable="nga"/>
     <item drawable="nga_git"/>
     <item drawable="niagara_launcher"/>
+    <item drawable="nice"/>
     <item drawable="niceapp"/>
     <item drawable="nicoid"/>
     <item drawable="ninegag"/>
@@ -1408,6 +1423,7 @@
     <item drawable="sygjx"/>
     <item drawable="synology_chat"/>
     <item drawable="synology_moments"/>
+    <item drawable="syslock"/>
     <item drawable="sz_citizen_card"/>
     <item drawable="szbank"/>
     <item drawable="szfreego"/>
@@ -1569,6 +1585,7 @@
     <item drawable="unnoo_quan"/>
     <item drawable="update"/>
     <item drawable="usage_analyzer"/>
+    <item drawable="usb_audio_player_pro"/>
     <item drawable="ustv"/>
     <item drawable="v2ray_ang"/>
     <item drawable="v2ray_ang_alt"/>
@@ -1653,7 +1670,9 @@
     <item drawable="wuma_vpn"/>
     <item drawable="wunder_list"/>
     <item drawable="wuta_camera"/>
+    <item drawable="wybx"/>
     <item drawable="wzu"/>
+    <item drawable="x_apm"/>
     <item drawable="x_player"/>
     <item drawable="x_videos"/>
     <item drawable="xbrowser"/>
@@ -1713,6 +1732,7 @@
     <item drawable="xunlei"/>
     <item drawable="xunyou"/>
     <item drawable="yahoo_weather"/>
+    <item drawable="yamibo"/>
     <item drawable="yandex_browser"/>
     <item drawable="yandong"/>
     <item drawable="ybjk"/>

@@ -6023,7 +6023,7 @@
         drawable="video"/>
 
     <item
-        component="ComponentInfo{com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator}"
+        component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}"
         drawable="calculator"/>
 
     <item
@@ -7237,10 +7237,6 @@
     <item
         component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}"
         drawable="sf"/>
-
-    <item
-        component="ComponentInfo{com.f0208.lebo/com.zw.lebo.SplashView}"
-        drawable="mahua_movie"/>
 
     <item
         component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher3}"
@@ -8968,5 +8964,85 @@
     <item
         component="ComponentInfo{we.zhixue.lite/we.zhixue.lite.activity.MainActivity}"
         drawable="zhixue_lite"/>
+
+    <item
+        component="ComponentInfo{com.android36kr.app/com.android36kr.app.ui.LogoActivity}"
+        drawable="_36kr"/>
+
+    <item
+        component="ComponentInfo{com.lerdong.dm78/com.lerdong.dm78.tab.activity.SplashActivity}"
+        drawable="dm78"/>
+
+    <item
+        component="ComponentInfo{com.slash.batterychargelimit/com.slash.batterychargelimit.activities.MainActivity}"
+        drawable="battery_charge_limit"/>
+
+    <item
+        component="ComponentInfo{com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity}"
+        drawable="cx_file_explorer"/>
+
+    <item
+        component="ComponentInfo{flar2.exkernelmanager/a.a}"
+        drawable="ex_kernel_manager"/>
+
+    <item
+        component="ComponentInfo{com.talpa.translate/com.talpa.translate.activity.WelcomeActivity}"
+        drawable="hi_translate"/>
+
+    <item
+        component="ComponentInfo{com.ehawk.proxy.freevpn/com.free.vpn.proxy.shortcut.activities.ALSplashActivity}"
+        drawable="hi_vpn"/>
+
+    <item
+        component="ComponentInfo{com.fantablade.icey/com.fantablade.icey.FBUnityActivity}"
+        drawable="icey"/>
+
+    <item
+        component="ComponentInfo{com.instapaper.android/com.instapaper.android.MainActivity}"
+        drawable="instapaper"/>
+
+    <item
+        component="ComponentInfo{jp.yhonda/jp.yhonda.MaximaOnAndroidActivity}"
+        drawable="maxima"/>
+
+    <item
+        component="ComponentInfo{cc.metapro.nfc/cc.metapro.nfc.home.MainActivity}"
+        drawable="nfc_tools"/>
+
+    <item
+        component="ComponentInfo{com.nice.main/com.nice.main.activities.MainActivity_}"
+        drawable="nice"/>
+
+    <item
+        component="ComponentInfo{com.mc.miband1/com.mc.miband1.ui.MainActivity}"
+        drawable="miband"/>
+
+    <item
+        component="ComponentInfo{com.lerist.syslock/com.lerist.syslock.ui.MainActivity}"
+        drawable="syslock"/>
+
+    <item
+        component="ComponentInfo{com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity}"
+        drawable="usb_audio_player_pro"/>
+
+    <item
+        component="ComponentInfo{github.tornaco.xposedmoduletest/github.tornaco.xposedmoduletest.ui.activity.NavigatorActivityBottomNav}"
+        drawable="x_apm"/>
+
+    <item
+        component="ComponentInfo{com.yamibo.android.yamibo_webview/com.yamibo.android.yamibo_webview.SplashActivity}"
+        drawable="yamibo"/>
+
+    <item
+        component="ComponentInfo{com.winbaoxian.wybx/com.winbaoxian.wybx.module.intro.activity.SplashActivity}"
+        drawable="wybx"/>
+
+    <item
+        component="ComponentInfo{cc.soonet.bitgp/cc.soonet.bitgp.activities.SplashActivity}"
+        drawable="bitgp"/>
+
+    <item
+        component="ComponentInfo{com.lion.market/com.lion.market.app.InitiateActivity}"
+        drawable="lion_market"/>
 
 </resources>

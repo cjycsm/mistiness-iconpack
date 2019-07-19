@@ -59,24 +59,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>nn4</item>
-        <item>sygjx</item>
-        <item>suishenxing</item>
-        <item>tdx</item>
-        <item>weibo_comic</item>
-        <item>weidian</item>
-        <item>micro_gesture</item>
-        <item>sunlogin</item>
-        <item>jd_smart</item>
-        <item>niu_cloud</item>
-        <item>esbook_reader</item>
-        <item>ubisoft_uplay</item>
-        <item>sz_citizen_card</item>
-        <item>zhixue_lite</item>
-        <item>najsoul</item>
-        <item>netease_nshhelper</item>
-        <item>loner</item>
-        <item>warship</item>
+        <item>_36kr</item>
+        <item>dm78</item>
+        <item>battery_charge_limit</item>
+        <item>cx_file_explorer</item>
+        <item>ex_kernel_manager</item>
+        <item>hi_translate</item>
+        <item>hi_vpn</item>
+        <item>instapaper</item>
+        <item>maxima</item>
+        <item>nfc_tools</item>
+        <item>nice</item>
+        <item>miband</item>
+        <item>syslock</item>
+        <item>usb_audio_player_pro</item>
+        <item>x_apm</item>
+        <item>yamibo</item>
+        <item>wybx</item>
+        <item>bitgp</item>
+        <item>lion_market</item>
+        <item>icey</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1600,6 +1602,25 @@
         <item>ubisoft_uplay</item>
         <item>sz_citizen_card</item>
         <item>zhixue_lite</item>
+        <item>_36kr</item>
+        <item>dm78</item>
+        <item>battery_charge_limit</item>
+        <item>cx_file_explorer</item>
+        <item>ex_kernel_manager</item>
+        <item>hi_translate</item>
+        <item>hi_vpn</item>
+        <item>instapaper</item>
+        <item>maxima</item>
+        <item>nfc_tools</item>
+        <item>nice</item>
+        <item>miband</item>
+        <item>syslock</item>
+        <item>usb_audio_player_pro</item>
+        <item>x_apm</item>
+        <item>yamibo</item>
+        <item>wybx</item>
+        <item>bitgp</item>
+        <item>lion_market</item>
     </string-array>
 
     <string-array name="game">
@@ -1697,6 +1718,7 @@
         <item>netease_nshhelper</item>
         <item>loner</item>
         <item>warship</item>
+        <item>icey</item>
     </string-array>
 
     <string-array name="basic">

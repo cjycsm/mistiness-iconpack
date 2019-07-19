@@ -5948,7 +5948,7 @@
         image="video"/>
 
     <AppIcon
-        name="com.sonymobile.exactcalculator.Calculator/com.sonymobile.exactcalculator"
+        name="com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator"
         image="calculator"/>
 
     <AppIcon
@@ -7162,10 +7162,6 @@
     <AppIcon
         name="com.sf.activity/com.sf.activity.MainActivity"
         image="sf"/>
-
-    <AppIcon
-        name="com.f0208.lebo/com.zw.lebo.SplashView"
-        image="mahua_movie"/>
 
     <AppIcon
         name="com.hengye.share/com.hengye.share.Launcher3"
@@ -8894,5 +8890,85 @@
     <AppIcon
         name="we.zhixue.lite/we.zhixue.lite.activity.MainActivity"
         image="zhixue_lite"/>
+
+    <AppIcon
+        name="com.android36kr.app/com.android36kr.app.ui.LogoActivity"
+        image="_36kr"/>
+
+    <AppIcon
+        name="com.lerdong.dm78/com.lerdong.dm78.tab.activity.SplashActivity"
+        image="dm78"/>
+
+    <AppIcon
+        name="com.slash.batterychargelimit/com.slash.batterychargelimit.activities.MainActivity"
+        image="battery_charge_limit"/>
+
+    <AppIcon
+        name="com.cxinventor.file.explorer/com.alphainventor.filemanager.activity.MainActivity"
+        image="cx_file_explorer"/>
+
+    <AppIcon
+        name="flar2.exkernelmanager/a.a"
+        image="ex_kernel_manager"/>
+
+    <AppIcon
+        name="com.talpa.translate/com.talpa.translate.activity.WelcomeActivity"
+        image="hi_translate"/>
+
+    <AppIcon
+        name="com.ehawk.proxy.freevpn/com.free.vpn.proxy.shortcut.activities.ALSplashActivity"
+        image="hi_vpn"/>
+
+    <AppIcon
+        name="com.fantablade.icey/com.fantablade.icey.FBUnityActivity"
+        image="icey"/>
+
+    <AppIcon
+        name="com.instapaper.android/com.instapaper.android.MainActivity"
+        image="instapaper"/>
+
+    <AppIcon
+        name="jp.yhonda/jp.yhonda.MaximaOnAndroidActivity"
+        image="maxima"/>
+
+    <AppIcon
+        name="cc.metapro.nfc/cc.metapro.nfc.home.MainActivity"
+        image="nfc_tools"/>
+
+    <AppIcon
+        name="com.nice.main/com.nice.main.activities.MainActivity_"
+        image="nice"/>
+
+    <AppIcon
+        name="com.mc.miband1/com.mc.miband1.ui.MainActivity"
+        image="miband"/>
+
+    <AppIcon
+        name="com.lerist.syslock/com.lerist.syslock.ui.MainActivity"
+        image="syslock"/>
+
+    <AppIcon
+        name="com.extreamsd.usbaudioplayerpro/com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity"
+        image="usb_audio_player_pro"/>
+
+    <AppIcon
+        name="github.tornaco.xposedmoduletest/github.tornaco.xposedmoduletest.ui.activity.NavigatorActivityBottomNav"
+        image="x_apm"/>
+
+    <AppIcon
+        name="com.yamibo.android.yamibo_webview/com.yamibo.android.yamibo_webview.SplashActivity"
+        image="yamibo"/>
+
+    <AppIcon
+        name="com.winbaoxian.wybx/com.winbaoxian.wybx.module.intro.activity.SplashActivity"
+        image="wybx"/>
+
+    <AppIcon
+        name="cc.soonet.bitgp/cc.soonet.bitgp.activities.SplashActivity"
+        image="bitgp"/>
+
+    <AppIcon
+        name="com.lion.market/com.lion.market.app.InitiateActivity"
+        image="lion_market"/>
 
 </Theme>

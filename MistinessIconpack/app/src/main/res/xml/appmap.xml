@@ -5938,7 +5938,7 @@
         name="video"/>
 
     <item
-        class="com.sonymobile.exactcalculator"
+        class="com.sonymobile.exactcalculator.Calculator"
         name="calculator"/>
 
     <item
@@ -7136,10 +7136,6 @@
     <item
         class="com.sf.activity.MainActivity"
         name="sf"/>
-
-    <item
-        class="com.zw.lebo.SplashView"
-        name="mahua_movie"/>
 
     <item
         class="com.hengye.share.Launcher3"
@@ -8780,5 +8776,85 @@
     <item
         class="we.zhixue.lite.activity.MainActivity"
         name="zhixue_lite"/>
+
+    <item
+        class="com.android36kr.app.ui.LogoActivity"
+        name="_36kr"/>
+
+    <item
+        class="com.lerdong.dm78.tab.activity.SplashActivity"
+        name="dm78"/>
+
+    <item
+        class="com.slash.batterychargelimit.activities.MainActivity"
+        name="battery_charge_limit"/>
+
+    <item
+        class="com.alphainventor.filemanager.activity.MainActivity"
+        name="cx_file_explorer"/>
+
+    <item
+        class="a.a"
+        name="ex_kernel_manager"/>
+
+    <item
+        class="com.talpa.translate.activity.WelcomeActivity"
+        name="hi_translate"/>
+
+    <item
+        class="com.free.vpn.proxy.shortcut.activities.ALSplashActivity"
+        name="hi_vpn"/>
+
+    <item
+        class="com.fantablade.icey.FBUnityActivity"
+        name="icey"/>
+
+    <item
+        class="com.instapaper.android.MainActivity"
+        name="instapaper"/>
+
+    <item
+        class="jp.yhonda.MaximaOnAndroidActivity"
+        name="maxima"/>
+
+    <item
+        class="cc.metapro.nfc.home.MainActivity"
+        name="nfc_tools"/>
+
+    <item
+        class="com.nice.main.activities.MainActivity_"
+        name="nice"/>
+
+    <item
+        class="com.mc.miband1.ui.MainActivity"
+        name="miband"/>
+
+    <item
+        class="com.lerist.syslock.ui.MainActivity"
+        name="syslock"/>
+
+    <item
+        class="com.extreamsd.usbaudioplayershared.ScreenSlidePagerActivity"
+        name="usb_audio_player_pro"/>
+
+    <item
+        class="github.tornaco.xposedmoduletest.ui.activity.NavigatorActivityBottomNav"
+        name="x_apm"/>
+
+    <item
+        class="com.yamibo.android.yamibo_webview.SplashActivity"
+        name="yamibo"/>
+
+    <item
+        class="com.winbaoxian.wybx.module.intro.activity.SplashActivity"
+        name="wybx"/>
+
+    <item
+        class="cc.soonet.bitgp.activities.SplashActivity"
+        name="bitgp"/>
+
+    <item
+        class="com.lion.market.app.InitiateActivity"
+        name="lion_market"/>
 
 </appmap>
