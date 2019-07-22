@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>103</version>
+    <version>104</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
@@ -248,6 +248,7 @@
     <item drawable="chinabus"/>
     <item drawable="chinabus_lieche"/>
     <item drawable="chinabus_metor"/>
+    <item drawable="chinalife_ehome"/>
     <item drawable="chrome"/>
     <item drawable="chrome_canary"/>
     <item drawable="chunyu_doctor"/>
@@ -353,10 +354,12 @@
     <item drawable="damai"/>
     <item drawable="dan_the_man"/>
     <item drawable="dancing_line"/>
+    <item drawable="dandanplay"/>
     <item drawable="dangdang"/>
     <item drawable="daniu"/>
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
+    <item drawable="ddcat"/>
     <item drawable="ddjz"/>
     <item drawable="ddmc"/>
     <item drawable="dedao"/>
@@ -509,6 +512,7 @@
     <item drawable="flyme_roamingpay"/>
     <item drawable="flyme_video"/>
     <item drawable="flyme_videoclips"/>
+    <item drawable="flypy_xh"/>
     <item drawable="focus_lite"/>
     <item drawable="font"/>
     <item drawable="foodie"/>
@@ -638,6 +642,7 @@
     <item drawable="hlddz"/>
     <item drawable="holi"/>
     <item drawable="homeinn"/>
+    <item drawable="houxv"/>
     <item drawable="hrb_citycard"/>
     <item drawable="hsbb"/>
     <item drawable="htjsq"/>
@@ -803,8 +808,10 @@
     <item drawable="lbe_security"/>
     <item drawable="leaf_vpn"/>
     <item drawable="leb_parallel"/>
+    <item drawable="lebo"/>
     <item drawable="ledongli"/>
     <item drawable="lehuzhibo"/>
+    <item drawable="leigod"/>
     <item drawable="leng_easy_listen"/>
     <item drawable="lenjoy"/>
     <item drawable="lenove_cloud_sync"/>
@@ -868,6 +875,7 @@
     <item drawable="maimomo"/>
     <item drawable="man_camera"/>
     <item drawable="man_camera_alt"/>
+    <item drawable="manmanbuy"/>
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
@@ -884,6 +892,7 @@
     <item drawable="meiju592"/>
     <item drawable="meipai"/>
     <item drawable="meiriyiwen"/>
+    <item drawable="meitian"/>
     <item drawable="meituan"/>
     <item drawable="meituan_dispatch"/>
     <item drawable="meituan_qcs"/>
@@ -949,6 +958,7 @@
     <item drawable="miui_hd"/>
     <item drawable="miui_virtual_sim"/>
     <item drawable="miui_voice_assistant"/>
+    <item drawable="miui_whitenoise"/>
     <item drawable="miuibbs"/>
     <item drawable="miuitool_updateurl"/>
     <item drawable="mixaiba_browser"/>
@@ -958,6 +968,7 @@
     <item drawable="mms"/>
     <item drawable="mobike"/>
     <item drawable="mobilism"/>
+    <item drawable="mogicians_manual"/>
     <item drawable="mogujie"/>
     <item drawable="moives_heaven"/>
     <item drawable="moji_weather"/>
@@ -1072,6 +1083,7 @@
     <item drawable="oblatum"/>
     <item drawable="ocamera"/>
     <item drawable="ofo"/>
+    <item drawable="ola_user"/>
     <item drawable="olapay"/>
     <item drawable="oled_saver"/>
     <item drawable="one"/>
@@ -1167,6 +1179,7 @@
     <item drawable="pplive"/>
     <item drawable="pplive_sport"/>
     <item drawable="ppsspp"/>
+    <item drawable="prevent"/>
     <item drawable="prisma"/>
     <item drawable="prod_dialer"/>
     <item drawable="protect_eye"/>
@@ -1393,7 +1406,9 @@
     <item drawable="ssxs"/>
     <item drawable="star_wars"/>
     <item drawable="starbucks"/>
+    <item drawable="starchart"/>
     <item drawable="starfish"/>
+    <item drawable="starnet_rainbow"/>
     <item drawable="steam"/>
     <item drawable="steam_go"/>
     <item drawable="steam_go_alt"/>
@@ -1465,6 +1480,7 @@
     <item drawable="tencent_blackkey_alt"/>
     <item drawable="tencent_carrot3"/>
     <item drawable="tencent_clover"/>
+    <item drawable="tencent_cmocmna"/>
     <item drawable="tencent_djcity"/>
     <item drawable="tencent_docs"/>
     <item drawable="tencent_edu"/>
@@ -1568,6 +1584,7 @@
     <item drawable="tumblr"/>
     <item drawable="tumblr_alt"/>
     <item drawable="turbovpn"/>
+    <item drawable="tutu"/>
     <item drawable="tvguo"/>
     <item drawable="tvlive"/>
     <item drawable="twitch"/>
@@ -1592,6 +1609,7 @@
     <item drawable="va_exposed"/>
     <item drawable="vainglory"/>
     <item drawable="vbill_plus"/>
+    <item drawable="vcamera"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="video_downloader_for_instagram"/>
@@ -1759,6 +1777,7 @@
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
+    <item drawable="youzan"/>
     <item drawable="yqlfc"/>
     <item drawable="yuedong_sport"/>
     <item drawable="yuncanmou"/>

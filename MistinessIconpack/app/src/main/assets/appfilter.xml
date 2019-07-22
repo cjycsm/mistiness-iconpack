@@ -9045,4 +9045,120 @@
         component="ComponentInfo{com.lion.market/com.lion.market.app.InitiateActivity}"
         drawable="lion_market"/>
 
+    <item
+        component="ComponentInfo{com.xyoye.dandanplay/com.xyoye.dandanplay.ui.activities.OpenActivity}"
+        drawable="dandanplay"/>
+
+    <item
+        component="ComponentInfo{com.vyou.vcameraclient/com.vyou.app.ui.activity.SplashActivity}"
+        drawable="vcamera"/>
+
+    <item
+        component="ComponentInfo{org.noear.ddcat/org.noear.ddcat.controller.HomeNavigationActivity}"
+        drawable="ddcat"/>
+
+    <item
+        component="ComponentInfo{com.chinalife.ehome/com.chinalife.ehome.debugtest.SetPathe}"
+        drawable="chinalife_ehome"/>
+
+    <item
+        component="ComponentInfo{app.houxu.android/app.houxu.android.MainActivity}"
+        drawable="houxv"/>
+
+    <item
+        component="ComponentInfo{com.f0208.lebo/com.zw.lebo.SplashView}"
+        drawable="lebo"/>
+
+    <item
+        component="ComponentInfo{com.leigod.accelerator/com.leigod.accelerator.ui.SplashActivity}"
+        drawable="leigod"/>
+
+    <item
+        component="ComponentInfo{com.manmanbuy.bijia/com.uzmap.pkg.EntranceActivity}"
+        drawable="manmanbuy"/>
+
+    <item
+        component="ComponentInfo{cn.silence795.meitian/cn.silence795.meitian.activity.SplashActivity}"
+        drawable="meitian"/>
+
+    <item
+        component="ComponentInfo{com.nacosiren.blog.mogiciansmanual/com.example.app.MainActivity}"
+        drawable="mogicians_manual"/>
+
+    <item
+        component="ComponentInfo{ola.com.user/ola.com.user.app.main.activity.WelcomeActivity}"
+        drawable="ola_user"/>
+
+    <item
+        component="ComponentInfo{com.tencent.cmocmna/com.tencent.mocmna.activity.SplashActivity}"
+        drawable="tencent_cmocmna"/>
+
+    <item
+        component="ComponentInfo{com.tongdaxing.tutu/com.yizhuan.erban.other.activity.SplashActivity}"
+        drawable="tutu"/>
+
+    <item
+        component="ComponentInfo{com.flypy.xh/com.osfans.trime.Pref}"
+        drawable="flypy_xh"/>
+
+    <item
+        component="ComponentInfo{com.miui.whitenoise/com.miui.whitenoise.HomeActivity2_x}"
+        drawable="miui_whitenoise"/>
+
+    <item
+        component="ComponentInfo{com.escapistgames.starchart/causallink.assets.DeepLinkBridge}"
+        drawable="starchart"/>
+
+    <item
+        component="ComponentInfo{com.starnet.rainbow.cordova/com.starnet.rainbow.main.features.appstart.presenter.AppStartActivity}"
+        drawable="starnet_rainbow"/>
+
+    <item
+        component="ComponentInfo{com.qima.mars/com.qima.mars.business.main.LauncherActivity_}"
+        drawable="youzan"/>
+
+    <item
+        component="ComponentInfo{me.piebridge.prevent/me.piebridge.prevent.ui.PreventActivity}"
+        drawable="prevent"/>
+
+    <item
+        component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop}"
+        drawable="mega"/>
+
+    <item
+        component="ComponentInfo{com.fs.camg/com.android.camera.CameraLauncher}"
+        drawable="camera"/>
+
+    <item
+        component="ComponentInfo{com.ea.simcitymobile.gc/com.ea.game.simcitymobile_row.Main}"
+        drawable="simcity"/>
+
+    <item
+        component="ComponentInfo{io.github.yueeng.hacg/io.github.yueeng.hacg.MainActivity}"
+        drawable="llss"/>
+
+    <item
+        component="ComponentInfo{com.song.woodbox/com.One.WoodenLetter.LetterActivity}"
+        drawable="wooden_letter"/>
+
+    <item
+        component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}"
+        drawable="dingtalk"/>
+
+    <item
+        component="ComponentInfo{org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic}"
+        drawable="audiofx"/>
+
+    <item
+        component="ComponentInfo{com.goyourfly.bigidea/com.test.fdialog.fdialog.cptest.FActivity}"
+        drawable="bigidea"/>
+
+    <item
+        component="ComponentInfo{com.ape.filemanager/com.ape.filemanager.FileManagerMainActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.cta/com.sonymobile.cta.SomcCTAMainActivity}"
+        drawable="safe"/>
+
 </resources>

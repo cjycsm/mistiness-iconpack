@@ -59,26 +59,25 @@
     </string-array>
 
     <string-array name="newest">
-        <item>_36kr</item>
-        <item>dm78</item>
-        <item>battery_charge_limit</item>
-        <item>cx_file_explorer</item>
-        <item>ex_kernel_manager</item>
-        <item>hi_translate</item>
-        <item>hi_vpn</item>
-        <item>instapaper</item>
-        <item>maxima</item>
-        <item>nfc_tools</item>
-        <item>nice</item>
-        <item>miband</item>
-        <item>syslock</item>
-        <item>usb_audio_player_pro</item>
-        <item>x_apm</item>
-        <item>yamibo</item>
-        <item>wybx</item>
-        <item>bitgp</item>
-        <item>lion_market</item>
-        <item>icey</item>
+        <item>dandanplay</item>
+        <item>vcamera</item>
+        <item>ddcat</item>
+        <item>chinalife_ehome</item>
+        <item>houxv</item>
+        <item>lebo</item>
+        <item>leigod</item>
+        <item>manmanbuy</item>
+        <item>meitian</item>
+        <item>mogicians_manual</item>
+        <item>ola_user</item>
+        <item>tencent_cmocmna</item>
+        <item>tutu</item>
+        <item>flypy_xh</item>
+        <item>miui_whitenoise</item>
+        <item>starchart</item>
+        <item>starnet_rainbow</item>
+        <item>youzan</item>
+        <item>prevent</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1621,6 +1620,25 @@
         <item>wybx</item>
         <item>bitgp</item>
         <item>lion_market</item>
+        <item>dandanplay</item>
+        <item>vcamera</item>
+        <item>ddcat</item>
+        <item>chinalife_ehome</item>
+        <item>houxv</item>
+        <item>lebo</item>
+        <item>leigod</item>
+        <item>manmanbuy</item>
+        <item>meitian</item>
+        <item>mogicians_manual</item>
+        <item>ola_user</item>
+        <item>tencent_cmocmna</item>
+        <item>tutu</item>
+        <item>flypy_xh</item>
+        <item>miui_whitenoise</item>
+        <item>starchart</item>
+        <item>starnet_rainbow</item>
+        <item>youzan</item>
+        <item>prevent</item>
     </string-array>
 
     <string-array name="game">

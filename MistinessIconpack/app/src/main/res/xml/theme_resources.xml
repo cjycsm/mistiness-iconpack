@@ -8971,4 +8971,120 @@
         name="com.lion.market/com.lion.market.app.InitiateActivity"
         image="lion_market"/>
 
+    <AppIcon
+        name="com.xyoye.dandanplay/com.xyoye.dandanplay.ui.activities.OpenActivity"
+        image="dandanplay"/>
+
+    <AppIcon
+        name="com.vyou.vcameraclient/com.vyou.app.ui.activity.SplashActivity"
+        image="vcamera"/>
+
+    <AppIcon
+        name="org.noear.ddcat/org.noear.ddcat.controller.HomeNavigationActivity"
+        image="ddcat"/>
+
+    <AppIcon
+        name="com.chinalife.ehome/com.chinalife.ehome.debugtest.SetPathe"
+        image="chinalife_ehome"/>
+
+    <AppIcon
+        name="app.houxu.android/app.houxu.android.MainActivity"
+        image="houxv"/>
+
+    <AppIcon
+        name="com.f0208.lebo/com.zw.lebo.SplashView"
+        image="lebo"/>
+
+    <AppIcon
+        name="com.leigod.accelerator/com.leigod.accelerator.ui.SplashActivity"
+        image="leigod"/>
+
+    <AppIcon
+        name="com.manmanbuy.bijia/com.uzmap.pkg.EntranceActivity"
+        image="manmanbuy"/>
+
+    <AppIcon
+        name="cn.silence795.meitian/cn.silence795.meitian.activity.SplashActivity"
+        image="meitian"/>
+
+    <AppIcon
+        name="com.nacosiren.blog.mogiciansmanual/com.example.app.MainActivity"
+        image="mogicians_manual"/>
+
+    <AppIcon
+        name="ola.com.user/ola.com.user.app.main.activity.WelcomeActivity"
+        image="ola_user"/>
+
+    <AppIcon
+        name="com.tencent.cmocmna/com.tencent.mocmna.activity.SplashActivity"
+        image="tencent_cmocmna"/>
+
+    <AppIcon
+        name="com.tongdaxing.tutu/com.yizhuan.erban.other.activity.SplashActivity"
+        image="tutu"/>
+
+    <AppIcon
+        name="com.flypy.xh/com.osfans.trime.Pref"
+        image="flypy_xh"/>
+
+    <AppIcon
+        name="com.miui.whitenoise/com.miui.whitenoise.HomeActivity2_x"
+        image="miui_whitenoise"/>
+
+    <AppIcon
+        name="com.escapistgames.starchart/causallink.assets.DeepLinkBridge"
+        image="starchart"/>
+
+    <AppIcon
+        name="com.starnet.rainbow.cordova/com.starnet.rainbow.main.features.appstart.presenter.AppStartActivity"
+        image="starnet_rainbow"/>
+
+    <AppIcon
+        name="com.qima.mars/com.qima.mars.business.main.LauncherActivity_"
+        image="youzan"/>
+
+    <AppIcon
+        name="me.piebridge.prevent/me.piebridge.prevent.ui.PreventActivity"
+        image="prevent"/>
+
+    <AppIcon
+        name="mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivityLollipop"
+        image="mega"/>
+
+    <AppIcon
+        name="com.fs.camg/com.android.camera.CameraLauncher"
+        image="camera"/>
+
+    <AppIcon
+        name="com.ea.simcitymobile.gc/com.ea.game.simcitymobile_row.Main"
+        image="simcity"/>
+
+    <AppIcon
+        name="io.github.yueeng.hacg/io.github.yueeng.hacg.MainActivity"
+        image="llss"/>
+
+    <AppIcon
+        name="com.song.woodbox/com.One.WoodenLetter.LetterActivity"
+        image="wooden_letter"/>
+
+    <AppIcon
+        name="com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity"
+        image="dingtalk"/>
+
+    <AppIcon
+        name="org.cyanogenmod.audiofx/org.cyanogenmod.audiofx.activity.ActivityMusic"
+        image="audiofx"/>
+
+    <AppIcon
+        name="com.goyourfly.bigidea/com.test.fdialog.fdialog.cptest.FActivity"
+        image="bigidea"/>
+
+    <AppIcon
+        name="com.ape.filemanager/com.ape.filemanager.FileManagerMainActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.sonymobile.cta/com.sonymobile.cta.SomcCTAMainActivity"
+        image="safe"/>
+
 </Theme>

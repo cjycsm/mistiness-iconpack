@@ -8857,4 +8857,120 @@
         class="com.lion.market.app.InitiateActivity"
         name="lion_market"/>
 
+    <item
+        class="com.xyoye.dandanplay.ui.activities.OpenActivity"
+        name="dandanplay"/>
+
+    <item
+        class="com.vyou.app.ui.activity.SplashActivity"
+        name="vcamera"/>
+
+    <item
+        class="org.noear.ddcat.controller.HomeNavigationActivity"
+        name="ddcat"/>
+
+    <item
+        class="com.chinalife.ehome.debugtest.SetPathe"
+        name="chinalife_ehome"/>
+
+    <item
+        class="app.houxu.android.MainActivity"
+        name="houxv"/>
+
+    <item
+        class="com.zw.lebo.SplashView"
+        name="lebo"/>
+
+    <item
+        class="com.leigod.accelerator.ui.SplashActivity"
+        name="leigod"/>
+
+    <item
+        class="com.uzmap.pkg.EntranceActivity"
+        name="manmanbuy"/>
+
+    <item
+        class="cn.silence795.meitian.activity.SplashActivity"
+        name="meitian"/>
+
+    <item
+        class="com.example.app.MainActivity"
+        name="mogicians_manual"/>
+
+    <item
+        class="ola.com.user.app.main.activity.WelcomeActivity"
+        name="ola_user"/>
+
+    <item
+        class="com.tencent.mocmna.activity.SplashActivity"
+        name="tencent_cmocmna"/>
+
+    <item
+        class="com.yizhuan.erban.other.activity.SplashActivity"
+        name="tutu"/>
+
+    <item
+        class="com.osfans.trime.Pref"
+        name="flypy_xh"/>
+
+    <item
+        class="com.miui.whitenoise.HomeActivity2_x"
+        name="miui_whitenoise"/>
+
+    <item
+        class="causallink.assets.DeepLinkBridge"
+        name="starchart"/>
+
+    <item
+        class="com.starnet.rainbow.main.features.appstart.presenter.AppStartActivity"
+        name="starnet_rainbow"/>
+
+    <item
+        class="com.qima.mars.business.main.LauncherActivity_"
+        name="youzan"/>
+
+    <item
+        class="me.piebridge.prevent.ui.PreventActivity"
+        name="prevent"/>
+
+    <item
+        class="mega.privacy.android.app.lollipop.ManagerActivityLollipop"
+        name="mega"/>
+
+    <item
+        class="com.android.camera.CameraLauncher"
+        name="camera"/>
+
+    <item
+        class="com.ea.game.simcitymobile_row.Main"
+        name="simcity"/>
+
+    <item
+        class="io.github.yueeng.hacg.MainActivity"
+        name="llss"/>
+
+    <item
+        class="com.One.WoodenLetter.LetterActivity"
+        name="wooden_letter"/>
+
+    <item
+        class="com.alibaba.android.rimet.biz.LaunchHomeActivity"
+        name="dingtalk"/>
+
+    <item
+        class="org.cyanogenmod.audiofx.activity.ActivityMusic"
+        name="audiofx"/>
+
+    <item
+        class="com.test.fdialog.fdialog.cptest.FActivity"
+        name="bigidea"/>
+
+    <item
+        class="com.ape.filemanager.FileManagerMainActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.sonymobile.cta.SomcCTAMainActivity"
+        name="safe"/>
+
 </appmap>
