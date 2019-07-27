@@ -59,29 +59,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>dandanplay</item>
-        <item>vcamera</item>
-        <item>ddcat</item>
-        <item>chinalife_ehome</item>
-        <item>houxv</item>
-        <item>lebo</item>
-        <item>leigod</item>
-        <item>manmanbuy</item>
-        <item>meitian</item>
-        <item>mogicians_manual</item>
-        <item>ola_user</item>
-        <item>tencent_cmocmna</item>
-        <item>tutu</item>
-        <item>flypy_xh</item>
-        <item>miui_whitenoise</item>
-        <item>starchart</item>
-        <item>starnet_rainbow</item>
-        <item>youzan</item>
-        <item>prevent</item>
+        <item>huawei_gms_installer</item>
+        <item>apk_modifier</item>
+        <item>daily_ui</item>
+        <item>gdong</item>
+        <item>pubg_tool</item>
+        <item>timber</item>
+        <item>fashion_iconpack</item>
+        <item>hhmss</item>
+        <item>shift_table</item>
+        <item>prana_breath</item>
+        <item>qianer</item>
+        <item>xichuangzhu</item>
+        <item>gamersky</item>
+        <item>microsoft_photos_companion</item>
+        <item>jpzmg</item>
+        <item>geometry_jump</item>
     </string-array>
 
     <string-array name="upgrade">
-
+        <item>bmap</item>
     </string-array>
 
     <string-array name="application">
@@ -1639,6 +1636,19 @@
         <item>starnet_rainbow</item>
         <item>youzan</item>
         <item>prevent</item>
+        <item>apk_modifier</item>
+        <item>daily_ui</item>
+        <item>gdong</item>
+        <item>pubg_tool</item>
+        <item>timber</item>
+        <item>fashion_iconpack</item>
+        <item>hhmss</item>
+        <item>shift_table</item>
+        <item>prana_breath</item>
+        <item>qianer</item>
+        <item>xichuangzhu</item>
+        <item>gamersky</item>
+        <item>microsoft_photos_companion</item>
     </string-array>
 
     <string-array name="game">
@@ -1737,6 +1747,8 @@
         <item>loner</item>
         <item>warship</item>
         <item>icey</item>
+        <item>jpzmg</item>
+        <item>geometry_jump</item>
     </string-array>
 
     <string-array name="basic">
@@ -1867,6 +1879,7 @@
         <item>huawei_smarthome</item>
         <item>huawei_3d_live_maker</item>
         <item>huawei_mycenter</item>
+        <item>huawei_gms_installer</item>
     </string-array>
 
     <string-array name="nokia">

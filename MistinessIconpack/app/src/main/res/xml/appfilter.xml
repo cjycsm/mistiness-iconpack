@@ -9161,4 +9161,92 @@
         component="ComponentInfo{com.sonymobile.cta/com.sonymobile.cta.SomcCTAMainActivity}"
         drawable="safe"/>
 
+    <item
+        component="ComponentInfo{zhao.apkmodifier/zhao.apkmodifier.ApkModifier}"
+        drawable="apk_modifier"/>
+
+    <item
+        component="ComponentInfo{dailyui.kustom.pack/org.kustom.api.dashboard.DashboardActivity}"
+        drawable="daily_ui"/>
+
+    <item
+        component="ComponentInfo{com.huawei.gmsinstaller/com.huawei.gms.InstallActivity}"
+        drawable="huawei_gms_installer"/>
+
+    <item
+        component="ComponentInfo{com.beevle.xz.renxing.gdong/com.beevle.xz.renxing.gdong.registlogin.WelcomeActivity}"
+        drawable="gdong"/>
+
+    <item
+        component="ComponentInfo{com.yaxisvip.tool.pubg/com.e4a.runtime.android.StartActivity}"
+        drawable="pubg_tool"/>
+
+    <item
+        component="ComponentInfo{xeus.timbre/xeus.timbre.ui.main.MainActivity}"
+        drawable="timber"/>
+
+    <item
+        component="ComponentInfo{person.cjy.iconpack.fashion/person.cjy.iconpack.fashion.MainActivity}"
+        drawable="fashion_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.hhmss.verticalsearch/com.ihuayue.verticalsearch.common.ui.activity.SplashActivity}"
+        drawable="hhmss"/>
+
+    <item
+        component="ComponentInfo{com.anzhuojpzmg.ckhd.mz/com.ck.sdk.SplashActivity}"
+        drawable="jpzmg"/>
+
+    <item
+        component="ComponentInfo{com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump}"
+        drawable="geometry_jump"/>
+
+    <item
+        component="ComponentInfo{lincyu.shifttable/lincyu.shifttable.MainActivity}"
+        drawable="shift_table"/>
+
+    <item
+        component="ComponentInfo{com.abdula.pranabreath/com.abdula.pranabreath.view.activities.MainActivity}"
+        drawable="prana_breath"/>
+
+    <item
+        component="ComponentInfo{com.qianer.android/com.qianer.android.SplashActivity}"
+        drawable="qianer"/>
+
+    <item
+        component="ComponentInfo{com.hustzp.com.xichuangzhu/com.hustzp.com.xichuangzhu.SplashActivity}"
+        drawable="xichuangzhu"/>
+
+    <item
+        component="ComponentInfo{com.gamersky/com.gamersky.ui.welcome.WelcomeActivity}"
+        drawable="gamersky"/>
+
+    <item
+        component="ComponentInfo{com.microsoft.PhotosCompanion/md5b5b858fe62a02ce0e2eaf09bebdb581a.SplashActivity}"
+        drawable="microsoft_photos_companion"/>
+
+    <item
+        component="ComponentInfo{cn.ikicker.moviefans.RatCrack/cn.ikicker.moviefans.ui.activity.MainActivity}"
+        drawable="moviefans"/>
+
+    <item
+        component="ComponentInfo{com.zidongdianji/com.autoclicker.clicker.ads.SplashActivity}"
+        drawable="zidongdianji"/>
+
+    <item
+        component="ComponentInfo{com.perol.asdpl.play.pixivez/com.perol.asdpl.pixivez.triangle}"
+        drawable="pixivez"/>
+
+    <item
+        component="ComponentInfo{com.luren.videocollect.media/tech.kedou.video.module.common.WelcomeActivity}"
+        drawable="pt_video"/>
+
+    <item
+        component="ComponentInfo{com.chinalife.ehome/com.chinalife.ehome.mainActivity}"
+        drawable="chinalife_ehome"/>
+
+    <item
+        component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity}"
+        drawable="bmap"/>
+
 </resources>

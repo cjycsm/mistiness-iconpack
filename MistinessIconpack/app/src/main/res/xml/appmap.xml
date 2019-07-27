@@ -8973,4 +8973,92 @@
         class="com.sonymobile.cta.SomcCTAMainActivity"
         name="safe"/>
 
+    <item
+        class="zhao.apkmodifier.ApkModifier"
+        name="apk_modifier"/>
+
+    <item
+        class="org.kustom.api.dashboard.DashboardActivity"
+        name="daily_ui"/>
+
+    <item
+        class="com.huawei.gms.InstallActivity"
+        name="huawei_gms_installer"/>
+
+    <item
+        class="com.beevle.xz.renxing.gdong.registlogin.WelcomeActivity"
+        name="gdong"/>
+
+    <item
+        class="com.e4a.runtime.android.StartActivity"
+        name="pubg_tool"/>
+
+    <item
+        class="xeus.timbre.ui.main.MainActivity"
+        name="timber"/>
+
+    <item
+        class="person.cjy.iconpack.fashion.MainActivity"
+        name="fashion_iconpack"/>
+
+    <item
+        class="com.ihuayue.verticalsearch.common.ui.activity.SplashActivity"
+        name="hhmss"/>
+
+    <item
+        class="com.ck.sdk.SplashActivity"
+        name="jpzmg"/>
+
+    <item
+        class="com.robtopx.geometryjump.GeometryJump"
+        name="geometry_jump"/>
+
+    <item
+        class="lincyu.shifttable.MainActivity"
+        name="shift_table"/>
+
+    <item
+        class="com.abdula.pranabreath.view.activities.MainActivity"
+        name="prana_breath"/>
+
+    <item
+        class="com.qianer.android.SplashActivity"
+        name="qianer"/>
+
+    <item
+        class="com.hustzp.com.xichuangzhu.SplashActivity"
+        name="xichuangzhu"/>
+
+    <item
+        class="com.gamersky.ui.welcome.WelcomeActivity"
+        name="gamersky"/>
+
+    <item
+        class="md5b5b858fe62a02ce0e2eaf09bebdb581a.SplashActivity"
+        name="microsoft_photos_companion"/>
+
+    <item
+        class="cn.ikicker.moviefans.ui.activity.MainActivity"
+        name="moviefans"/>
+
+    <item
+        class="com.autoclicker.clicker.ads.SplashActivity"
+        name="zidongdianji"/>
+
+    <item
+        class="com.perol.asdpl.pixivez.triangle"
+        name="pixivez"/>
+
+    <item
+        class="tech.kedou.video.module.common.WelcomeActivity"
+        name="pt_video"/>
+
+    <item
+        class="com.chinalife.ehome.mainActivity"
+        name="chinalife_ehome"/>
+
+    <item
+        class="me.gfuil.bmap.StartActivity"
+        name="bmap"/>
+
 </appmap>

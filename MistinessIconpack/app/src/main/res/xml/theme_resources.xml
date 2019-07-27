@@ -9087,4 +9087,92 @@
         name="com.sonymobile.cta/com.sonymobile.cta.SomcCTAMainActivity"
         image="safe"/>
 
+    <AppIcon
+        name="zhao.apkmodifier/zhao.apkmodifier.ApkModifier"
+        image="apk_modifier"/>
+
+    <AppIcon
+        name="dailyui.kustom.pack/org.kustom.api.dashboard.DashboardActivity"
+        image="daily_ui"/>
+
+    <AppIcon
+        name="com.huawei.gmsinstaller/com.huawei.gms.InstallActivity"
+        image="huawei_gms_installer"/>
+
+    <AppIcon
+        name="com.beevle.xz.renxing.gdong/com.beevle.xz.renxing.gdong.registlogin.WelcomeActivity"
+        image="gdong"/>
+
+    <AppIcon
+        name="com.yaxisvip.tool.pubg/com.e4a.runtime.android.StartActivity"
+        image="pubg_tool"/>
+
+    <AppIcon
+        name="xeus.timbre/xeus.timbre.ui.main.MainActivity"
+        image="timber"/>
+
+    <AppIcon
+        name="person.cjy.iconpack.fashion/person.cjy.iconpack.fashion.MainActivity"
+        image="fashion_iconpack"/>
+
+    <AppIcon
+        name="com.hhmss.verticalsearch/com.ihuayue.verticalsearch.common.ui.activity.SplashActivity"
+        image="hhmss"/>
+
+    <AppIcon
+        name="com.anzhuojpzmg.ckhd.mz/com.ck.sdk.SplashActivity"
+        image="jpzmg"/>
+
+    <AppIcon
+        name="com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump"
+        image="geometry_jump"/>
+
+    <AppIcon
+        name="lincyu.shifttable/lincyu.shifttable.MainActivity"
+        image="shift_table"/>
+
+    <AppIcon
+        name="com.abdula.pranabreath/com.abdula.pranabreath.view.activities.MainActivity"
+        image="prana_breath"/>
+
+    <AppIcon
+        name="com.qianer.android/com.qianer.android.SplashActivity"
+        image="qianer"/>
+
+    <AppIcon
+        name="com.hustzp.com.xichuangzhu/com.hustzp.com.xichuangzhu.SplashActivity"
+        image="xichuangzhu"/>
+
+    <AppIcon
+        name="com.gamersky/com.gamersky.ui.welcome.WelcomeActivity"
+        image="gamersky"/>
+
+    <AppIcon
+        name="com.microsoft.PhotosCompanion/md5b5b858fe62a02ce0e2eaf09bebdb581a.SplashActivity"
+        image="microsoft_photos_companion"/>
+
+    <AppIcon
+        name="cn.ikicker.moviefans.RatCrack/cn.ikicker.moviefans.ui.activity.MainActivity"
+        image="moviefans"/>
+
+    <AppIcon
+        name="com.zidongdianji/com.autoclicker.clicker.ads.SplashActivity"
+        image="zidongdianji"/>
+
+    <AppIcon
+        name="com.perol.asdpl.play.pixivez/com.perol.asdpl.pixivez.triangle"
+        image="pixivez"/>
+
+    <AppIcon
+        name="com.luren.videocollect.media/tech.kedou.video.module.common.WelcomeActivity"
+        image="pt_video"/>
+
+    <AppIcon
+        name="com.chinalife.ehome/com.chinalife.ehome.mainActivity"
+        image="chinalife_ehome"/>
+
+    <AppIcon
+        name="me.gfuil.bmap/me.gfuil.bmap.StartActivity"
+        image="bmap"/>
+
 </Theme>

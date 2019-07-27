@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>104</version>
+    <version>105</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
@@ -79,6 +79,7 @@
     <item drawable="anyview"/>
     <item drawable="anzogame_lol"/>
     <item drawable="apk_export"/>
+    <item drawable="apk_modifier"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
     <item drawable="aplayer"/>
@@ -349,6 +350,7 @@
     <item drawable="cytus2"/>
     <item drawable="dailuobo"/>
     <item drawable="daily_task"/>
+    <item drawable="daily_ui"/>
     <item drawable="daily_yoga"/>
     <item drawable="dailyart"/>
     <item drawable="damai"/>
@@ -472,6 +474,7 @@
     <item drawable="faloo"/>
     <item drawable="fancast"/>
     <item drawable="fanli"/>
+    <item drawable="fashion_iconpack"/>
     <item drawable="fasthub"/>
     <item drawable="fasthub_alt"/>
     <item drawable="fatego"/>
@@ -536,17 +539,20 @@
     <item drawable="gallery"/>
     <item drawable="gamecenter"/>
     <item drawable="gamecores"/>
+    <item drawable="gamersky"/>
     <item drawable="ganji"/>
     <item drawable="gansu_bank"/>
     <item drawable="gaode_map"/>
     <item drawable="gboard"/>
     <item drawable="gbpassenger"/>
+    <item drawable="gdong"/>
     <item drawable="geek_time"/>
     <item drawable="geekbanch"/>
     <item drawable="geely"/>
     <item drawable="gemini_iconpack"/>
     <item drawable="geography"/>
     <item drawable="geometric_weather"/>
+    <item drawable="geometry_jump"/>
     <item drawable="gfx_tool"/>
     <item drawable="ghost_vpn"/>
     <item drawable="ghosun_dict"/>
@@ -632,6 +638,7 @@
     <item drawable="hexin_bank"/>
     <item drawable="hfcard"/>
     <item drawable="hfs_plus"/>
+    <item drawable="hhmss"/>
     <item drawable="hi"/>
     <item drawable="hi_translate"/>
     <item drawable="hi_vpn"/>
@@ -654,6 +661,7 @@
     <item drawable="huawei_ds"/>
     <item drawable="huawei_fans"/>
     <item drawable="huawei_find_my_phone"/>
+    <item drawable="huawei_gms_installer"/>
     <item drawable="huawei_health"/>
     <item drawable="huawei_hiskytone"/>
     <item drawable="huawei_hisuite"/>
@@ -746,6 +754,7 @@
     <item drawable="joi_player"/>
     <item drawable="journey"/>
     <item drawable="joyme"/>
+    <item drawable="jpzmg"/>
     <item drawable="jrcb"/>
     <item drawable="jumei"/>
     <item drawable="juzimi"/>
@@ -932,6 +941,7 @@
     <item drawable="microsoft_office_hub"/>
     <item drawable="microsoft_onenote"/>
     <item drawable="microsoft_outlook"/>
+    <item drawable="microsoft_photos_companion"/>
     <item drawable="microsoft_powerpoint"/>
     <item drawable="microsoft_rdc"/>
     <item drawable="microsoft_skydrive"/>
@@ -1179,6 +1189,7 @@
     <item drawable="pplive"/>
     <item drawable="pplive_sport"/>
     <item drawable="ppsspp"/>
+    <item drawable="prana_breath"/>
     <item drawable="prevent"/>
     <item drawable="prisma"/>
     <item drawable="prod_dialer"/>
@@ -1186,6 +1197,7 @@
     <item drawable="psiphon3"/>
     <item drawable="pt_video"/>
     <item drawable="pu"/>
+    <item drawable="pubg_tool"/>
     <item drawable="pudding"/>
     <item drawable="pure"/>
     <item drawable="pure_browser"/>
@@ -1198,6 +1210,7 @@
     <item drawable="qdaily"/>
     <item drawable="qeebo_geek"/>
     <item drawable="qeeyou"/>
+    <item drawable="qianer"/>
     <item drawable="qianji"/>
     <item drawable="qidian"/>
     <item drawable="qidian_novel"/>
@@ -1324,6 +1337,7 @@
     <item drawable="shbank"/>
     <item drawable="shelled_pro"/>
     <item drawable="sheyingbiji"/>
+    <item drawable="shift_table"/>
     <item drawable="shimowendang"/>
     <item drawable="shimowendang_alt"/>
     <item drawable="shishi"/>
@@ -1554,6 +1568,7 @@
     <item drawable="tieyou"/>
     <item drawable="tiktok"/>
     <item drawable="tim"/>
+    <item drawable="timber"/>
     <item drawable="time"/>
     <item drawable="timetable"/>
     <item drawable="timetree"/>
@@ -1729,6 +1744,7 @@
     <item drawable="xiaoyi_carcamera"/>
     <item drawable="xiaoying"/>
     <item drawable="xiaozhu"/>
+    <item drawable="xichuangzhu"/>
     <item drawable="ximalaya"/>
     <item drawable="xingkong"/>
     <item drawable="xingkong_alt"/>
