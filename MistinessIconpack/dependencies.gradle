@@ -15,14 +15,18 @@
  */
 ext.versions = [
         // Projects
-        minSdk    : 16,
-        targetSdk : 28,
-        buildTools: '28.0.3',
+        minSdk     : 16,
+        targetSdk  : 29,
+        buildTools : '29.0.2',
         // Gradle Plugins
-        gradle    : '3.3.2',
-        kotlin    : '1.3.21',
+        gradle     : '3.5.0',
+        kotlin     : '1.3.50',
+        libs       : '2.1',
         // Dependencies
-        oneSignal : '3.10.7'
+        kuper      : '1.7.1',
+        counterFab : '1.2.1',
+        fuel       : '1.16.0',
+        oneSignal  : '3.11.3'
 ]
 
 ext.gradlePlugins = [
@@ -33,5 +37,11 @@ ext.gradlePlugins = [
 
 ext.libraries = [
         // OneSignal
-        oneSignal: 'com.onesignal:OneSignal:' + versions.oneSignal
+        oneSignal: 'com.onesignal:OneSignal:' + versions.oneSignal,
+        // CounterFab
+        counterFab: 'com.github.andremion:counterfab:' + versions.counterFab,
+        // Fuel
+        fuel      : 'com.github.kittinunf.fuel:fuel-android:' + versions.fuel,
+        // OneSignal
+        oneSignal : 'com.onesignal:OneSignal:' + versions.oneSignal
 ]

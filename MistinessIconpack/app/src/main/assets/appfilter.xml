@@ -9249,4 +9249,124 @@
         component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity}"
         drawable="bmap"/>
 
+    <item
+        component="ComponentInfo{com.HaoTuBang.H3DBodyFree/com.HaoTuBang.H3DBodyFree.modules.login.activity.SpalashActivity}"
+        drawable="_3d_body"/>
+
+    <item
+        component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}"
+        drawable="cnn"/>
+
+    <item
+        component="ComponentInfo{com.diigo.android/com.diigo.android.ui.login.SignInOrUpActivity}"
+        drawable="diigo"/>
+
+    <item
+        component="ComponentInfo{com.overlook.android.fing/com.overlook.android.fing.SplashActivity}"
+        drawable="fing"/>
+
+    <item
+        component="ComponentInfo{com.gomasterapp.gomaster/com.gomasterapp.gomaster.MainActivity}"
+        drawable="go_master"/>
+
+    <item
+        component="ComponentInfo{com.getsomeheadspace.android/com.getsomeheadspace.android.ui.feature.splashscreen.SplashActivity}"
+        drawable="head_space"/>
+
+    <item
+        component="ComponentInfo{com.picasso.iconpack/com.picasso.iconpack.activities.SplashActivity}"
+        drawable="picasso_iconpack"/>
+
+    <item
+        component="ComponentInfo{com.quora.android/com.quora.android.components.activities.LauncherActivity}"
+        drawable="quoar"/>
+
+    <item
+        component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}"
+        drawable="series_guide"/>
+
+    <item
+        component="ComponentInfo{com.vitotechnology.StarWalk2/com.vitotechnology.common.GooglePlayBillingActivityFirebase}"
+        drawable="star_walk_2"/>
+
+    <item
+        component="ComponentInfo{com.guardian/com.guardian.feature.stream.NewHomeActivity}"
+        drawable="guardian"/>
+
+    <item
+        component="ComponentInfo{com.EXI.vivotheme/com.androlua.Welcome}"
+        drawable="vivo_theme"/>
+
+    <item
+        component="ComponentInfo{cn.com.essence.stock/cn.com.essence.activity.LauncherActivity}"
+        drawable="essence_stock"/>
+
+    <item
+        component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}"
+        drawable="apkpure"/>
+
+    <item
+        component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity}"
+        drawable="zlive"/>
+
+    <item
+        component="ComponentInfo{com.androlua.compass/com.androlua.Welcome}"
+        drawable="compass"/>
+
+    <item
+        component="ComponentInfo{com.flash.download/com.example.dwd.myapplication.activity.SplashActivity}"
+        drawable="flash_download"/>
+
+    <item
+        component="ComponentInfo{com.dyh.movienow/com.dyh.movienow.ui.home.SplashMainActivity}"
+        drawable="movienow"/>
+
+    <item
+        component="ComponentInfo{com.cndatacom.campus.cdccportalgd/com.cndatacom.cnportalclient.MainActivity}"
+        drawable="ct_campus"/>
+
+    <item
+        component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}"
+        drawable="mt"/>
+
+    <item
+        component="ComponentInfo{com.manmanbuy.bijia/com.manmanbuy.bijia.MainActivity}"
+        drawable="manmanbuy"/>
+
+    <item
+        component="ComponentInfo{com.baidu.tbflutterlite/com.baidu.tbflutterlite.MainActivity}"
+        drawable="tieba_mini"/>
+
+    <item
+        component="ComponentInfo{make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.SplashActivity}"
+        drawable="cellular_z"/>
+
+    <item
+        component="ComponentInfo{com.torment.news/com.torment.news.ui.StartActivity}"
+        drawable="torment_news"/>
+
+    <item
+        component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}"
+        drawable="retor_music"/>
+
+    <item
+        component="ComponentInfo{com.tencent.research.drop/com.tencent.research.drop.ui.main.MainActivity}"
+        drawable="qq_video"/>
+
+    <item
+        component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity}"
+        drawable="smzdm"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}"
+        drawable="mms"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}"
+        drawable="gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
+        drawable="contacts"/>
+
 </resources>

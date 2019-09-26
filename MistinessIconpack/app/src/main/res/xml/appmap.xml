@@ -9061,4 +9061,124 @@
         class="me.gfuil.bmap.StartActivity"
         name="bmap"/>
 
+    <item
+        class="com.HaoTuBang.H3DBodyFree.modules.login.activity.SpalashActivity"
+        name="_3d_body"/>
+
+    <item
+        class="com.cnn.mobile.android.phone.features.splash.SplashActivity"
+        name="cnn"/>
+
+    <item
+        class="com.diigo.android.ui.login.SignInOrUpActivity"
+        name="diigo"/>
+
+    <item
+        class="com.overlook.android.fing.SplashActivity"
+        name="fing"/>
+
+    <item
+        class="com.gomasterapp.gomaster.MainActivity"
+        name="go_master"/>
+
+    <item
+        class="com.getsomeheadspace.android.ui.feature.splashscreen.SplashActivity"
+        name="head_space"/>
+
+    <item
+        class="com.picasso.iconpack.activities.SplashActivity"
+        name="picasso_iconpack"/>
+
+    <item
+        class="com.quora.android.components.activities.LauncherActivity"
+        name="quoar"/>
+
+    <item
+        class="com.battlelancer.seriesguide.ui.ShowsActivity"
+        name="series_guide"/>
+
+    <item
+        class="com.vitotechnology.common.GooglePlayBillingActivityFirebase"
+        name="star_walk_2"/>
+
+    <item
+        class="com.guardian.feature.stream.NewHomeActivity"
+        name="guardian"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="vivo_theme"/>
+
+    <item
+        class="cn.com.essence.activity.LauncherActivity"
+        name="essence_stock"/>
+
+    <item
+        class="com.apkpure.aegon.main.activity.SplashActivity"
+        name="apkpure"/>
+
+    <item
+        class="com.linroid.zlive.screen.host.HostActivity"
+        name="zlive"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="compass"/>
+
+    <item
+        class="com.example.dwd.myapplication.activity.SplashActivity"
+        name="flash_download"/>
+
+    <item
+        class="com.dyh.movienow.ui.home.SplashMainActivity"
+        name="movienow"/>
+
+    <item
+        class="com.cndatacom.cnportalclient.MainActivity"
+        name="ct_campus"/>
+
+    <item
+        class="bin.mt.plus.Main"
+        name="mt"/>
+
+    <item
+        class="com.manmanbuy.bijia.MainActivity"
+        name="manmanbuy"/>
+
+    <item
+        class="com.baidu.tbflutterlite.MainActivity"
+        name="tieba_mini"/>
+
+    <item
+        class="make.more.r2d2.cellular_z.activity.SplashActivity"
+        name="cellular_z"/>
+
+    <item
+        class="com.torment.news.ui.StartActivity"
+        name="torment_news"/>
+
+    <item
+        class="code.name.monkey.retromusic.activities.MainActivity"
+        name="retor_music"/>
+
+    <item
+        class="com.tencent.research.drop.ui.main.MainActivity"
+        name="qq_video"/>
+
+    <item
+        class="com.smzdm.client.android.welcome.WelComeActivity"
+        name="smzdm"/>
+
+    <item
+        class="com.android.mms.ui.ConversationList"
+        name="mms"/>
+
+    <item
+        class="com.oneplus.gamespace.ui.main.MainActivity"
+        name="gamecenter"/>
+
+    <item
+        class="com.oneplus.contacts.activities.OPPeopleActivity"
+        name="contacts"/>
+
 </appmap>

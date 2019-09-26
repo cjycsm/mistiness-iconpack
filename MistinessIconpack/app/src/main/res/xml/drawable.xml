@@ -19,10 +19,11 @@
   -->
 
 <resources>
-    <version>106</version>
+    <version>107</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
+    <item drawable="_3d_body"/>
     <item drawable="abc"/>
     <item drawable="abi"/>
     <item drawable="accessibility"/>
@@ -127,7 +128,6 @@
     <item drawable="baidu_ime"/>
     <item drawable="baidu_lite"/>
     <item drawable="baidu_netdisk"/>
-    <item drawable="baidu_netdisk_alt"/>
     <item drawable="baidu_nuomi"/>
     <item drawable="baidu_searchcraft"/>
     <item drawable="baidu_tieba"/>
@@ -297,6 +297,7 @@
     <item drawable="cms"/>
     <item drawable="cmvideo"/>
     <item drawable="cnki"/>
+    <item drawable="cnn"/>
     <item drawable="cntv"/>
     <item drawable="cnvcs_gomoku"/>
     <item drawable="cnvcs_xiangqi"/>
@@ -378,6 +379,7 @@
     <item drawable="didi"/>
     <item drawable="digit"/>
     <item drawable="diguayouxi"/>
+    <item drawable="diigo"/>
     <item drawable="dingtalk"/>
     <item drawable="dingying_wisdom_bus"/>
     <item drawable="dir"/>
@@ -446,6 +448,7 @@
     <item drawable="erbing"/>
     <item drawable="esbook_reader"/>
     <item drawable="esports"/>
+    <item drawable="essence_stock"/>
     <item drawable="estrongs"/>
     <item drawable="etao"/>
     <item drawable="eudic"/>
@@ -492,6 +495,7 @@
     <item drawable="file_manager"/>
     <item drawable="filmorago"/>
     <item drawable="filmorago_alt"/>
+    <item drawable="fing"/>
     <item drawable="fingerprint_pay"/>
     <item drawable="firebear"/>
     <item drawable="firefox"/>
@@ -562,6 +566,7 @@
     <item drawable="glodon"/>
     <item drawable="glow"/>
     <item drawable="go_hosts"/>
+    <item drawable="go_master"/>
     <item drawable="gofun"/>
     <item drawable="gold"/>
     <item drawable="google"/>
@@ -612,6 +617,7 @@
     <item drawable="gtgj"/>
     <item drawable="gtja"/>
     <item drawable="guangyangyundong"/>
+    <item drawable="guardian"/>
     <item drawable="guitar_tuna"/>
     <item drawable="guokr"/>
     <item drawable="gushiwen"/>
@@ -628,6 +634,7 @@
     <item drawable="happy_booker"/>
     <item drawable="happyelements"/>
     <item drawable="haval"/>
+    <item drawable="head_space"/>
     <item drawable="hearthstone"/>
     <item drawable="heike"/>
     <item drawable="hellobike"/>
@@ -1147,6 +1154,7 @@
     <item drawable="photomath"/>
     <item drawable="pic_folder"/>
     <item drawable="picacomic"/>
+    <item drawable="picasso_iconpack"/>
     <item drawable="piccool"/>
     <item drawable="picsart"/>
     <item drawable="pieplus"/>
@@ -1249,6 +1257,7 @@
     <item drawable="quizlet"/>
     <item drawable="qukan"/>
     <item drawable="qunar"/>
+    <item drawable="quoar"/>
     <item drawable="quqi"/>
     <item drawable="qyer"/>
     <item drawable="qymovie"/>
@@ -1315,6 +1324,7 @@
     <item drawable="seekbooks"/>
     <item drawable="seeyou"/>
     <item drawable="send_anywhere"/>
+    <item drawable="series_guide"/>
     <item drawable="settings"/>
     <item drawable="sf"/>
     <item drawable="sfacg"/>
@@ -1418,6 +1428,7 @@
     <item drawable="ssly"/>
     <item drawable="sspai"/>
     <item drawable="ssxs"/>
+    <item drawable="star_walk_2"/>
     <item drawable="star_wars"/>
     <item drawable="starbucks"/>
     <item drawable="starchart"/>
@@ -1638,6 +1649,7 @@
     <item drawable="vivo_agent"/>
     <item drawable="vivo_easyshare"/>
     <item drawable="vivo_space"/>
+    <item drawable="vivo_theme"/>
     <item drawable="vlc"/>
     <item drawable="vmail"/>
     <item drawable="vnc_viewer"/>

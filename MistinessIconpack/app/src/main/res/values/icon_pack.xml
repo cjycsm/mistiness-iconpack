@@ -59,26 +59,24 @@
     </string-array>
 
     <string-array name="newest">
-        <item>huawei_gms_installer</item>
-        <item>apk_modifier</item>
-        <item>daily_ui</item>
-        <item>gdong</item>
-        <item>pubg_tool</item>
-        <item>timber</item>
-        <item>fashion_iconpack</item>
-        <item>hhmss</item>
-        <item>shift_table</item>
-        <item>prana_breath</item>
-        <item>qianer</item>
-        <item>xichuangzhu</item>
-        <item>gamersky</item>
-        <item>microsoft_photos_companion</item>
-        <item>jpzmg</item>
-        <item>geometry_jump</item>
+        <item>_3d_body</item>
+        <item>cnn</item>
+        <item>diigo</item>
+        <item>fing</item>
+        <item>head_space</item>
+        <item>picasso_iconpack</item>
+        <item>quoar</item>
+        <item>series_guide</item>
+        <item>star_walk_2</item>
+        <item>guardian</item>
+        <item>vivo_theme</item>
+        <item>essence_stock</item>
+        <item>go_master</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>bmap</item>
+        <item>baidu_netdisk</item>
+        <item>retor_music</item>
     </string-array>
 
     <string-array name="application">
@@ -87,7 +85,6 @@
         <item>anjian</item>
         <item>baicizhan</item>
         <item>baidu_netdisk</item>
-        <item>baidu_netdisk_alt</item>
         <item>bilibili</item>
         <item>bilibili_alt</item>
         <item>bilibili_blue</item>
@@ -716,7 +713,6 @@
         <item>edgeaction</item>
         <item>emui_themeeditor</item>
         <item>fasthub</item>
-        <item>fasthub_alt</item>
         <item>feendly</item>
         <item>flamingo</item>
         <item>floatify</item>
@@ -1649,6 +1645,18 @@
         <item>xichuangzhu</item>
         <item>gamersky</item>
         <item>microsoft_photos_companion</item>
+        <item>_3d_body</item>
+        <item>cnn</item>
+        <item>diigo</item>
+        <item>fing</item>
+        <item>head_space</item>
+        <item>picasso_iconpack</item>
+        <item>quoar</item>
+        <item>series_guide</item>
+        <item>star_walk_2</item>
+        <item>guardian</item>
+        <item>vivo_theme</item>
+        <item>essence_stock</item>
     </string-array>
 
     <string-array name="game">
@@ -1749,6 +1757,7 @@
         <item>icey</item>
         <item>jpzmg</item>
         <item>geometry_jump</item>
+        <item>go_master</item>
     </string-array>
 
     <string-array name="basic">

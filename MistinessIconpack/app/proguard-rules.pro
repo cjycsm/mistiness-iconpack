@@ -63,6 +63,7 @@
 -dontwarn okio.**
 -dontwarn javax.annotation.**
 
+-keepattributes InnerClasses
 # Retain generic type information for use by reflection by converters and adapters.
 -keepattributes Signature
 # Retain service method parameters.

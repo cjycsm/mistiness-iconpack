@@ -15,6 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="v2.2.0" />
-    <item text="开放图标适配申请" />
+    <version title="v2.2.1" />
+    <item text="新增图标13枚" />
+    <item text="重绘图标2枚" />
+    <item text="压缩APP体积" />
+    <item text="其他修复和改进" />
 </resources>

@@ -9175,4 +9175,124 @@
         name="me.gfuil.bmap/me.gfuil.bmap.StartActivity"
         image="bmap"/>
 
+    <AppIcon
+        name="com.HaoTuBang.H3DBodyFree/com.HaoTuBang.H3DBodyFree.modules.login.activity.SpalashActivity"
+        image="_3d_body"/>
+
+    <AppIcon
+        name="com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity"
+        image="cnn"/>
+
+    <AppIcon
+        name="com.diigo.android/com.diigo.android.ui.login.SignInOrUpActivity"
+        image="diigo"/>
+
+    <AppIcon
+        name="com.overlook.android.fing/com.overlook.android.fing.SplashActivity"
+        image="fing"/>
+
+    <AppIcon
+        name="com.gomasterapp.gomaster/com.gomasterapp.gomaster.MainActivity"
+        image="go_master"/>
+
+    <AppIcon
+        name="com.getsomeheadspace.android/com.getsomeheadspace.android.ui.feature.splashscreen.SplashActivity"
+        image="head_space"/>
+
+    <AppIcon
+        name="com.picasso.iconpack/com.picasso.iconpack.activities.SplashActivity"
+        image="picasso_iconpack"/>
+
+    <AppIcon
+        name="com.quora.android/com.quora.android.components.activities.LauncherActivity"
+        image="quoar"/>
+
+    <AppIcon
+        name="com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity"
+        image="series_guide"/>
+
+    <AppIcon
+        name="com.vitotechnology.StarWalk2/com.vitotechnology.common.GooglePlayBillingActivityFirebase"
+        image="star_walk_2"/>
+
+    <AppIcon
+        name="com.guardian/com.guardian.feature.stream.NewHomeActivity"
+        image="guardian"/>
+
+    <AppIcon
+        name="com.EXI.vivotheme/com.androlua.Welcome"
+        image="vivo_theme"/>
+
+    <AppIcon
+        name="cn.com.essence.stock/cn.com.essence.activity.LauncherActivity"
+        image="essence_stock"/>
+
+    <AppIcon
+        name="com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity"
+        image="apkpure"/>
+
+    <AppIcon
+        name="com.linroid.zlive/com.linroid.zlive.screen.host.HostActivity"
+        image="zlive"/>
+
+    <AppIcon
+        name="com.androlua.compass/com.androlua.Welcome"
+        image="compass"/>
+
+    <AppIcon
+        name="com.flash.download/com.example.dwd.myapplication.activity.SplashActivity"
+        image="flash_download"/>
+
+    <AppIcon
+        name="com.dyh.movienow/com.dyh.movienow.ui.home.SplashMainActivity"
+        image="movienow"/>
+
+    <AppIcon
+        name="com.cndatacom.campus.cdccportalgd/com.cndatacom.cnportalclient.MainActivity"
+        image="ct_campus"/>
+
+    <AppIcon
+        name="bin.mt.plus/bin.mt.plus.Main"
+        image="mt"/>
+
+    <AppIcon
+        name="com.manmanbuy.bijia/com.manmanbuy.bijia.MainActivity"
+        image="manmanbuy"/>
+
+    <AppIcon
+        name="com.baidu.tbflutterlite/com.baidu.tbflutterlite.MainActivity"
+        image="tieba_mini"/>
+
+    <AppIcon
+        name="make.more.r2d2.cellular_z/make.more.r2d2.cellular_z.activity.SplashActivity"
+        image="cellular_z"/>
+
+    <AppIcon
+        name="com.torment.news/com.torment.news.ui.StartActivity"
+        image="torment_news"/>
+
+    <AppIcon
+        name="code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity"
+        image="retor_music"/>
+
+    <AppIcon
+        name="com.tencent.research.drop/com.tencent.research.drop.ui.main.MainActivity"
+        image="qq_video"/>
+
+    <AppIcon
+        name="com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity"
+        image="smzdm"/>
+
+    <AppIcon
+        name="com.oneplus.mms/com.android.mms.ui.ConversationList"
+        image="mms"/>
+
+    <AppIcon
+        name="com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity"
+        image="gamecenter"/>
+
+    <AppIcon
+        name="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
+        image="contacts"/>
+
 </Theme>
