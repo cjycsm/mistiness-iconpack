@@ -9295,4 +9295,68 @@
         name="com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity"
         image="contacts"/>
 
+    <AppIcon
+        name="com.madness.collision/com.madness.collision.SplashActivity"
+        image="banduo"/>
+
+    <AppIcon
+        name="com.lcw.easydownload/com.lcw.easydownload.activity.MainActivity"
+        image="easy_download"/>
+
+    <AppIcon
+        name="com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity"
+        image="oneplus_brickmode"/>
+
+    <AppIcon
+        name="com.datong.dict/com.datong.dict.module.home.HomeActivity"
+        image="datong_dict"/>
+
+    <AppIcon
+        name="com.hld.anzenbokusu/com.hld.anzenbokusu.splash"
+        image="second_space"/>
+
+    <AppIcon
+        name="com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity"
+        image="google_travel"/>
+
+    <AppIcon
+        name="com.turbochilli.rollingsky/com.turbochilli.rollingsky.AppActivity"
+        image="rollingsky"/>
+
+    <AppIcon
+        name="com.dyh.hiker/com.dyh.movienow.ui.home.SplashActivity"
+        image="hiker"/>
+
+    <AppIcon
+        name="com.cmcc.numberportable/com.cmcc.numberportable.activity.StartActivity"
+        image="cmcc_number_portable"/>
+
+    <AppIcon
+        name="cn.deepink.reader/cn.deepink.reader.app.main.HomeActivity"
+        image="deepink_reader"/>
+
+    <AppIcon
+        name="com.huobi/com.huobi.activity.StartFlashActivity"
+        image="huobi"/>
+
+    <AppIcon
+        name="com.ifreedomer.fuckmemory/com.ifreedomer.fuckmemory.activity.ExplainActivity"
+        image="fuck_memory"/>
+
+    <AppIcon
+        name="com.hdpfans.pockettv/com.hdpfans.app.ui.main.MainActivity"
+        image="pocket_tv"/>
+
+    <AppIcon
+        name="cn.kuwo.tingshu/cn.kuwo.player.activities.EntryActivity"
+        image="kuwo_tingshu"/>
+
+    <AppIcon
+        name="com.skyplatanus.crucio/com.skyplatanus.crucio.ui.home.SplashActivity"
+        image="kuaidian"/>
+
+    <AppIcon
+        name="com.meizu.flyme.dsgame/com.meizu.flyme.dsgame.MainActivity"
+        image="flyme_dsgame"/>
+
 </Theme>

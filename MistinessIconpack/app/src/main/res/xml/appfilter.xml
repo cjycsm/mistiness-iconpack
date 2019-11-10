@@ -9369,4 +9369,68 @@
         component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}"
         drawable="contacts"/>
 
+    <item
+        component="ComponentInfo{com.madness.collision/com.madness.collision.SplashActivity}"
+        drawable="banduo"/>
+
+    <item
+        component="ComponentInfo{com.lcw.easydownload/com.lcw.easydownload.activity.MainActivity}"
+        drawable="easy_download"/>
+
+    <item
+        component="ComponentInfo{com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity}"
+        drawable="oneplus_brickmode"/>
+
+    <item
+        component="ComponentInfo{com.datong.dict/com.datong.dict.module.home.HomeActivity}"
+        drawable="datong_dict"/>
+
+    <item
+        component="ComponentInfo{com.hld.anzenbokusu/com.hld.anzenbokusu.splash}"
+        drawable="second_space"/>
+
+    <item
+        component="ComponentInfo{com.google.android.apps.travel.onthego/com.google.android.apps.travel.onthego.activities.MainActivity}"
+        drawable="google_travel"/>
+
+    <item
+        component="ComponentInfo{com.turbochilli.rollingsky/com.turbochilli.rollingsky.AppActivity}"
+        drawable="rollingsky"/>
+
+    <item
+        component="ComponentInfo{com.dyh.hiker/com.dyh.movienow.ui.home.SplashActivity}"
+        drawable="hiker"/>
+
+    <item
+        component="ComponentInfo{com.cmcc.numberportable/com.cmcc.numberportable.activity.StartActivity}"
+        drawable="cmcc_number_portable"/>
+
+    <item
+        component="ComponentInfo{cn.deepink.reader/cn.deepink.reader.app.main.HomeActivity}"
+        drawable="deepink_reader"/>
+
+    <item
+        component="ComponentInfo{com.huobi/com.huobi.activity.StartFlashActivity}"
+        drawable="huobi"/>
+
+    <item
+        component="ComponentInfo{com.ifreedomer.fuckmemory/com.ifreedomer.fuckmemory.activity.ExplainActivity}"
+        drawable="fuck_memory"/>
+
+    <item
+        component="ComponentInfo{com.hdpfans.pockettv/com.hdpfans.app.ui.main.MainActivity}"
+        drawable="pocket_tv"/>
+
+    <item
+        component="ComponentInfo{cn.kuwo.tingshu/cn.kuwo.player.activities.EntryActivity}"
+        drawable="kuwo_tingshu"/>
+
+    <item
+        component="ComponentInfo{com.skyplatanus.crucio/com.skyplatanus.crucio.ui.home.SplashActivity}"
+        drawable="kuaidian"/>
+
+    <item
+        component="ComponentInfo{com.meizu.flyme.dsgame/com.meizu.flyme.dsgame.MainActivity}"
+        drawable="flyme_dsgame"/>
+
 </resources>

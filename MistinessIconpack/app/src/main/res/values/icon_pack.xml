@@ -59,24 +59,26 @@
     </string-array>
 
     <string-array name="newest">
-        <item>_3d_body</item>
-        <item>cnn</item>
-        <item>diigo</item>
-        <item>fing</item>
-        <item>head_space</item>
-        <item>picasso_iconpack</item>
-        <item>quoar</item>
-        <item>series_guide</item>
-        <item>star_walk_2</item>
-        <item>guardian</item>
-        <item>vivo_theme</item>
-        <item>essence_stock</item>
-        <item>go_master</item>
+        <item>flyme_dsgame</item>
+        <item>oneplus_brickmode</item>
+        <item>banduo</item>
+        <item>easy_download</item>
+        <item>datong_dict</item>
+        <item>second_space</item>
+        <item>google_travel</item>
+        <item>hiker</item>
+        <item>cmcc_number_portable</item>
+        <item>deepink_reader</item>
+        <item>huobi</item>
+        <item>fuck_memory</item>
+        <item>pocket_tv</item>
+        <item>kuwo_tingshu</item>
+        <item>kuaidian</item>
+        <item>rollingsky</item>
     </string-array>
 
     <string-array name="upgrade">
-        <item>baidu_netdisk</item>
-        <item>retor_music</item>
+
     </string-array>
 
     <string-array name="application">
@@ -1657,6 +1659,19 @@
         <item>guardian</item>
         <item>vivo_theme</item>
         <item>essence_stock</item>
+        <item>banduo</item>
+        <item>easy_download</item>
+        <item>datong_dict</item>
+        <item>second_space</item>
+        <item>google_travel</item>
+        <item>hiker</item>
+        <item>cmcc_number_portable</item>
+        <item>deepink_reader</item>
+        <item>huobi</item>
+        <item>fuck_memory</item>
+        <item>pocket_tv</item>
+        <item>kuwo_tingshu</item>
+        <item>kuaidian</item>
     </string-array>
 
     <string-array name="game">
@@ -1758,6 +1773,7 @@
         <item>jpzmg</item>
         <item>geometry_jump</item>
         <item>go_master</item>
+        <item>rollingsky</item>
     </string-array>
 
     <string-array name="basic">
@@ -1820,12 +1836,14 @@
         <item>flyme_video</item>
         <item>meizu_best</item>
         <item>meizu_mcare</item>
+        <item>flyme_dsgame</item>
     </string-array>
 
     <string-array name="oneplus">
         <item>oneplus_note</item>
         <item>oneplus_card</item>
         <item>oneplus_backuprestore</item>
+        <item>oneplus_brickmode</item>
     </string-array>
 
     <string-array name="mi">

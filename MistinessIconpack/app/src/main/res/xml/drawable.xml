@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>107</version>
+    <version>108</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
@@ -138,6 +138,7 @@
     <item drawable="baidumap"/>
     <item drawable="baimiao"/>
     <item drawable="band"/>
+    <item drawable="banduo"/>
     <item drawable="bandwagon_vps"/>
     <item drawable="bankcomm"/>
     <item drawable="banma"/>
@@ -287,6 +288,7 @@
     <item drawable="cmcc_jiangxi_ibelieve"/>
     <item drawable="cmcc_music"/>
     <item drawable="cmcc_ningxia"/>
+    <item drawable="cmcc_number_portable"/>
     <item drawable="cmcc_shandong"/>
     <item drawable="cmcc_shanghai"/>
     <item drawable="cmcc_shanxi"/>
@@ -360,6 +362,7 @@
     <item drawable="dandanplay"/>
     <item drawable="dangdang"/>
     <item drawable="daniu"/>
+    <item drawable="datong_dict"/>
     <item drawable="day_day_cook"/>
     <item drawable="days_matter"/>
     <item drawable="ddcat"/>
@@ -367,6 +370,7 @@
     <item drawable="ddmc"/>
     <item drawable="dedao"/>
     <item drawable="deemo"/>
+    <item drawable="deepink_reader"/>
     <item drawable="dengta_vpn"/>
     <item drawable="devcheck"/>
     <item drawable="development"/>
@@ -426,6 +430,7 @@
     <item drawable="dzh"/>
     <item drawable="eastmoney"/>
     <item drawable="eastmoney_fund"/>
+    <item drawable="easy_download"/>
     <item drawable="easy_memory_cleaner"/>
     <item drawable="easymark"/>
     <item drawable="ebay"/>
@@ -514,6 +519,7 @@
     <item drawable="flugilo_iconpack"/>
     <item drawable="fluid"/>
     <item drawable="flyme_assistant"/>
+    <item drawable="flyme_dsgame"/>
     <item drawable="flyme_gamecenter"/>
     <item drawable="flyme_music"/>
     <item drawable="flyme_roamingpay"/>
@@ -533,6 +539,7 @@
     <item drawable="free_vpn"/>
     <item drawable="freeappsnow"/>
     <item drawable="fresh_ideas"/>
+    <item drawable="fuck_memory"/>
     <item drawable="fui"/>
     <item drawable="fui_alt"/>
     <item drawable="fusionapp"/>
@@ -600,6 +607,7 @@
     <item drawable="google_play"/>
     <item drawable="google_tasks"/>
     <item drawable="google_translate"/>
+    <item drawable="google_travel"/>
     <item drawable="google_tv_remote"/>
     <item drawable="google_videos"/>
     <item drawable="google_voice"/>
@@ -650,6 +658,7 @@
     <item drawable="hi_translate"/>
     <item drawable="hi_vpn"/>
     <item drawable="hiby_music"/>
+    <item drawable="hiker"/>
     <item drawable="hippo"/>
     <item drawable="hiwifi"/>
     <item drawable="hj_wordgames"/>
@@ -691,6 +700,7 @@
     <item drawable="huluxia"/>
     <item drawable="huluxia_bbs"/>
     <item drawable="hunantv"/>
+    <item drawable="huobi"/>
     <item drawable="huochaihe"/>
     <item drawable="huoshan"/>
     <item drawable="huoshan_lite"/>
@@ -795,6 +805,7 @@
     <item drawable="kmplayerpro"/>
     <item drawable="knight"/>
     <item drawable="kongfz"/>
+    <item drawable="kuaidian"/>
     <item drawable="kuaikan_comic"/>
     <item drawable="kuaimao_video"/>
     <item drawable="kuaishou"/>
@@ -806,6 +817,7 @@
     <item drawable="kustom_wallpaper"/>
     <item drawable="kustom_widget"/>
     <item drawable="kuwo"/>
+    <item drawable="kuwo_tingshu"/>
     <item drawable="kwai_ddz"/>
     <item drawable="kwai_livepartner"/>
     <item drawable="la_systemtoolbox"/>
@@ -1110,6 +1122,7 @@
     <item drawable="onepassword_alt"/>
     <item drawable="oneplus_backuprestore"/>
     <item drawable="oneplus_bbs"/>
+    <item drawable="oneplus_brickmode"/>
     <item drawable="oneplus_card"/>
     <item drawable="oneplus_note"/>
     <item drawable="oneplus_pro"/>
@@ -1178,6 +1191,7 @@
     <item drawable="plurk"/>
     <item drawable="pmbattle"/>
     <item drawable="pmjn"/>
+    <item drawable="pocket_tv"/>
     <item drawable="poco_interphoto2"/>
     <item drawable="poco_launcher"/>
     <item drawable="poetry"/>
@@ -1283,6 +1297,7 @@
     <item drawable="review_note"/>
     <item drawable="rewind"/>
     <item drawable="ringtong"/>
+    <item drawable="rollingsky"/>
     <item drawable="root_explore"/>
     <item drawable="rosetta_stone"/>
     <item drawable="rosi"/>
@@ -1320,6 +1335,7 @@
     <item drawable="sdm"/>
     <item drawable="search"/>
     <item drawable="search_picture_tool"/>
+    <item drawable="second_space"/>
     <item drawable="secret_input"/>
     <item drawable="seekbooks"/>
     <item drawable="seeyou"/>

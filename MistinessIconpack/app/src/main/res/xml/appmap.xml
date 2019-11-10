@@ -9181,4 +9181,68 @@
         class="com.oneplus.contacts.activities.OPPeopleActivity"
         name="contacts"/>
 
+    <item
+        class="com.madness.collision.SplashActivity"
+        name="banduo"/>
+
+    <item
+        class="com.lcw.easydownload.activity.MainActivity"
+        name="easy_download"/>
+
+    <item
+        class="com.oneplus.brickmode.activity.MainControlActivity"
+        name="oneplus_brickmode"/>
+
+    <item
+        class="com.datong.dict.module.home.HomeActivity"
+        name="datong_dict"/>
+
+    <item
+        class="com.hld.anzenbokusu.splash"
+        name="second_space"/>
+
+    <item
+        class="com.google.android.apps.travel.onthego.activities.MainActivity"
+        name="google_travel"/>
+
+    <item
+        class="com.turbochilli.rollingsky.AppActivity"
+        name="rollingsky"/>
+
+    <item
+        class="com.dyh.movienow.ui.home.SplashActivity"
+        name="hiker"/>
+
+    <item
+        class="com.cmcc.numberportable.activity.StartActivity"
+        name="cmcc_number_portable"/>
+
+    <item
+        class="cn.deepink.reader.app.main.HomeActivity"
+        name="deepink_reader"/>
+
+    <item
+        class="com.huobi.activity.StartFlashActivity"
+        name="huobi"/>
+
+    <item
+        class="com.ifreedomer.fuckmemory.activity.ExplainActivity"
+        name="fuck_memory"/>
+
+    <item
+        class="com.hdpfans.app.ui.main.MainActivity"
+        name="pocket_tv"/>
+
+    <item
+        class="cn.kuwo.player.activities.EntryActivity"
+        name="kuwo_tingshu"/>
+
+    <item
+        class="com.skyplatanus.crucio.ui.home.SplashActivity"
+        name="kuaidian"/>
+
+    <item
+        class="com.meizu.flyme.dsgame.MainActivity"
+        name="flyme_dsgame"/>
+
 </appmap>
