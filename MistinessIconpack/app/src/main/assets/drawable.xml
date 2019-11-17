@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>108</version>
+    <version>109</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
@@ -63,6 +63,7 @@
     <item drawable="alipay"/>
     <item drawable="aliqin"/>
     <item drawable="aliyun"/>
+    <item drawable="allhistory"/>
     <item drawable="aloha"/>
     <item drawable="altos_adventure"/>
     <item drawable="altos_odyssey"/>
@@ -94,6 +95,7 @@
     <item drawable="ar_elements"/>
     <item drawable="arcaea"/>
     <item drawable="arena_of_valor"/>
+    <item drawable="arknights"/>
     <item drawable="armvm"/>
     <item drawable="art_station"/>
     <item drawable="article_lite"/>
@@ -187,6 +189,7 @@
     <item drawable="blocker"/>
     <item drawable="blued"/>
     <item drawable="bluemail"/>
+    <item drawable="bluewhale_vpn"/>
     <item drawable="bmap"/>
     <item drawable="boc"/>
     <item drawable="boohee"/>
@@ -251,6 +254,7 @@
     <item drawable="chinabus_lieche"/>
     <item drawable="chinabus_metor"/>
     <item drawable="chinalife_ehome"/>
+    <item drawable="chrissen_card"/>
     <item drawable="chrome"/>
     <item drawable="chrome_canary"/>
     <item drawable="chunyu_doctor"/>
@@ -364,6 +368,7 @@
     <item drawable="daniu"/>
     <item drawable="datong_dict"/>
     <item drawable="day_day_cook"/>
+    <item drawable="dayday"/>
     <item drawable="days_matter"/>
     <item drawable="ddcat"/>
     <item drawable="ddjz"/>
@@ -435,6 +440,7 @@
     <item drawable="easymark"/>
     <item drawable="ebay"/>
     <item drawable="ecalendar"/>
+    <item drawable="ecloud"/>
     <item drawable="economist"/>
     <item drawable="ecook"/>
     <item drawable="edge_gesture"/>
@@ -463,6 +469,7 @@
     <item drawable="everphoto"/>
     <item drawable="everything_done"/>
     <item drawable="evie_launcher"/>
+    <item drawable="eweiqi"/>
     <item drawable="ewt360"/>
     <item drawable="ex_kernel_manager"/>
     <item drawable="examcoo"/>
@@ -473,6 +480,7 @@
     <item drawable="exview"/>
     <item drawable="eyeem"/>
     <item drawable="eyepetizer"/>
+    <item drawable="eyeshield"/>
     <item drawable="fa_store"/>
     <item drawable="facebook"/>
     <item drawable="facebook_lite"/>
@@ -500,6 +508,7 @@
     <item drawable="file_manager"/>
     <item drawable="filmorago"/>
     <item drawable="filmorago_alt"/>
+    <item drawable="findtheway"/>
     <item drawable="fing"/>
     <item drawable="fingerprint_pay"/>
     <item drawable="firebear"/>
@@ -576,6 +585,7 @@
     <item drawable="go_master"/>
     <item drawable="gofun"/>
     <item drawable="gold"/>
+    <item drawable="golinks"/>
     <item drawable="google"/>
     <item drawable="google_assistant"/>
     <item drawable="google_authenticator"/>
@@ -851,6 +861,7 @@
     <item drawable="licaimofang"/>
     <item drawable="liebao_clean_master"/>
     <item drawable="life_is_strange"/>
+    <item drawable="lifeup"/>
     <item drawable="light"/>
     <item drawable="light_beauty"/>
     <item drawable="limbo"/>
@@ -866,6 +877,7 @@
     <item drawable="lithium"/>
     <item drawable="liulishuo_engzo"/>
     <item drawable="liuliu_music"/>
+    <item drawable="live_down"/>
     <item drawable="live_visualizer"/>
     <item drawable="lizhifm"/>
     <item drawable="ll_iconpack"/>
@@ -1268,6 +1280,7 @@
     <item drawable="quanzi"/>
     <item drawable="quark"/>
     <item drawable="quick_switcher"/>
+    <item drawable="quickpay"/>
     <item drawable="quizlet"/>
     <item drawable="qukan"/>
     <item drawable="qunar"/>
@@ -1294,6 +1307,7 @@
     <item drawable="results"/>
     <item drawable="retor_music"/>
     <item drawable="retouch"/>
+    <item drawable="reuters"/>
     <item drawable="review_note"/>
     <item drawable="rewind"/>
     <item drawable="ringtong"/>
@@ -1487,6 +1501,7 @@
     <item drawable="taichi"/>
     <item drawable="taichi_alt"/>
     <item drawable="talkmate"/>
+    <item drawable="tanke_liferecord"/>
     <item drawable="tantan"/>
     <item drawable="taobao"/>
     <item drawable="taobao_dipei"/>
@@ -1569,6 +1584,7 @@
     <item drawable="tencent_sports"/>
     <item drawable="tencent_transfer"/>
     <item drawable="tencent_translator"/>
+    <item drawable="tencent_ttwq"/>
     <item drawable="tencent_weishi"/>
     <item drawable="tencent_wepop"/>
     <item drawable="tencent_wework"/>
@@ -1622,6 +1638,7 @@
     <item drawable="tripadvisor"/>
     <item drawable="ttpic"/>
     <item drawable="tuicool"/>
+    <item drawable="tuilixy"/>
     <item drawable="tujian_r"/>
     <item drawable="tumblr"/>
     <item drawable="tumblr_alt"/>
@@ -1639,9 +1656,11 @@
     <item drawable="uc"/>
     <item drawable="umetrip"/>
     <item drawable="unicom"/>
+    <item drawable="unicom_wopay"/>
     <item drawable="unionpay"/>
     <item drawable="unity_mod_manager"/>
     <item drawable="unnoo_quan"/>
+    <item drawable="uooc"/>
     <item drawable="update"/>
     <item drawable="usage_analyzer"/>
     <item drawable="usb_audio_player_pro"/>
@@ -1691,6 +1710,7 @@
     <item drawable="waw"/>
     <item drawable="wbus"/>
     <item drawable="weather"/>
+    <item drawable="weawow"/>
     <item drawable="webank"/>
     <item drawable="wechat"/>
     <item drawable="wechat_alt"/>
@@ -1707,6 +1727,7 @@
     <item drawable="welike"/>
     <item drawable="wenshen"/>
     <item drawable="weread"/>
+    <item drawable="wgjx"/>
     <item drawable="whale_movie"/>
     <item drawable="whatsapp"/>
     <item drawable="wifi_locating"/>
@@ -1787,6 +1808,7 @@
     <item drawable="xposed_installer_alt1"/>
     <item drawable="xposed_installer_alt2"/>
     <item drawable="xposed_installer_alt3"/>
+    <item drawable="xqwdroid"/>
     <item drawable="xueba"/>
     <item drawable="xueqiu"/>
     <item drawable="xuexi"/>
@@ -1818,6 +1840,7 @@
     <item drawable="youdao_recite_word"/>
     <item drawable="youdao_sw"/>
     <item drawable="youdao_translator"/>
+    <item drawable="youka"/>
     <item drawable="youku"/>
     <item drawable="youtube"/>
     <item drawable="youtube_vanced"/>
@@ -1869,5 +1892,4 @@
     <item drawable="zxxy"/>
     <item drawable="zymk"/>
     <item drawable="zzbank"/>
-
 </resources>

@@ -59,22 +59,30 @@
     </string-array>
 
     <string-array name="newest">
-        <item>flyme_dsgame</item>
-        <item>oneplus_brickmode</item>
-        <item>banduo</item>
-        <item>easy_download</item>
-        <item>datong_dict</item>
-        <item>second_space</item>
-        <item>google_travel</item>
-        <item>hiker</item>
-        <item>cmcc_number_portable</item>
-        <item>deepink_reader</item>
-        <item>huobi</item>
-        <item>fuck_memory</item>
-        <item>pocket_tv</item>
-        <item>kuwo_tingshu</item>
-        <item>kuaidian</item>
-        <item>rollingsky</item>
+        <item>eyeshield</item>
+        <item>bluewhale_vpn</item>
+        <item>findtheway</item>
+        <item>reuters</item>
+        <item>chrissen_card</item>
+        <item>allhistory</item>
+        <item>karaoke</item>
+        <item>lifeup</item>
+        <item>quickpay</item>
+        <item>tanke_liferecord</item>
+        <item>weawow</item>
+        <item>dayday</item>
+        <item>ecloud</item>
+        <item>tuilixy</item>
+        <item>unicom_wopay</item>
+        <item>live_down</item>
+        <item>youka</item>
+        <item>uooc</item>
+        <item>arknights</item>
+        <item>tencent_ttwq</item>
+        <item>wgjx</item>
+        <item>xqwdroid</item>
+        <item>eweiqi</item>
+        <item>golinks</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1672,6 +1680,24 @@
         <item>pocket_tv</item>
         <item>kuwo_tingshu</item>
         <item>kuaidian</item>
+        <item>eyeshield</item>
+        <item>bluewhale_vpn</item>
+        <item>findtheway</item>
+        <item>reuters</item>
+        <item>chrissen_card</item>
+        <item>allhistory</item>
+        <item>karaoke</item>
+        <item>lifeup</item>
+        <item>quickpay</item>
+        <item>tanke_liferecord</item>
+        <item>weawow</item>
+        <item>dayday</item>
+        <item>ecloud</item>
+        <item>tuilixy</item>
+        <item>unicom_wopay</item>
+        <item>live_down</item>
+        <item>youka</item>
+        <item>uooc</item>
     </string-array>
 
     <string-array name="game">
@@ -1774,6 +1800,12 @@
         <item>geometry_jump</item>
         <item>go_master</item>
         <item>rollingsky</item>
+        <item>arknights</item>
+        <item>tencent_ttwq</item>
+        <item>wgjx</item>
+        <item>xqwdroid</item>
+        <item>eweiqi</item>
+        <item>golinks</item>
     </string-array>
 
     <string-array name="basic">

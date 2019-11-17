@@ -9245,4 +9245,168 @@
         class="com.meizu.flyme.dsgame.MainActivity"
         name="flyme_dsgame"/>
 
+    <item
+        class="com.ascendik.nightshift.activity.MainActivity"
+        name="eyeshield"/>
+
+    <item
+        class="com.bluewhale.vpn.shadowsocks.SplashActivity"
+        name="bluewhale_vpn"/>
+
+    <item
+        class="com.findtheway.activity.MainActivity"
+        name="findtheway"/>
+
+    <item
+        class="com.thomsonreuters.reuters.activities.SplashActivity"
+        name="reuters"/>
+
+    <item
+        class="com.chrissen.module_card.module_card.functions.splash.SplashActivity"
+        name="chrissen_card"/>
+
+    <item
+        class="com.u8.sdk.U8UnityContext"
+        name="arknights"/>
+
+    <item
+        class="com.pwrd.dls.marble.other.activity.SplashActivity"
+        name="allhistory"/>
+
+    <item
+        class="com.tencent.kg.hippy.framework.modules.launch.ui.LaunchActivity"
+        name="karaoke"/>
+
+    <item
+        class="net.sarasarasa.lifeup.activities.SplashActivity"
+        name="lifeup"/>
+
+    <item
+        class="com.sun.quickpay.MainActivity"
+        name="quickpay"/>
+
+    <item
+        class="com.liferecord.tanke.liferecord.MainActivity"
+        name="tanke_liferecord"/>
+
+    <item
+        class="com.onevcat.uniwebview.AndroidPlugin"
+        name="tencent_ttwq"/>
+
+    <item
+        class="com.weawow.MainActivity"
+        name="weawow"/>
+
+    <item
+        class="me.i38.dayday.MainActivity"
+        name="dayday"/>
+
+    <item
+        class="com.cn21.ecloud.activity.login.StartActivity"
+        name="ecloud"/>
+
+    <item
+        class="net.tuilixy.app.ui.SplashActivity"
+        name="tuilixy"/>
+
+    <item
+        class="com.harry.engine.MainActivity"
+        name="wgjx"/>
+
+    <item
+        class="com.unicom.wopay.app.MainActivity"
+        name="unicom_wopay"/>
+
+    <item
+        class="com.live.down.LaunchActivity"
+        name="live_down"/>
+
+    <item
+        class="com.jpcxc.xqwdroid.GameActivity"
+        name="xqwdroid"/>
+
+    <item
+        class="com.vmos.app.NewSurActivity"
+        name="armvm"/>
+
+    <item
+        class="com.eweiqi.android.ux.uxIntroActivity"
+        name="eweiqi"/>
+
+    <item
+        class="com.indeed.golinks.ui.SplashActivity"
+        name="golinks"/>
+
+    <item
+        class="synjones.commerce.activity.WelcomeActivity"
+        name="youka"/>
+
+    <item
+        class="uooconline.com.education.ui.activity.SplashActivity"
+        name="uooc"/>
+
+    <item
+        class="com.u8.sdk.SplashActivity"
+        name="arknights"/>
+
+    <item
+        class="jp.delightworks.Fgo.player.AndroidPlugin"
+        name="fatego"/>
+
+    <item
+        class="com.tencent.tmgp.sgamece.SGameActivity"
+        name="tencent_sgame"/>
+
+    <item
+        class="com.sec.android.app.music.common.activity.MusicMainActivity"
+        name="music"/>
+
+    <item
+        class="com.samsung.android.onlinevideo.list.activity.VideoList"
+        name="video"/>
+
+    <item
+        class="com.github.shadowsocks.Shadowsocks"
+        name="shadowsocks"/>
+
+    <item
+        class="com.biquge.ebook.app.ui.activity.WelComeActivity"
+        name="biquge"/>
+
+    <item
+        class="com.samsung.android.voc.app.LauncherActivity"
+        name="samsung_voc"/>
+
+    <item
+        class="com.tencent.qqlive.ona.activity.HomeActivity"
+        name="tencent_live"/>
+
+    <item
+        class="com.example.xf.negativeonescreen.pro.activity.LaunchActivity"
+        name="negative_one_screen"/>
+
+    <item
+        class="com.live.xxlive.ui.LaunchActivity"
+        name="huoshan"/>
+
+    <item
+        class="me.gfuil.bmap.StartActivity2"
+        name="bmap"/>
+
+    <item
+        class="com.asus.filemanages.activity.FileManagerActivity"
+        name="file_manager"/>
+
+    <item
+        class="com.tencent.appstore.splash.LogoActivity"
+        name="tencent_qqdownloader"/>
+
+    <item
+        class="com.sonymobile.assist.AssistMainActivity"
+        name="help"/>
+
+    <item
+        class="com.xiaomi.xiaoailite.presenter.activity.GuideActivity"
+        name="miui_voice_assistant"/>
+
 </appmap>

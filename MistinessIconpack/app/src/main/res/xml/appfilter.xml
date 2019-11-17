@@ -9433,4 +9433,168 @@
         component="ComponentInfo{com.meizu.flyme.dsgame/com.meizu.flyme.dsgame.MainActivity}"
         drawable="flyme_dsgame"/>
 
+    <item
+        component="ComponentInfo{com.ascendik.eyeshield/com.ascendik.nightshift.activity.MainActivity}"
+        drawable="eyeshield"/>
+
+    <item
+        component="ComponentInfo{com.bluewhale.vpn.shadowsock/com.bluewhale.vpn.shadowsocks.SplashActivity}"
+        drawable="bluewhale_vpn"/>
+
+    <item
+        component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}"
+        drawable="findtheway"/>
+
+    <item
+        component="ComponentInfo{com.thomsonreuters.reuters/com.thomsonreuters.reuters.activities.SplashActivity}"
+        drawable="reuters"/>
+
+    <item
+        component="ComponentInfo{com.chrissen.card/com.chrissen.module_card.module_card.functions.splash.SplashActivity}"
+        drawable="chrissen_card"/>
+
+    <item
+        component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}"
+        drawable="arknights"/>
+
+    <item
+        component="ComponentInfo{com.allhistory.dls.marble/com.pwrd.dls.marble.other.activity.SplashActivity}"
+        drawable="allhistory"/>
+
+    <item
+        component="ComponentInfo{com.tencent.kg.android.lite/com.tencent.kg.hippy.framework.modules.launch.ui.LaunchActivity}"
+        drawable="karaoke"/>
+
+    <item
+        component="ComponentInfo{net.sarasarasa.lifeup/net.sarasarasa.lifeup.activities.SplashActivity}"
+        drawable="lifeup"/>
+
+    <item
+        component="ComponentInfo{com.sun.quickpay/com.sun.quickpay.MainActivity}"
+        drawable="quickpay"/>
+
+    <item
+        component="ComponentInfo{com.liferecord.tanke.liferecord/com.liferecord.tanke.liferecord.MainActivity}"
+        drawable="tanke_liferecord"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.ttwq/com.onevcat.uniwebview.AndroidPlugin}"
+        drawable="tencent_ttwq"/>
+
+    <item
+        component="ComponentInfo{com.weawow/com.weawow.MainActivity}"
+        drawable="weawow"/>
+
+    <item
+        component="ComponentInfo{me.i38.dayday/me.i38.dayday.MainActivity}"
+        drawable="dayday"/>
+
+    <item
+        component="ComponentInfo{com.cn21.ecloud/com.cn21.ecloud.activity.login.StartActivity}"
+        drawable="ecloud"/>
+
+    <item
+        component="ComponentInfo{net.tuilixy.app/net.tuilixy.app.ui.SplashActivity}"
+        drawable="tuilixy"/>
+
+    <item
+        component="ComponentInfo{com.lilithgame.roc.gp/com.harry.engine.MainActivity}"
+        drawable="wgjx"/>
+
+    <item
+        component="ComponentInfo{com.unicom.wopay/com.unicom.wopay.app.MainActivity}"
+        drawable="unicom_wopay"/>
+
+    <item
+        component="ComponentInfo{com.live.down/com.live.down.LaunchActivity}"
+        drawable="live_down"/>
+
+    <item
+        component="ComponentInfo{com.jpcxc.xqwdroid/com.jpcxc.xqwdroid.GameActivity}"
+        drawable="xqwdroid"/>
+
+    <item
+        component="ComponentInfo{com.vmos.app/com.vmos.app.NewSurActivity}"
+        drawable="armvm"/>
+
+    <item
+        component="ComponentInfo{com.eweiqi.android/com.eweiqi.android.ux.uxIntroActivity}"
+        drawable="eweiqi"/>
+
+    <item
+        component="ComponentInfo{com.indeed.golinks/com.indeed.golinks.ui.SplashActivity}"
+        drawable="golinks"/>
+
+    <item
+        component="ComponentInfo{synjones.commerce.plat/synjones.commerce.activity.WelcomeActivity}"
+        drawable="youka"/>
+
+    <item
+        component="ComponentInfo{uooconline.com.education/uooconline.com.education.ui.activity.SplashActivity}"
+        drawable="uooc"/>
+
+    <item
+        component="ComponentInfo{com.hypergryph.arknights.bilibili/com.u8.sdk.SplashActivity}"
+        drawable="arknights"/>
+
+    <item
+        component="ComponentInfo{com.bilibili.fatego/jp.delightworks.Fgo.player.AndroidPlugin}"
+        drawable="fatego"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.sgamece/com.tencent.tmgp.sgamece.SGameActivity}"
+        drawable="tencent_sgame"/>
+
+    <item
+        component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}"
+        drawable="music"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.onlinevideo/com.samsung.android.onlinevideo.list.activity.VideoList}"
+        drawable="video"/>
+
+    <item
+        component="ComponentInfo{com.github.shadowsocks/com.github.shadowsocks.Shadowsocks}"
+        drawable="shadowsocks"/>
+
+    <item
+        component="ComponentInfo{com.googlebiquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity}"
+        drawable="biquge"/>
+
+    <item
+        component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity}"
+        drawable="samsung_voc"/>
+
+    <item
+        component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.HomeActivity}"
+        drawable="tencent_live"/>
+
+    <item
+        component="ComponentInfo{com.example.xf.negativeonescreen.pro/com.example.xf.negativeonescreen.pro.activity.LaunchActivity}"
+        drawable="negative_one_screen"/>
+
+    <item
+        component="ComponentInfo{com.live.xxlive/com.live.xxlive.ui.LaunchActivity}"
+        drawable="huoshan"/>
+
+    <item
+        component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity2}"
+        drawable="bmap"/>
+
+    <item
+        component="ComponentInfo{com.asus.filemanages/com.asus.filemanages.activity.FileManagerActivity}"
+        drawable="file_manager"/>
+
+    <item
+        component="ComponentInfo{com.sony.appstore/com.tencent.appstore.splash.LogoActivity}"
+        drawable="tencent_qqdownloader"/>
+
+    <item
+        component="ComponentInfo{com.sonymobile.assist/com.sonymobile.assist.AssistMainActivity}"
+        drawable="help"/>
+
+    <item
+        component="ComponentInfo{com.xiaomi.xiaoailite/com.xiaomi.xiaoailite.presenter.activity.GuideActivity}"
+        drawable="miui_voice_assistant"/>
+
 </resources>

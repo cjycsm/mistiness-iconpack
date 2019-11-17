@@ -9359,4 +9359,168 @@
         name="com.meizu.flyme.dsgame/com.meizu.flyme.dsgame.MainActivity"
         image="flyme_dsgame"/>
 
+    <AppIcon
+        name="com.ascendik.eyeshield/com.ascendik.nightshift.activity.MainActivity"
+        image="eyeshield"/>
+
+    <AppIcon
+        name="com.bluewhale.vpn.shadowsock/com.bluewhale.vpn.shadowsocks.SplashActivity"
+        image="bluewhale_vpn"/>
+
+    <AppIcon
+        name="com.findtheway/com.findtheway.activity.MainActivity"
+        image="findtheway"/>
+
+    <AppIcon
+        name="com.thomsonreuters.reuters/com.thomsonreuters.reuters.activities.SplashActivity"
+        image="reuters"/>
+
+    <AppIcon
+        name="com.chrissen.card/com.chrissen.module_card.module_card.functions.splash.SplashActivity"
+        image="chrissen_card"/>
+
+    <AppIcon
+        name="com.hypergryph.arknights/com.u8.sdk.U8UnityContext"
+        image="arknights"/>
+
+    <AppIcon
+        name="com.allhistory.dls.marble/com.pwrd.dls.marble.other.activity.SplashActivity"
+        image="allhistory"/>
+
+    <AppIcon
+        name="com.tencent.kg.android.lite/com.tencent.kg.hippy.framework.modules.launch.ui.LaunchActivity"
+        image="karaoke"/>
+
+    <AppIcon
+        name="net.sarasarasa.lifeup/net.sarasarasa.lifeup.activities.SplashActivity"
+        image="lifeup"/>
+
+    <AppIcon
+        name="com.sun.quickpay/com.sun.quickpay.MainActivity"
+        image="quickpay"/>
+
+    <AppIcon
+        name="com.liferecord.tanke.liferecord/com.liferecord.tanke.liferecord.MainActivity"
+        image="tanke_liferecord"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.ttwq/com.onevcat.uniwebview.AndroidPlugin"
+        image="tencent_ttwq"/>
+
+    <AppIcon
+        name="com.weawow/com.weawow.MainActivity"
+        image="weawow"/>
+
+    <AppIcon
+        name="me.i38.dayday/me.i38.dayday.MainActivity"
+        image="dayday"/>
+
+    <AppIcon
+        name="com.cn21.ecloud/com.cn21.ecloud.activity.login.StartActivity"
+        image="ecloud"/>
+
+    <AppIcon
+        name="net.tuilixy.app/net.tuilixy.app.ui.SplashActivity"
+        image="tuilixy"/>
+
+    <AppIcon
+        name="com.lilithgame.roc.gp/com.harry.engine.MainActivity"
+        image="wgjx"/>
+
+    <AppIcon
+        name="com.unicom.wopay/com.unicom.wopay.app.MainActivity"
+        image="unicom_wopay"/>
+
+    <AppIcon
+        name="com.live.down/com.live.down.LaunchActivity"
+        image="live_down"/>
+
+    <AppIcon
+        name="com.jpcxc.xqwdroid/com.jpcxc.xqwdroid.GameActivity"
+        image="xqwdroid"/>
+
+    <AppIcon
+        name="com.vmos.app/com.vmos.app.NewSurActivity"
+        image="armvm"/>
+
+    <AppIcon
+        name="com.eweiqi.android/com.eweiqi.android.ux.uxIntroActivity"
+        image="eweiqi"/>
+
+    <AppIcon
+        name="com.indeed.golinks/com.indeed.golinks.ui.SplashActivity"
+        image="golinks"/>
+
+    <AppIcon
+        name="synjones.commerce.plat/synjones.commerce.activity.WelcomeActivity"
+        image="youka"/>
+
+    <AppIcon
+        name="uooconline.com.education/uooconline.com.education.ui.activity.SplashActivity"
+        image="uooc"/>
+
+    <AppIcon
+        name="com.hypergryph.arknights.bilibili/com.u8.sdk.SplashActivity"
+        image="arknights"/>
+
+    <AppIcon
+        name="com.bilibili.fatego/jp.delightworks.Fgo.player.AndroidPlugin"
+        image="fatego"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.sgamece/com.tencent.tmgp.sgamece.SGameActivity"
+        image="tencent_sgame"/>
+
+    <AppIcon
+        name="com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity"
+        image="music"/>
+
+    <AppIcon
+        name="com.samsung.android.onlinevideo/com.samsung.android.onlinevideo.list.activity.VideoList"
+        image="video"/>
+
+    <AppIcon
+        name="com.github.shadowsocks/com.github.shadowsocks.Shadowsocks"
+        image="shadowsocks"/>
+
+    <AppIcon
+        name="com.googlebiquge.ebook.app/com.biquge.ebook.app.ui.activity.WelComeActivity"
+        image="biquge"/>
+
+    <AppIcon
+        name="com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity"
+        image="samsung_voc"/>
+
+    <AppIcon
+        name="com.tencent.qqlive/com.tencent.qqlive.ona.activity.HomeActivity"
+        image="tencent_live"/>
+
+    <AppIcon
+        name="com.example.xf.negativeonescreen.pro/com.example.xf.negativeonescreen.pro.activity.LaunchActivity"
+        image="negative_one_screen"/>
+
+    <AppIcon
+        name="com.live.xxlive/com.live.xxlive.ui.LaunchActivity"
+        image="huoshan"/>
+
+    <AppIcon
+        name="me.gfuil.bmap/me.gfuil.bmap.StartActivity2"
+        image="bmap"/>
+
+    <AppIcon
+        name="com.asus.filemanages/com.asus.filemanages.activity.FileManagerActivity"
+        image="file_manager"/>
+
+    <AppIcon
+        name="com.sony.appstore/com.tencent.appstore.splash.LogoActivity"
+        image="tencent_qqdownloader"/>
+
+    <AppIcon
+        name="com.sonymobile.assist/com.sonymobile.assist.AssistMainActivity"
+        image="help"/>
+
+    <AppIcon
+        name="com.xiaomi.xiaoailite/com.xiaomi.xiaoailite.presenter.activity.GuideActivity"
+        image="miui_voice_assistant"/>
+
 </Theme>
