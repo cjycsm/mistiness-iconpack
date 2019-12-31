@@ -9597,4 +9597,168 @@
         component="ComponentInfo{com.xiaomi.xiaoailite/com.xiaomi.xiaoailite.presenter.activity.GuideActivity}"
         drawable="miui_voice_assistant"/>
 
+    <item
+        component="ComponentInfo{com.zhanhong.apkextractor/com.zhanhong.apkextractor.MainActivity}"
+        drawable="apk_extractor"/>
+
+    <item
+        component="ComponentInfo{cn.nova.phone/cn.nova.phone.ui.LogoActivity}"
+        drawable="bus_365"/>
+
+    <item
+        component="ComponentInfo{com.dilidili.app/com.dilidili.app.activitys.SplashActivity}"
+        drawable="dilidili"/>
+
+    <item
+        component="ComponentInfo{com.ly.yingshi/com.ly.yingshi.activity.EntryActivity}"
+        drawable="free"/>
+
+    <item
+        component="ComponentInfo{com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity}"
+        drawable="inshot"/>
+
+    <item
+        component="ComponentInfo{wiki.mooncell.app/com.androlua.Welcome}"
+        drawable="mooncell"/>
+
+    <item
+        component="ComponentInfo{com.qmd.junzi.qmd/com.qmd.junzi.Activity.MainActivity}"
+        drawable="qmd"/>
+
+    <item
+        component="ComponentInfo{com.yyp.netdisksoso/com.yyp.netdisksoso.SplashActivity}"
+        drawable="torrse"/>
+
+    <item
+        component="ComponentInfo{com.yiyou.ga/com.yiyou.ga.client.BlankActivity}"
+        drawable="ttyy"/>
+
+    <item
+        component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.MainActivity}"
+        drawable="midea_washer"/>
+
+    <item
+        component="ComponentInfo{com.gh.gamecenter/com.gh.gamecenter.SplashScreenActivity}"
+        drawable="gh_gamecenter"/>
+
+    <item
+        component="ComponentInfo{com.marsvideo/com.marsvideo.ShowActivity}"
+        drawable="mars_video"/>
+
+    <item
+        component="ComponentInfo{com.tratao.xcurrency/com.tratao.xcurrency.plus.SplashActivity}"
+        drawable="xcurrency"/>
+
+    <item
+        component="ComponentInfo{com.lltskb.lltskb/com.lltskb.lltskb.MainLLTSkb}"
+        drawable="lltskb"/>
+
+    <item
+        component="ComponentInfo{com.yuanwofei.greenmusic/com.yuanwofei.music.activity.MainActivity}"
+        drawable="green_music"/>
+
+    <item
+        component="ComponentInfo{com.versa/com.versa.ui.SplashActivity}"
+        drawable="versa"/>
+
+    <item
+        component="ComponentInfo{cn.xiaochuankeji.zuiyouLite/cn.xiaochuankeji.zuiyouLite.ui.splash.SplashActivity}"
+        drawable="zuiyou_lite"/>
+
+    <item
+        component="ComponentInfo{com.ztgame.bob/com.ztgame.bob.UnityPlayerActivity}"
+        drawable="bob"/>
+
+    <item
+        component="ComponentInfo{com.sec.penup/com.sec.penup.ui.SplashActivity}"
+        drawable="sec_penup"/>
+
+    <item
+        component="ComponentInfo{com.chinarainbow.tft/com.chinarainbow.tft.mvp.ui.activity.SplashActivity}"
+        drawable="tft"/>
+
+    <item
+        component="ComponentInfo{com.tocaboca.tocahairsalon3/com.tocaboca.activity.TocaBocaMainActivity}"
+        drawable="toca_hair_salon_3"/>
+
+    <item
+        component="ComponentInfo{com.truedian.dragon/com.truedian.dragon.activity.LaunchActivity}"
+        drawable="wsxc"/>
+
+    <item
+        component="ComponentInfo{me.xhss.xiaoha/me.xhss.xiaoha.MainActivity}"
+        drawable="xiaoha"/>
+
+    <item
+        component="ComponentInfo{me.angeldevil.autoskip/me.angeldevil.autoskip.ui.MainActivity}"
+        drawable="auto_skip"/>
+
+    <item
+        component="ComponentInfo{com.zongheng.reader/com.zongheng.reader.ui.common.ActivitySplash}"
+        drawable="zongheng_reader"/>
+
+    <item
+        component="ComponentInfo{com.mfw.roadbook/com.mfw.roadbook.business.launch.StartActivity}"
+        drawable="mfw"/>
+
+    <item
+        component="ComponentInfo{com.hupu.games/com.hupu.games.launcher.StartUpActivity}"
+        drawable="hupu"/>
+
+    <item
+        component="ComponentInfo{com.zhihu.daily.android/com.zhihu.daily.android.epic.MainActivity}"
+        drawable="zhihu_daily"/>
+
+    <item
+        component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}"
+        drawable="unicom"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.m4399/com.gameloft.android.ANMP.GloftA9HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.nearme.gamecenter/com.gameloft.android.ANMP.GloftA10HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.vivo/com.gameloft.android.ANMP.GloftA11HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.aligames/com.gameloft.android.ANMP.GloftA12HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.baidu/com.gameloft.android.ANMP.GloftA13HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc/com.gameloft.android.ANMP.GloftA14HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.huawei/com.gameloft.android.ANMP.GloftA15HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.lenovo/com.gameloft.android.ANMP.GloftA16HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.qihoo/com.gameloft.android.ANMP.GloftA17HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.tencent.tmgp.aligames.kybc/com.gameloft.android.ANMP.GloftA18HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.aligames.kuang.kybc.mi/com.gameloft.android.ANMP.GloftA19HM.MainActivity}"
+        drawable="asphalt9"/>
+
+    <item
+        component="ComponentInfo{com.wm.dmall/com.wm.dmall.DEFAULT}"
+        drawable="dmall"/>
+
 </resources>

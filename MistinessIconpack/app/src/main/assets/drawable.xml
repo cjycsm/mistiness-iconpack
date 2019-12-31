@@ -19,7 +19,7 @@
   -->
 
 <resources>
-    <version>109</version>
+    <version>110</version>
 
     <category title="All"/>
     <item drawable="_36kr"/>
@@ -81,6 +81,7 @@
     <item drawable="anyview"/>
     <item drawable="anzogame_lol"/>
     <item drawable="apk_export"/>
+    <item drawable="apk_extractor"/>
     <item drawable="apk_modifier"/>
     <item drawable="apkpure"/>
     <item drawable="apkupdater"/>
@@ -108,6 +109,7 @@
     <item drawable="atimelogger"/>
     <item drawable="audiofx"/>
     <item drawable="auto_js"/>
+    <item drawable="auto_skip"/>
     <item drawable="autochess"/>
     <item drawable="autohome"/>
     <item drawable="avbobo"/>
@@ -191,6 +193,7 @@
     <item drawable="bluemail"/>
     <item drawable="bluewhale_vpn"/>
     <item drawable="bmap"/>
+    <item drawable="bob"/>
     <item drawable="boc"/>
     <item drawable="boohee"/>
     <item drawable="bookan"/>
@@ -208,6 +211,7 @@
     <item drawable="bullet_force"/>
     <item drawable="bullet_messenger"/>
     <item drawable="bullet_messenger_new"/>
+    <item drawable="bus_365"/>
     <item drawable="busteanew"/>
     <item drawable="busybox"/>
     <item drawable="butter_camera"/>
@@ -389,6 +393,7 @@
     <item drawable="digit"/>
     <item drawable="diguayouxi"/>
     <item drawable="diigo"/>
+    <item drawable="dilidili"/>
     <item drawable="dingtalk"/>
     <item drawable="dingying_wisdom_bus"/>
     <item drawable="dir"/>
@@ -544,6 +549,7 @@
     <item drawable="fotor"/>
     <item drawable="fotor_alt1"/>
     <item drawable="fotor_alt2"/>
+    <item drawable="free"/>
     <item drawable="free_browser"/>
     <item drawable="free_vpn"/>
     <item drawable="freeappsnow"/>
@@ -574,6 +580,7 @@
     <item drawable="geometric_weather"/>
     <item drawable="geometry_jump"/>
     <item drawable="gfx_tool"/>
+    <item drawable="gh_gamecenter"/>
     <item drawable="ghost_vpn"/>
     <item drawable="ghosun_dict"/>
     <item drawable="gif_live_wallpaper"/>
@@ -627,6 +634,7 @@
     <item drawable="gov"/>
     <item drawable="gps_toolbox"/>
     <item drawable="grass"/>
+    <item drawable="green_music"/>
     <item drawable="greenify"/>
     <item drawable="groupme"/>
     <item drawable="gspace"/>
@@ -747,6 +755,7 @@
     <item drawable="imoji"/>
     <item drawable="imusic"/>
     <item drawable="inoreader"/>
+    <item drawable="inshot"/>
     <item drawable="instagram"/>
     <item drawable="installer_plus"/>
     <item drawable="instapaper"/>
@@ -882,6 +891,7 @@
     <item drawable="lizhifm"/>
     <item drawable="ll_iconpack"/>
     <item drawable="llss"/>
+    <item drawable="lltskb"/>
     <item drawable="lofter"/>
     <item drawable="loner"/>
     <item drawable="long_screenshot"/>
@@ -919,6 +929,7 @@
     <item drawable="maobing"/>
     <item drawable="maoyan"/>
     <item drawable="map"/>
+    <item drawable="mars_video"/>
     <item drawable="maxima"/>
     <item drawable="mbestyle"/>
     <item drawable="mdschool"/>
@@ -980,6 +991,7 @@
     <item drawable="microsoft_translator"/>
     <item drawable="microsoft_word"/>
     <item drawable="microsoft_xbox"/>
+    <item drawable="midea_washer"/>
     <item drawable="midong"/>
     <item drawable="migongyi"/>
     <item drawable="migrate"/>
@@ -1018,6 +1030,7 @@
     <item drawable="momo"/>
     <item drawable="monkeybook"/>
     <item drawable="mooc"/>
+    <item drawable="mooncell"/>
     <item drawable="moonreader"/>
     <item drawable="morefan"/>
     <item drawable="mosoteach"/>
@@ -1260,6 +1273,7 @@
     <item drawable="qiku_cloud_sync"/>
     <item drawable="qingqi_dianbo"/>
     <item drawable="qingting_radio"/>
+    <item drawable="qmd"/>
     <item drawable="qmrc"/>
     <item drawable="qq"/>
     <item drawable="qq_browser"/>
@@ -1349,6 +1363,7 @@
     <item drawable="sdm"/>
     <item drawable="search"/>
     <item drawable="search_picture_tool"/>
+    <item drawable="sec_penup"/>
     <item drawable="second_space"/>
     <item drawable="secret_input"/>
     <item drawable="seekbooks"/>
@@ -1598,6 +1613,7 @@
     <item drawable="termux_alt"/>
     <item drawable="tfb"/>
     <item drawable="tfb_alt"/>
+    <item drawable="tft"/>
     <item drawable="theinitium_news"/>
     <item drawable="theme"/>
     <item drawable="thestore"/>
@@ -1622,12 +1638,14 @@
     <item drawable="titanium_backup"/>
     <item drawable="tmall"/>
     <item drawable="tmri"/>
+    <item drawable="toca_hair_salon_3"/>
     <item drawable="tofuture"/>
     <item drawable="togic_livevideo"/>
     <item drawable="tomato_time"/>
     <item drawable="tomvpn"/>
     <item drawable="toolbox_full"/>
     <item drawable="torment_news"/>
+    <item drawable="torrse"/>
     <item drawable="total_launcher"/>
     <item drawable="towords"/>
     <item drawable="toxic"/>
@@ -1637,6 +1655,7 @@
     <item drawable="trime"/>
     <item drawable="tripadvisor"/>
     <item drawable="ttpic"/>
+    <item drawable="ttyy"/>
     <item drawable="tuicool"/>
     <item drawable="tuilixy"/>
     <item drawable="tujian_r"/>
@@ -1671,6 +1690,7 @@
     <item drawable="vainglory"/>
     <item drawable="vbill_plus"/>
     <item drawable="vcamera"/>
+    <item drawable="versa"/>
     <item drawable="via"/>
     <item drawable="video"/>
     <item drawable="video_downloader_for_instagram"/>
@@ -1747,6 +1767,7 @@
     <item drawable="wps"/>
     <item drawable="wps_mail"/>
     <item drawable="wps_note"/>
+    <item drawable="wsxc"/>
     <item drawable="wuba"/>
     <item drawable="wufun"/>
     <item drawable="wuma_vpn"/>
@@ -1759,6 +1780,7 @@
     <item drawable="x_videos"/>
     <item drawable="xbrowser"/>
     <item drawable="xbxxz"/>
+    <item drawable="xcurrency"/>
     <item drawable="xda"/>
     <item drawable="xda_labs"/>
     <item drawable="xfplay"/>
@@ -1770,6 +1792,7 @@
     <item drawable="xianchangyun_alt"/>
     <item drawable="xiaoenai"/>
     <item drawable="xiaofindbook"/>
+    <item drawable="xiaoha"/>
     <item drawable="xiaoheihe"/>
     <item drawable="xiaoheihe_alt"/>
     <item drawable="xiaoji_emulator"/>
@@ -1881,9 +1904,11 @@
     <item drawable="zol"/>
     <item drawable="zone"/>
     <item drawable="zone_alt"/>
+    <item drawable="zongheng_reader"/>
     <item drawable="zontes"/>
     <item drawable="zqxy"/>
     <item drawable="zuiyou"/>
+    <item drawable="zuiyou_lite"/>
     <item drawable="zuzuche"/>
     <item drawable="zwzt"/>
     <item drawable="zxing_barcode_scanner"/>

@@ -9523,4 +9523,168 @@
         name="com.xiaomi.xiaoailite/com.xiaomi.xiaoailite.presenter.activity.GuideActivity"
         image="miui_voice_assistant"/>
 
+    <AppIcon
+        name="com.zhanhong.apkextractor/com.zhanhong.apkextractor.MainActivity"
+        image="apk_extractor"/>
+
+    <AppIcon
+        name="cn.nova.phone/cn.nova.phone.ui.LogoActivity"
+        image="bus_365"/>
+
+    <AppIcon
+        name="com.dilidili.app/com.dilidili.app.activitys.SplashActivity"
+        image="dilidili"/>
+
+    <AppIcon
+        name="com.ly.yingshi/com.ly.yingshi.activity.EntryActivity"
+        image="free"/>
+
+    <AppIcon
+        name="com.camerasideas.instashot/com.camerasideas.instashot.DummyActivity"
+        image="inshot"/>
+
+    <AppIcon
+        name="wiki.mooncell.app/com.androlua.Welcome"
+        image="mooncell"/>
+
+    <AppIcon
+        name="com.qmd.junzi.qmd/com.qmd.junzi.Activity.MainActivity"
+        image="qmd"/>
+
+    <AppIcon
+        name="com.yyp.netdisksoso/com.yyp.netdisksoso.SplashActivity"
+        image="torrse"/>
+
+    <AppIcon
+        name="com.yiyou.ga/com.yiyou.ga.client.BlankActivity"
+        image="ttyy"/>
+
+    <AppIcon
+        name="com.midea.vm.washer/com.midea.vm.washer.MainActivity"
+        image="midea_washer"/>
+
+    <AppIcon
+        name="com.gh.gamecenter/com.gh.gamecenter.SplashScreenActivity"
+        image="gh_gamecenter"/>
+
+    <AppIcon
+        name="com.marsvideo/com.marsvideo.ShowActivity"
+        image="mars_video"/>
+
+    <AppIcon
+        name="com.tratao.xcurrency/com.tratao.xcurrency.plus.SplashActivity"
+        image="xcurrency"/>
+
+    <AppIcon
+        name="com.lltskb.lltskb/com.lltskb.lltskb.MainLLTSkb"
+        image="lltskb"/>
+
+    <AppIcon
+        name="com.yuanwofei.greenmusic/com.yuanwofei.music.activity.MainActivity"
+        image="green_music"/>
+
+    <AppIcon
+        name="com.versa/com.versa.ui.SplashActivity"
+        image="versa"/>
+
+    <AppIcon
+        name="cn.xiaochuankeji.zuiyouLite/cn.xiaochuankeji.zuiyouLite.ui.splash.SplashActivity"
+        image="zuiyou_lite"/>
+
+    <AppIcon
+        name="com.ztgame.bob/com.ztgame.bob.UnityPlayerActivity"
+        image="bob"/>
+
+    <AppIcon
+        name="com.sec.penup/com.sec.penup.ui.SplashActivity"
+        image="sec_penup"/>
+
+    <AppIcon
+        name="com.chinarainbow.tft/com.chinarainbow.tft.mvp.ui.activity.SplashActivity"
+        image="tft"/>
+
+    <AppIcon
+        name="com.tocaboca.tocahairsalon3/com.tocaboca.activity.TocaBocaMainActivity"
+        image="toca_hair_salon_3"/>
+
+    <AppIcon
+        name="com.truedian.dragon/com.truedian.dragon.activity.LaunchActivity"
+        image="wsxc"/>
+
+    <AppIcon
+        name="me.xhss.xiaoha/me.xhss.xiaoha.MainActivity"
+        image="xiaoha"/>
+
+    <AppIcon
+        name="me.angeldevil.autoskip/me.angeldevil.autoskip.ui.MainActivity"
+        image="auto_skip"/>
+
+    <AppIcon
+        name="com.zongheng.reader/com.zongheng.reader.ui.common.ActivitySplash"
+        image="zongheng_reader"/>
+
+    <AppIcon
+        name="com.mfw.roadbook/com.mfw.roadbook.business.launch.StartActivity"
+        image="mfw"/>
+
+    <AppIcon
+        name="com.hupu.games/com.hupu.games.launcher.StartUpActivity"
+        image="hupu"/>
+
+    <AppIcon
+        name="com.zhihu.daily.android/com.zhihu.daily.android.epic.MainActivity"
+        image="zhihu_daily"/>
+
+    <AppIcon
+        name="com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+        image="unicom"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.m4399/com.gameloft.android.ANMP.GloftA9HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.nearme.gamecenter/com.gameloft.android.ANMP.GloftA10HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.vivo/com.gameloft.android.ANMP.GloftA11HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.aligames/com.gameloft.android.ANMP.GloftA12HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.baidu/com.gameloft.android.ANMP.GloftA13HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc/com.gameloft.android.ANMP.GloftA14HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.huawei/com.gameloft.android.ANMP.GloftA15HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.lenovo/com.gameloft.android.ANMP.GloftA16HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.qihoo/com.gameloft.android.ANMP.GloftA17HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.tencent.tmgp.aligames.kybc/com.gameloft.android.ANMP.GloftA18HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.aligames.kuang.kybc.mi/com.gameloft.android.ANMP.GloftA19HM.MainActivity"
+        image="asphalt9"/>
+
+    <AppIcon
+        name="com.wm.dmall/com.wm.dmall.DEFAULT"
+        image="dmall"/>
+
 </Theme>

@@ -9409,4 +9409,168 @@
         class="com.xiaomi.xiaoailite.presenter.activity.GuideActivity"
         name="miui_voice_assistant"/>
 
+    <item
+        class="com.zhanhong.apkextractor.MainActivity"
+        name="apk_extractor"/>
+
+    <item
+        class="cn.nova.phone.ui.LogoActivity"
+        name="bus_365"/>
+
+    <item
+        class="com.dilidili.app.activitys.SplashActivity"
+        name="dilidili"/>
+
+    <item
+        class="com.ly.yingshi.activity.EntryActivity"
+        name="free"/>
+
+    <item
+        class="com.camerasideas.instashot.DummyActivity"
+        name="inshot"/>
+
+    <item
+        class="com.androlua.Welcome"
+        name="mooncell"/>
+
+    <item
+        class="com.qmd.junzi.Activity.MainActivity"
+        name="qmd"/>
+
+    <item
+        class="com.yyp.netdisksoso.SplashActivity"
+        name="torrse"/>
+
+    <item
+        class="com.yiyou.ga.client.BlankActivity"
+        name="ttyy"/>
+
+    <item
+        class="com.midea.vm.washer.MainActivity"
+        name="midea_washer"/>
+
+    <item
+        class="com.gh.gamecenter.SplashScreenActivity"
+        name="gh_gamecenter"/>
+
+    <item
+        class="com.marsvideo.ShowActivity"
+        name="mars_video"/>
+
+    <item
+        class="com.tratao.xcurrency.plus.SplashActivity"
+        name="xcurrency"/>
+
+    <item
+        class="com.lltskb.lltskb.MainLLTSkb"
+        name="lltskb"/>
+
+    <item
+        class="com.yuanwofei.music.activity.MainActivity"
+        name="green_music"/>
+
+    <item
+        class="com.versa.ui.SplashActivity"
+        name="versa"/>
+
+    <item
+        class="cn.xiaochuankeji.zuiyouLite.ui.splash.SplashActivity"
+        name="zuiyou_lite"/>
+
+    <item
+        class="com.ztgame.bob.UnityPlayerActivity"
+        name="bob"/>
+
+    <item
+        class="com.sec.penup.ui.SplashActivity"
+        name="sec_penup"/>
+
+    <item
+        class="com.chinarainbow.tft.mvp.ui.activity.SplashActivity"
+        name="tft"/>
+
+    <item
+        class="com.tocaboca.activity.TocaBocaMainActivity"
+        name="toca_hair_salon_3"/>
+
+    <item
+        class="com.truedian.dragon.activity.LaunchActivity"
+        name="wsxc"/>
+
+    <item
+        class="me.xhss.xiaoha.MainActivity"
+        name="xiaoha"/>
+
+    <item
+        class="me.angeldevil.autoskip.ui.MainActivity"
+        name="auto_skip"/>
+
+    <item
+        class="com.zongheng.reader.ui.common.ActivitySplash"
+        name="zongheng_reader"/>
+
+    <item
+        class="com.mfw.roadbook.business.launch.StartActivity"
+        name="mfw"/>
+
+    <item
+        class="com.hupu.games.launcher.StartUpActivity"
+        name="hupu"/>
+
+    <item
+        class="com.zhihu.daily.android.epic.MainActivity"
+        name="zhihu_daily"/>
+
+    <item
+        class="com.sinovatech.unicom.basic.ui.activity.WelcomeClient"
+        name="unicom"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA9HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA10HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA11HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA12HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA13HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA14HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA15HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA16HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA17HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA18HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.gameloft.android.ANMP.GloftA19HM.MainActivity"
+        name="asphalt9"/>
+
+    <item
+        class="com.wm.dmall.DEFAULT"
+        name="dmall"/>
+
 </appmap>

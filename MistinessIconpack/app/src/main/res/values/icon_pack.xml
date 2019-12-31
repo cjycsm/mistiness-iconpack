@@ -59,30 +59,31 @@
     </string-array>
 
     <string-array name="newest">
-        <item>eyeshield</item>
-        <item>bluewhale_vpn</item>
-        <item>findtheway</item>
-        <item>reuters</item>
-        <item>chrissen_card</item>
-        <item>allhistory</item>
-        <item>karaoke</item>
-        <item>lifeup</item>
-        <item>quickpay</item>
-        <item>tanke_liferecord</item>
-        <item>weawow</item>
-        <item>dayday</item>
-        <item>ecloud</item>
-        <item>tuilixy</item>
-        <item>unicom_wopay</item>
-        <item>live_down</item>
-        <item>youka</item>
-        <item>uooc</item>
-        <item>arknights</item>
-        <item>tencent_ttwq</item>
-        <item>wgjx</item>
-        <item>xqwdroid</item>
-        <item>eweiqi</item>
-        <item>golinks</item>
+        <item>sec_penup</item>
+        <item>apk_extractor</item>
+        <item>bus_365</item>
+        <item>dilidili</item>
+        <item>free</item>
+        <item>inshot</item>
+        <item>mooncell</item>
+        <item>qmd</item>
+        <item>torrse</item>
+        <item>ttyy</item>
+        <item>midea_washer</item>
+        <item>gh_gamecenter</item>
+        <item>mars_video</item>
+        <item>xcurrency</item>
+        <item>lltskb</item>
+        <item>green_music</item>
+        <item>versa</item>
+        <item>zuiyou_lite</item>
+        <item>tft</item>
+        <item>wsxc</item>
+        <item>xiaoha</item>
+        <item>auto_skip</item>
+        <item>zongheng_reader</item>
+        <item>bob</item>
+        <item>toca_hair_salon_3</item>
     </string-array>
 
     <string-array name="upgrade">
@@ -1698,6 +1699,28 @@
         <item>live_down</item>
         <item>youka</item>
         <item>uooc</item>
+        <item>apk_extractor</item>
+        <item>bus_365</item>
+        <item>dilidili</item>
+        <item>free</item>
+        <item>inshot</item>
+        <item>mooncell</item>
+        <item>qmd</item>
+        <item>torrse</item>
+        <item>ttyy</item>
+        <item>midea_washer</item>
+        <item>gh_gamecenter</item>
+        <item>mars_video</item>
+        <item>xcurrency</item>
+        <item>lltskb</item>
+        <item>green_music</item>
+        <item>versa</item>
+        <item>zuiyou_lite</item>
+        <item>tft</item>
+        <item>wsxc</item>
+        <item>xiaoha</item>
+        <item>auto_skip</item>
+        <item>zongheng_reader</item>
     </string-array>
 
     <string-array name="game">
@@ -1806,6 +1829,8 @@
         <item>xqwdroid</item>
         <item>eweiqi</item>
         <item>golinks</item>
+        <item>bob</item>
+        <item>toca_hair_salon_3</item>
     </string-array>
 
     <string-array name="basic">
@@ -1915,6 +1940,7 @@
         <item>samsung_goodlock</item>
         <item>samsung_edge_lighting</item>
         <item>samsung_voc</item>
+        <item>sec_penup</item>
     </string-array>
 
     <string-array name="huawei">
